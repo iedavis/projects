@@ -1,0 +1,37 @@
+<!-- ko if: loaded -->
+<div id="CC-ProdDataWidget-XX" class="span12">
+    <h4>Product Data Widget</h4>
+    <span>Product Data for </span>
+    <span data-bind="text: product().displayName" style='font-weight:bold'></span>
+    <p>Use the Product Data Widget to display Product information using the Knockout Template in Code View.</p>
+
+<!--
+    <span data-bind="text: product().id"></span>
+    <span data-bind="text: product().displayName"></span>
+    <span data-bind="text: product().description"></span>
+    <span data-bind="text: product().longDescription"></span>
+    <span data-bind="text: product().route"></span>
+    <span data-bind="text: product().orderLimit"></span>
+    <span data-bind="text: product().largeImage.url"></span> 
+    <span data-bind="text: product().listPrice"></span>
+    <span data-bind="text: product().salePrice"></span>
+    <span data-bind="textCheck: {text: product().listPrice(), type: 'price', prePend:'$', nullReplace: '0.00', prependNull: true}"></span>
+    <span data-bind="textCheck: {text: product().salePrice(), type: 'price', prePend:'$', nullReplace: '0.00', prependNull: true}"></span>
+-->            
+
+    <!-- ko if: stockStatus  -->
+      <!-- <span data-bind="widgetLocaleText: 'instockText'"</span>   -->
+    <!-- /ko -->
+    <!-- ko ifnot: stockStatus  -->
+      <!-- <span data-bind="widgetLocaleText: 'outofstockText'" </span>   -->
+    <!-- /ko -->
+
+<!--
+    <button id="prodDetailsaddToCart" data-bind="disabled: {condition: !validateAddToCart(), click: handleAddToCart}" class="btn btn-large btn-info">
+      <i class="icon-shopping-cart icon-white"></i> 
+      <span data-bind="widgetLocaleText:'addToCartText'"></span>
+    </button>
+-->
+</div>
+
+<!-- /ko -->
