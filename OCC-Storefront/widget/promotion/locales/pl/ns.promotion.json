@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Dodaj promocję lub kod lojalnościowy",
+  "promoCode": "Wprowadzanie kodu promocji",
+  "promoCodeAriaLabelText": "Wprowadź kod promocji",
+  "buttonApplyCodeText": "Zastosuj kod",
+  "buttonApplyingCodeText": "Stosowanie kodu",
+  "couponDetailsError": "Wystąpił problem dotyczący szczegółów kuponu.",
+  "promoCodeRequired": "Kod kuponu nie może być pusty",
+  "duplicateCoupon": "Kod został już zastosowany."
+  }
+}

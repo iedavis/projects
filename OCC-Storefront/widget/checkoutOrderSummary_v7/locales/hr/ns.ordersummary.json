@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Sažetak narudžbe",
+    "subtotalText": "Podzbroj:",
+    "shippingOptionsText": "Opcije otpreme",
+    "salesTaxText": "Porez na promet:",
+    "orderTotalText": "Ukupan iznos narudžbe:",
+    "placeOrderText": "Predaj narudžbu",
+    "scheduleOrderText": "Planiranje narudžbe",
+    "noShippingText": "Nema otpreme",
+    "shippingText": "Otprema: __displayName__",    
+    "applicableTaxesText": "Primjenjivi porez izračunat će se kad se kupnja izvrši.",
+    "paymentOptionsText": "Opcije plaćanja",
+    "checkoutText": "Izvrši kupnju",
+    "noShippingSelectedText": "Način otpreme nije odabran.",
+    "shippingAddressRequired": "Unesite adresu za otpremu",
+    "noShippingMethodsText": "Za vašu odredišnu adresu nema dostupnih metoda otpreme.",
+    "noShippingMethodsForAddressText": "Za odabranu adresu nema dostupnih načina otpreme",
+    "checkoutErrorMsg": "Provjerite jeste li ispunili sva obavezna polja te jeste li ispravili sve pogrešne unose.",
+    "rePricingText":"Ponovno određivanje cijena",
+    "removeLinkText":"ukloni",
+    "paymentMessage": "Na sljedećem zaslonu možda će se prikazati provjera kartice kojom plaćate putem izdavatelja vaše kartice.",
+    "includingTaxText": "(porez uključen)",
+    "totalExcludingTaxText": "Ukupno (porez nije uključen):",
+    "paymentMethodNotAvilable": "(Ova opcija plaćanja ne može se koristiti za planirane narudžbe.)",
+    "selectShippingMethodText": "Odabir načina otpreme"
+  }
+}

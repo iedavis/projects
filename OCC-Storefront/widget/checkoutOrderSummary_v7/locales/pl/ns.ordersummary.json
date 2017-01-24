@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Podsumowanie zamówienia",
+    "subtotalText": "Suma częściowa: ",
+    "shippingOptionsText": "Opcje wysyłki",
+    "salesTaxText": "Podatek od sprzedaży: ",
+    "orderTotalText": "Zamówienie łącznie: ",
+    "placeOrderText": "Składanie zamówienia",
+    "scheduleOrderText": "Planowanie zamówienia",
+    "noShippingText": "Bez wysyłki",
+    "shippingText": "Wysyłka: __displayName__",    
+    "applicableTaxesText": "Mające zastosowanie podatki zostaną obliczone przy kasie.",
+    "paymentOptionsText": "Opcje płatności",
+    "checkoutText": "Kasa",
+    "noShippingSelectedText": "Nie wybrano sposobu wysyłki.",
+    "shippingAddressRequired": "Proszę wprowadzić adres wysyłki",
+    "noShippingMethodsText": "Brak dostępnych sposobów wysyłki dotyczących adresu docelowego.",
+    "noShippingMethodsForAddressText": "Brak dostępnych sposobów wysyłki dotyczących wybranego adresu",
+    "checkoutErrorMsg": "Proszę upewnić się, że wypełniono wszystkie obowiązkowe pola i poprawiono ewentualne nieprawidłowe wpisy.",
+    "rePricingText":"Ponowna wycena",
+    "removeLinkText":"usuń",
+    "paymentMessage": "Kolejnym wyświetlanym ekranem będzie prawdopodobnie weryfikacja karty płatniczej za pośrednictwem wystawcy karty.",
+    "includingTaxText": "(z uwzględnieniem podatku)",
+    "totalExcludingTaxText": "Łącznie (z wykluczeniem podatku): ",
+    "paymentMethodNotAvilable": "(Tej opcji płatności nie można używać w przypadku zaplanowanych zamówień.)",
+    "selectShippingMethodText": "Wybór sposobu wysyłki"
+  }
+}

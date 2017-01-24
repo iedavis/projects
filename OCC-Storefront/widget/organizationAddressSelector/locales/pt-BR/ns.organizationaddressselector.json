@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Finalizar compra",
+    "defaultAddressLabel": "Endereço padrão",
+    "billingAddressText" : "Endereço de faturamento",
+    "noAddressesText" : "Nenhum endereço salvo.",
+    "firstNameText": "Nome",
+    "lastNameText": "Sobrenome",
+    "shippingAddressText": "Endereço de entrega",
+    "checkoutErrorMsg": "Verifique se você preencheu todos os campos obrigatórios e corrigiu todas as entradas inválidas.",
+    "firstNameRequired": "O nome é obrigatório. ",
+    "lastNameRequired": "O sobrenome é obrigatório. ",
+    "unsupportedShippingAddressText": "Entrega não está disponível neste endereço.",
+    "invalidBillingAddressText": "O endereço de entrega não pode ser usado como o endereço de faturamento. Informe um endereço de faturamento.",
+    "invalidPreviousAddress": "Não fazemos mais entregas no seu endereço de entrega usado anteriormente."
+  }
+}

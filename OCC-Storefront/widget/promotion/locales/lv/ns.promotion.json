@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Pievienot akcijas vai uzticības kodu",
+  "promoCode": "Ievadiet akcijas kodu",
+  "promoCodeAriaLabelText": "Ievadiet akcijas kodu",
+  "buttonApplyCodeText": "Lietot kodu",
+  "buttonApplyingCodeText": "Lieto kodu",
+  "couponDetailsError": "Atrasta problēma jūsu kupona datos.",
+  "promoCodeRequired": "Kupona kods nevar būt tukšs",
+  "duplicateCoupon": "Kods jau tiek lietots."
+  }
+}

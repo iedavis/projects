@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "今天開始一同購物！",
+    "welcomePageLoginText": "登入",
+    "welcomePageCreateAccountText": "建立帳戶",
+    "welcomePageTitle": "歡迎使用「欲購清單」！",
+    "welcomePageSubtitle": "免費加入「欲購清單」，並享受分享的樂趣！",
+    "welcomePageBulletText1": "儲存、組織及取得您感興趣的產品意見回饋。",
+    "welcomePageBulletText2": "與您的親友分享欲購清單，並一起做出購物決策。",
+    "welcomePageBulletText3": "使用欲購清單來尋找與討論禮物。再也不會買錯禮物了！",
+    "welcomePageOrText": "或"
+  }
+}

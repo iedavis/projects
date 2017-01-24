@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Стисло...",
+    "seeMoreText" : "Докладніше...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Уточнити за",
+    "clearAllRefinementsText" : "Очистити всі уточнення",
+    "guidedNavigationHeader" : "Заголовок для керованої навігації",
+    "doneText" : "Готово",
+    "expandText" : "Розгорнути",
+    "collapseText" : "Згорнути",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Завантажено керовану навігацію з накладанням"
+  }
+}

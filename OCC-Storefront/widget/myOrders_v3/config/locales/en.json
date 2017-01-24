@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Include Scheduled Order ID ?",
+	"includeScheduledHelpText" : "Select to Include Scheduled Order ID in Order History table"
+  }
+}

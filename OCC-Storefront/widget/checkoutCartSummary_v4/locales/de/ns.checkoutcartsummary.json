@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Warenkorbübersicht",
+    "quantityText": "Menge:",
+    "colorText": "Farbe:",
+    "sizeText": "Schriftgrad:",
+    "instockText": "Auf Lager",
+    "outofstockText": "Nicht auf Lager",
+    "estimiatedShippingText": "Voraussichtlicher Versand: ",
+    "buttonEditCartSummary": "Bearbeiten",
+    "editCartText": "Warenkorb bearbeiten",
+    "seeAllProducts": "Alle Produkte anzeigen",
+    "showAll": "Alle anzeigen",
+    "cartSummaryItemLimitText": "Erste __noOfItems__ Artikel im Warenkorb anzeigen"
+  }
+}

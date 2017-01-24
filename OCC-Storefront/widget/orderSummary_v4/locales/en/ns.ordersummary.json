@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Order Summary",
+    "subtotalText": "Sub-Total: ",
+    "discountText": "Discount(s)*: ",
+    "shippingOptionsText": "Shipping Options",
+    "changeText": "change",
+    "salesTaxText": "Sales Tax: ",
+    "orderTotalText": "Order Total: ",
+    "placeOrderText": "Place Order",
+    "noShippingText": "No Shipping",
+    "applicableTaxesText": "Applicable taxes will be calculated at checkout.",
+    "paymentOptionsText": "Payment Options",
+    "checkoutText": "Checkout",
+    "noShippingSelectedText": "No Shipping Method Selected.",
+    "shippingAddressRequired":"Please enter a shipping address ",
+    "shippingText": "Shipping: __displayName__ ",
+    "noShippingMethodsText": "No Shipping Methods Available",
+    "checkoutErrorMsg": "Please ensure you have completed all mandatory fields and corrected any invalid entries.",
+    "removeLinkText": "remove",
+    "rePricingText":"Repricing",
+    "totalExcludingTaxText": "Total (excluding tax): ",
+    "includingTaxText": "(including tax)"
+  }
+}

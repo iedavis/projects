@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Lapa nav atrasta",
+    "error404" : "Kļūda 404:",
+    "pageNotFoundText" : "Iespējams, ka esat ievadījis adresi nepareizi, lapa ir atjaunināta vai dzēsta.",
+    "lnkHome" : "Sākums",
+    "lnkBack" : "Atpakaļ"            
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "결제 세부정보",
+  "paymentMethod": "결제 방법",
+  "paypalText": "보다 안전하고 쉬운 결제 방법입니다.", 
+  "paymentDetailsError": "모든 필수 필드에 내용을 입력하고 부적합한 항목을 수정했는지 확인하십시오.",
+  "paymentMethodNotAvilable": "(이 결제 옵션은 스케줄링된 주문에 사용할 수 없습니다.)",
+  
+  "nameOnCardLabel": "카드에 기재된 이름",
+  "nameOnCardPlaceholder": "카드에 기재된 이름",
+  "nameOnCardRequired": "카드에 기재된 이름은 필수입니다.",
+  "nameOnCardInvalid": "카드에 기재된 이름이 부적합합니다.",
+  
+  "cardTypeLabel": "카드 유형",
+  "cardTypePlaceholder": "카드 유형",
+  "cardTypeRequired": "카드 유형은 필수입니다.",
+  "cardTypeInvalid": "카드 유형이 부적합합니다.",
+  
+  "cardNumberLabel": "카드 번호",
+  "cardNumberPlaceholder": "카드 번호",
+  "cardNumberRequired": "카드 번호는 필수입니다.",
+  "cardNumberMaxLength":"항목이 부적합합니다. 최대 __maxLength__자를 초과하지 마십시오.",
+  "cardNumberInvalid": "카드 번호가 부적합합니다. 다시 시도하십시오.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV는 필수입니다.",
+  "cardCVVInvalid": "CVV가 부적합합니다.",
+  "cardCVVWhatsThis": "추가 정보",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "카드의 서명란에 표시되는 마지막 3자리 숫자입니다.",
+  "cardCVVNumberInvalid": "항목이 부적합합니다. 숫자만 입력하십시오.",
+  "cardCVVNumberMaxLength": "항목이 부적합합니다. 최대 허용 문자 수 4를 초과하지 마십시오.",
+  "cardCVVNumberMinLength": "항목이 부적합합니다. 최소 3자를 입력하십시오.",
+  
+  "endMonthLabel": "만료(월)",
+  "endMonthPlaceholder": "만료(월)",
+  "endMonthRequired": "카드 만료 월은 필수입니다.",
+  "endMonthInvalid": "만료 월/연도가 부적합합니다. 다시 시도하십시오.",
+  
+  "endYearLabel": "만료(연도)",
+  "endYearPlaceholder": "만료(연도)",
+  "endYearRequired": "카드 만료 연도는 필수입니다.",
+  "endYearInvalid": "만료 월/연도가 부적합합니다. 다시 시도하십시오.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

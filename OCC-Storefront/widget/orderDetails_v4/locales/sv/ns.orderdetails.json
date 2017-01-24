@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Mina order",
+    "backToMyOrdersLink" : "<< Tillbaka till Mina order",
+    "orderDetailsText": "Orderdetaljer",
+    "orderDateText": "Orderdatum:",
+    "orderNumberText": "Ordernummer:",
+    "orderStatusText": "Orderstatus:",
+    "quoteExpiryText": "Upphörande för offert:",
+    "scheduledOrderName": "Schema:",
+    "shippingAddressAndMethodText": "Leveransadress och -sätt", 
+    "shippingAddressText": "Lev.adress:",
+    "noShippingAddressText" : "Det finns ingen tillgänglig lev.adress", 
+    "shippingMethodText": "Leveranssätt:",
+    "shippingText": "Standardleverans:",
+    "salesTaxText": "Moms: ",
+    "orderTotalText": "Ordersumma:",
+    "includingTaxText": "(inklusive moms)",
+    "totalExcludingTaxText": "Summa (exklusive moms): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Spårningsnummer",
+    "trackingReferenceReaderText": "__carrierName__ tracking Reference __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Den schemalagda ordern har skapats enligt prislistan __priceListGroup__"
+  } 
+}

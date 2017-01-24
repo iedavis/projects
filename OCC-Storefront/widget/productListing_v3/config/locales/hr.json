@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Provjera za upotrebu popisa osnove stila.",
+    "shouldUseStyleBasedTextLabel": "Upotrijebi popis osnove stila",
+    "listTypeHelpText": "Odaberite je li instanca widgeta popis proizvoda ili vrsta popisa rezultata pretraživanja.",
+    "listTypeTextLabel": "Vrsta popisa",
+    "productLabel" : "Proizvod",
+    "searchLabel" : "Pretraživanje",
+    "productListingFieldsRequiredHelpText": "Unesite popis polja koja će se uključiti u odgovor i razdvojite ih zarezima. Postavka polja odnosi se samo na proizvode navedene u navigaciji kroz kategorije, a ne odnosi se na rezultate pretraživanja.",
+    "productListingFieldsRequiredLabel": "Polja",
+    "productsPerPageRequiredHelpText": "Unesite broj proizvoda koji će se prikazati na stranici.",
+    "productsPerPageRequiredLabel": "Proizvoda po stranici",
+    "blockSizeRequiredHelpText": "Unesite broj proizvoda za učitavanje po zahtjevu. Postavka veličine bloka odnosi se samo na proizvode navedene u navigaciji kroz kategorije, a ne odnosi se na rezultate pretraživanja.",
+    "blockSizeRequiredLabel": "Veličina bloka"
+  }
+}

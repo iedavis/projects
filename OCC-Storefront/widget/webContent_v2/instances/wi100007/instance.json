@@ -1,0 +1,13 @@
+{
+  "config": {},
+  "currentLayout": "wli100003",
+  "id": "wi100007",
+  "layouts": [{
+    "id": "wli100003",
+    "widgetLayoutDescriptor": "webContent_v2_lyt1"
+  }],
+  "name": "img",
+  "templatePath": "/templates/display-wli100003.template",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

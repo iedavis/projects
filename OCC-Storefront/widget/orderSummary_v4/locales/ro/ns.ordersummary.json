@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Sumar comandă",
+    "subtotalText": "Subtotal:",
+    "discountText": "Discounturi*: ",
+    "shippingOptionsText": "Opţiuni de expediere",
+    "changeText": "modificare",
+    "salesTaxText": "Taxă pe vânzări:",
+    "orderTotalText": "Total comandă:",
+    "placeOrderText": "Plasare comandă",
+    "noShippingText": "Fără expediere",
+    "applicableTaxesText": "Taxele aplicabile vor fi calculate la achiziţie.",
+    "paymentOptionsText": "Opţiuni de plată",
+    "checkoutText": "Achiziţie",
+    "noShippingSelectedText": "Nu a fost selectată nicio metodă de expediere.",
+    "shippingAddressRequired":"Introduceţi o adresă de expediere",
+    "shippingText": "Expediere: __displayName__ ",
+    "noShippingMethodsText": "Nu este disponibilă nicio metodă de expediere",
+    "checkoutErrorMsg": "Asiguraţi-vă că aţi completat toate câmpurile obligatorii şi aţi corectat toate intrările nevalide.",
+    "removeLinkText": "eliminare",
+    "rePricingText":"Restabilire preţuri",
+    "totalExcludingTaxText": "Total (Exclusiv taxe): ",
+    "includingTaxText": "(inclusiv taxe)"
+  }
+}

@@ -1,0 +1,12 @@
+<gsa-template>
+
+	<item-descriptor name="order">
+	 <table name="dcspp_google_order" type="auxiliary" id-column-name="order_id">
+     <property category="google" display-name="Google Order Id" name="googleOrderId" writable="true" column-name="GOOGLE_ORDER_ID" data-type="string"/>
+     <property category="google" display-name="Google Risk Information Received" name="riskInformationReceived" writable="true" column-name="RISK_INFORMATION_RECEIVED" data-type="boolean" default="false"/>
+
+    </table>
+		
+	</item-descriptor>
+
+</gsa-template>

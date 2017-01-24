@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "confirmationsummary",
+  "imports": ["confirmation"],
+  "javascript": "confirmation-summary",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Order Confirmation Summary",
+  "pageTypes": ["confirmation"],
+  "source": 100,
+  "version": 2,
+  "widgetFamily": "confirmationSummary",
+  "widgetType": "confirmationSummary"
+}

@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Mijn orders",
+    "backToMyOrdersLink" : "<<Terug naar Mijn orders",
+    "orderDetailsText": "Orderdetails",
+    "orderDateText": "Orderdatum:",
+    "orderNumberText": "Ordernummer:",
+    "orderStatusText": "Orderstatus:",
+    "quoteExpiryText": "Verval prijsopgave:",
+    "scheduledOrderName": "Schemanaam:",
+    "shippingAddressAndMethodText": "Bestemmingsadres en verzendmethode", 
+    "shippingAddressText": "Bestemming:",
+    "noShippingAddressText" : "Geen bestemmingsadres beschikbaar", 
+    "shippingMethodText": "Verzendmethode:",
+    "shippingText": "Standaardverzending:",
+    "salesTaxText": "Omzetbelasting:",
+    "orderTotalText": "Ordertotaal:",
+    "includingTaxText": "(inclusief belasting)",
+    "totalExcludingTaxText": "Totaal (exclusief belasting): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Trackingnummers:",
+    "trackingReferenceReaderText": "__carrierName__ trackingreferentie __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Geplande order gemaakt volgens de prijslijst '__priceListGroup__'."
+  } 
+}

@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Koszyk jest pusty.",
+    "buttonContinueShopping": "Kontynuuj zakupy",
+    "cartHeader" : "Koszyk użytkownika",
+    "itemHeaderItem": "Pozycja",    
+    "itemHeaderQuantity": "Ilość",
+    "itemQuantity": "Ilość produktu __productName__",
+    "itemHeaderItemTotal": "Pozycje łącznie",
+    "totalTableSubTotal": "Suma częściowa:",
+    "includingTaxText": "(z uwzględnieniem podatku)",
+    "totalTableTotal": "Suma:",
+    "buttonUpdateQuantity": "Aktualizuj",
+    "buttonRemoveItem": "Usuń",
+    "instockText": "W magazynie",
+    "outofstockText": "Brak w magazynie",
+    "totalTableSummary": "Sumy pozycji w koszyku."
+  }
+}

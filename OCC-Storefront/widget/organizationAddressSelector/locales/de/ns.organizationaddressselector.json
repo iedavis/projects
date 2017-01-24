@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Checkout",
+    "defaultAddressLabel": "Standardadresse",
+    "billingAddressText" : "Rechnungsadresse",
+    "noAddressesText" : "Keine Adressen gespeichert.",
+    "firstNameText": "Vorname",
+    "lastNameText": "Nachname",
+    "shippingAddressText": "Versandadresse",
+    "checkoutErrorMsg": "Stellen Sie sicher, dass Sie alle erforderlichen Felder ausgefüllt und alle ungültigen Einträge korrigiert haben.",
+    "firstNameRequired": "Vorname ist erforderlich. ",
+    "lastNameRequired": "Nachname ist erforderlich. ",
+    "unsupportedShippingAddressText": "Der Versand an diese Adresse ist nicht verfügbar.",
+    "invalidBillingAddressText": "Ihre Versandadresse kann nicht als Rechnungsadresse verwendet werden. Geben Sie eine Rechnungsadresse ein.",
+    "invalidPreviousAddress": "An Ihre zuvor verwendete Versandadresse erfolgt kein Versand mehr."
+  }
+}

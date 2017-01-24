@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "ウィッシュ・リストに追加",
+    "spaceSelectionText": "ウィッシュ・リストの選択",
+    "spaceCommentText": "コメントを入力してください...",
+    "spaceNameText": "名前",
+    "buttonSpaceAdd": "追加",
+    "buttonSpaceCancel": "取消",
+    "mySpacesGroupText": "自分のウィッシュ・リスト",
+    "joinedSpacesGroupText": "参加済ウィッシュ・リスト",
+    "createNewSpaceOptText": "新規ウィッシュ・リスト...",
+    "addToSpaceSuccessMsg" : "成功!  __socialproduct__ は __socialspacename__に追加されました。",
+    "addToSpaceProductUpdatedSuccessMsg" : "この品目はすでにウィッシュ・リスト内にあります。追加された日付を更新しました。",
+    "addToSpaceProductViewWishListMsg" : "  __wishlistname__の表示",
+    "spaceAddProductError" : "製品をウィッシュ・リストに投稿しようとしているときにエラーが発生しました。ページのリフレッシュを試行してください。",
+    "uniqueNameMsg": "ウィッシュ・リスト名は一意である必要があります。",
+    "emptyNameMsg": "名前は空白にできません",
+    "privacySettingsLabel": "プライバシ設定",
+    "privacySettingsDescription": "友人をプライベート・ウィッシュ・リストに招待すると、プライバシ設定がグループに変更されます。プライベートまたはグループ・ウィッシュ・リストをEメールで送信したり、ソーシャル・ネットワークで共有すると、共有リストになります。",
+    "privacySharedLabel": "リンクがあるユーザーは誰でもこのリストを表示できます。表示、コメント、およびこのリストへの追加ができるのは、あなたとあなたが招待したユーザーのみです。",
+    "privacyGroupLabel": "表示、コメント、およびこのリストへの追加ができるのは、あなたとあなたが招待したユーザーのみです。",
+    "privacyPrivateLabel": "表示およびリストへの追加ができるのは、あなたのみです。",
+    "spaceAccessPrivateIconTxt" : "プライベート",
+    "spaceAccessSharedIconTxt" : "共有",
+    "spaceAccessGroupIconTxt" : "グループ",
+    "spaceCreateMaxSpacesMsg" : "ウィッシュ・リストの作成中に問題が発生しました。ウィッシュ・リスト数の限度を超えました。既存のウィッシュ・リストを削除してから新しいウィッシュ・リストを作成してください。",
+    "productAddMaxProductsMsg" : "ウィッシュ・リストへの製品の追加中に問題が発生しました。ウィッシュ・リスト内の投稿数の限度を超えました。宛先のウィッシュ・リストで既存の製品を削除してから、新しい製品を作成してください。"
+  }
+}

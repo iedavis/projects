@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Comincia subito a fare acquisti in modo collaborativo.",
+    "welcomePageLoginText": "Accesso",
+    "welcomePageCreateAccountText": "Crea account",
+    "welcomePageTitle": "Benvenuto/a all'elenco dei desiderata",
+    "welcomePageSubtitle": "L'adesione all'elenco dei desiderata è gratuita.",
+    "welcomePageBulletText1": "È possibile salvare, organizzare e visualizzare i feedback relativi ai prodotti di maggiore interesse.",
+    "welcomePageBulletText2": "È possibile condividere gli elenchi dei desiderata con familiari e amici per fare acquisti in compagnia.",
+    "welcomePageBulletText3": "È possibile utilizzare gli elenchi dei desiderata per scegliere i regali più adatti per tutti.",
+    "welcomePageOrText": "oppure"
+  }
+}

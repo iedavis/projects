@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Udtjekning",
+    "defaultAddressLabel": "Standardadresse",
+    "billingAddressText" : "Regningsadresse",
+    "noAddressesText" : "Ingen adresser gemt.",
+    "firstNameText": "Fornavn",
+    "lastNameText": "Efternavn",
+    "shippingAddressText": "Forsendelsesadresse",
+    "checkoutErrorMsg": "Sørg for, at du har udfyldt alle obligatoriske felter og rettet evt. ugyldige indtastninger.",
+    "firstNameRequired": "Fornavn er obligatorisk. ",
+    "lastNameRequired": "Efternavn er obligatorisk. ",
+    "unsupportedShippingAddressText": "Forsendelse er ikke tilgængelig til denne adresse.",
+    "invalidBillingAddressText": "Forsendelsesadressen kan ikke anvendes som regningsadresse. Indtast en regningsadresse.",
+    "invalidPreviousAddress": "Vi afsender ikke længere til din tidligere anvendte forsendelsesadresse."
+  }
+}

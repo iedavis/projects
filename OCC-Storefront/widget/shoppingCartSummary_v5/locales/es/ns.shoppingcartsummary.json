@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "El carro está vacío.",
+    "buttonContinueShopping": "Continuar compra",
+    "cartHeader" : "Carro de compra",
+    "itemHeaderItem": "Artículo",    
+    "itemHeaderQuantity": "Cantidad",
+    "itemQuantity": "__productName__ Cantidad",
+    "itemHeaderItemTotal": "Total de artículos",
+    "totalTableSubTotal": "Subtotal:",
+    "includingTaxText": "(impuesto incluido)",
+    "totalTableTotal": "Total:",
+    "buttonUpdateQuantity": "Actualizar",
+    "buttonRemoveItem": "Eliminar",
+    "instockText": "En stock",
+    "outofstockText": "Stock agotado",
+    "totalTableSummary": "Total de carro de compra."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "spacesettingsnotification",
+  "imports": [],
+  "javascript": "space-settings-notification",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Wish List Notification Settings",
+  "pageTypes": ["swmSettings"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "spaceSettingsNotificationWidget",
+  "widgetType": "spaceSettingsNotificationWidget"
+}

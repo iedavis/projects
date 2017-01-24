@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Προγραμματισμένες παραγγελίες",
+    "backToMyAccount" : "<< Επιστροφή στο λογαριασμό μου",
+    "scheduledOrderName" : "Όνομα",
+    "frequency": "Συχνότητα",    
+    "scheduledOrderId": "Αναγνωριστικό",
+    "scheduledOrderStatus": "Κατάσταση",
+    "nextShipDate": "Επόμενη παραγγελία",
+    "lastScheduledRun": "Τελευταία παραγγελία",
+    "scheduledOrderDetails": "Λεπτομέρειες παραγγελίας",
+    "orderDetails": "Λεπτομέρειες",
+    "action": "Ενέργεια",
+    "createdDate":"Ημερομηνία δημιουργίας",
+    "editOrder": "Επεξεργασία",
+    "deleteOrder": "Διαγραφή",
+    "deleteSuccessMsg":"Επιτυχής διαγραφή",
+    "myAccount" : "Ο λογαριασμός μου"
+  }
+}

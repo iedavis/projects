@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "التحديد لاستخدام عرض القائمة على أساس النمط.",
+    "shouldUseStyleBasedTextLabel": "استخدام عرض القائمة على أساس النمط",
+    "listTypeHelpText": "حدد ما إذا كان مثيل عنصر واجهة المستخدم هو قائمة منتجات أو نوع قائمة لنتائج البحث.",
+    "listTypeTextLabel": "نوع القائمة",
+    "productLabel" : "منتج",
+    "searchLabel" : "بحث",
+    "productListingFieldsRequiredHelpText": "إدخال قائمة الحقول المراد تضمينها في الرد، والمفصولة بفاصلة. لا تنطبق إعدادات الحقول على قوائم المنتجات إلا من خلال التنقل بالفئة وليس نتائج البحث.",
+    "productListingFieldsRequiredLabel": "الحقول",
+    "productsPerPageRequiredHelpText": "إدخال عدد المنتجات التي سيتم عرضها على الصفحة.",
+    "productsPerPageRequiredLabel": "المنتجات لكل صفحة",
+    "blockSizeRequiredHelpText": "إدخال عدد المنتجات التي سيتم تحميلها لكل طلب. لا تنطبق إعدادات حجم المنطقة على قوائم المنتجات إلا من خلال التنقل بالفئة وليس نتائج البحث.",
+    "blockSizeRequiredLabel": "حجم المنطقة"
+  }
+}

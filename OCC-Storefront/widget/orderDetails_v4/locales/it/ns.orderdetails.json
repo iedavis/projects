@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Ordini personali",
+    "backToMyOrdersLink" : "<< Torna agli ordini personali",
+    "orderDetailsText": "Dettagli ordine",
+    "orderDateText": "Data ordine:",
+    "orderNumberText": "Numero ordine:",
+    "orderStatusText": "Stato ordine:",
+    "quoteExpiryText": "Scadenza preventivo:",
+    "scheduledOrderName": "Nome schedulazione:",
+    "shippingAddressAndMethodText": "Indirizzo e metodo di spedizione", 
+    "shippingAddressText": "Destinatario spedizione:",
+    "noShippingAddressText" : "Nessun indirizzo di spedizione disponibile", 
+    "shippingMethodText": "Metodo di spedizione:",
+    "shippingText": "Spedizione standard:",
+    "salesTaxText": "Imposta sulle vendite:",
+    "orderTotalText": "Totale ordine:",
+    "includingTaxText": "(imposta inclusa)",
+    "totalExcludingTaxText": "Totale (imposta esclusa):",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Numeri tracciamento:",
+    "trackingReferenceReaderText": "__carrierName__ riferimento per il tracciamento __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Ordine schedulato creato in base al listino prezzi '__priceListGroup__'"
+  } 
+}

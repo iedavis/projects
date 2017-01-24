@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Se færre...",
+    "seeMoreText" : "Se flere...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Forbedr efter",
+    "clearAllRefinementsText" : "Ryd alle forbedringer",
+    "guidedNavigationHeader" : "Guidet navigeringshoved",
+    "doneText" : "Udført",
+    "expandText" : "Udvid",
+    "collapseText" : "Skjul",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Overlappet guidet navigation er indlæst"
+  }
+}

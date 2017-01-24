@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Hiba történt, miközben az átjáró feldolgozta a kifizetést. Próbálkozzon újra.",
+    "paymentDeclinedMsg": "A kifizetés elutasítva. Próbálkozzon újra.",
+    "paymentExpiredMsg": "A kifizetés lejárt. Próbálkozzon újra.",
+    "paymentErrorMsg": "Hiba a kifizetés feldolgozásakor. Próbálja újra.",
+    "payByCashText": "Kifizetés készpénzben",
+    "invoicePaymentMsg": "Számla igénylése",
+    "purchaseOrderNumberMsg":"Rendelés azonosítószáma"
+  }
+}

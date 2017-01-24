@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["notifications"],
+  "tag": "notifications-message-box",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "กล่องข้อความการแจ้ง"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Caixa de Mensagem de Notificações"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "通知消息框"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Вікно сповіщень"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Поле за известителни съобщения"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Teatiste teatekaust"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Paziņojumu ziņojumu lodziņš"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Pranešimų langelis"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Meldingsboks for varsler"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Casetă de mesaj înştiinţări"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Boîte de message d'avis"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "通知メッセージ・ボックス"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Polje sporočil za obvestila"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Поле сообщения для уведомлений"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Okvir poruka obavijesti"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Bildirim Mesaj Kutusu"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Pole powiadomień"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "通知訊息方塊"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "통지 메시지 박스"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Okno upozornění"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Értesítések - üzenetdoboz"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Πλαίσιο μηνυμάτων ειδοποιήσεων"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Meddelelsesboks til underretninger"
+    },
+    {
+      "description": "Notifications Message Box",
+      "language": "en",
+      "title": "Notifications Message Box"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Оквир поруке обавештења"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Nachrichtenfeld Benachrichtigungen"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Cuadro de mensaje de notificaciones"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Boîte de message de notifications"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Finestra messaggio notifiche"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Berichtenvak meldingen"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Informationsmeddelanderuta"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Caixa de Mensagens de Notificações"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Ilmoitusten viestiruutu"
+    }
+  ],
+  "type": "fragment",
+  "version": 1
+}

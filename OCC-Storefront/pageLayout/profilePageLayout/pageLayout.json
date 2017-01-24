@@ -1,0 +1,177 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["customerProfileInst_v2"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "profile",
+  "isLayoutDisplayable": true,
+  "displayName": "Profile Layout",
+  "translations": [
+    {
+      "name": "โปรไฟล์ของฉัน",
+      "language": "th"
+    },
+    {
+      "name": "Meu perfil",
+      "language": "pt_BR"
+    },
+    {
+      "name": "我的配置文件",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Мій профіль",
+      "language": "uk"
+    },
+    {
+      "name": "Моят профил",
+      "language": "bg"
+    },
+    {
+      "name": "Minu profiil",
+      "language": "et"
+    },
+    {
+      "name": "Mans profils",
+      "language": "lv"
+    },
+    {
+      "name": "Mano profilis",
+      "language": "lt"
+    },
+    {
+      "name": "Min profil",
+      "language": "no"
+    },
+    {
+      "name": "\nProfil propriu",
+      "language": "ro"
+    },
+    {
+      "name": "Mon profil",
+      "language": "fr_CA"
+    },
+    {
+      "name": "自分のプロファイル",
+      "language": "ja"
+    },
+    {
+      "name": "Moj profil",
+      "language": "sl"
+    },
+    {
+      "name": "Мой профиль",
+      "language": "ru"
+    },
+    {
+      "name": "Moj profil",
+      "language": "hr"
+    },
+    {
+      "name": "Profilim",
+      "language": "tr"
+    },
+    {
+      "name": "Mój profil",
+      "language": "pl"
+    },
+    {
+      "name": "我的設定檔",
+      "language": "zh_TW"
+    },
+    {
+      "name": "내 프로파일",
+      "language": "ko"
+    },
+    {
+      "name": "Můj profil",
+      "language": "cs"
+    },
+    {
+      "name": "Saját profil",
+      "language": "hu"
+    },
+    {
+      "name": "Το προφίλ μου",
+      "language": "el"
+    },
+    {
+      "name": "Min profil",
+      "language": "da"
+    },
+    {
+      "name": "My Profile",
+      "language": "en"
+    },
+    {
+      "name": "Мој профил",
+      "language": "sr"
+    },
+    {
+      "name": "Mein Profil",
+      "language": "de"
+    },
+    {
+      "name": "ملف تعريفي",
+      "language": "ar"
+    },
+    {
+      "name": "Mi perfil",
+      "language": "es"
+    },
+    {
+      "name": "Mon profil",
+      "language": "fr"
+    },
+    {
+      "name": "Profilo pers.",
+      "language": "it"
+    },
+    {
+      "name": "Mijn profiel",
+      "language": "nl"
+    },
+    {
+      "name": "Min profil",
+      "language": "sv"
+    },
+    {
+      "name": "Perfil Pessoal",
+      "language": "pt"
+    },
+    {
+      "name": "Oma profiili",
+      "language": "fi"
+    }
+  ]
+}

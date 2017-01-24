@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Vis attributter",
+    "numberOfRelatedProductsHelpText": "Indtast antallet af relaterede produkter, der skal vises i karrusellen",
+    "numberOfRelatedProductsTextLabel": "Antal relaterede produkter",
+    "displayNameOfRelatedProductsTextLabel": "Produktnavn",
+    "displayPriceOfRelatedProductsTextLabel": "Pris"
+  }
+}

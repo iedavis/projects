@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "U hebt gezocht naar '__searchterm__'. Er zijn geen producten gevonden.",
+    "titleText": "Zoeken",
+    "searchFailedText": "Uw zoekopdracht kan momenteel niet worden uitgevoerd."
+  }
+}

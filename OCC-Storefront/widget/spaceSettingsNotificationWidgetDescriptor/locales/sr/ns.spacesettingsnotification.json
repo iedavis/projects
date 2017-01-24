@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Подешавања обавештења путем е-поште",
+    "spaceSettingsNotificationIntroText" : "Желим да добијам:",
+    "spaceSettingsCommentNotificationTxt" : "Обавештења о коментарима и производима",
+    "spaceSettingsNewMemberNotificationTxt" : "Обавештења о новим члановима",
+    "spaceSettingsSaveTxt" : "Сачувај",
+    "spaceSettingsCancelTxt" : "Откажи",
+    "spaceSettingsSaveErrorTxt" : "Дошло је до проблема приликом чувања промена подешавања обавештења.",
+    "spaceSettingsSaveSuccessTxt" : "Подешавања обавештења су ажурирана и сачувана.",
+    "spaceSettingsOnText" : "Да",
+    "spaceSettingsOffText" : "Не",
+    "spaceSettingsNotificationEnableHelpText" : "Изаберите опцију \"Желим обавештења е-поштом\" на страници \"Мој налог\" да бисте омогућили обавештења за листе жеља."
+  }
+}

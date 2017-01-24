@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Voir moins...",
+    "seeMoreText" : "Voir plus...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Préciser par",
+    "clearAllRefinementsText" : "Effacer toutes les précisions",
+    "guidedNavigationHeader" : "En-tête de navigation guidée",
+    "doneText" : "Terminé",
+    "expandText" : "Développer",
+    "collapseText" : "Réduire",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Navigation guidée en superposition chargée"
+  }
+}

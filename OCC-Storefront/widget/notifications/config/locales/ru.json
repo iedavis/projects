@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Укажите, разрешено ли истечение времени ожидания для уведомлений, не связанных с ошибками.",
+    "notificationsTimeoutEnabledTextLabel": "Время ожидания разрешено",
+    "notificationsTimeoutHelpText": "Установите время ожидания для уведомлений, не связанных с ошибками (в секундах).",
+    "notificationsTimeoutTextLabel": "Время ожидания (в секундах)",
+    "notificationsFixedHelpText": "Укажите, нужно ли зафиксировать виджет уведомлений вверху страницы.",
+    "notificationsFixedTextLabel": "Зафиксировано"
+  }
+}

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2006-09-27T00:39:39.637797Z"
+   url="http://google-checkout-java14-sample-code.googlecode.com/svn/trunk/src/com/google/checkout/sample/event"
+   last-author="colinhc"
+   kind="dir"
+   uuid="8474a406-481d-0410-88fc-6705ad773e9c"
+   repos="http://google-checkout-java14-sample-code.googlecode.com/svn"
+   revision="13"/>
+<entry
+   committed-rev="4"
+   name="OrderStateChangeNotificationListener.java"
+   text-time="2006-11-23T21:31:24.125000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1b650c0ddbd52e2665d1558375c75053"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:15.578125Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculationCallbackEvent.java"
+   text-time="2006-11-23T21:31:24.109375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="7a5973518f5bf71188a891ce69318e50"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:15.546875Z"/>
+<entry
+   committed-rev="4"
+   name="RefundNotificationListener.java"
+   text-time="2006-11-23T21:31:24.718750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="db4fd799a32a8b2b691e42cef398b307"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:15.593750Z"/>
+<entry
+   committed-rev="4"
+   name="CallBackListener.java"
+   text-time="2006-11-23T21:31:24.781250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="0cc7b33df7cbe688d01026f43cc0398a"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:16.781250Z"/>
+<entry
+   committed-rev="4"
+   name="ChargeNotificationEvent.java"
+   text-time="2006-11-23T21:31:24.750000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="e58cfb6b892de09cda2471ef88bba5d6"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:15.625000Z"/>
+<entry
+   committed-rev="4"
+   name="NewOrderNotificationListener.java"
+   text-time="2006-11-23T21:31:24.734375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="f54c24c2141888a6e35a411e2dd6d008"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:15.609375Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculationCallbackListener.java"
+   text-time="2006-11-23T21:31:24.796875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="031e416eb7f644e49f13ed1d11cc9ea5"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:16.812500Z"/>
+<entry
+   committed-rev="4"
+   name="ChargeNotificationListener.java"
+   text-time="2006-11-23T21:31:24.812500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1944ed39552f98a44ef6ce6e26267c64"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:16.828125Z"/>
+<entry
+   committed-rev="4"
+   name="ChargebackNotificationHandler.java"
+   text-time="2006-11-23T21:31:24.828125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="274c331255272517e55c3a6fac6d44d2"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:16.843750Z"/>
+<entry
+   committed-rev="4"
+   name=".MerchantCalculationCallbackHandler.java.swp"
+   text-time="2006-11-23T21:31:24.843750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="49836507614e74e1781f20d6e9bd599e"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:17.984375Z"/>
+<entry
+   committed-rev="4"
+   name="RiskInformationNotificationHandler.java"
+   text-time="2006-11-23T21:31:24.875000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a04001586cf17cf6454bbbf411790c0e"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:18.031250Z"/>
+<entry
+   committed-rev="4"
+   name="ChargebackNotificationEvent.java"
+   text-time="2006-11-23T21:31:24.859375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="7460f13b8eeebbab91d28f150b4c6846"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:18.000000Z"/>
+<entry
+   committed-rev="4"
+   name="RiskInformationNotificationEvent.java"
+   text-time="2006-11-23T21:31:24.921875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="8859db7180139ff6853a014f9e0daa80"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:19.234375Z"/>
+<entry
+   committed-rev="4"
+   name="OrderStateChangeNotificationHandler.java"
+   text-time="2006-11-23T21:31:24.906250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="01c031566f5200fd502b24c6e5fa1a77"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:19.218750Z"/>
+<entry
+   committed-rev="4"
+   name="ChargebackNotificationListener.java"
+   text-time="2006-11-23T21:31:24.890625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="55867cbb3c2d762301e79b5d6f7fcaf2"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:19.203125Z"/>
+<entry
+   committed-rev="4"
+   name="RefundNotificationHandler.java"
+   text-time="2006-11-23T21:31:24.921875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="d3e5f9ec0fca30657afa06b4db15c533"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:20.421875Z"/>
+<entry
+   committed-rev="4"
+   name="NewOrderNotificationHandler.java"
+   text-time="2006-11-23T21:31:24.937500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="df255583b9c5071c7de8f6d4ff52653c"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:20.437500Z"/>
+<entry
+   committed-rev="4"
+   name="CallBackHandler.java"
+   text-time="2006-11-23T21:31:24.937500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="450832a645974afaf6a742c91e22d554"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:20.453125Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculationCallbackHandler.java"
+   text-time="2006-11-23T21:31:24.953125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="d7304c6de869450514b1f5266dda4b49"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:22.281250Z"/>
+<entry
+   committed-rev="4"
+   name="OrderStateChangeNotificationEvent.java"
+   text-time="2006-11-23T21:31:24.968750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a5a08cf41d3cdc5cbd906157233a9da3"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:22.312500Z"/>
+<entry
+   committed-rev="4"
+   name="RiskInformationNotificationListener.java"
+   text-time="2006-11-23T21:31:24.968750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="c08d31c367663d39a67ca897d7de206b"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:22.328125Z"/>
+<entry
+   committed-rev="4"
+   name="RefundNotificationEvent.java"
+   text-time="2006-11-23T21:31:24.984375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="4a22f5a88f943d46c2db08fc7bd303f4"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:22.343750Z"/>
+<entry
+   committed-rev="4"
+   name="NewOrderNotificationEvent.java"
+   text-time="2006-11-23T21:31:24.984375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a786adcc434edfb68e73f86195b4c6e0"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:22.359375Z"/>
+<entry
+   committed-rev="4"
+   name="ChargeNotificationHandler.java"
+   text-time="2006-11-23T21:31:25.000000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="340b268589ffe3599db7d3f56a487448"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:24.093750Z"/>
+<entry
+   committed-rev="4"
+   name="CallBackEvent.java"
+   text-time="2006-11-23T21:31:25.000000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="83aa62677892ff8b86e75f4ecd38f97b"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:24.109375Z"/>
+</wc-entries>

@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Sumar comandă",
+    "subtotalText": "Subtotal:",
+    "shippingOptionsText": "Opţiuni de expediere",
+    "salesTaxText": "Taxă pe vânzări:",
+    "orderTotalText": "Total comandă:",
+    "placeOrderText": "Plasare comandă",
+    "scheduleOrderText": "Programare comandă",
+    "noShippingText": "Fără expediere",
+    "shippingText": "Expediere: __displayName__",    
+    "applicableTaxesText": "Taxele aplicabile vor fi calculate la achiziţie.",
+    "paymentOptionsText": "Opţiuni de plată",
+    "checkoutText": "Achiziţie",
+    "noShippingSelectedText": "Nu a fost selectată nicio metodă de expediere.",
+    "shippingAddressRequired": "Introduceţi o adresă de expediere",
+    "noShippingMethodsText": "Nu există nicio metodă de expediere disponibilă pt. adresa destinaţie.",
+    "noShippingMethodsForAddressText": "Nu este disponibilă nicio metodă de expediere pt. adresa selectată",
+    "checkoutErrorMsg": "Asiguraţi-vă că aţi completat toate câmpurile obligatorii şi aţi corectat toate intrările nevalide.",
+    "rePricingText":"Restabilire preţuri",
+    "removeLinkText":"eliminare",
+    "paymentMessage": "Este posibil ca următorul ecran afişat să fie verificarea cardului de plată prin intermediul emitentului cardului dvs.",
+    "includingTaxText": "(inclusiv taxe)",
+    "totalExcludingTaxText": "Total (Exclusiv taxe): ",
+    "paymentMethodNotAvilable": "(Această opţiune de plată nu poate fi utilizată pt. comenzile programate.)",
+    "selectShippingMethodText": "Selectare metodă de expediere"
+  }
+}

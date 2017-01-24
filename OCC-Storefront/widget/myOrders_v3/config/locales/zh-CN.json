@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "包括计划订单标识？",
+	"includeScheduledHelpText" : "选择此项可在“订单历史记录”表中包括计划订单标识"
+  }
+}

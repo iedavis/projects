@@ -1,0 +1,30 @@
+{
+  "widgetDescriptorName": "notifications",
+  "properties": [
+    {
+      "id": "timeoutEnabled",
+      "type": "booleanType",
+      "name": "timeoutEnabled",
+      "helpTextResourceId": "notificationsTimeoutEnabledHelpText",
+      "labelResourceId": "notificationsTimeoutEnabledTextLabel",
+      "defaultValue": true
+    },
+    {
+      "id": "timeout",
+      "type": "stringType",
+      "name": "timeout",
+      "helpTextResourceId": "notificationsTimeoutHelpText",
+      "labelResourceId": "notificationsTimeoutTextLabel",
+      "defaultValue": "3",
+      "required": true
+    },
+    {
+      "id": "fixed",
+      "type": "booleanType",
+      "name": "fixed",
+      "helpTextResourceId": "notificationsFixedHelpText",
+      "labelResourceId": "notificationsFixedTextLabel",
+      "defaultValue": true
+    }
+  ]
+}

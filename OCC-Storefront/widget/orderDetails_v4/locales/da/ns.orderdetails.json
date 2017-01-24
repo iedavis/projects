@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Mine ordrer",
+    "backToMyOrdersLink" : "<< Tilbage til Mine ordrer",
+    "orderDetailsText": "Ordredetaljer",
+    "orderDateText": "Ordredato:",
+    "orderNumberText": "Ordrenr.:",
+    "orderStatusText": "Ordrestatus:",
+    "quoteExpiryText": "Tilbudsudløb:",
+    "scheduledOrderName": "Navn på tidsplan:",
+    "shippingAddressAndMethodText": "Forsendelsesadresse og -metode", 
+    "shippingAddressText": "Afsend til:",
+    "noShippingAddressText" : "Ingen forsendelsesadresse tilgængelig", 
+    "shippingMethodText": "Forsendelsesmetode:",
+    "shippingText": "Standardforsendelse:",
+    "salesTaxText": "Omsætningsafgift:",
+    "orderTotalText": "Ordretotal:",
+    "includingTaxText": "(inklusiv afgift)",
+    "totalExcludingTaxText": "Total (eksklusiv afgift): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Sporingsnumre:",
+    "trackingReferenceReaderText": "__carrierName__ tracking reference __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Tidsplanlagt ordre oprettet iht. prislisten '__priceListGroup__'"
+  } 
+}

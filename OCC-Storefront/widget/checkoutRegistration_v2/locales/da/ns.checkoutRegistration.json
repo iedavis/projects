@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Tjek-ud",
+    "emailAddressText" : "E-mailadresse",
+    "firstNameText" : "Fornavn",
+    "lastNameText" : "Efternavn",
+    "passwordText" : "Adgangskode",
+    "confirmPasswordText" : "Bekræft adgangskode",
+    "checkoutAsGuestText" : "Tjek ud som gæst",
+    "loginToAccountText" : "Log på din konto",
+    "rememberMeText" : "Jeg vil oprette en konto.",
+    "marketingMailsText" : "Jeg vil gerne modtage e-mailopdateringer.",
+    "checkoutErrorMsg" : "Sørg for, at du har udfyldt alle obligatoriske felter og rettet evt. ugyldige indtastninger.",
+    "buttonCancel": "Annuller",
+    "buttonLogin": "Log på",
+    "checkoutOption": "Vælg udtjekningsindstillingen.",
+    "buttonLogout": "Log af",
+    "welcomeMessage": "Velkommen tilbage!",
+    "registrationMessageText":"Oprettelse af en konto betyder, at du kan handle hurtigere, være ajour med din aktuelle ordres fremskridt og tjekke tidligere ordrers status.",
+    "userSessionExpiredErrorMsg" : "Din udtjekningssession er udløbet pga. inaktivitet. Genstart udtjekning."
+  }
+}

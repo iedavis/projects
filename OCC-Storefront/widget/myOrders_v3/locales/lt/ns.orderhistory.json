@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Mano paskyra",
+    "orderHistoryText" : "Užsakymų istorija",
+    "backToMyAccount" : "< < Atgal į paskyrą",
+    "historyHeaderOrderDate": "Užsakymo data",    
+    "historyHeaderOrderNumber": "Užsakymo numeris",
+    "historyHeaderOrderStatus": "Užsakymo būsena",
+    "historyHeaderOrderTotal": "Bendroji užsakymo suma",
+    "historyHeaderOrderDetails": "Užsakymo informacija",
+    "listingHeaderScheduledOrderId": "Plano ID",
+    "orderDetails": "Išsami informacija"
+  }
+}

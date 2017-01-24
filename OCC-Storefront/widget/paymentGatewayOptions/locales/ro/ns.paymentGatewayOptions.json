@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "A survenit o eroare în cursul procesării plăţii de către gateway. Încercaţi din nou.",
+    "paymentDeclinedMsg": "Plata a fost respinsă. Încercaţi din nou.",
+    "paymentExpiredMsg": "Plata a expirat. Încercaţi din nou.",
+    "paymentErrorMsg": "Eroare la procesarea plăţii. Încercaţi din nou mai târziu.",
+    "payByCashText": "Plată în numerar",
+    "invoicePaymentMsg": "Solicitaţi o factură",
+    "purchaseOrderNumberMsg":"Nr. comandă de achiziţii"
+  }
+}

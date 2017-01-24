@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Kassa",
+    "emailAddressText" : "Sähköpostiosoite",
+    "firstNameText" : "Etunimi",
+    "lastNameText" : "Sukunimi",
+    "passwordText" : "Salasana",
+    "confirmPasswordText" : "Vahvista salasana",
+    "checkoutAsGuestText" : "Maksa vieraana",
+    "loginToAccountText" : "Kirjaudu tiliisi",
+    "rememberMeText" : "Haluan luoda tilin.",
+    "marketingMailsText" : "Haluan saada päivityksiä sähköpostitse.",
+    "checkoutErrorMsg" : "Varmista, että olet täyttänyt kaikki pakolliset kentät ja korjannut virheelliset kohdat.",
+    "buttonCancel": "Peruuta",
+    "buttonLogin": "Kirjaudu sisään",
+    "checkoutOption": "Valitse maksuvalinta.",
+    "buttonLogout": "Kirjaudu ulos",
+    "welcomeMessage": "Tervetuloa takaisin!",
+    "registrationMessageText":"Jos luot tilin, voit tehdä ostoksia nopeammin, näet tilauksesi etenemisen ja voit tarkistaa aiempien tilaustesi tilan.",
+    "userSessionExpiredErrorMsg" : "Kassaistuntosi on päättynyt käyttämättömyyden vuoksi. Siirry uudestaan kassalle."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Tellimuse kokkuvõte",
+    "subtotalText": "Vahesumma: ",
+    "discountText": "Allahindlus(ed)*: ",
+    "shippingOptionsText": "Saatmisvalikud",
+    "changeText": "muuda",
+    "salesTaxText": "Käibemaks: ",
+    "orderTotalText": "Tellimuse kogusumma: ",
+    "placeOrderText": "Esita tellimus",
+    "noShippingText": "Ei saadeta",
+    "applicableTaxesText": "Kohaldatavad maksud arvutatakse ostu vormistamisel.",
+    "paymentOptionsText": "Maksevariandid",
+    "checkoutText": "Vormista ost",
+    "noShippingSelectedText": "Saatmisviisi pole valitud.",
+    "shippingAddressRequired":"Sisestage saatmisaadress ",
+    "shippingText": "Saatmine: __displayName__ ",
+    "noShippingMethodsText": "Saatmisviise pole saadaval",
+    "checkoutErrorMsg": "Kontrollige, kas kõik kohustuslikud väljad on täidetud ja sobimatud kirjed parandatud.",
+    "removeLinkText": "eemalda",
+    "rePricingText":"Ümberhindlus",
+    "totalExcludingTaxText": "Kokku (välja arvatud maksud): ",
+    "includingTaxText": "(koos maksudega)"
+  }
+}

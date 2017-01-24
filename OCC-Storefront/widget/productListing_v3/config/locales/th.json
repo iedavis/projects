@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "ทำเครื่องหมายเพื่อใช้การลิสต์ตามสไตล์",
+    "shouldUseStyleBasedTextLabel": "ใช้การลิสต์หลักของสไตล์",
+    "listTypeHelpText": "เลือกว่าอินสแตนซ์วิดเจ็ตจะเป็นการลิสต์ผลิตภัณฑ์หรือประเภทลิสต์ของผลการค้นหา",
+    "listTypeTextLabel": "ประเภทลิสต์",
+    "productLabel" : "ผลิตภัณฑ์",
+    "searchLabel" : "ค้นหา",
+    "productListingFieldsRequiredHelpText": "ป้อนลิสต์ของฟิลด์ที่จะรวมในการตอบกลับโดยคั่นด้วยคอมมา การตั้งค่าฟิลด์จะใช้ได้กับการลิสต์ผลิตภัณฑ์ผ่านการนาวิเกตชนิดเท่านั้น และไม่สามารถใช้กับผลการค้นหาได้",
+    "productListingFieldsRequiredLabel": "ฟิลด์",
+    "productsPerPageRequiredHelpText": "ป้อนจำนวนผลิตภัณฑ์ที่จะแสดงในเพจ",
+    "productsPerPageRequiredLabel": "ผลิตภัณฑ์ต่อเพจ",
+    "blockSizeRequiredHelpText": "ป้อนจำนวนผลิตภัณฑ์ที่จะโหลดต่อคำขอ การตั้งค่าขนาดบล็อกจะใช้ได้กับการลิสต์ผลิตภัณฑ์ผ่านการนาวิเกตชนิดเท่านั้น และไม่สามารถใช้กับผลการค้นหาได้",
+    "blockSizeRequiredLabel": "ขนาดบล็อค"
+  }
+}

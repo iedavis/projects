@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "我的帳戶",
+    "orderHistoryText" : "訂單歷史記錄",
+    "backToMyAccount" : "<< 返回我的帳戶",
+    "historyHeaderOrderDate": "訂單日期",    
+    "historyHeaderOrderNumber": "訂單編號",
+    "historyHeaderOrderStatus": "訂單狀態",
+    "historyHeaderOrderTotal": "訂單總計",
+    "historyHeaderOrderDetails": "訂單詳細資料",
+    "listingHeaderScheduledOrderId": "排程 ID",
+    "orderDetails": "詳細資料"
+  }
+}

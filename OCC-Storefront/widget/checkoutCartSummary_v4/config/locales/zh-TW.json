@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "輸入您要在「購物車摘要」中顯示的項目數上限。",
+    "checkoutCartSummaryItemsToDisplayLabel": "購物車摘要中的項目數上限"
+  }
+}

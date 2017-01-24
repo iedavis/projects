@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Атрибуты вывода",
+    "numberOfRelatedProductsHelpText": "Введите число продуктов, которые должны быть показаны на карусели",
+    "numberOfRelatedProductsTextLabel": "Число связанных продуктов",
+    "displayNameOfRelatedProductsTextLabel": "Название продукта",
+    "displayPriceOfRelatedProductsTextLabel": "Цена"
+  }
+}

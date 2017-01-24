@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Bienvenue __userdisplayname__.",
+    "invitationAlreadyAccepted" : "L'invitation a déjà été acceptée.",
+    "spaceNotFound" : "La liste de souhaits à laquelle vous tentez d'accéder est introuvable.",
+    "invitationExpiredError" : "Votre invitation a expiré. Communiquez avec le propriétaire de la liste de souhaits à laquelle vous souhaitez vous joindre et demandez-lui de vous réinviter.",
+    "memberJoinError" : "Une erreur s'est produite avec l'invitation.",
+    "pleaseWaitProcessingMsg" : "Patientez pendant le traitement de votre invitation"
+  }
+}

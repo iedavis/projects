@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Атрибути відображення",
+    "numberOfRelatedProductsHelpText": "Введіть кількість пов'язаних продуктів, що мають відображатися на каруселі",
+    "numberOfRelatedProductsTextLabel": "Кількість пов'язаних продуктів",
+    "displayNameOfRelatedProductsTextLabel": "Назва продукту",
+    "displayPriceOfRelatedProductsTextLabel": "Ціна"
+  }
+}

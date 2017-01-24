@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Plánované objednávky",
+    "backToMyAccount" : "<< Zpět k mému účtu",
+    "scheduledOrderName" : "Název",
+    "frequency": "Frekvence",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Stav",
+    "nextShipDate": "Další objednávka",
+    "lastScheduledRun": "Poslední objednávka",
+    "scheduledOrderDetails": "Detaily objednávky",
+    "orderDetails": "Detaily",
+    "action": "Akce",
+    "createdDate":"Datum vytvoření",
+    "editOrder": "Upravit",
+    "deleteOrder": "Odstranit",
+    "deleteSuccessMsg":"Úspěšně odstraněno",
+    "myAccount" : "Můj účet"
+  }
+}

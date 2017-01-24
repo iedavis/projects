@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Maksu lahjakortilla",
+    "giftCardNumberText": "Lahjakortin numero",
+    "giftCardPinText": "Lahjakortin PIN",
+    "giftCardApplyText": "Käytä lahjakorttia", 
+    "giftCardApplyingText": "Käytetään lahjakorttia", 
+    "displayGiftCardDetailsText" : "Maksu lahjakortilla",
+    "duplicateGiftcardErrMsg":"Lahjakortti on jo käytetty."
+  }
+}

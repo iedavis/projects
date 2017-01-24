@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Apstrādājot maksājumu ar vārteju, radās kļūda. Lūdzu, mēģiniet vēlreiz.",
+    "paymentDeclinedMsg": "Maksājums ir noraidīts. Lūdzu, mēģiniet vēlreiz.",
+    "paymentExpiredMsg": "Maksājumam ir beidzies derīgums. Lūdzu, mēģiniet vēlreiz.",
+    "paymentErrorMsg": "Apstrādājot maksājumu, radās kļūda. Lūdzu, mēģiniet vēlreiz.",
+    "payByCashText": "Maksāt skaidrā naudā",
+    "invoicePaymentMsg": "Pieprasīt rēķinu",
+    "purchaseOrderNumberMsg":"Pirkšanas pasūtījuma numurs"
+  }
+}

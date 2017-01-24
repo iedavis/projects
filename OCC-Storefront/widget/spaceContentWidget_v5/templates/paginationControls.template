@@ -1,0 +1,22 @@
+<div class="btn-group" role="group">
+    
+    <button type="button" class="btn btn-default" data-bind="click: getFirstPage, disable: $data.currentPage() == 1, css: { disabled: $data.currentPage() == 1 }, widgetLocaleText: 'goToFirstPagePaginationSymbol', widgetLocaleText : {value:'goToFirstPageText', attr:'aria-label'}"><span>&lt;&lt;</span></button> 
+    <button type="button" class="btn btn-default" data-bind="click: decrementPage, disable: $data.currentPage() == 1, css: { disabled: $data.currentPage() == 1 }, widgetLocaleText: 'goToPreviousPagePaginationSymbol', widgetLocaleText : {value:'goToPreviousPageText', attr:'aria-label'}"><span>&lt;</span></button>    
+
+    <!-- ko foreach: pages -->
+      <!-- ko if: $data.selected === true -->
+      <button type="button" class="btn btn-default" data-bind="click: $parent.changePage.bind($parent, $data), css: {active: $data.pageNumber===$parent.clickedPage() }, widgetLocaleText : {value:'activePageText', attr:'aria-label'} ">
+        <span data-bind="ccNumber: $data.pageNumber"></span>
+      </button> 
+      <!-- /ko -->
+      <!-- ko if: $data.selected === false -->
+      <button type="button" class="btn btn-default" data-bind="click: $parent.changePage.bind($parent, $data), css: {active: $data.pageNumber===$parent.clickedPage() }, widgetLocaleText : {value:'clickToViewText', attr:'aria-label'} ">
+        <span data-bind="ccNumber: $data.pageNumber"></span>
+      </button> 
+      <!-- /ko -->
+    <!-- /ko -->
+    
+    <button type="button" class="btn btn-default" data-bind="click: incrementPage, disable: currentPage() == $data.totalNumberOfPages(), css: { disabled: currentPage() == $data.totalNumberOfPages() }, widgetLocaleText: 'goToNextPagePaginationSymbol', widgetLocaleText : {value:'goToNextPageText', attr:'aria-label'}"><span>&gt;</span></button>
+    <button type="button" class="btn btn-default" data-bind="click: $data.getLastPage, disable: currentPage() == $data.totalNumberOfPages(), css: { disabled: currentPage() == $data.totalNumberOfPages() }, widgetLocaleText: 'goToLastPagePaginationSymbol', widgetLocaleText : {value:'goToLastPageText', attr:'aria-label'}"><span>&gt;&gt;</span></button>
+    
+</div>

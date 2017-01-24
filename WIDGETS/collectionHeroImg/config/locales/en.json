@@ -1,0 +1,8 @@
+{
+  "resources" : {
+    "imgPatternLabel": "File Name Pattern",
+    "imgPatternHelpText": "Loaded from /file/general",
+    "defaultImgNameLabel": "Default Image File Path/Name",
+    "defaultImgNameHelpText": ""
+  }
+}

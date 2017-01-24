@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "结账",
+    "emailAddressText" : "电子邮件地址",
+    "firstNameText" : "名字",
+    "lastNameText" : "姓氏",
+    "passwordText" : "密码",
+    "confirmPasswordText" : "确认密码",
+    "checkoutAsGuestText" : "以访客身份结账",
+    "loginToAccountText" : "登录到您的账户",
+    "rememberMeText" : "我希望创建账户。",
+    "marketingMailsText" : "我希望获得电子邮件更新。",
+    "checkoutErrorMsg" : "请确保填写了所有必填字段并更正了所有无效输入。",
+    "buttonCancel": "取消",
+    "buttonLogin": "登录",
+    "checkoutOption": "选择结账选项。",
+    "buttonLogout": "注销",
+    "welcomeMessage": "欢迎回来！",
+    "registrationMessageText":"创建账户后您可以更快地购物、跟踪您当前订单的最新进展以及检查以前订单的状态。",
+    "userSessionExpiredErrorMsg" : "您的结账会话由于不活动而过期。请重新启动结账。"
+  }
+}

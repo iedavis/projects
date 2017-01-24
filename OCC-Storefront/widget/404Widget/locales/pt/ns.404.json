@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Página Não Encontrada",
+    "error404" : "Erro 404: ",
+    "pageNotFoundText" : "Pode ter introduzido a morada incorretamente ou a página foi atualizada ou apagada.",
+    "lnkHome" : "Página Principal",
+    "lnkBack" : "Retroceder"            
+  }
+}

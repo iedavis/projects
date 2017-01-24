@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "102": "(102) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "104": "(104) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "110": "(110) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "150": "(150) Wystąpił problem techniczny podczas próby kontaktu z bankiem wystawiającym kartę kredytową. Proszę spróbować ponownie lub użyć innej karty.",
+    "151": "(151) Wystąpił problem techniczny. Proszę spróbować ponownie za jakiś czas.",
+    "152": "(152) Wystąpił problem techniczny. Proszę spróbować ponownie za jakiś czas.",
+    "200": "(200) Podany adres płatnika jest niezgodny z adresem zarejestrowanym dla karty kredytowej. Proszę sprawdzić adres i spróbować ponownie.",
+    "201": "(201) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "202": "(202) Proszę sprawdzić datę ważności karty i spróbować ponownie.",
+    "203": "(203) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "204": "(204) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "205": "(205) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "207": "(207) Wystąpił problem techniczny podczas próby kontaktu z bankiem wystawiającym kartę kredytową. Proszę spróbować ponownie lub użyć innej karty.",
+    "208": "(208) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "209": "(209) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "210": "(210) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "211": "(211) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "221": "(221) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "230": "(230) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "231": "(231) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "232": "(232) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "233": "(233) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "234": "(234) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "520": "(520) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "1000": "(1000) Karta kredytowa została odrzucona, proszę użyć innej karty.",
+    "476": "(476) Nie uwierzytelniono użycia karty, proszę użyć innej karty.",
+    "paymentErrorText":"Wystąpił problem techniczny. Proszę spróbować ponownie za jakiś czas.",
+    "processingText": "Trwa przetwarzanie, proszę czekać. Kliknięcie przycisku odświeżania lub przycisku Wstecz może spowodować przerwanie lub zakończenie transakcji."
+  }
+}

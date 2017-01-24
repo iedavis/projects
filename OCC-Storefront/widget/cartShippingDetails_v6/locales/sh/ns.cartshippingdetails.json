@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Izračunajte troškove isporuke i poreza (opcionalno)",
+    "cartShippingErrorMsg": "Uverite se da ste popunili sva polja za isporuku i da ste korigovali nevažeće unose.",
+    "countryText": "Zemlja",
+    "stateText": "Država",
+    "zipCodeText": "Poštanski broj",
+    "countryRequired": "Zemlja je obavezna. ",
+    "stateRequired": "Država je obavezna. ",
+    "zipCodeRequired": "Poštanski broj je obavezan. ",
+    "zipCodeInvalid": "Nevažeći unos. Unesite važeći poštanski broj.",
+    "stateRegionText": "Država/region",
+    "noShippingSelectedText": "Nije izabran nijedan način isporuke.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Za vašu odredišnu adresu nije dostupan nijedan način isporuke.",
+    "noShippingMethodsForAddressText": "Nismo uspeli da preuzmemo načine isporuke za unetu adresu isporuke",
+    "fetchingShippingMethodsText": "Preuzimanje načina isporuke za adrese",
+    "invalidShippingAddress": "Navedena je nevažeća adresa isporuke.",
+    "invalidShippingMethod": "Naveden je nevažeći način isporuke.",
+    "pricingError" : "Nije moguće izračunati troškove isporuke i poreza. Proverite adresu isporuke.",
+    "invalidPreviousAddress": "Više ne isporučujemo artikle na adresu za isporuku koju ste prethodno koristili.",
+    "shippingMethodNoLongerAvailable": "Prethodno odabrani način isporuke više nije na raspolaganju. Proverite odabrani način isporuke pre slanja narudžbine."
+  }
+}

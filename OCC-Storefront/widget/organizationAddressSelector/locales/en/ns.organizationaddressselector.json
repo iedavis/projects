@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Checkout",
+    "defaultAddressLabel": "Default Address",
+    "billingAddressText" : "Billing Address",
+    "noAddressesText" : "No addresses saved.",
+    "firstNameText": "First Name",
+    "lastNameText": "Last Name",
+    "shippingAddressText": "Shipping Address",
+    "checkoutErrorMsg": "Please ensure you have completed all mandatory fields and corrected any invalid entries.",
+    "firstNameRequired": "First Name is mandatory. ",
+    "lastNameRequired": "Last Name is mandatory. ",
+    "unsupportedShippingAddressText": "Shipping is not available to this address.",
+    "invalidBillingAddressText": "Your shipping address cannot be used as the billing address. Please enter a billing address.",
+    "invalidPreviousAddress": "We no longer ship to your previously used shipping address."
+  }
+}

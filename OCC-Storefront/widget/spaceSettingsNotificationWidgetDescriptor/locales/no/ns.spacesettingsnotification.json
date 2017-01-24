@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Innstillinger for e-postvarsling",
+    "spaceSettingsNotificationIntroText" : "Jeg ønsker å motta:",
+    "spaceSettingsCommentNotificationTxt" : "Kommentar- og produktvarsler",
+    "spaceSettingsNewMemberNotificationTxt" : "Varsler om nye medlemmer",
+    "spaceSettingsSaveTxt" : "Lagre",
+    "spaceSettingsCancelTxt" : "Avbryt",
+    "spaceSettingsSaveErrorTxt" : "Det oppstod et problem under lagring av endringene i varslingsinnstillingene.",
+    "spaceSettingsSaveSuccessTxt" : "Varslingsinnstillingene er oppdatert og lagret.",
+    "spaceSettingsOnText" : "Ja",
+    "spaceSettingsOffText" : "Nei",
+    "spaceSettingsNotificationEnableHelpText" : "Velg Jeg ønsker oppdateringer på e-post på siden Min konto for å aktivere ønskelistevarsler."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Сводка корзины",
+    "quantityText": "Количество: ",
+    "colorText": "Цвет: ",
+    "sizeText": "Размер: ",
+    "instockText": "На складе",
+    "outofstockText": "Нет в наличии",
+    "estimiatedShippingText": "Расчетная доставка: ",
+    "buttonEditCartSummary": "Изменить",
+    "editCartText": "Изменить карту",
+    "seeAllProducts": "Просмотр всех продуктов",
+    "showAll": "Показать все",
+    "cartSummaryItemLimitText": "Отображение начальных __noOfItems__ товаров корзины"
+  }
+}

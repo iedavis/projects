@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Syötä niiden nimikkeiden enimmäismäärä, jotka haluat näyttää ostoskorin yhteenvedossa.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Ostoskorin yhteenvedossa olevien kohteiden enimmäismäärä"
+  }
+}

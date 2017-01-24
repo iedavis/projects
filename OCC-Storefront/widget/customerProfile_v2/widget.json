@@ -1,0 +1,19 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "customerprofile",
+  "imports": [
+    "shippingCountries",
+    "defaultShippingCountry"
+  ],
+  "javascript": "customerProfile",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Customer Profile",
+  "pageTypes": ["profile"],
+  "source": 100,
+  "version": 2,
+  "widgetFamily": "customerProfile",
+  "widgetType": "customerProfile"
+}

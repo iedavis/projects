@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "102": "(102) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "104": "(104) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "110": "(110) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "150": "(150) Technikai probléma miatt nem sikerült felvenni a kapcsolatot a hitelkártyáját kibocsátó bankkal. Próbálkozzon újra, vagy használjon másik hitelkártyát.",
+    "151": "(151) Technikai probléma merült fel. Próbálkozzon újra valamivel később.",
+    "152": "(152) Technikai probléma merült fel. Próbálkozzon újra valamivel később.",
+    "200": "(200) A megadott számlázási cím nem egyezik a hitelkártyához bejegyzett címmel. Ellenőrizze a címet, majd próbálkozzon újra.",
+    "201": "(201) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "202": "(202) Ellenőrizze a hitelkártya lejárati dátumát, majd próbálkozzon újra.",
+    "203": "(203) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "204": "(204) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "205": "(205) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "207": "(207) Technikai probléma miatt nem sikerült felvenni a kapcsolatot a hitelkártyáját kibocsátó bankkal. Próbálkozzon újra, vagy használjon másik hitelkártyát.",
+    "208": "(208) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "209": "(209) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "210": "(210) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "211": "(211) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "221": "(221) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "230": "(230) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "231": "(231) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "232": "(232) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "233": "(233) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "234": "(234) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "520": "(520) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "1000": "(1000) Hitelkártyáját elutasították, használjon másik kártyát.",
+    "476": "(476) A kártya nincs hitelesítve használatra. Használjon másik kártyát.",
+    "paymentErrorText":"Technikai probléma merült fel. Próbálkozzon újra valamivel később.",
+    "processingText": "A feldolgozás folyik, kérjük várjon. Ne kattintson a Frissítés vagy a Vissza gombra, mert a tranzakció megszakadhat vagy leállhat."
+  }
+}

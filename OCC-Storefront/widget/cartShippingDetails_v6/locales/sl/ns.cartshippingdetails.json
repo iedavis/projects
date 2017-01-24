@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Izračun pošiljanja in davkov (izbirno)",
+    "cartShippingErrorMsg": "Poskrbite, da ste izpolnili vsa polja za pošiljanje in popravili vse neveljavne vnose.",
+    "countryText": "Država",
+    "stateText": "Zvezna država",
+    "zipCodeText": "Poštna številka",
+    "countryRequired": "Država je obvezna. ",
+    "stateRequired": "Zvezna država je obvezna. ",
+    "zipCodeRequired": "Poštna številka je obvezna. ",
+    "zipCodeInvalid": "Neveljaven vnos. Vnesite veljavno poštno številko.",
+    "stateRegionText": "Zvezna država/področje",
+    "noShippingSelectedText": "Nobena metoda pošiljanja ni izbrana.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Za vaš namembni naslov ni razpoložljiva nobena metoda pošiljanja.",
+    "noShippingMethodsForAddressText": "Pridobivanje metod pošiljanja za vneseni naslov za pošiljanje ni uspelo",
+    "fetchingShippingMethodsText": "Pridobivanje metod pošiljanja za naslov",
+    "invalidShippingAddress": "Naveden je neveljaven naslov za pošiljanje.",
+    "invalidShippingMethod": "Navedena je neveljavna metoda pošiljanja.",
+    "pricingError" : "Ni mogoče izračunati stroškov pošiljanja in davkov. Preverite naslov za pošiljanje.",
+    "invalidPreviousAddress": "Na vaš predhodno uporabljen naslov za pošiljanje ne pošiljamo več.",
+    "shippingMethodNoLongerAvailable": "Prejšnja izbrana metoda pošiljanja ni več razpoložljiva. Preverite metodo pošiljanja pred oddajo naročila."
+  }
+}

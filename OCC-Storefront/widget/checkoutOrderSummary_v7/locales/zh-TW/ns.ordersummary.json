@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "訂單摘要",
+    "subtotalText": "小計：",
+    "shippingOptionsText": "出貨選項",
+    "salesTaxText": "營業稅：",
+    "orderTotalText": "訂單總計：",
+    "placeOrderText": "下單",
+    "scheduleOrderText": "排程訂單",
+    "noShippingText": "沒有出貨",
+    "shippingText": "出貨：__displayName__",    
+    "applicableTaxesText": "結帳時會計算適用的稅額。",
+    "paymentOptionsText": "付款選項",
+    "checkoutText": "結帳",
+    "noShippingSelectedText": "未選取出貨方式。",
+    "shippingAddressRequired": "請輸入出貨地址",
+    "noShippingMethodsText": "您的目的地地址沒有可用的出貨方式。",
+    "noShippingMethodsForAddressText": "選取的地址沒有可用的出貨方式",
+    "checkoutErrorMsg": "請確認您已完成所有必要欄位，且已更正所有無效的項目。",
+    "rePricingText":"重新訂價",
+    "removeLinkText":"移除",
+    "paymentMessage": "您看到的下一個畫面可能是透過您的發卡機構驗證付款卡的畫面。",
+    "includingTaxText": "(含稅)",
+    "totalExcludingTaxText": "總計 (不含稅)：",
+    "paymentMethodNotAvilable": "(排定訂單不得使用此付款選項。)",
+    "selectShippingMethodText": "選取出貨方式"
+  }
+}

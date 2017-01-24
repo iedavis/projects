@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Mokėjimo informacija",
+  "paymentMethod": "Mokėjimo būdas",
+  "paypalText": "Saugesnis, paprastesnis būdas apmokėti.", 
+  "paymentDetailsError": "Įsitikinkite, kad užpildėte visus privalomus laukus ir ištaisėte visus netinkamus įrašus.",
+  "paymentMethodNotAvilable": "(Šio mokėjimo parinkties suplanuotiems užsakymams naudoti negalima.)",
+  
+  "nameOnCardLabel": "Ant kortelės nurodytas vardas",
+  "nameOnCardPlaceholder": "Ant kortelės nurodytas vardas",
+  "nameOnCardRequired": "Kortelės pavadinimas yra privalomas.",
+  "nameOnCardInvalid": "Pateiktas neteisingas ant kortelės nurodytas vardas.",
+  
+  "cardTypeLabel": "Kortelės tipas",
+  "cardTypePlaceholder": "Kortelės tipas",
+  "cardTypeRequired": "Kortelės tipas yra privalomas",
+  "cardTypeInvalid": "Kortelės tipas neleistinas.",
+  
+  "cardNumberLabel": "Kortelės numeris",
+  "cardNumberPlaceholder": "Kortelės numeris",
+  "cardNumberRequired": "Kortelės serijinis numeris privalomas.",
+  "cardNumberMaxLength":"Neteisinga įvestis. Neviršykite maksimalaus simbolių skaičiaus (__maxLength__).",
+  "cardNumberInvalid": "Neteisingas kortelės numeris, bandykite dar kartą.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV yra privalomas.",
+  "cardCVVInvalid": "CVV netinkamas.",
+  "cardCVVWhatsThis": "Kas tai?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Paskutiniai 3 skaičiai ant parašo juostelės kortelės.",
+  "cardCVVNumberInvalid": "Neleistinas įrašas. Įveskite tik skaitmenis.",
+  "cardCVVNumberMaxLength": "Neleistinas įrašas. Neviršykite maksimalaus leidžiamų 4 simbolių skaičiaus.",
+  "cardCVVNumberMinLength": "Neleistinas įrašas. Įveskite bent 3 simbolius.",
+  
+  "endMonthLabel": "Galiojimo pabaigos data (mėnuo)",
+  "endMonthPlaceholder": "Galiojimo pabaigos data (mėnuo)",
+  "endMonthRequired": "Kortelės galiojimo pabaigos mėnesį nurodyti būtina.",
+  "endMonthInvalid": "Neteisingas galiojimo pabaigos mėnuo / metai, bandykite dar kartą.",
+  
+  "endYearLabel": "Galiojimo pabaiga (metai)",
+  "endYearPlaceholder": "Galiojimo pabaiga (metai)",
+  "endYearRequired": "Kortelės galiojimo pabaigos metus nurodyti būtina.",
+  "endYearInvalid": "Neteisingas galiojimo pabaigos mėnuo / metai, bandykite dar kartą.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

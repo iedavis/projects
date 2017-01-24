@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Achiziţie",
+    "defaultAddressLabel": "Adresă prestabilită",
+    "billingAddressText" : "Adresă de facturare",
+    "noAddressesText" : "Nu a fost salvată nicio adresă.",
+    "firstNameText": "Prenume",
+    "lastNameText": "Nume de familie",
+    "shippingAddressText": "Adresă de expediere",
+    "checkoutErrorMsg": "Asiguraţi-vă că aţi completat toate câmpurile obligatorii şi aţi corectat toate intrările nevalide.",
+    "firstNameRequired": "Prenumele este obligatoriu.",
+    "lastNameRequired": "Numele de familie este obligatoriu.",
+    "unsupportedShippingAddressText": "Expedierea nu este disponibilă către această adresă.",
+    "invalidBillingAddressText": "Adresa dvs. de expediere nu poate fi utilizată ca adresă de facturare. Introduceţi o adresă de facturare.",
+    "invalidPreviousAddress": "Nu mai expediem către adresa dvs. de expediere utilizată anterior."
+  }
+}

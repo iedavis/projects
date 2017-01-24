@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Med obdelavo plačila pri prehodu je prišlo do napake. Poskusite znova.",
+    "paymentDeclinedMsg": "Plačilo je bilo zavrnjeno. Poskusite znova.",
+    "paymentExpiredMsg": "Plačilo je poteklo. Poskusite znova.",
+    "paymentErrorMsg": "Napaka pri obdelavi plačila. Poskusite znova.",
+    "payByCashText": "Plačilo z gotovino",
+    "invoicePaymentMsg": "Zahteva za fakturo",
+    "purchaseOrderNumberMsg":"Številka naročilnice"
+  }
+}

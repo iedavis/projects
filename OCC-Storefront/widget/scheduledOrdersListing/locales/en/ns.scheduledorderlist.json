@@ -1,0 +1,21 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Scheduled Orders",
+    "backToMyAccount" : "<< Back to My Account",
+    "scheduledOrderName" : "Name",
+    "frequency": "Frequency",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Status",
+    "nextShipDate": "Next Order",
+    "lastScheduledRun": "Last Order",
+    "scheduledOrderDetails": "Order Details",
+    "orderDetails": "Details",
+    "action": "Action",
+    "createdDate":"Date Created",
+    "editOrder": "Edit",
+    "deleteOrder": "Delete",
+    "deleteSuccessMsg":"Successfully deleted",
+    "myAccount" : "My Account",
+    "NoItemDisplayMessage": "No Items to display."
+  }
+}

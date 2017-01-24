@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Prikaz atributa",
+    "numberOfRelatedProductsHelpText": "Unesite broj srodnih proizvoda koji će se prikazati u izlogu",
+    "numberOfRelatedProductsTextLabel": "Broj srodnih proizvoda",
+    "displayNameOfRelatedProductsTextLabel": "Naziv proizvoda",
+    "displayPriceOfRelatedProductsTextLabel": "Cijena"
+  }
+}

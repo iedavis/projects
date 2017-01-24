@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Tervetuloa, __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Kutsu on jo hyväksytty.",
+    "spaceNotFound" : "Toivomuslistaa, jota yrität käyttää, ei löydy.",
+    "invitationExpiredError" : "Kutsusi on vanhentunut. Ota yhteyttä sen toivomuslistan omistajaan, johon haluat liittyä, ja pyydä häntä kutsumaan sinut uudelleen.",
+    "memberJoinError" : "Virhe kutsussa.",
+    "pleaseWaitProcessingMsg" : "Odota, kun kutsua käsitellään."
+  }
+}

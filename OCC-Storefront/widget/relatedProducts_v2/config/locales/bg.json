@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Показване на атрибути",
+    "numberOfRelatedProductsHelpText": "Въведете броя свързани продукти, които да бъдат показвани във въртележката",
+    "numberOfRelatedProductsTextLabel": "Брой свързани продукти",
+    "displayNameOfRelatedProductsTextLabel": "Име на продукт",
+    "displayPriceOfRelatedProductsTextLabel": "Цена"
+  }
+}

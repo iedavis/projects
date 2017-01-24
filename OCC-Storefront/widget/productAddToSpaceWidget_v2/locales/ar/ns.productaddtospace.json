@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "إضافة إلى قائمة الرغبات",
+    "spaceSelectionText": "تحديد قائمة رغبات",
+    "spaceCommentText": "أدخل تعليقًا...",
+    "spaceNameText": "الاسم",
+    "buttonSpaceAdd": "إضافة",
+    "buttonSpaceCancel": "إلغاء",
+    "mySpacesGroupText": "قوائم الرغبات الخاصة بي",
+    "joinedSpacesGroupText": "قوائم الرغبات التي تم الانضمام إليها",
+    "createNewSpaceOptText": "قائمة الرغبات الجديدة...",
+    "addToSpaceSuccessMsg" : "تم بنجاح إضافة __socialproduct__ إلى __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "هذا الصنف موجود بالفعل في قائمة الرغبات. لقد قمنا بتحديث تاريخ الإضافة.",
+    "addToSpaceProductViewWishListMsg" : "  عرض __wishlistname__",
+    "spaceAddProductError" : "حدث خطأ أثناء محاولة نشر منتج في قائمة الرغبات. حاول تجديد الصفحة الخاصة بك.",
+    "uniqueNameMsg": "يجب أن يكون اسم قائمة الرغبات فريدًا.",
+    "emptyNameMsg": "يجب ألا يكون الاسم خاليًا",
+    "privacySettingsLabel": "إعدادات الخصوصية",
+    "privacySettingsDescription": "ستغير دعوة الأصدقاء إلى قائمة رغبات خاصة إعداد الخصوصية الخاص بك إلى مجموعة. سيؤدي إرسال قائمة رغبات خاصة أو مجموعة عن طريق البريد الإلكتروني أو مشاركتها على شبكة تواصل اجتماعي إلى جعلها قائمة مشتركة.",
+    "privacySharedLabel": "يمكن لأي شخص لديه رابط أن يرى هذه القائمة. يمكنك أنت فقط والأشخاص الذين تقوم بدعوتهم رؤية هذه القائمة والتعليق عليها والإضافة إليها.",
+    "privacyGroupLabel": "يمكنك أنت فقط والأشخاص الذين تقوم بدعوتهم رؤية هذه القائمة والتعليق عليها والإضافة إليها.",
+    "privacyPrivateLabel": "يمكنك أنت فقط رؤية هذه القائمة والتعليق عليها والإضافة إليها.",
+    "spaceAccessPrivateIconTxt" : "خاص",
+    "spaceAccessSharedIconTxt" : "مشترك",
+    "spaceAccessGroupIconTxt" : "مجموعة",
+    "spaceCreateMaxSpacesMsg" : "حدثت مشكلة أثناء تكوين قائمة الرغبات. لقد تجاوزت الحد لعدد قوائم الرغبات. الرجاء حذف قائمة رغبات موجودة قبل تكوين قائمة رغبات جديدة.",
+    "productAddMaxProductsMsg" : "حدثت مشكلة أثناء إضافة المنتج إلى قائمة الرغبات. لقد تجاوزت الحد لعدد المنشورات في قائمة رغبات. الرجاء حذف منتج موجود من قائمة رغبات الوجهة قبل إضافة منتج جديد."
+  }
+}

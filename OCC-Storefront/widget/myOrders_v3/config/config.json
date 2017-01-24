@@ -1,0 +1,12 @@
+{
+  "widgetDescriptorName": "orderHistoryWidget",
+  "properties": [{
+      "id": "includeScheduledInformation",
+      "type": "booleanType",
+      "name": "includeScheduledInformation",
+      "helpTextResourceId": "includeScheduledHelpText",
+      "labelResourceId": "includeScheduledTextLabel",
+      "defaultValue": false
+    }    
+  ]
+}

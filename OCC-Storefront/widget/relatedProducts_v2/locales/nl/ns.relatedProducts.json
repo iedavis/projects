@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Vorige afbeeldingen",
+    "nextImageText" : "Volgende afbeeldingen",
+    "onSaleText": "Uitverkoop",
+    "salePriceText": "Verkoopprijs",
+    "listPriceText": "Catalogusprijs",
+    "relatedProductsText": "Gerelateerde producten"
+  }
+}

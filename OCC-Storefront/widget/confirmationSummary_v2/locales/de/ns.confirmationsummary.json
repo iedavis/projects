@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Bestellübersicht", 
+    "orderDoesNotExist": "Bestellung ist nicht vorhanden.", 
+    "subTotalText": "Zwischensumme:", 
+    "salesTaxText": "Umsatzsteuer:", 
+    "orderTotalText": "Gesamtsumme Bestellung:", 
+    "continueShoppingText": "Einkauf fortsetzen",
+    "delimiter": ":",
+    "includingTaxText": "(mit Steuer)",
+    "totalExcludingTaxText": "Summe (ohne Steuer):"
+  }
+}

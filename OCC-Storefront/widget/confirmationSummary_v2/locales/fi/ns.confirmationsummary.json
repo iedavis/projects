@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Tilausyhteenveto", 
+    "orderDoesNotExist": "Tilausta ei ole.", 
+    "subTotalText": "Välisumma:", 
+    "salesTaxText": "Alv:", 
+    "orderTotalText": "Tilaus yhteensä:", 
+    "continueShoppingText": "Jatka ostoksia",
+    "delimiter": ":",
+    "includingTaxText": "(sisältää veron)",
+    "totalExcludingTaxText": "Yhteensä (ilman veroa): "
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-social-sharing",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "การแชร์ทางโซเชียล"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Compartilh. Social"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "社交共享"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Обмін у соцмережах"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Социално споделяне"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Suhtlusvõrgus jagam."
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Kopīg. soc. tīklos"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Bend. soc. tinkluose"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Sosial deling"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Partajare socială"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Partage dans réseaux"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "ソーシャル共有"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Družabna skupna raba"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Общ. дост. в соцсетях"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Dijeljenje mrežama"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Sosyal Paylaşım"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Udost. w serw. społ."
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "社交分享"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "소셜 공유"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Sdílení v soc. sítích"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Közösségi megosztás"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Κοιν. σε κοιν. δίκτυα"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Social Sharing"
+    },
+    {
+      "description": "Share product to social networks",
+      "language": "en",
+      "title": "Social Sharing"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Дељење на друш. мреж."
+    },
+    {
+      "description": "[DE][Share product to social networks ä]",
+      "language": "de",
+      "title": "Social Sharing"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Uso compartido social"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Partage social"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Condivisione social"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Sociaal delen"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Social delning"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Partilha Social"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Sosiaalinen jakaminen"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

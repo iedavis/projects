@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Rendelés összesítése", 
+    "orderDoesNotExist": "A rendelés nem létezik.", 
+    "subTotalText": "Részösszeg:", 
+    "salesTaxText": "Forgalmi adó:", 
+    "orderTotalText": "Rendelés végösszege:", 
+    "continueShoppingText": "Vásárlás folytatása",
+    "delimiter": ":",
+    "includingTaxText": "(adóval)",
+    "totalExcludingTaxText": "Összesen (adó nélkül):"
+  }
+}

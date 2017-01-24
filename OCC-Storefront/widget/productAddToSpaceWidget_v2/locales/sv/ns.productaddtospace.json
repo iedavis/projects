@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Lägg till i önskelista",
+    "spaceSelectionText": "Välj en önskelista",
+    "spaceCommentText": "Ange en kommentar...",
+    "spaceNameText": "Namn",
+    "buttonSpaceAdd": "Lägg till",
+    "buttonSpaceCancel": "Avbryt",
+    "mySpacesGroupText": "Mina önskelistor",
+    "joinedSpacesGroupText": "Anslutna önskelistor",
+    "createNewSpaceOptText": "Ny önskelista …",
+    "addToSpaceSuccessMsg" : "Utfört! __socialproduct__ har lagts till i __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Den här artikeln ingår redan i önskelistan. Vi har uppdaterat datumet i Tillagd den.",
+    "addToSpaceProductViewWishListMsg" : "  Visa __wishlistname__",
+    "spaceAddProductError" : "Ett fel uppstod vid försök att lägga till en produkt i önskelistan. Försök förnya sidan.",
+    "uniqueNameMsg": "Namnet på önskelistan måste vara unikt.",
+    "emptyNameMsg": "Namnet får inte vara tomt",
+    "privacySettingsLabel": "Sekretessinställningar",
+    "privacySettingsDescription": "Om du bjuder in vänner till en privat önskelista kommer sekretessinställningarna ändras till Grupp. Om du skickar en privat önskelista eller gruppönskelista via e-post eller delar den på ett socialt nätverk blir den en delad önskelista.",
+    "privacySharedLabel": "Alla med en länk kan se den här listan. Endast du och de personer du bjuder in kan se och kommentera listan och lägga till poster i listan.",
+    "privacyGroupLabel": "Endast du och de personer du bjuder in kan se och kommentera listan och lägga till poster i listan.",
+    "privacyPrivateLabel": "Endast du kan se listan och lägga till poster i den.",
+    "spaceAccessPrivateIconTxt" : "Privat",
+    "spaceAccessSharedIconTxt" : "Delad",
+    "spaceAccessGroupIconTxt" : "Grupp",
+    "spaceCreateMaxSpacesMsg" : "Problem när önskelistan skapades. Du har överskridit gränsen för antalet önskelistor. Ta bort en befintlig önskelista innan du skapar en ny.",
+    "productAddMaxProductsMsg" : "Problem när produkten skulle läggas till i önskelistan. Du har överskridit gränsen för antalet inlägg i en önskelista. Ta bort en befintlig produkt från målönskelistan innan du lägger till en ny."
+  }
+}

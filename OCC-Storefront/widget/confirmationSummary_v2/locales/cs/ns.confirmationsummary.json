@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Objednávka - shrnutí", 
+    "orderDoesNotExist": "Objednávka neexistuje.", 
+    "subTotalText": "Mezisoučet:", 
+    "salesTaxText": "Daň z prodeje:", 
+    "orderTotalText": "Celkem za objednávku:", 
+    "continueShoppingText": "Pokračovat v nakupování",
+    "delimiter": ":",
+    "includingTaxText": "(včetně daně)",
+    "totalExcludingTaxText": "Celkem (bez daně): "
+  }
+}

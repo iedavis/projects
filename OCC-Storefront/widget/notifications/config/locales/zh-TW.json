@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "設定是否允許無錯誤逾時通知。",
+    "notificationsTimeoutEnabledTextLabel": "啟用逾時",
+    "notificationsTimeoutHelpText": "設定無錯誤逾時通知 (以秒計)。",
+    "notificationsTimeoutTextLabel": "逾時 (以秒計)",
+    "notificationsFixedHelpText": "設定通知小工具是否應固定至頁面頂端。",
+    "notificationsFixedTextLabel": "固定"
+  }
+}

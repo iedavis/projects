@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "閘道處理付款期間發生錯誤。請重試。",
+    "paymentDeclinedMsg": "付款已遭拒。請重試。",
+    "paymentExpiredMsg": "付款已到期。請重試。",
+    "paymentErrorMsg": "處理付款時發生錯誤。請重試。",
+    "payByCashText": "以現金支付",
+    "invoicePaymentMsg": "要求商業發票",
+    "purchaseOrderNumberMsg":"採購單編號"
+  }
+}

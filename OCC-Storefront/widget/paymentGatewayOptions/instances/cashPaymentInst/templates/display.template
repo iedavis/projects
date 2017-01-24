@@ -1,0 +1,9 @@
+  <!-- oc layout: panels -->
+  <div class="row">
+    <div data-oc-id="panel-paymentGatewayOptions" class="oc-panel">
+      <!-- oc section: payU-gateway- -->
+        <div data-bind="element: 'payU-gateway'"></div>
+      <!-- /oc -->
+    </div>
+  </div>
+  <!-- /oc -->

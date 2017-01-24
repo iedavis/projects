@@ -1,0 +1,85 @@
+<pipelinemanager>
+
+<!-- This chain updates (saves) an Order to the repository -->
+    <pipelinechain name="validateGoogleOrder" resultclassname="atg.service.pipeline.PipelineResultImpl" classname="atg.service.pipeline.PipelineChain" transaction="TX_REQUIRED" headlink="validateOrderPipeline">
+        <pipelinelink name="validateOrderPipeline" transaction="TX_MANDATORY">
+            <processor jndi="/com/google/checkout/processor/ValidateOrder"/>
+            <transition returnvalue="1" link="validateSingleShippingGroup"/>
+        </pipelinelink>
+        <pipelinelink name="validateSingleShippingGroup" transaction="TX_MANDATORY">
+            <processor jndi="/com/google/checkout/processor/ValidateSingleShippingGroup"/>
+            <transition returnvalue="1" link="validateHardGoodItems"/>
+        </pipelinelink>
+        <pipelinelink name="validateHardGoodItems" transaction="TX_MANDATORY">
+            <processor jndi="/com/google/checkout/processor/ValidateHardgoodCommerceItems"/>          
+        </pipelinelink>        
+    </pipelinechain>
+	
+	
+	<pipelinechain name="processGoogleOrder" resultclassname="atg.service.pipeline.PipelineResultImpl" classname="atg.service.pipeline.PipelineChain" headlink="executeGoogleValidateForCheckoutChain" transaction="TX_REQUIRED">
+        <pipelinelink name="executeGoogleValidateForCheckoutChain" transaction="TX_MANDATORY">
+            <processor jndi="/atg/commerce/order/processor/ExecuteValidateForCheckoutChain"/>
+            <transition link="googleRemoveEmptyShippingGroups" returnvalue="1"/>
+        </pipelinelink>
+        
+        <pipelinelink name="googleRemoveEmptyShippingGroups" transaction="TX_MANDATORY">
+            <processor jndi="/atg/commerce/order/processor/RemoveEmptyShippingGroups"/>
+            <transition link="googleRemoveEmptyPaymentGroups" returnvalue="1"/>
+        </pipelinelink>
+        <pipelinelink name="googleRemoveEmptyPaymentGroups" transaction="TX_MANDATORY">
+            <processor jndi="/atg/commerce/order/processor/RemoveEmptyPaymentGroups"/>
+            <transition link="googleCreateImplicitRelationships" returnvalue="1"/>
+        </pipelinelink>
+        <pipelinelink name="googleCreateImplicitRelationships" transaction="TX_MANDATORY">
+            <processor jndi="/atg/commerce/order/processor/CreateImplicitRelationships"/>
+            <transition link="googleSetPaymentGroupAmount" returnvalue="1"/>
+        </pipelinelink>
+        <pipelinelink name="googleSetPaymentGroupAmount" transaction="TX_MANDATORY">
+            <processor jndi="/atg/commerce/order/processor/SetPaymentGroupAmount"/>
+            <transition link="googleMoveUsedPromotions" returnvalue="1"/>
+        </pipelinelink>
+        <pipelinelink name="googleMoveUsedPromotions" transaction="TX_MANDATORY">
+            <processor jndi="/atg/commerce/order/processor/MoveUsedPromotions"/>
+            <transition link="googleUpdateGiftRepository" returnvalue="1"/>
+        </pipelinelink>
+     
+          <pipelinelink name="googleUpdateGiftRepository" transaction="TX_MANDATORY">
+			  <processor jndi="/atg/commerce/order/processor/UpdateGiftRepository"/>
+			  <transition link="googleSendGiftPurchasedMessage" returnvalue="1"/>
+		  </pipelinelink>
+        <pipelinelink name="googleSendGiftPurchasedMessage" transaction="TX_MANDATORY">
+				 <processor jndi="/atg/commerce/order/processor/SendGiftPurchasedMessage"/>
+				 <transition link="updateGoogleState" returnvalue="1"/>
+			 </pipelinelink>
+		<pipelinelink name="updateGoogleState" transaction="TX_MANDATORY">
+            <processor jndi="/com/google/checkout/processor/UpdateGoogleState"/>
+			<transition link="addGoogleOrderToRepository" returnvalue="1"/>
+        </pipelinelink>
+        <pipelinelink name="addGoogleOrderToRepository" transaction="TX_MANDATORY">
+            <processor jndi="/atg/commerce/order/processor/AddOrderToRepository"/>
+            <transition link="sendGooglePromotionUsedMessage" returnvalue="1"/>
+        </pipelinelink>
+        <pipelinelink name="sendGooglePromotionUsedMessage" transaction="TX_MANDATORY">
+            <processor jndi="/atg/commerce/order/processor/SendPromotionUsedMessage"/>
+          
+        </pipelinelink>
+    </pipelinechain>
+	
+	<!-- This chain updates (saves) an Order to the repository -->
+    <pipelinechain name="updateGoogleOrdeStatePipline" resultclassname="atg.service.pipeline.PipelineResultImpl" classname="atg.service.pipeline.PipelineChain" transaction="TX_REQUIRED" headlink="updateGoogleOrderState">
+        <pipelinelink name="updateGoogleOrderState" transaction="TX_MANDATORY">
+           <processor jndi="/com/google/checkout/processor/UpdateGoogleState"/>
+        </pipelinelink>
+    </pipelinechain>
+	
+   	
+	<!-- This chain updates (saves) an Order to the repository -->
+    <pipelinechain name="submitGoogleOrderChain" resultclassname="atg.service.pipeline.PipelineResultImpl" classname="atg.service.pipeline.PipelineChain" transaction="TX_REQUIRED" headlink="sendFulfillmentMessage2">
+      
+       <pipelinelink name="sendFulfillmentMessage2" transaction="TX_MANDATORY">
+            <processor jndi="/atg/commerce/order/processor/SendFulfillmentMessage"/>
+        </pipelinelink>
+		
+    </pipelinechain>
+    
+</pipelinemanager>    

@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "属性の表示",
+    "numberOfRelatedProductsHelpText": "カルーセルに表示する関連製品の数を入力してください",
+    "numberOfRelatedProductsTextLabel": "関連製品数",
+    "displayNameOfRelatedProductsTextLabel": "製品名",
+    "displayPriceOfRelatedProductsTextLabel": "価格"
+  }
+}

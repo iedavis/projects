@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Ajouter à la liste de souhaits",
+    "spaceSelectionText": "Sélectionner une liste de souhaits",
+    "spaceCommentText": "Entrer un commentaire...",
+    "spaceNameText": "Nom",
+    "buttonSpaceAdd": "Ajouter",
+    "buttonSpaceCancel": "Annuler",
+    "mySpacesGroupText": "Mes listes de souhaits",
+    "joinedSpacesGroupText": "Listes de souhaits jointes",
+    "createNewSpaceOptText": "Nouvelle liste de souhaits...",
+    "addToSpaceSuccessMsg" : "__socialproduct__ a été ajouté à __socialspacename__ avec succès.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Cet article était déjà dans la liste de souhaits. Nous avons mis à jour la date d'ajout.",
+    "addToSpaceProductViewWishListMsg" : "  Voir __wishlistname__",
+    "spaceAddProductError" : "Erreur lors de la tentative de publication d'un produit pour la liste de souhaits. Essayez d'actualiser votre page.",
+    "uniqueNameMsg": "Le nom de la liste de souhaits doit être unique.",
+    "emptyNameMsg": "Le nom ne doit pas être vide",
+    "privacySettingsLabel": "Paramètre de vie privée",
+    "privacySettingsDescription": "Si vous invitez des amis à rejoindre une liste de souhaits privée, vos paramètres de vie privée prennent le statut Groupe. L'envoi d'une liste de souhaits privée ou de groupe par courriel ou le partage de la liste sur un réseau social la transforme en liste partagée.",
+    "privacySharedLabel": "Tout le monde à l'aide d'un lien peut voir cette liste. Seuls vous et les personnes que vous invitez peuvent voir, commenter et faire des ajouts à cette liste.",
+    "privacyGroupLabel": "Seuls vous et les personnes que vous invitez peuvent voir, commenter et faire des ajouts à cette liste.",
+    "privacyPrivateLabel": "Vous seul pouvez voir la liste et y faire des ajouts.",
+    "spaceAccessPrivateIconTxt" : "Privée",
+    "spaceAccessSharedIconTxt" : "Partagée",
+    "spaceAccessGroupIconTxt" : "Groupe",
+    "spaceCreateMaxSpacesMsg" : "Problème lors de la création de la liste de souhaits. Vous avez dépassé la limite relative au nombre de listes de souhaits. Supprimez une liste existante avant d'en créer une nouvelle.",
+    "productAddMaxProductsMsg" : "Problème lors de l'ajout du produit à la liste de souhaits. Vous avez dépassé la limite relative au nombre de publications dans une liste de souhaits. Supprimez un produit existant de la liste de souhaits de destination avant d'en ajouter un nouveau."
+  }
+}

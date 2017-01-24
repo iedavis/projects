@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Aloita ostaminen yhdessä jo tänään!",
+    "welcomePageLoginText": "Kirjaudu sisään",
+    "welcomePageCreateAccountText": "Luo tili",
+    "welcomePageTitle": "Tervetuloa toivomuslistoihin!",
+    "welcomePageSubtitle": "Liity toivomuslistoihin ilmaiseksi ja osallistu hupiin!",
+    "welcomePageBulletText1": "Tallenna ja järjestä tuotteita, joista olet kiinnostunut, ja saa niistä palautetta.",
+    "welcomePageBulletText2": "Voit jakaa toivomuslistoja perheenjäsenten ja ystävien kanssa sekä tehdä ostopäätöksiä yhdessä.",
+    "welcomePageBulletText3": "Käytä toivomuslistoja lahjojen löytämiseen ja niistä keskustelemiseen. Älä enää osta vääriä lahjoja!",
+    "welcomePageOrText": "tai"
+  }
+}

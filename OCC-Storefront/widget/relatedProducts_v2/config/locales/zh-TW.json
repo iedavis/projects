@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "顯示屬性",
+    "numberOfRelatedProductsHelpText": "輸入要在轉盤中顯示的相關產品數",
+    "numberOfRelatedProductsTextLabel": "相關產品數",
+    "displayNameOfRelatedProductsTextLabel": "產品名稱",
+    "displayPriceOfRelatedProductsTextLabel": "價格"
+  }
+}

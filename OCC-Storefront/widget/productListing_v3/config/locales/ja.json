@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "スタイル・ベース・リストを使用する場合は選択します。",
+    "shouldUseStyleBasedTextLabel": "スタイル・ベース・リストの使用",
+    "listTypeHelpText": "ウィジェット・インスタンスが製品リストまたは検索結果リスト・タイプのどちらであるかを選択してください。",
+    "listTypeTextLabel": "リスト・タイプ",
+    "productLabel" : "製品",
+    "searchLabel" : "検索",
+    "productListingFieldsRequiredHelpText": "応答に含めるフィールドのリストをカンマで区切って入力します。フィールド設定は、カテゴリ・ナビゲーションを通して製品リストに適用されるのみであり、検索結果には適用されません。",
+    "productListingFieldsRequiredLabel": "フィールド",
+    "productsPerPageRequiredHelpText": "1ページに表示する製品数を入力します。",
+    "productsPerPageRequiredLabel": "1ページ当たりの製品数",
+    "blockSizeRequiredHelpText": "1要求当たりにロードされる製品数を入力します。ブロック・サイズ設定は、カテゴリ・ナビゲーションを通して製品リストに適用されるのみであり、検索結果には適用されません。",
+    "blockSizeRequiredLabel": "ブロック・サイズ"
+  }
+}

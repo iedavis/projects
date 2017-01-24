@@ -1,0 +1,10 @@
+{
+  "name": "Collection Hero Image",
+  "javascript": "collectionHeroImg",
+  "pageTypes" : ["category"],
+  "imports": ["category"],
+  "config": {
+  	"imgNamePattern": "coll-{id}.jpg",
+  	"defaultImageName": "/file/general/coll-default.jpg",
+  }
+}

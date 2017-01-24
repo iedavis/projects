@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Aktivieren Sie diese Option, um die formatbasierte Auflistung zu verwenden.",
+    "shouldUseStyleBasedTextLabel": "Formatbasisauflistung verwenden",
+    "listTypeHelpText": "Wählen Sie aus, ob die Widgetinstanz eine Produktauflistung oder eine Suchergebnisliste ist.",
+    "listTypeTextLabel": "Listentyp",
+    "productLabel" : "Produkt",
+    "searchLabel" : "Suche",
+    "productListingFieldsRequiredHelpText": "Geben Sie eine durch Komma getrennte Liste der Felder ein, die in die Antwort eingeschlossen werden sollen. Die Feldeinstellung gilt nur für Produktauflistungen über die Kategorienavigation und nicht für Suchergebnisse.",
+    "productListingFieldsRequiredLabel": "Felder",
+    "productsPerPageRequiredHelpText": "Geben Sie die Anzahl der Produkte ein, die auf einer Seite angezeigt werden sollen.",
+    "productsPerPageRequiredLabel": "Produkte pro Seite",
+    "blockSizeRequiredHelpText": "Geben Sie die Anzahl der Produkte ein, die pro Anforderung geladen werden sollen. Die Blockgrößeneinstellung gilt nur für Produktauflistungen über die Kategorienavigation und nicht für Suchergebnisse.",
+    "blockSizeRequiredLabel": "Blockgröße"
+  }
+}

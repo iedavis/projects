@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Incluir ID de orden programada",
+	"includeScheduledHelpText" : "Seleccione para incluir el ID de la orden programada en la tabla de historial de órdenes"
+  }
+}

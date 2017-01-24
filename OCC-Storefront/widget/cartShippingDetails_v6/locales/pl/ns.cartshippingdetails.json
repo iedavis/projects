@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Obliczanie wysyłki i podatku (opcjonalne)",
+    "cartShippingErrorMsg": "Proszę upewnić się, że wypełniono wszystkie pola wysyłki i poprawiono ewentualne nieprawidłowe wpisy.",
+    "countryText": "Kraj",
+    "stateText": "Województwo",
+    "zipCodeText": "Kod pocztowy",
+    "countryRequired": "Pole \"Kraj\" jest obowiązkowe. ",
+    "stateRequired": "Pole \"Województwo\" jest obowiązkowe. ",
+    "zipCodeRequired": "Pole \"Kod pocztowy\" jest obowiązkowe. ",
+    "zipCodeInvalid": "Nieprawidłowy wpis. Proszę wprowadzić prawidłowy kod pocztowy.",
+    "stateRegionText": "Województwo/region",
+    "noShippingSelectedText": "Nie wybrano sposobu wysyłki.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Brak dostępnych sposobów wysyłki dotyczących adresu docelowego.",
+    "noShippingMethodsForAddressText": "Nie udało się pobrać sposobów wysyłki dotyczących wprowadzonego adresu wysyłki",
+    "fetchingShippingMethodsText": "Pobieranie sposobów wysyłki dotyczących adresu",
+    "invalidShippingAddress": "Określono nieprawidłowy adres wysyłki.",
+    "invalidShippingMethod": "Określono nieprawidłową metodę wysyłki.",
+    "pricingError" : "Nie można obliczyć kosztów wysyłki i podatku. Proszę sprawdzić adres wysyłki.",
+    "invalidPreviousAddress": "Wysyłka na poprzednio użyty adres nie jest już możliwa.",
+    "shippingMethodNoLongerAvailable": "Poprzednio wybrany sposób wysyłki jest już niedostępny. Proszę sprawdzić sposób wysyłki przed złożeniem zamówienia."
+  }
+}

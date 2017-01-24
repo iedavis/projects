@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Підтвердження замовлення", 
+    "orderDoesNotExist": "Замовлення не існує.", 
+    "thankyouMsg": "Дякуємо за замовлення __orderDate__ о __orderTime__.", 
+    "processingMsg": "Зараз це замовлення обробляється.",
+    "pendingMsg": "Дякуємо. Ваш запит на замовлення отримано. Платіж перебуває в стані очікування. Обробка замовлення почнеться відразу після затвердження платежу.",
+    "orderNumberMsg": "Номер вашого замовлення __orderNumber__.", 
+    "emailMsg": "Повідомлення електронної пошти з підтвердженням замовлення та відомостями щодо вказаного нижче замовлення надіслано на адресу __emailAddress__.", 
+    "yourOrderText": "Ваше замовлення", 
+    "itemText": "Позиція", 
+    "quantityText": "Кількість", 
+    "itemTotalText": "Загальна сума товару", 
+    "shippingAddressAndMethodText": "Адреса та спосіб поставки", 
+    "shipToText": "Отримувач:", 
+    "shippingMethodText": "Спосіб поставки:", 
+    "paymentDetailsText": "Відомості про платіж", 
+    "cardTypeText": "Тип картки:", 
+    "cardNumberText": "Номер картки:", 
+    "billingAddressText": "Адреса для виставлення рахунків:",
+    "loginSuccessText": "Обліковий запис створено. Дякуємо за реєстрацію.",
+    "loginFailureText": "Помилка. Ваше замовлення оброблено, але під час створення облікового запису сталася помилка. Повторіть спробу.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Sie haben nach \"__searchterm__\" gesucht. Es wurden keine Produkte gefunden.",
+    "titleText": "Suchen",
+    "searchFailedText": "Ihre Suche kann derzeit nicht ausgeführt werden."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Atributy zobrazení",
+    "numberOfRelatedProductsHelpText": "Zadejte počet souvisejících produktů zobrazených v karuselu",
+    "numberOfRelatedProductsTextLabel": "Počet souvisejících produktů",
+    "displayNameOfRelatedProductsTextLabel": "Název produktu",
+    "displayPriceOfRelatedProductsTextLabel": "Cena"
+  }
+}

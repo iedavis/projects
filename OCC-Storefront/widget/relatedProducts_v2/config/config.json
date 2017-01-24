@@ -1,0 +1,37 @@
+{
+  "widgetDescriptorName": "relatedProducts",
+  "properties": [
+    {
+      "id": "numberOfRelatedProducts",
+      "type": "stringType",
+      "name": "numberOfRelatedProducts",
+      "helpTextResourceId": "numberOfRelatedProductsHelpText",
+      "labelResourceId": "numberOfRelatedProductsTextLabel",
+      "defaultValue": "4",
+      "required": true,
+      "pattern": "^[0-9]\\d*$"
+    },
+    {
+      "id": "relatedProductsDisplaySection",
+      "type": "sectionTitleType",
+      "labelResourceId": "relatedProductsDisplayTitle",
+      "helpTextResourceId": ""
+    },
+    {
+      "id": "displayNameOfRelatedProducts",
+      "type": "booleanType",
+      "name": "displayNameOfRelatedProducts",
+      "helpTextResourceId": "",
+      "labelResourceId": "displayNameOfRelatedProductsTextLabel",
+      "defaultValue": true
+    },
+    {
+      "id": "displayPriceOfRelatedProducts",
+      "type": "booleanType",
+      "name": "displayPriceOfRelatedProducts",
+      "helpTextResourceId": "",
+      "labelResourceId": "displayPriceOfRelatedProductsTextLabel",
+      "defaultValue": true
+    }
+  ]
+}

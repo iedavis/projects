@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Додајте промотивну шифру или шифру лојалности",
+  "promoCode": "Унесите промотивну шифру",
+  "promoCodeAriaLabelText": "Унесите промотивну шифру",
+  "buttonApplyCodeText": "Примени шифру",
+  "buttonApplyingCodeText": "Примењивање шифре",
+  "couponDetailsError": "Дошло је до проблема у вези са детаљима о вашем купону.",
+  "promoCodeRequired": "Шифра купона не може да буде празна.",
+  "duplicateCoupon": "Шифра је већ примењена."
+  }
+}

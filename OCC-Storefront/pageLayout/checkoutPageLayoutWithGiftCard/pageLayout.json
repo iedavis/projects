@@ -1,0 +1,139 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "basicHeaderWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 9,
+      "type": "body",
+      "widgets": [
+        "checkoutRegistrationInst_v2",
+        "checkoutAddressBookInst_v9",
+        "checkoutPaymentDetailsInst_v5",
+        "giftCardInst_v2",
+        "cashPaymentInst",
+        "promotionInst"
+      ],
+      "structure": "flat",
+      "height": 500
+    },
+    {
+      "width": 3,
+      "type": "body",
+      "widgets": [
+        "checkoutCartSummaryInst_v4",
+        "checkoutOrderSummaryInst_v7"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "checkout",
+  "isLayoutDisplayable": true,
+  "displayName": "Checkout Layout with GiftCard",
+  "translations": [
+    {
+      "name": "Оформл. пок.",
+      "language": "ru"
+    },
+    {
+      "name": "เช็คเอาต์",
+      "language": "th"
+    },
+    {
+      "name": "Final compra",
+      "language": "pt_BR"
+    },
+    {
+      "name": "Teslim alma",
+      "language": "tr"
+    },
+    {
+      "name": "Kasa",
+      "language": "pl"
+    },
+    {
+      "name": "结账",
+      "language": "zh_CN"
+    },
+    {
+      "name": "結帳",
+      "language": "zh_TW"
+    },
+    {
+      "name": "체크아웃",
+      "language": "ko"
+    },
+    {
+      "name": "Pokladna",
+      "language": "cs"
+    },
+    {
+      "name": "Véglegesítés",
+      "language": "hu"
+    },
+    {
+      "name": "Ταμείο",
+      "language": "el"
+    },
+    {
+      "name": "Tjek-ud",
+      "language": "da"
+    },
+    {
+      "name": "Checkout",
+      "language": "en"
+    },
+    {
+      "name": "Checkout",
+      "language": "de"
+    },
+    {
+      "name": "Finlz compra",
+      "language": "es"
+    },
+    {
+      "name": "Valider cde",
+      "language": "fr"
+    },
+    {
+      "name": "Checkout",
+      "language": "it"
+    },
+    {
+      "name": "Kassa",
+      "language": "nl"
+    },
+    {
+      "name": "Kassan",
+      "language": "sv"
+    },
+    {
+      "name": "Registo Saída",
+      "language": "pt"
+    },
+    {
+      "name": "Kassa",
+      "language": "fi"
+    },
+    {
+      "name": "精算",
+      "language": "ja"
+    }
+  ]
+}

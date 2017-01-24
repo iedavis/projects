@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "По-малко...",
+    "seeMoreText" : "Повече...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Разграничаване по",
+    "clearAllRefinementsText" : "Изчистване на всички разграничения",
+    "guidedNavigationHeader" : "Горен колонтитул за насочена навигация",
+    "doneText" : "Готово",
+    "expandText" : "Разгъване",
+    "collapseText" : "Свиване",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Заредена е насложена насочена навигация"
+  }
+}

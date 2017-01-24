@@ -1,0 +1,7 @@
+{
+  "resources": {
+	"heroWidget": "Hero",
+	"previousBannerText": "Forrige banner",
+	"nextBannerText": "Næste banner"
+  }
+}

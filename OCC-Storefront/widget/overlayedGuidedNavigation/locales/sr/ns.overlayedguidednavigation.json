@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Прикажи мање...",
+    "seeMoreText" : "Прикажи више...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Сузи обим претраге помоћу",
+    "clearAllRefinementsText" : "Обриши све критеријуме за сужење обима претраге",
+    "guidedNavigationHeader" : "Заглавље навигације са упутствима",
+    "doneText" : "Готово",
+    "expandText" : "Развиј",
+    "collapseText" : "Скупи",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Учитана је прекривена навигација са упутствима"
+  }
+}

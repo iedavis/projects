@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Tražili ste '__searchterm__'. Nijedan proizvod nije pronađen.",
+    "titleText": "Traži",
+    "searchFailedText": "Trenutno ne možete izvršiti pretraživanje."
+  }
+}

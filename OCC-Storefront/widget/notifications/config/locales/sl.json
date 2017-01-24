@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Nastavite, ali je dovoljena časovna omejitev pri obvestilih, ki ne obveščajo o napakah.",
+    "notificationsTimeoutEnabledTextLabel": "Časovna omejitev omogočena",
+    "notificationsTimeoutHelpText": "Nastavite časovno omejitev pri obvestilih, ki ne obveščajo o napakah (v sekundah).",
+    "notificationsTimeoutTextLabel": "Časovna omejitev (v sekundah)",
+    "notificationsFixedHelpText": "Nastavite, ali naj bo pripomoček za obvestila pripet na vrh strani.",
+    "notificationsFixedTextLabel": "Fiksno"
+  }
+}

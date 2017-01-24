@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Оплата подарочной картой",
+    "giftCardNumberText": "Номер подарочной карты",
+    "giftCardPinText": "ПИН-код подарочной карты",
+    "giftCardApplyText": "Применить подарочную карту", 
+    "giftCardApplyingText": "Применение подарочной карты", 
+    "displayGiftCardDetailsText" : "Оплата подарочной картой",
+    "duplicateGiftcardErrMsg":"Эта подарочная карта уже использована."
+  }
+}

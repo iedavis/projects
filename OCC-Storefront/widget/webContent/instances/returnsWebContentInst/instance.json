@@ -1,0 +1,7 @@
+{
+  "config": {"sourceMedia": "returnsStaticContent"},
+  "id": "returnsWebContentInst",
+  "name": "Returns Web Content Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

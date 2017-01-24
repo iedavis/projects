@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Stel in of de time-out voor niet-foutmeldingen is toegestaan.",
+    "notificationsTimeoutEnabledTextLabel": "Time-out actief",
+    "notificationsTimeoutHelpText": "Stel de time-out van niet-foutmeldingen in (in seconden).",
+    "notificationsTimeoutTextLabel": "Time-out (in seconden)",
+    "notificationsFixedHelpText": "Stel in of de meldingswidget boven aan de pagina moet worden vastgezet.",
+    "notificationsFixedTextLabel": "Vastgezet"
+  }
+}

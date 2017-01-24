@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "ป้อนจำนวนสูงสุดของสินค้าที่คุณต้องการแสดงในสรุปรถเข็น",
+    "checkoutCartSummaryItemsToDisplayLabel": "รายการสูงสุดในสรุปรถเข็น"
+  }
+}

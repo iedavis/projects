@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "勾選以使用樣式基本清單。",
+    "shouldUseStyleBasedTextLabel": "使用樣式基本清單",
+    "listTypeHelpText": "選取小工具執行處理為產品清單或搜尋結果清單型態。",
+    "listTypeTextLabel": "清單型態",
+    "productLabel" : "產品",
+    "searchLabel" : "搜尋",
+    "productListingFieldsRequiredHelpText": "輸入要包含在回應中的欄位清單 (以逗號分隔)。欄位設定僅適用於透過分類瀏覽列出的產品清單，不適用於搜尋結果。",
+    "productListingFieldsRequiredLabel": "欄位",
+    "productsPerPageRequiredHelpText": "輸入一頁中要顯示的產品數。",
+    "productsPerPageRequiredLabel": "每頁的產品",
+    "blockSizeRequiredHelpText": "輸入依要求載入的產品數。區塊大小設定僅適用於透過分類瀏覽列出的產品清單，不適用於搜尋結果。",
+    "blockSizeRequiredLabel": "區塊大小"
+  }
+}

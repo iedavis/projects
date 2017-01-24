@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Oma tili",
+    "orderHistoryText" : "Tilaushistoria",
+    "backToMyAccount" : "<< Takaisin omaan tiliin",
+    "historyHeaderOrderDate": "Tilauspvm",    
+    "historyHeaderOrderNumber": "Tilausnumero",
+    "historyHeaderOrderStatus": "Tilauksen tila",
+    "historyHeaderOrderTotal": "Tilaussumma",
+    "historyHeaderOrderDetails": "Tilauksen tiedot",
+    "listingHeaderScheduledOrderId": "Suunnitelman tunnus",
+    "orderDetails": "Tiedot"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Upustite se u zajedničku kupovinu već danas!",
+    "welcomePageLoginText": "Prijavljivanje",
+    "welcomePageCreateAccountText": "Kreiraj nalog",
+    "welcomePageTitle": "Dobro došli u liste želja!",
+    "welcomePageSubtitle": "Besplatno se pridružite listama želja i zajedno se zabavljajte!",
+    "welcomePageBulletText1": "Čuvajte i organizujte proizvode koji vas zanimaju i dobijte povratne informacije o njima.",
+    "welcomePageBulletText2": "Delite listu želja sa porodicom i prijateljima i zajedno donosite odluke povodom kupovine.",
+    "welcomePageBulletText3": "Koristite listu želja da biste otkrili nove poklone i razgovarali o njima. Više nikad vam se neće desiti da kupite neodgovarajući poklon!",
+    "welcomePageOrText": "ili"
+  }
+}

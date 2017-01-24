@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Betala med presentkort",
+    "giftCardNumberText": "Presentkortsnummer",
+    "giftCardPinText": "PIN-kod för presentkort",
+    "giftCardApplyText": "Använd presentkort", 
+    "giftCardApplyingText": "Använder presentkort", 
+    "displayGiftCardDetailsText" : "Betala med presentkort",
+    "duplicateGiftcardErrMsg":"Presentkortet har redan använts."
+  }
+}

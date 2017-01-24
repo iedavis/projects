@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Přehled zboží v košíku",
+    "quantityText": "Množství:",
+    "colorText": "Barva:",
+    "sizeText": "Velikost:",
+    "instockText": "Skladem",
+    "outofstockText": "Není na skladě",
+    "estimiatedShippingText": "Odhadované dodání:",
+    "buttonEditCartSummary": "Upravit",
+    "editCartText": "Upravit košík",
+    "seeAllProducts": "Zobrazit všechny produkty",
+    "showAll": "Zobrazit vše",
+    "cartSummaryItemLimitText": "Zobrazeno prvních __noOfItems__ položek košíku"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "付款詳細資料",
+  "paymentMethod": "付款方式",
+  "paypalText": "更加安全、簡便的付款方式。", 
+  "paymentDetailsError": "請確認您已完成所有必要欄位，且已更正所有無效的項目。",
+  "paymentMethodNotAvilable": "(排定訂單不得使用此付款選項。)",
+  
+  "nameOnCardLabel": "持卡人姓名",
+  "nameOnCardPlaceholder": "持卡人姓名",
+  "nameOnCardRequired": "「持卡人姓名」為必填。",
+  "nameOnCardInvalid": "「持卡人姓名」無效。",
+  
+  "cardTypeLabel": "信用卡型態",
+  "cardTypePlaceholder": "信用卡型態",
+  "cardTypeRequired": "「信用卡型態」為必填。",
+  "cardTypeInvalid": "「信用卡型態」無效。",
+  
+  "cardNumberLabel": "信用卡卡號",
+  "cardNumberPlaceholder": "信用卡卡號",
+  "cardNumberRequired": "「信用卡卡號」為必填。",
+  "cardNumberMaxLength":"輸入無效。請勿超過 __maxLength__ 個字元上限。",
+  "cardNumberInvalid": "信用卡卡號無效，請重試。",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV 為必填。",
+  "cardCVVInvalid": "CVV 無效。",
+  "cardCVVWhatsThis": "這是什麼？",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "您信用卡簽名欄處的最後 3 位數。",
+  "cardCVVNumberInvalid": "輸入無效。請只輸入數字。",
+  "cardCVVNumberMaxLength": "輸入無效。請勿超過允許的 4 個字元上限。",
+  "cardCVVNumberMinLength": "輸入無效。請輸入最少 3 個字元。",
+  
+  "endMonthLabel": "到期 (月份)",
+  "endMonthPlaceholder": "到期 (月份)",
+  "endMonthRequired": "卡片到期月份為必填。",
+  "endMonthInvalid": "到期月份/年份無效，請重試。",
+  
+  "endYearLabel": "到期 (年份)",
+  "endYearPlaceholder": "到期 (年份)",
+  "endYearRequired": "卡片到期年份為必填。",
+  "endYearInvalid": "到期月份/年份無效，請重試。",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

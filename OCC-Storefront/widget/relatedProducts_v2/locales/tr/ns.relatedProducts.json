@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Önceki Resimler",
+    "nextImageText" : "Sonraki Resimler",
+    "onSaleText": "İndirim",
+    "salePriceText": "Satış fiyatı",
+    "listPriceText": "Liste fiyatı",
+    "relatedProductsText": "İlgili Ürünler"
+  }
+}

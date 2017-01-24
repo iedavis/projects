@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "ようこそ__userdisplayname__様。",
+    "invitationAlreadyAccepted" : "招待はすでに承諾されています。",
+    "spaceNotFound" : "アクセスしようとしているウィッシュ・リストが見つかりませんでした。",
+    "invitationExpiredError" : "招待が失効しています! 参加するウィッシュ・リストの所有者に連絡して、再招待するように依頼してください。",
+    "memberJoinError" : "招待でエラーが発生しました。",
+    "pleaseWaitProcessingMsg" : "招待を処理している間、しばらくお待ちください"
+  }
+}

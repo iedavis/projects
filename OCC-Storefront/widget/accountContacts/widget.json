@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "delegatedadmincontacts",
+  "imports": [],
+  "javascript": "delegated-admin-contacts",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Account Contacts",
+  "pageTypes": ["profile"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "delegatedAdminContacts",
+  "widgetType": "delegatedAdminContacts"
+}

@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Eメール通知設定",
+    "spaceSettingsNotificationIntroText" : "受信内容:",
+    "spaceSettingsCommentNotificationTxt" : "コメントおよび製品通知",
+    "spaceSettingsNewMemberNotificationTxt" : "新規メンバー通知",
+    "spaceSettingsSaveTxt" : "保存",
+    "spaceSettingsCancelTxt" : "取消",
+    "spaceSettingsSaveErrorTxt" : "通知設定の変更の保存中に問題が発生しました。",
+    "spaceSettingsSaveSuccessTxt" : "通知設定は更新および保存されました。",
+    "spaceSettingsOnText" : "はい",
+    "spaceSettingsOffText" : "いいえ",
+    "spaceSettingsNotificationEnableHelpText" : "\"自分のアカウント\"ページで\"Eメールで更新情報を取得します\"を選択し、ウィッシュ・リストの通知を使用可能にします。"
+  }
+}

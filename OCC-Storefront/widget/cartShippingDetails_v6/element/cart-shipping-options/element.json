@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["cartShippingDetails"],
+  "tag": "cart-shipping-options",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ตัวเลือกการจัดส่งสินค้า"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Opções de entrega"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "配送选项"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Варіанти поставки"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Опции за доставка"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Saatmisvalikud"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Nosūtīšanas opcijas"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Siuntimo parinktys"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Forsendelsesvalg"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Opţiuni de expediere"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Options d'expédition"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "出荷オプション"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Možnosti pošiljanja"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Параметры отгрузки"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Opcije otpreme"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Sevkiyat Seçenekleri"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Opcje wysyłki"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "出貨選項"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "배송 옵션"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Volby dopravy"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Szállítási beállítások"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Επιλογές αποστολής"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Forsendelsesindstil."
+    },
+    {
+      "description": "Shipping Options",
+      "language": "en",
+      "title": "Shipping Options"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Опције испоруке"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Versandoptionen"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Opciones de envío"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Options d'expédition"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Opzioni spedizione"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Verzendopties"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Leveransalternativ"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Opções de Expedição"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Lähetysvalinnat"
+    }
+  ],
+  "type": "fragment",
+  "version": 6
+}

@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Резиме наруџбине",
+    "subtotalText": "Међузбир: ",
+    "shippingOptionsText": "Опције испоруке",
+    "salesTaxText": "Порез на промет: ",
+    "orderTotalText": "Укупно за наруџбину: ",
+    "placeOrderText": "Слање наруџбине",
+    "scheduleOrderText": "Планирана наруџбина",
+    "noShippingText": "Нису наведени детаљи о испоруци",
+    "shippingText": "Испорука: __displayName__",    
+    "applicableTaxesText": "Примењиви порези ће се обрачунати приликом завршетка куповине.",
+    "paymentOptionsText": "Опције плаћања",
+    "checkoutText": "Завршетак куповине",
+    "noShippingSelectedText": "Није изабран ниједан начин испоруке.",
+    "shippingAddressRequired": "Унесите адресу испоруке",
+    "noShippingMethodsText": "За вашу одредишну адресу није доступан ниједан начин испоруке.",
+    "noShippingMethodsForAddressText": "Није доступан ниједан начин испоруке за изабрану адресу",
+    "checkoutErrorMsg": "Уверите се да сте попунили сва обавезна поља и да сте исправили све неважеће уносе.",
+    "rePricingText":"Нове цене",
+    "removeLinkText":"уклони",
+    "paymentMessage": "На наредном екрану ће се вероватно приказати страница за верификацију платне картице преко издаваоца картице.",
+    "includingTaxText": "(укључујући порез)",
+    "totalExcludingTaxText": "Укупно (без пореза): ",
+    "paymentMethodNotAvilable": "(Ова опција плаћања не може да се користи за планиране наруџбине.)",
+    "selectShippingMethodText": "Изаберите начин испоруке"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "ابدأ التسوق اليوم بشكل متعاون!",
+    "welcomePageLoginText": "تسجيل الدخول",
+    "welcomePageCreateAccountText": "تكوين حساب",
+    "welcomePageTitle": "مرحبًا بك في قوائم الرغبات!",
+    "welcomePageSubtitle": "انضم إلى قوائم الرغبات مجانًا واستمتع!",
+    "welcomePageBulletText1": "احفظ الملاحظات المتعلقة بالمنتجات التي تهتم بها ونظمها واحصل عليها.",
+    "welcomePageBulletText2": "شارك قوائم الرغبات الخاصة بك مع العائلة والأصدقاء لاتخاذ قرارات التسوق معًا.",
+    "welcomePageBulletText3": "استخدم قوائم الرغبات لاكتشاف الهدايا ومناقشتها. لا تشتري هدية غير مناسبة بعد الآن!",
+    "welcomePageOrText": "أو"
+  }
+}

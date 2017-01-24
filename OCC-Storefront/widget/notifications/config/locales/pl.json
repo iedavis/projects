@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Należy skonfigurować opcję zezwalania na zastosowanie limitu czasu w powiadomieniach, które nie dotyczą błędów.",
+    "notificationsTimeoutEnabledTextLabel": "Włączono limit czasu",
+    "notificationsTimeoutHelpText": "Umożliwia skonfigurowanie limitu czasu (w sekundach) w powiadomieniach, które nie dotyczą błędów.",
+    "notificationsTimeoutTextLabel": "Limit czasu oczekiwania (w sekundach)",
+    "notificationsFixedHelpText": "Umożliwia skonfigurowanie opcji umieszczenia widżetu powiadomień na stałe w górnej części strony.",
+    "notificationsFixedTextLabel": "Ustawienie stałe"
+  }
+}

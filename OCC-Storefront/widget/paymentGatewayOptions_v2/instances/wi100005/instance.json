@@ -1,0 +1,13 @@
+{
+  "config": {},
+  "currentLayout": "wli100002",
+  "id": "wi100005",
+  "layouts": [{
+    "id": "wli100002",
+    "widgetLayoutDescriptor": "paymentGatewayOptions_v2_lyt1"
+  }],
+  "name": "invoice",
+  "templatePath": "/templates/display-wli100002.template",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

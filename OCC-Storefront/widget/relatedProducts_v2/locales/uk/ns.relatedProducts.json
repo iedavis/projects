@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Попередні зображення",
+    "nextImageText" : "Наступні зображення",
+    "onSaleText": "Продаж",
+    "salePriceText": "Ціна продажу",
+    "listPriceText": "Ціна за прейскурантом",
+    "relatedProductsText": "Пов'язані продукти"
+  }
+}

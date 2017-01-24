@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Про вміст кошика",
+    "quantityText": "Кількість: ",
+    "colorText": "Колір: ",
+    "sizeText": "Розмір: ",
+    "instockText": "Є на складі",
+    "outofstockText": "Немає на складі",
+    "estimiatedShippingText": "Орієнтовна дата поставки: ",
+    "buttonEditCartSummary": "Змінити",
+    "editCartText": "Змінити вміст кошика",
+    "seeAllProducts": "Переглянути всі продукти",
+    "showAll": "Показати всі",
+    "cartSummaryItemLimitText": "Відображення __noOfItems__ початкових товарів у кошику"
+  }
+}

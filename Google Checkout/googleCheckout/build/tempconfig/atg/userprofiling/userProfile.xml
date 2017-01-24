@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE gsa-template
+        PUBLIC "-//Art Technology Group, Inc.//DTD General SQL Adapter//EN"
+        "http://www.atg.com/dtds/gsa/gsa_1.0.dtd">
+
+<gsa-template>
+  <header>
+    <name>Profile Additions</name>
+    <author>Dan Brandt</author>
+  </header>
+
+  <item-descriptor name="user" xml-combine="append">
+    <table name="proj_user" type="auxiliary" id-column-name="user_id">
+      <property category-resource="categoryCommerceContract" name="priceList" item-type="priceList" display-name-resource="priceList" column-name="price_list"
+        repository="/atg/commerce/pricing/priceLists/PriceLists">
+        <attribute name="resourceBundle" value="atg.commerce.UserProfileTemplateResources"/>
+      </property>
+      <property category-resource="categoryCommerceContract" name="salePriceList" item-type="priceList"
+        display-name="Sale Price List" column-name="sale_price_list"
+        repository="/atg/commerce/pricing/priceLists/PriceLists">
+      </property>
+    </table>
+  </item-descriptor>
+
+</gsa-template>

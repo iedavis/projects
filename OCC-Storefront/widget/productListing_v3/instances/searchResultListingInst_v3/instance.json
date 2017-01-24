@@ -1,0 +1,14 @@
+{
+  "config": {
+    "blockSize": "60",
+    "fields": "",
+    "gridWidth": "4",
+    "listType": "search",
+    "productsPerPage": "12",
+    "shouldUseStyleBased": false
+  },
+  "id": "searchResultListingInst_v3",
+  "name": "Search Results Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

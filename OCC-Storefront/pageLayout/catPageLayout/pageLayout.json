@@ -1,0 +1,178 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "overlayedGuidedNavigationInst",
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["productListingInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "category",
+  "isLayoutDisplayable": true,
+  "displayName": "Collection Layout",
+  "translations": [
+    {
+      "name": "คอลเลคชัน",
+      "language": "th"
+    },
+    {
+      "name": "Coleção",
+      "language": "pt_BR"
+    },
+    {
+      "name": "集合",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Колекція",
+      "language": "uk"
+    },
+    {
+      "name": "Колекция",
+      "language": "bg"
+    },
+    {
+      "name": "Kogum",
+      "language": "et"
+    },
+    {
+      "name": "Kolekcija",
+      "language": "lv"
+    },
+    {
+      "name": "Rinkinys",
+      "language": "lt"
+    },
+    {
+      "name": "Samling",
+      "language": "no"
+    },
+    {
+      "name": "Colecţie",
+      "language": "ro"
+    },
+    {
+      "name": "Collection",
+      "language": "fr_CA"
+    },
+    {
+      "name": "コレクション",
+      "language": "ja"
+    },
+    {
+      "name": "Zbirka",
+      "language": "sl"
+    },
+    {
+      "name": "Коллекция",
+      "language": "ru"
+    },
+    {
+      "name": "Naplata",
+      "language": "hr"
+    },
+    {
+      "name": "Koleksiyon",
+      "language": "tr"
+    },
+    {
+      "name": "Kolekcja",
+      "language": "pl"
+    },
+    {
+      "name": "集合",
+      "language": "zh_TW"
+    },
+    {
+      "name": "컬렉션",
+      "language": "ko"
+    },
+    {
+      "name": "Kolekce",
+      "language": "cs"
+    },
+    {
+      "name": "Kollekció",
+      "language": "hu"
+    },
+    {
+      "name": "Συλλογή",
+      "language": "el"
+    },
+    {
+      "name": "Samling",
+      "language": "da"
+    },
+    {
+      "name": "Collection",
+      "language": "en"
+    },
+    {
+      "name": "Колекција",
+      "language": "sr"
+    },
+    {
+      "name": "Collection",
+      "language": "de"
+    },
+    {
+      "name": "المجموعة",
+      "language": "ar"
+    },
+    {
+      "name": "Recopilación",
+      "language": "es"
+    },
+    {
+      "name": "Collection",
+      "language": "fr"
+    },
+    {
+      "name": "Raccolta",
+      "language": "it"
+    },
+    {
+      "name": "Verzameling",
+      "language": "nl"
+    },
+    {
+      "name": "Kollektion",
+      "language": "sv"
+    },
+    {
+      "name": "Coleção",
+      "language": "pt"
+    },
+    {
+      "name": "Kokoelma",
+      "language": "fi"
+    }
+  ]
+}

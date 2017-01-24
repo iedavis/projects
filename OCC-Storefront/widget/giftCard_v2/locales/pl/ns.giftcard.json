@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Zapłać kartą podarunkową",
+    "giftCardNumberText": "Numer karty podarunkowej",
+    "giftCardPinText": "Numer PIN karty podarunkowej",
+    "giftCardApplyText": "Zastosowanie karty podarunkowej", 
+    "giftCardApplyingText": "Stosowanie karty podarunkowej", 
+    "displayGiftCardDetailsText" : "Płatność kartą podarunkową",
+    "duplicateGiftcardErrMsg":"Karta podarunkowa została już zastosowana."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Sæt, om timeout på ikke-fejlunderretninger er tilladt.",
+    "notificationsTimeoutEnabledTextLabel": "Timeout aktiveret",
+    "notificationsTimeoutHelpText": "Sæt timeout for ikke-fejlunderretninger (i sek.).",
+    "notificationsTimeoutTextLabel": "Timeout (i sek.)",
+    "notificationsFixedHelpText": "Sæt, om underretningswidget skal være fastgjort til toppen af siden.",
+    "notificationsFixedTextLabel": "Fast"
+  }
+}

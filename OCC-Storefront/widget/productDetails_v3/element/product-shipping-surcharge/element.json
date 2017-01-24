@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-shipping-surcharge",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "Surcharge การจัดส่งสินค้า"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Sobretaxa de Entrega"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "运输附加费"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Доплата за доставку"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Преразход за доставка"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Saatmise lisatasu"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Piemaksa par sūtīšanu"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Pristatymo priemoka"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Tilleggsavgift for frakt"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Suprataxă de expediere"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Supplément pour expédition"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "出荷追加料金"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Doplačilo za pošiljanje"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Наценка на доставку"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Nadoplata za otpremu"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Sevkiyat Ek Ücreti"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Dopłata do wysyłki"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "運費附加稅"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "배송 부가요금"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Přepravní přirážka"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Szállítási pótdíj"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Επιβάρυνση αποστολής"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Forsendelsestillæg"
+    },
+    {
+      "description": "Shipping Surcharge for a product",
+      "language": "en",
+      "title": "Shipping Surcharge"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Доплата за испоруку"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Versandzuschlag"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Recargo de envío"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Supplément d'expédition"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Maggiorazione spedizione"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Verzendtoeslag"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Tilläggsavgift på leverans"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Sobretaxa de Expedição"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Lähetyksen lisäveloitus"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

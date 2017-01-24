@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Loyalty- oder Promotioncode hinzufügen",
+  "promoCode": "Promotioncode eingeben",
+  "promoCodeAriaLabelText": "Promotioncode eingeben",
+  "buttonApplyCodeText": "Code anwenden",
+  "buttonApplyingCodeText": "Code wird angewendet",
+  "couponDetailsError": "In Ihren Coupondetails wurde ein Problem gefunden.",
+  "promoCodeRequired": "Couponcode darf nicht leer sein",
+  "duplicateCoupon": "Der Code wurde bereits angewendet."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "A kosár üres.",
+    "buttonContinueShopping": "Vásárlás folytatása",
+    "cartHeader" : "Az Ön kosara",
+    "itemHeaderItem": "Cikk",    
+    "itemHeaderQuantity": "Mennyiség",
+    "itemQuantity": "__productName__ mennyisége",
+    "itemHeaderItemTotal": "Cikkek összesen",
+    "totalTableSubTotal": "Részösszeg:",
+    "includingTaxText": "(adóval)",
+    "totalTableTotal": "Összesen:",
+    "buttonUpdateQuantity": "Módosítás",
+    "buttonRemoveItem": "Eltávolítás",
+    "instockText": "Készleten",
+    "outofstockText": "Nincs készleten",
+    "totalTableSummary": "Kosár összegei"
+  }
+}

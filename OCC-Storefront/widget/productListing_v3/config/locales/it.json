@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Selezionare per usare l'elenco basato sullo stile.",
+    "shouldUseStyleBasedTextLabel": "Usa elenco base stili",
+    "listTypeHelpText": "Selezionare se l'istanza del widget è un tipo di elenco di prodotti o di risultati di ricerca.",
+    "listTypeTextLabel": "Tipo di elenco",
+    "productLabel" : "Prodotto",
+    "searchLabel" : "Ricerca",
+    "productListingFieldsRequiredHelpText": "Inserire un elenco di campi separati da virgola da includere nella risposta. L'impostazione dei campi si applica solo agli elenchi di prodotti tramite la navigazione della categoria, ma non ai risultati di ricerca.",
+    "productListingFieldsRequiredLabel": "Campi",
+    "productsPerPageRequiredHelpText": "Inserire il numero di prodotti da visualizzare in una pagina.",
+    "productsPerPageRequiredLabel": "Prodotti per pagina",
+    "blockSizeRequiredHelpText": "Inserire il numero di prodotti da caricare per richiesta. L'impostazione delle dimensioni blocco si applica solo agli elenchi di prodotti tramite la navigazione della categoria, ma non ai risultati di ricerca.",
+    "blockSizeRequiredLabel": "Dimensioni blocco"
+  }
+}

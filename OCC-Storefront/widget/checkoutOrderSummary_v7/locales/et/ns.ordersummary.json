@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Tellimuse kokkuvõte",
+    "subtotalText": "Vahesumma: ",
+    "shippingOptionsText": "Saatmisvalikud",
+    "salesTaxText": "Käibemaks: ",
+    "orderTotalText": "Tellimuse kogusumma: ",
+    "placeOrderText": "Esita tellimus",
+    "scheduleOrderText": "Tellimuse ajastamine",
+    "noShippingText": "Ei saadeta",
+    "shippingText": "Saatmine: __displayName__",    
+    "applicableTaxesText": "Kohaldatavad maksud arvutatakse ostu vormistamisel.",
+    "paymentOptionsText": "Maksevariandid",
+    "checkoutText": "Vormista ost",
+    "noShippingSelectedText": "Saatmisviisi pole valitud.",
+    "shippingAddressRequired": "Sisestage saatmisaadress",
+    "noShippingMethodsText": "Määratud sihtaadressi jaoks pole saadaval ühtegi saatmisviisi.",
+    "noShippingMethodsForAddressText": "Valitud aadressi jaoks pole saatmisviise saadaval",
+    "checkoutErrorMsg": "Kontrollige, kas kõik kohustuslikud väljad on täidetud ja sobimatud kirjed parandatud.",
+    "rePricingText":"Ümberhindlus",
+    "removeLinkText":"eemalda",
+    "paymentMessage": "Järgmine kuva võib olla teie kaardi väljaandja nõutav maksekaardi kinnitamine.",
+    "includingTaxText": "(koos maksudega)",
+    "totalExcludingTaxText": "Kokku (välja arvatud maksud): ",
+    "paymentMethodNotAvilable": "(Seda makseviisi ei saa ajastatud tellimuste korral kasutada.)",
+    "selectShippingMethodText": "Valige saatmisviis"
+  }
+}

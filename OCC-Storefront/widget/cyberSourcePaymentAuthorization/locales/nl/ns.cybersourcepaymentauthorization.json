@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "102": "(102) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "104": "(104) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "110": "(110) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "150": "(150) Wegens een technisch probleem kan er geen contact worden opgenomen met de bank die uw creditcard heeft uitgegeven. Probeer het opnieuw of gebruik een andere kaart.",
+    "151": "(151) Er is een technisch probleem opgetreden. Probeer het straks opnieuw.",
+    "152": "(152) Er is een technisch probleem opgetreden. Probeer het straks opnieuw.",
+    "200": "(200) Het factuuradres dat u hebt opgegeven, komt niet overeen met het geregistreerde adres voor uw creditcard. Controleer het adres en probeer het opnieuw.",
+    "201": "(201) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "202": "(202) Controleer de vervaldatum van uw creditcard en probeer het opnieuw.",
+    "203": "(203) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "204": "(204) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "205": "(205) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "207": "(207) Wegens een technisch probleem kan er geen contact worden opgenomen met de bank die uw creditcard heeft uitgegeven. Probeer het opnieuw of gebruik een andere kaart.",
+    "208": "(208) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "209": "(209) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "210": "(210) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "211": "(211) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "221": "(221) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "230": "(230) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "231": "(231) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "232": "(232) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "233": "(233) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "234": "(234) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "520": "(520) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "1000": "(1000) Uw creditcard is geweigerd. Gebruik een andere kaart.",
+    "476": "(476) Creditcard is niet geverifieerd voor gebruik. Gebruik een andere kaart.",
+    "paymentErrorText":"Er is een technisch probleem opgetreden. Probeer het straks opnieuw.",
+    "processingText": "Bezig met verwerken, een ogenblik geduld. Klik niet op de knop Vernieuwen of Terug, anders wordt uw transactie mogelijk onderbroken of beëindigd."
+  }
+}

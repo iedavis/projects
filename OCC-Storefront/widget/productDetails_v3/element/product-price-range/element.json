@@ -1,0 +1,178 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": ["fontPicker"],
+  "global": false,
+  "inline": true,
+  "previewText": "$xx.xx-$xx.xx",
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-price-range",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ช่วงราคา"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Intervalo preços"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "价格范围"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Діапазон цін"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Ценови диапазон"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Hinnavahemik"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Cenu diapazons"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Kainų diapazonas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Priser"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Interval preţuri"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Intervalle prix"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "価格範囲"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Cenovni razpon"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Диапазон цен"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Raspon cijena"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Fiyat Aralığı"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Zakres cen"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "價格範圍"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "가격 범위"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Cenové rozpětí"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Ártartomány"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Εύρος τιμών"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Prisinterval"
+    },
+    {
+      "description": "Product price range will be displayed here",
+      "language": "en",
+      "title": "Price Range"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Опсег цена"
+    },
+    {
+      "description": "[PX][Product price range will be displayed here ä]",
+      "language": "de",
+      "title": "Preisbereich"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Rango de precios"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Fourchette prix"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Intervallo prezzi"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Prijsbereik"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Prisintervall"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Intervalo Preços"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Hintaväli"
+    }
+  ],
+  "type": "subFragment",
+  "version": 3
+}

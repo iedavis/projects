@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Означите да бисте користили навођење на основу стила.",
+    "shouldUseStyleBasedTextLabel": "Користи навођење на основу стила",
+    "listTypeHelpText": "Изаберите да ли је инстанца виџета листа производа или тип листе резултата претраге.",
+    "listTypeTextLabel": "Тип листе",
+    "productLabel" : "Производ",
+    "searchLabel" : "Претрага",
+    "productListingFieldsRequiredHelpText": "Унесите листу поља која ће бити укључена у одговор, раздвојених зарезима. Подешавање за поља се односи на листе производа само путем навигације категоријама, а не и на резултате претраге.",
+    "productListingFieldsRequiredLabel": "Поља",
+    "productsPerPageRequiredHelpText": "Унесите колико производа ће се приказивати на страници.",
+    "productsPerPageRequiredLabel": "Производи по страници",
+    "blockSizeRequiredHelpText": "Унесите клико производа ће се учитавати при сваком захтеву. Подешавање за величину блока се односи на листе производа само путем навигације категоријама, а не и на резултате претраге.",
+    "blockSizeRequiredLabel": "Величина блока"
+  }
+}

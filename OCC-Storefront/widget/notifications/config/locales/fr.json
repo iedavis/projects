@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Indiquer si le délai d'expiration est autorisé pour les notifications sans erreur.",
+    "notificationsTimeoutEnabledTextLabel": "Délai d'expiration activé",
+    "notificationsTimeoutHelpText": "Définit le délai d'expiration des notifications sans erreur (en secondes).",
+    "notificationsTimeoutTextLabel": "Délai d'expiration (en secondes)",
+    "notificationsFixedHelpText": "Définir si le widget de notification doit être fixe en haut de la page.",
+    "notificationsFixedTextLabel": "Fixe"
+  }
+}

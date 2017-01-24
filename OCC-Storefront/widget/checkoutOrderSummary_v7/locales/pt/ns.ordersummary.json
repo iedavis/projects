@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Resumo da Encomenda",
+    "subtotalText": "Total Parcial: ",
+    "shippingOptionsText": "Opções de Expedição",
+    "salesTaxText": "Imposto sobre o Consumo: ",
+    "orderTotalText": "Total da Encomenda: ",
+    "placeOrderText": "Efetuar Encomenda",
+    "scheduleOrderText": "Programar Encomenda",
+    "noShippingText": "Sem Expedição",
+    "shippingText": "Expedição: __displayName__",    
+    "applicableTaxesText": "Os impostos aplicáveis serão calculados no registo de saída.",
+    "paymentOptionsText": "Opções de Pagamento",
+    "checkoutText": "Registo de Saída",
+    "noShippingSelectedText": "Nenhum Método de Expedição Selecionado.",
+    "shippingAddressRequired": "Introduza uma morada para expedição",
+    "noShippingMethodsText": "Não existem métodos de expedição disponíveis para a morada de destino.",
+    "noShippingMethodsForAddressText": "Não está disponível nenhum método de expedição para a morada selecionada",
+    "checkoutErrorMsg": "Certifique-se de que preencheu todos os campos obrigatórios e corrigiu quaisquer entradas inválidas.",
+    "rePricingText":"Redefinir Preço",
+    "removeLinkText":"retirar",
+    "paymentMessage": "O próximo ecrã pode ser referente à verificação do cartão de pagamento através do emissor do cartão.",
+    "includingTaxText": "(imposto incluído)",
+    "totalExcludingTaxText": "Total (imposto excluído): ",
+    "paymentMethodNotAvilable": "(Esta opção de pagamento não pode ser utilizada para encomendas programadas.)",
+    "selectShippingMethodText": "Selecionar método de expedição"
+  }
+}

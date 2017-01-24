@@ -1,0 +1,6 @@
+#$class=atg.google.checkout.GoogleShippingGroupStates
+# /atg/commerce/states/ShippingGroupStates
+#Thu Nov 30 14:08:38 PST 2006
+stateDescriptionMap=5\=The goods are ready to ship,4\=The shipping group has failed,3\=The shipping group has been removed,2\=The shipping group is pending a remove request,1\=The shipping group is being processed by Fulfillment,1000\=Awaiting Google Charge,0\=The shipping group has been initialized,7\=The shipping group is pending an action from the merchant,6\=The goods have been shipped
+stateStringMap=5\=PENDING_SHIPMENT,4\=FAILED,3\=REMOVED,2\=PENDING_REMOVE,1\=PROCESSING,1000\=AWAITING_GOOGLE_CHARGE,0\=INITIAL,7\=PENDING_MERCHANT_ACTION,6\=NO_PENDING_ACTION
+stateValueMap=failed\=4,initial\=0,no_pending_action\=6,processing\=1,pending_merchant_action\=7,pending_shipment\=5,AWAITING_GOOGLE_CHARGE\=1000,pending_remove\=2,removed\=3

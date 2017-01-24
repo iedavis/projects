@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Min konto",
+    "orderHistoryText" : "Ordrehistorikk",
+    "backToMyAccount" : "<< Tilbake til min konto",
+    "historyHeaderOrderDate": "Ordredato",    
+    "historyHeaderOrderNumber": "Ordrenummer",
+    "historyHeaderOrderStatus": "Ordrestatus",
+    "historyHeaderOrderTotal": "Ordresum",
+    "historyHeaderOrderDetails": "Ordredetaljer",
+    "listingHeaderScheduledOrderId": "Plan-ID",
+    "orderDetails": "Detaljer"
+  }
+}

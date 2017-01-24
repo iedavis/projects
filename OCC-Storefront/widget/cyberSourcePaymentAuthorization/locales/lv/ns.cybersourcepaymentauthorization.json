@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "102": "(102) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "104": "(104) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "110": "(110) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "150": "(150) Sazinoties ar jūsu kartes izdevējbanku, radās tehniska problēma. Lūdzu, mēģiniet vēlreiz vai izmantojiet citu karti.",
+    "151": "(151) Radās tehniska problēma. Lūdzu, pēc īsa brīža mēģiniet vēlreiz.",
+    "152": "(152) Radās tehniska problēma. Lūdzu, pēc īsa brīža mēģiniet vēlreiz.",
+    "200": "(200) Jūsu norādītā norēķinu adrese neatbilst jūsu kredītkartei reģistrētajai adresei. Lūdzu, pārbaudiet adresi un mēģiniet vēlreiz.",
+    "201": "(201) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "202": "(202) Lūdzu, pārbaudiet savas kartes derīguma termiņu un mēģiniet vēlreiz.",
+    "203": "(203) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "204": "(204) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "205": "(205) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "207": "(207) Sazinoties ar jūsu kartes izdevējbanku, radās tehniska problēma. Lūdzu, mēģiniet vēlreiz vai izmantojiet citu karti.",
+    "208": "(208) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "209": "(209) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "210": "(210) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "211": "(211) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "221": "(221) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "230": "(230) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "231": "(231) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "232": "(232) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "233": "(233) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "234": "(234) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "520": "(520) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "1000": "(1000) Jūsu kredītkarte ir noraidīta. Lūdzu, izmantojiet citu karti.",
+    "476": "(476) Karte nav autentificēta izmantošanai. Lūdzu, izmantojiet citu karti.",
+    "paymentErrorText":"Radās tehniska problēma. Lūdzu, pēc īsa brīža mēģiniet vēlreiz.",
+    "processingText": "Notiek apstrāde. Lūdzu, uzgaidiet. Neklikšķiniet uz atsvaidzināšanas vai atgriešanās pogu, jo jūsu transakcija var tikt traucēta vai pārtraukta."
+  }
+}

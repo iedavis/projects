@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "訂單摘要", 
+    "orderDoesNotExist": "訂單不存在。", 
+    "subTotalText": "小計：", 
+    "salesTaxText": "銷售稅：", 
+    "orderTotalText": "訂單總計：", 
+    "continueShoppingText": "繼續購物",
+    "delimiter": ":",
+    "includingTaxText": "(含稅)",
+    "totalExcludingTaxText": "總計 (不含稅)："
+  }
+}

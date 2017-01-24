@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "查看较少内容...",
+    "seeMoreText" : "查看较多内容...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "细化方式",
+    "clearAllRefinementsText" : "清除所有细化信息",
+    "guidedNavigationHeader" : "引导式导航页眉",
+    "doneText" : "完成",
+    "expandText" : "展开",
+    "collapseText" : "折叠",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "“叠加的引导式导航”已加载"
+  }
+}

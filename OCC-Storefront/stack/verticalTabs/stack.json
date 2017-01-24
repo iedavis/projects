@@ -1,0 +1,32 @@
+{
+  "availableToAllPages": true,
+  "configurable": false,
+  "minWidth": 1,
+  "name": "Vertical Tabs",
+  "regions": [
+    {
+      "name": "One",
+      "widgets": [],
+      "width": 12
+    },
+    {
+      "name": "Two",
+      "widgets": [],
+      "width": 12
+    },
+    {
+      "name": "Three",
+      "widgets": [],
+      "width": 12
+    }
+  ],
+  "stackType": "verticalTabs",
+  "styleSettings": {
+    "@activeTabBackgroundColor": "#195D8E",
+    "@activeTabTextColor": "#FFF",
+    "@tabBackgroundColor": "#FFF",
+    "@tabTextColor": "#555",
+    "@tabTitleAlignment": "center"
+  },
+  "version": 1
+}

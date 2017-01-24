@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Детаљи о плаћању",
+  "paymentMethod": "Начин плаћања",
+  "paypalText": "Безбеднији и једноставнији начин плаћања.", 
+  "paymentDetailsError": "Уверите се да сте попунили сва обавезна поља и да сте исправили све неважеће уносе.",
+  "paymentMethodNotAvilable": "(Ова опција плаћања не може да се користи за планиране наруџбине.)",
+  
+  "nameOnCardLabel": "Име на картици",
+  "nameOnCardPlaceholder": "Име на картици",
+  "nameOnCardRequired": "Име на картици је обавезно.",
+  "nameOnCardInvalid": "Име на картици је неважеће.",
+  
+  "cardTypeLabel": "Тип картице",
+  "cardTypePlaceholder": "Тип картице",
+  "cardTypeRequired": "Тип картице је обавезан.",
+  "cardTypeInvalid": "Тип картице је неважећи.",
+  
+  "cardNumberLabel": "Број картице",
+  "cardNumberPlaceholder": "Број картице",
+  "cardNumberRequired": "Број картице је обавезан.",
+  "cardNumberMaxLength":"Неважећи унос. Не прекорачујте максимални број знакова, који износи __maxLength__.",
+  "cardNumberInvalid": "Број картице је неважећи, покушајте поново.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV је обавезан.",
+  "cardCVVInvalid": "CVV је неважећи.",
+  "cardCVVWhatsThis": "Шта је ово?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Последње 3 цифре које се налазе на траци за потпис на картици.",
+  "cardCVVNumberInvalid": "Унос није важећи, дозвољен је само унос бројева.",
+  "cardCVVNumberMaxLength": "Унос није важећи. Не прекорачујте максимални број знакова, који износи 4.",
+  "cardCVVNumberMinLength": "Унос није важећи. Унесите најмање 3 знака.",
+  
+  "endMonthLabel": "Истиче (месец)",
+  "endMonthPlaceholder": "Истиче (месец)",
+  "endMonthRequired": "Месец истека картице је обавезан.",
+  "endMonthInvalid": "Месец/година истека су неважећи, покушајте поново.",
+  
+  "endYearLabel": "Истиче (година)",
+  "endYearPlaceholder": "Истиче (година)",
+  "endYearRequired": "Година истека картице је обавезна.",
+  "endYearInvalid": "Месец/година истека су неважећи, покушајте поново.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

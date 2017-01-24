@@ -1,0 +1,177 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": [],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "orderHistory",
+  "isLayoutDisplayable": true,
+  "displayName": "Order History Layout",
+  "translations": [
+    {
+      "name": "ประวัติใบสั่ง",
+      "language": "th"
+    },
+    {
+      "name": "Histórico do pedido",
+      "language": "pt_BR"
+    },
+    {
+      "name": "订单历史记录",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Журнал замовлень",
+      "language": "uk"
+    },
+    {
+      "name": "Истор. на поръчките",
+      "language": "bg"
+    },
+    {
+      "name": "Tellimisajalugu",
+      "language": "et"
+    },
+    {
+      "name": "Pasūtījumu vēsture",
+      "language": "lv"
+    },
+    {
+      "name": "Užsakymų istorija",
+      "language": "lt"
+    },
+    {
+      "name": "Ordrehistorikk",
+      "language": "no"
+    },
+    {
+      "name": "Istoric comenzi",
+      "language": "ro"
+    },
+    {
+      "name": "Historique commande",
+      "language": "fr_CA"
+    },
+    {
+      "name": "オーダー履歴",
+      "language": "ja"
+    },
+    {
+      "name": "Zgodovina naročil",
+      "language": "sl"
+    },
+    {
+      "name": "История заказов",
+      "language": "ru"
+    },
+    {
+      "name": "Prethodne narudžbe",
+      "language": "hr"
+    },
+    {
+      "name": "Sipariş Tarihçesi",
+      "language": "tr"
+    },
+    {
+      "name": "Historia zamówień",
+      "language": "pl"
+    },
+    {
+      "name": "訂單歷史記錄",
+      "language": "zh_TW"
+    },
+    {
+      "name": "주문 기록",
+      "language": "ko"
+    },
+    {
+      "name": "Historie objednávek",
+      "language": "cs"
+    },
+    {
+      "name": "Rendelési előzm.",
+      "language": "hu"
+    },
+    {
+      "name": "Ιστορικό παραγγελ.",
+      "language": "el"
+    },
+    {
+      "name": "Ordrehistorik",
+      "language": "da"
+    },
+    {
+      "name": "Order History",
+      "language": "en"
+    },
+    {
+      "name": "Историјат наруџбина",
+      "language": "sr"
+    },
+    {
+      "name": "Bestellhistorie",
+      "language": "de"
+    },
+    {
+      "name": "تاريخ الطلب",
+      "language": "ar"
+    },
+    {
+      "name": "Historial órdenes",
+      "language": "es"
+    },
+    {
+      "name": "Historique des cdes",
+      "language": "fr"
+    },
+    {
+      "name": "Cronologia ordine",
+      "language": "it"
+    },
+    {
+      "name": "Orderhistorie",
+      "language": "nl"
+    },
+    {
+      "name": "Orderhistorik",
+      "language": "sv"
+    },
+    {
+      "name": "Histór. Encomendas",
+      "language": "pt"
+    },
+    {
+      "name": "Tilaushistoria",
+      "language": "fi"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Vizualizare mai puţine....",
+    "seeMoreText" : "Vizualizare mai multe...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Rafinare după",
+    "clearAllRefinementsText" : "Ştergere toate rafinările",
+    "guidedNavigationHeader" : "Antet navigare îndrumată",
+    "doneText" : "Finalizat",
+    "expandText" : "Extindere",
+    "collapseText" : "Restrângere",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Navigarea îndrumată suprapusă a fost încărcată"
+  }
+}

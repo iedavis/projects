@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Lisää myynninedistämis- tai uskollisuuskoodi",
+  "promoCode": "Syötä myynninedistämiskoodi",
+  "promoCodeAriaLabelText": "Syötä myynninedistämiskoodi",
+  "buttonApplyCodeText": "Ota koodi käyttöön",
+  "buttonApplyingCodeText": "Koodi otetaan käyttöön",
+  "couponDetailsError": "Kupongin tiedoissasi on havaittu virhe.",
+  "promoCodeRequired": "Kupongin koodi ei voi olla tyhjä",
+  "duplicateCoupon": "Koodi on jo käytössä."
+  }
+}

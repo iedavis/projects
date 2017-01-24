@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "전자메일 알림 설정",
+    "spaceSettingsNotificationIntroText" : "수신하고 싶습니다.",
+    "spaceSettingsCommentNotificationTxt" : "비고 및 제품 통지",
+    "spaceSettingsNewMemberNotificationTxt" : "새 멤버 알림",
+    "spaceSettingsSaveTxt" : "저장",
+    "spaceSettingsCancelTxt" : "취소",
+    "spaceSettingsSaveErrorTxt" : "알림 설정 변경 사항을 저장하는 동안 문제가 발생했습니다.",
+    "spaceSettingsSaveSuccessTxt" : "알림 설정이 업데이트 및 저장되었습니다.",
+    "spaceSettingsOnText" : "예",
+    "spaceSettingsOffText" : "아니요",
+    "spaceSettingsNotificationEnableHelpText" : "희망 목록 통지를 사용으로 설정하려면 \"내 계정\" 페이지에서 \"전자메일 업데이트를 가져옵니다.\"를 선택하십시오."
+  }
+}

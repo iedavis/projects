@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Planirane narudžbine",
+    "backToMyAccount" : "<< Nazad na moj nalog",
+    "scheduledOrderName" : "Ime",
+    "frequency": "Učestalost",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Status",
+    "nextShipDate": "Sledeća narudžbina",
+    "lastScheduledRun": "Poslednja narudžbina",
+    "scheduledOrderDetails": "Detalji narudžbine",
+    "orderDetails": "Detalji",
+    "action": "Radnja",
+    "createdDate":"Datum kreiranja",
+    "editOrder": "Uredi",
+    "deleteOrder": "Izbriši",
+    "deleteSuccessMsg":"Brisanje je uspelo",
+    "myAccount" : "Moj nalog"
+  }
+}

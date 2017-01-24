@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Předchozí obrázky",
+    "nextImageText" : "Následující obrázky",
+    "onSaleText": "Výprodej",
+    "salePriceText": "Prodejní cena",
+    "listPriceText": "Ceníková cena",
+    "relatedProductsText": "Související produkty"
+  }
+}

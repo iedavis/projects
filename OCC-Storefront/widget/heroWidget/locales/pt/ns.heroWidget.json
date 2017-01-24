@@ -1,0 +1,7 @@
+{
+  "resources": {
+	"heroWidget": "Hero",
+	"previousBannerText": "Cabeçalho de Apresentação Anterior",
+	"nextBannerText": "Cabeçalho de Apresentação Seguinte"
+  }
+}

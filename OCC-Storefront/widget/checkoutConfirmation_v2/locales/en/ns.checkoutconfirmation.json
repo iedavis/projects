@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Order Confirmation", 
+    "orderDoesNotExist": "Order does not exist.", 
+    "thankyouMsg": "Thank you for your order on __orderDate__ at __orderTime__.", 
+    "processingMsg": "This order is now being processed.",
+    "pendingMsg": "Thank you, your order request has been received and payment is pending. Once payment has been approved we will process the order.",
+    "orderNumberMsg": "Your order number is __orderNumber__.", 
+    "emailMsg": "An order confirmation email has been sent to __emailAddress__ detailing the order below.", 
+    "yourOrderText": "Your Order", 
+    "itemText": "Item", 
+    "quantityText": "Quantity", 
+    "itemTotalText": "Item Total", 
+    "shippingAddressAndMethodText": "Shipping Address and Method", 
+    "shipToText": "Ship to:", 
+    "shippingMethodText": "Shipping Method:", 
+    "paymentDetailsText": "Payment Details", 
+    "cardTypeText": "Card Type:", 
+    "cardNumberText": "Card Number:", 
+    "billingAddressText": "Billing Address:",
+    "loginSuccessText": "Your account has been created. Thanks for registering.",
+    "loginFailureText": "Error: Your order has been processed but there was a problem creating your account. Please try again.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

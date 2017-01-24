@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Jelölje be a stílus alap listázásának használatához.",
+    "shouldUseStyleBasedTextLabel": "Stílus alap listázásának használata",
+    "listTypeHelpText": "Döntse el, hogy a vezérlőpéldány a terméklista vagy a keresésitalálat-lista típusba tartozik-e.",
+    "listTypeTextLabel": "Listatípus",
+    "productLabel" : "Termék",
+    "searchLabel" : "Keresés",
+    "productListingFieldsRequiredHelpText": "Adja meg a válaszban szerepeltetni kívánt mezők listáját vesszővel elválasztva. A mezők beállítása csak a kategórianavigáción keresztüli terméklistákra vonatkozik, a keresési eredményekre nem.",
+    "productListingFieldsRequiredLabel": "Mezők",
+    "productsPerPageRequiredHelpText": "Adja meg az oldalanként megjelenített termékek számát.",
+    "productsPerPageRequiredLabel": "Oldalanként megjelenített termékek száma",
+    "blockSizeRequiredHelpText": "Adja meg a kérelmenként betöltendő termékek számát. A blokkméret beállítása csak a kategórianavigáción keresztüli terméklistákra vonatkozik, a keresési eredményekre nem.",
+    "blockSizeRequiredLabel": "Blokkméret"
+  }
+}

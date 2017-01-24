@@ -1,0 +1,7 @@
+{
+  "config": {"homePageLink": "home"},
+  "id": "404WidgetInst",
+  "name": "Page Not Found Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

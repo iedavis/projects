@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Setări înştiinţare prin e-mail",
+    "spaceSettingsNotificationIntroText" : "Doresc să primesc:",
+    "spaceSettingsCommentNotificationTxt" : "Comentarii şi înştiinţări despre produse",
+    "spaceSettingsNewMemberNotificationTxt" : "Înştiinţări despre membrii noi",
+    "spaceSettingsSaveTxt" : "Salvare",
+    "spaceSettingsCancelTxt" : "Anulare",
+    "spaceSettingsSaveErrorTxt" : "A survenit o eroare la salvarea setărilor dvs. pt. înştiinţare.",
+    "spaceSettingsSaveSuccessTxt" : "Setările pt. înştiinţare au fost actualizate şi salvate.",
+    "spaceSettingsOnText" : "Da ",
+    "spaceSettingsOffText" : "Nu",
+    "spaceSettingsNotificationEnableHelpText" : "Selectaţi \"Doresc să primesc actualizări prin e-mail\" în pagina \"Cont propriu\" pt. a activa înştiinţările pt. lista de dorinţe."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "productsocialmetatags",
+  "imports": ["product"],
+  "javascript": "product-social-meta-tags",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Product Social Meta Tags",
+  "pageTypes": ["product"],
+  "source": 100,
+  "version": 2,
+  "widgetFamily": "productSocialMetaTags",
+  "widgetType": "productSocialMetaTags"
+}

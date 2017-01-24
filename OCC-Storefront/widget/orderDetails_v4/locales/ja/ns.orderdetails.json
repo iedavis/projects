@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "自分のオーダー",
+    "backToMyOrdersLink" : "<< 自分のオーダーに戻る",
+    "orderDetailsText": "オーダー詳細",
+    "orderDateText": "オーダー日:",
+    "orderNumberText": "オーダー番号:",
+    "orderStatusText": "オーダー・ステータス:",
+    "quoteExpiryText": "見積失効:",
+    "scheduledOrderName": "スケジュール名:",
+    "shippingAddressAndMethodText": "出荷先住所および出荷方法", 
+    "shippingAddressText": "出荷先:",
+    "noShippingAddressText" : "使用可能な出荷先住所がありません", 
+    "shippingMethodText": "出荷方法:",
+    "shippingText": "標準出荷:",
+    "salesTaxText": "売上税:",
+    "orderTotalText": "オーダー合計:",
+    "includingTaxText": "(内税)",
+    "totalExcludingTaxText": "合計(外税): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "追跡番号:",
+    "trackingReferenceReaderText": "__carrierName__ 追跡参照 __trackingReference__",
+    "scheduledOrderPriceListGroupText": "価格表'__priceListGroup__'に従ってスケジュール済オーダーが作成されました"
+  } 
+}

@@ -1,0 +1,21 @@
+{
+  "availableToAllWidgets": true,
+  "configOptions": [
+    "elementName",
+    "image",
+    "horizontalAlignment",
+    "border",
+    "padding",
+    "preview"
+  ],
+  "global": true,
+  "inline": true,
+  "tag": "image",
+  "translations": [{
+    "description": "Image Element",
+    "language": "en",
+    "title": "Image"
+  }],
+  "type": "fragment",
+  "version": 1
+}

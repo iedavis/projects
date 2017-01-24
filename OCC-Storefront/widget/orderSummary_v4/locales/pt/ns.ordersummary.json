@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Resumo da Encomenda",
+    "subtotalText": "Total Parcial: ",
+    "discountText": "Desconto(s)*: ",
+    "shippingOptionsText": "Opções de Expedição",
+    "changeText": "alterar",
+    "salesTaxText": "Imposto sobre o Consumo: ",
+    "orderTotalText": "Total da Encomenda: ",
+    "placeOrderText": "Efetuar Encomenda",
+    "noShippingText": "Sem Expedição",
+    "applicableTaxesText": "Os impostos aplicáveis serão calculados no registo de saída.",
+    "paymentOptionsText": "Opções de Pagamento",
+    "checkoutText": "Registo de Saída",
+    "noShippingSelectedText": "Nenhum Método de Expedição Selecionado.",
+    "shippingAddressRequired":"Introduza uma morada para expedição ",
+    "shippingText": "Expedição: __displayName__ ",
+    "noShippingMethodsText": "Não Existem Métodos de Expedição Disponíveis",
+    "checkoutErrorMsg": "Certifique-se de que preencheu todos os campos obrigatórios e corrigiu quaisquer entradas inválidas.",
+    "removeLinkText": "retirar",
+    "rePricingText":"Redefinir Preço",
+    "totalExcludingTaxText": "Total (imposto excluído): ",
+    "includingTaxText": "(imposto incluído)"
+  }
+}

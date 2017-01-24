@@ -1,0 +1,177 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["scheduledOrderWidgetInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "scheduledOrder",
+  "isLayoutDisplayable": true,
+  "displayName": "Scheduled Order Layout",
+  "translations": [
+    {
+      "name": "ใบสั่งที่วางกำหนดการ",
+      "language": "th"
+    },
+    {
+      "name": "Pedido Programado",
+      "language": "pt_BR"
+    },
+    {
+      "name": "计划订单",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Планове замовлення",
+      "language": "uk"
+    },
+    {
+      "name": "Насрочена поръчка",
+      "language": "bg"
+    },
+    {
+      "name": "Ajastatud tellimus",
+      "language": "et"
+    },
+    {
+      "name": "Ieplānotais pasūtījums",
+      "language": "lv"
+    },
+    {
+      "name": "Suplanuotas užsakymas",
+      "language": "lt"
+    },
+    {
+      "name": "Planlagt ordre",
+      "language": "no"
+    },
+    {
+      "name": "Comandă programată",
+      "language": "ro"
+    },
+    {
+      "name": "Commande programmée",
+      "language": "fr_CA"
+    },
+    {
+      "name": "スケジュール済オーダー",
+      "language": "ja"
+    },
+    {
+      "name": "Planirano naročilo",
+      "language": "sl"
+    },
+    {
+      "name": "Запланированный заказ",
+      "language": "ru"
+    },
+    {
+      "name": "Planirana narudžba",
+      "language": "hr"
+    },
+    {
+      "name": "Çizelgelenen Sipariş",
+      "language": "tr"
+    },
+    {
+      "name": "Zaplanowane zamówienie",
+      "language": "pl"
+    },
+    {
+      "name": "排定訂單",
+      "language": "zh_TW"
+    },
+    {
+      "name": "스케줄링된 주문",
+      "language": "ko"
+    },
+    {
+      "name": "Plánovaná objednávka",
+      "language": "cs"
+    },
+    {
+      "name": "Ütemezett rendelés",
+      "language": "hu"
+    },
+    {
+      "name": "Προγραμμ. παραγγελία",
+      "language": "el"
+    },
+    {
+      "name": "Tidsplanlagt ordre",
+      "language": "da"
+    },
+    {
+      "name": "Scheduled Order",
+      "language": "en"
+    },
+    {
+      "name": "Планирана наруџбина",
+      "language": "sr"
+    },
+    {
+      "name": "Geplante Bestellung",
+      "language": "de"
+    },
+    {
+      "name": "الطلب المجدول",
+      "language": "ar"
+    },
+    {
+      "name": "Orden programada",
+      "language": "es"
+    },
+    {
+      "name": "Commande planifiée",
+      "language": "fr"
+    },
+    {
+      "name": "Ordine schedulato",
+      "language": "it"
+    },
+    {
+      "name": "Geplande order",
+      "language": "nl"
+    },
+    {
+      "name": "Schemalagd order",
+      "language": "sv"
+    },
+    {
+      "name": "Encomenda Programada",
+      "language": "pt"
+    },
+    {
+      "name": "Suunniteltu tilaus",
+      "language": "fi"
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Zaključek",
+    "defaultAddressLabel": "Privzeti naslov",
+    "billingAddressText" : "Naslov za fakturo",
+    "noAddressesText" : "Noben naslov ni shranjen.",
+    "firstNameText": "Ime",
+    "lastNameText": "Priimek",
+    "shippingAddressText": "Naslov za pošiljanje",
+    "checkoutErrorMsg": "Poskrbite, da ste izpolnili vsa obvezna polja in popravili neveljavne vnose.",
+    "firstNameRequired": "Ime je obvezno. ",
+    "lastNameRequired": "Priimek je obvezen. ",
+    "unsupportedShippingAddressText": "Pošiljanje na ta naslov ni razpoložljivo.",
+    "invalidBillingAddressText": "Naslova za pošiljanje ni mogoče uporabiti kot naslov za fakturo. Vnesite naslov za fakturo.",
+    "invalidPreviousAddress": "Na vaš predhodno uporabljen naslov za pošiljanje ne pošiljamo več."
+  }
+}

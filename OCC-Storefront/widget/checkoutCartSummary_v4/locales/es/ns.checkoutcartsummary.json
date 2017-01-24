@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Resumen de carro",
+    "quantityText": "Cantidad:",
+    "colorText": "Color:",
+    "sizeText": "Tamaño: ",
+    "instockText": "En stock",
+    "outofstockText": "Stock agotado",
+    "estimiatedShippingText": "Envío estimado:",
+    "buttonEditCartSummary": "Editar",
+    "editCartText": "Editar carro",
+    "seeAllProducts": "Ver todos los productos",
+    "showAll": "Mostrar todo",
+    "cartSummaryItemLimitText": "Mostrando __noOfItems__ artículos de carro iniciales"
+  }
+}

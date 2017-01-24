@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Bestellübersicht",
+    "subtotalText": "Zwischensumme:",
+    "shippingOptionsText": "Versandoptionen",
+    "salesTaxText": "Umsatzsteuer: ",
+    "orderTotalText": "Gesamtsumme Bestellung:",
+    "placeOrderText": "Kaufen",
+    "scheduleOrderText": "Planbestellung",
+    "noShippingText": "Kein Versand",
+    "shippingText": "Versand: __displayName__",    
+    "applicableTaxesText": "Anwendbare Steuern werden beim Checkout berechnet.",
+    "paymentOptionsText": "Zahlungsoptionen",
+    "checkoutText": "Checkout",
+    "noShippingSelectedText": "Keine Versandart ausgewählt.",
+    "shippingAddressRequired": "Geben Sie eine Versandadresse ein",
+    "noShippingMethodsText": "Für Ihre Zieladresse sind keine Versandarten verfügbar.",
+    "noShippingMethodsForAddressText": "Für die ausgewählte Adresse sind keine Versandarten verfügbar",
+    "checkoutErrorMsg": "Stellen Sie sicher, dass Sie alle erforderlichen Felder ausgefüllt und alle ungültigen Einträge korrigiert haben.",
+    "rePricingText":"Preis neu festsetzen",
+    "removeLinkText":"Entfernen",
+    "paymentMessage": "Im nächsten Bildschirm erfolgt die Kreditkartenüberprüfung durch den Kartenaussteller.",
+    "includingTaxText": "(mit Steuer)",
+    "totalExcludingTaxText": "Summe (ohne Steuer):",
+    "paymentMethodNotAvilable": "(Diese Zahlungsoption kann nicht für geplante Bestellungen verwendet werden.)",
+    "selectShippingMethodText": "Versandart auswählen"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Çizelgelenen Siparişler",
+    "backToMyAccount" : "<< Hesabıma Geri Dön",
+    "scheduledOrderName" : "Ad",
+    "frequency": "Sıklık",    
+    "scheduledOrderId": "No",
+    "scheduledOrderStatus": "Statü",
+    "nextShipDate": "Sonraki Sipariş",
+    "lastScheduledRun": "Son Sipariş",
+    "scheduledOrderDetails": "Sipariş Detayları",
+    "orderDetails": "Detaylar",
+    "action": "Eylem",
+    "createdDate":"Oluşturma Tarihi",
+    "editOrder": "Düzenle",
+    "deleteOrder": "Sil",
+    "deleteSuccessMsg":"Başarıyla silindi",
+    "myAccount" : "Hesabım"
+  }
+}

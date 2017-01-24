@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "計算出貨與稅捐 (選擇性)",
+    "cartShippingErrorMsg": "請確認您已完成所有出貨欄位，且已更正所有無效的項目。",
+    "countryText": "國家/地區",
+    "stateText": "省/市",
+    "zipCodeText": "郵遞區號",
+    "countryRequired": "「國家/地區」為必填。",
+    "stateRequired": "「省/市」為必填。",
+    "zipCodeRequired": "「郵遞區號」為必填。",
+    "zipCodeInvalid": "輸入無效。請輸入有效的郵遞區號。",
+    "stateRegionText": "省/市/區域",
+    "noShippingSelectedText": "未選取出貨方式。",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "您的目的地地址沒有可用的出貨方式。",
+    "noShippingMethodsForAddressText": "無法為輸入的出貨地址擷取出貨方式",
+    "fetchingShippingMethodsText": "正在擷取地址的出貨方式",
+    "invalidShippingAddress": "指定的出貨地址無效。",
+    "invalidShippingMethod": "指定的出貨方式無效。",
+    "pricingError" : "無法計算出貨與稅捐成本。請檢查出貨地址。",
+    "invalidPreviousAddress": "我們不再出貨至您先前使用的出貨地址。",
+    "shippingMethodNoLongerAvailable": "先前選取的出貨方式已無法使用。請先檢查出貨方式再下單。"
+  }
+}

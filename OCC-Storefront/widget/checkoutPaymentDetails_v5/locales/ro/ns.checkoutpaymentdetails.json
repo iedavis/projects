@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Detalii plată",
+  "paymentMethod": "Metodă de plată",
+  "paypalText": "Modalitatea mai sigură, mai facilă de plată.", 
+  "paymentDetailsError": "Asiguraţi-vă că aţi completat toate câmpurile obligatorii şi aţi corectat toate intrările nevalide.",
+  "paymentMethodNotAvilable": "(Această opţiune de plată nu poate fi utilizată pt. comenzile programate.)",
+  
+  "nameOnCardLabel": "Nume înscris pe card",
+  "nameOnCardPlaceholder": "Nume înscris pe card",
+  "nameOnCardRequired": "Numele înscris pe card este obligatoriu.",
+  "nameOnCardInvalid": "Numele înscris pe card este nevalid.",
+  
+  "cardTypeLabel": "Tip card",
+  "cardTypePlaceholder": "Tip card",
+  "cardTypeRequired": "Tipul cardului este obligatoriu.",
+  "cardTypeInvalid": "Tipul cardului este nevalid.",
+  
+  "cardNumberLabel": "Nr. card",
+  "cardNumberPlaceholder": "Nr. card",
+  "cardNumberRequired": "Numărul cardului este obligatoriu.",
+  "cardNumberMaxLength":"Intrare nevalidă. Nu depăşiţi nr. maxim de __maxLength__ caractere.",
+  "cardNumberInvalid": "Număr card nevalid, încercaţi din nou.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV este obligatoriu.",
+  "cardCVVInvalid": "CVV este nevalid.",
+  "cardCVVWhatsThis": "Ce este acesta?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Ultimele 3 cifre aflate pe banda pt. semnătură a cardului dvs.",
+  "cardCVVNumberInvalid": "Intrare nevalidă. Introduceţi doar numere.",
+  "cardCVVNumberMaxLength": "Intrare nevalidă. Nu depăşiţi nr. maxim permis, 4 caractere.",
+  "cardCVVNumberMinLength": "Intrare nevalidă. Introduceţi minim 3 caractere.",
+  
+  "endMonthLabel": "Expiră (Luna)",
+  "endMonthPlaceholder": "Expiră (Luna)",
+  "endMonthRequired": "Luna de expirare a cardului este obligatorie.",
+  "endMonthInvalid": "Luna sau anul de expirare este nevalid, încercaţi din nou.",
+  
+  "endYearLabel": "Expiră (Anul)",
+  "endYearPlaceholder": "Expiră (Anul)",
+  "endYearRequired": "Anul de expirare a cardului este obligatoriu.",
+  "endYearInvalid": "Luna sau anul de expirare este nevalid, încercaţi din nou.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

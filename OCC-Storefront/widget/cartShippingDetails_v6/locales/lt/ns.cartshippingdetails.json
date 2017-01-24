@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Apskaičiuoti siuntimo išlaidas ir mokesčius (pasirinktinai)",
+    "cartShippingErrorMsg": "Įsitikinkite, kad užpildėte visus siuntimo laukus ir ištaisėte visus netinkamus įrašus.",
+    "countryText": "Šalis",
+    "stateText": "Būsena",
+    "zipCodeText": "Pašto kodas",
+    "countryRequired": "Lauką Šalis užpildyti būtina.",
+    "stateRequired": "Lauką Valstija užpildyti būtina.",
+    "zipCodeRequired": "Lauką Pašto indeksas užpildyti būtina.",
+    "zipCodeInvalid": "Neteisingas įrašas. Įveskite galiojantį pašto kodą.",
+    "stateRegionText": "Valstija / regionas",
+    "noShippingSelectedText": "Nepasirinktas siuntimo būdas.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Pagal nurodytą paskirties adresą nėra galimų pristatymo būdų.",
+    "noShippingMethodsForAddressText": "Nepavyko gauti siuntimo būdų pagal įvestą siuntimo adresą",
+    "fetchingShippingMethodsText": "Gaunami siuntimo būdai pagal adresą",
+    "invalidShippingAddress": "Nurodytas netinkamas siuntimo adresas.",
+    "invalidShippingMethod": "Nurodytas netinkamas siuntimo būdas.",
+    "pricingError" : "Nepavyko apskaičiuoti siuntimo išlaidų ir mokesčių. Patikrinkite siuntimo adresą.",
+    "invalidPreviousAddress": "Nebesiunčiame jūsų anksčiau nurodytu pristatymo adresu.",
+    "shippingMethodNoLongerAvailable": "Anksčiau pasirinktas siuntimo būdas nebegalioja. Prieš pateikdami užsakymą, patikrinkite siuntimo būdą."
+  }
+}

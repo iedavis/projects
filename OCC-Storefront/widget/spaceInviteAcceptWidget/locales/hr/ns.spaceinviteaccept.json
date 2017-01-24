@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Dobrodošli, __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Pozivnica je već prihvaćena.",
+    "spaceNotFound" : "Popis želja kojemu pokušavate pristupiti nije pronađen.",
+    "invitationExpiredError" : "Vaša je pozivnica istekla! Obratite se vlasniku popisa želja kojem se želite pridružite i zatražite novu pozivnicu.",
+    "memberJoinError" : "Došlo je do pogreške s pozivnicom.",
+    "pleaseWaitProcessingMsg" : "Pričekajte dok se pozivnica ne obradi"
+  }
+}

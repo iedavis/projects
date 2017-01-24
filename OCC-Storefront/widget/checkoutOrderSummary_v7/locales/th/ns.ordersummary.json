@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "สรุปใบสั่ง",
+    "subtotalText": "ยอดรวมย่อย: ",
+    "shippingOptionsText": "ตัวเลือกการจัดส่งสินค้า",
+    "salesTaxText": "ภาษีขาย: ",
+    "orderTotalText": "ยอดรวมในใบสั่ง: ",
+    "placeOrderText": "สั่งสินค้า",
+    "scheduleOrderText": "ใบสั่งตามกำหนดการ",
+    "noShippingText": "ไม่มีการจัดส่งสินค้า",
+    "shippingText": "การจัดส่งสินค้า: __displayName__",    
+    "applicableTaxesText": "จะมีการคำนวณภาษีที่เรียกเก็บเมื่อเช็คเอาต์",
+    "paymentOptionsText": "ตัวเลือกการชำระเงิน",
+    "checkoutText": "เช็คเอาต์",
+    "noShippingSelectedText": "ไม่ได้เลือกวิธีจัดส่งสินค้า",
+    "shippingAddressRequired": "โปรดป้อนที่อยู่ที่รับสินค้า",
+    "noShippingMethodsText": "ไม่มีวิธีจัดส่งสินค้าที่ใช้ได้สำหรับที่อยู่ปลายทางของคุณ",
+    "noShippingMethodsForAddressText": "ไม่มีวิธีจัดส่งสินค้าสำหรับที่อยู่ที่เลือก",
+    "checkoutErrorMsg": "โปรดตรวจสอบให้แน่ใจว่าคุณได้ป้อนข้อมูลในฟิลด์ที่จำเป็นทั้งหมดครบและแก้ไขรายการที่ไม่ถูกต้องแล้ว",
+    "rePricingText":"การปรับราคา",
+    "removeLinkText":"ลบ",
+    "paymentMessage": "หน้าจอถัดไปที่คุณเห็นอาจเป็นการตรวจสอบบัตรชำระเงินผ่านผู้ออกบัตรของคุณ",
+    "includingTaxText": "(รวมภาษี)",
+    "totalExcludingTaxText": "ยอดรวม (ไม่รวมภาษี): ",
+    "paymentMethodNotAvilable": "(ตัวเลือกการชำระเงินนี้ไม่สามารถใช้กับใบสั่งที่วางกำหนดการ)",
+    "selectShippingMethodText": "เลือกวิธีจัดส่งสินค้า"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Arvuta saatmiskulu ja maksud (valikuline)",
+    "cartShippingErrorMsg": "Veenduge, et kõik saatmisega seotud väljad on täidetud ja vead parandatud.",
+    "countryText": "Riik",
+    "stateText": "Maakond",
+    "zipCodeText": "Sihtnumber",
+    "countryRequired": "Riik on kohustuslik. ",
+    "stateRequired": "Maakond on kohustuslik. ",
+    "zipCodeRequired": "Sihtnumber on kohustuslik. ",
+    "zipCodeInvalid": "Sobimatu kirje. Sisestage sobiv sihtnumber.",
+    "stateRegionText": "Maakond/piirkond",
+    "noShippingSelectedText": "Saatmisviisi pole valitud.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Määratud sihtaadressi jaoks pole saadaval ühtegi saatmisviisi.",
+    "noShippingMethodsForAddressText": "Sisestatud saatmisaadressi jaoks saatmisviiside toomine nurjus",
+    "fetchingShippingMethodsText": "Aadressi jaoks saatmisviiside toomine",
+    "invalidShippingAddress": "Määratud on sobimatu saatmisaadress.",
+    "invalidShippingMethod": "Määratud on sobimatu saatmisviis.",
+    "pricingError" : "Saatmis- ja maksukulu ei saa arvutada. Kontrollige saatmisaadressi.",
+    "invalidPreviousAddress": "Me ei saada enam teie varem määratud saatmisaadressile.",
+    "shippingMethodNoLongerAvailable": "Varem valitud saatmisviis pole enam saadaval. Enne tellimuse esitamist kontrollige saatmisviisi."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Prethodne slike",
+    "nextImageText" : "Sljedeće slike",
+    "onSaleText": "Rasprodaja",
+    "salePriceText": "Cijena na rasprodaji",
+    "listPriceText": "Kataloška cijena",
+    "relatedProductsText": "Srodni proizvodi"
+  }
+}

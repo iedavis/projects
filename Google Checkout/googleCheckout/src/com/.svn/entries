@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12"
+   name=""
+   committed-date="2006-11-22T02:58:18.459271Z"
+   url="http://google-checkout-java14-sample-code.googlecode.com/svn/trunk/src/com"
+   last-author="colinhc"
+   kind="dir"
+   uuid="8474a406-481d-0410-88fc-6705ad773e9c"
+   repos="http://google-checkout-java14-sample-code.googlecode.com/svn"
+   revision="13"/>
+<entry
+   name="google"
+   kind="dir"/>
+</wc-entries>

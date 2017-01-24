@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Commander",
+    "defaultAddressLabel": "Adresse par défaut",
+    "billingAddressText" : "Adresse de facturation",
+    "noAddressesText" : "Aucune adresse n'est enregistrée.",
+    "firstNameText": "Prénom",
+    "lastNameText": "Nom",
+    "shippingAddressText": "Adresse d'expédition",
+    "checkoutErrorMsg": "Vérifiez que vous avez rempli tous les champs obligatoires et corrigé les entrées non valides.",
+    "firstNameRequired": "Le prénom est obligatoire. ",
+    "lastNameRequired": "Le nom est obligatoire. ",
+    "unsupportedShippingAddressText": "Expédition non disponible à cette adresse.",
+    "invalidBillingAddressText": "Votre adresse d'expédition ne peut pas être utilisée comme adresse de facturation. Entrez une adresse de facturation.",
+    "invalidPreviousAddress": "Nous n'effectuons plus d'expédition à l'adresse d'expédition que vous utilisiez précédemment."
+  }
+}

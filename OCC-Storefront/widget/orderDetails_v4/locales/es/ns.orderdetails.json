@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Mis órdenes",
+    "backToMyOrdersLink" : "<< Volver a mis órdenes",
+    "orderDetailsText": "Detalles de orden",
+    "orderDateText": "Fecha de orden:",
+    "orderNumberText": "Número de orden:",
+    "orderStatusText": "Estado de la orden:",
+    "quoteExpiryText": "Caducidad de oferta:",
+    "scheduledOrderName": "Nombre de programa:",
+    "shippingAddressAndMethodText": "Método y dirección de envío", 
+    "shippingAddressText": "Enviar a:",
+    "noShippingAddressText" : "No hay dirección de envío disponible", 
+    "shippingMethodText": "Método de envío:",
+    "shippingText": "Envío estándar:",
+    "salesTaxText": "Impuesto sobre ventas:",
+    "orderTotalText": "Total de órdenes:",
+    "includingTaxText": "(impuesto incluido)",
+    "totalExcludingTaxText": "Total (impuesto excluido): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Números de seguimiento:",
+    "trackingReferenceReaderText": "__carrierName__ referencia de seguimiento __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Orden programada creada según la lista de precios '__priceListGroup__'"
+  } 
+}

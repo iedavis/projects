@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Willkommen, __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Die Einladung wurde bereits angenommen.",
+    "spaceNotFound" : "Der Wunschzettel, auf den Sie zugreifen möchten, wurde nicht gefunden.",
+    "invitationExpiredError" : "Ihre Einladung ist abgelaufen. Wenden Sie sich an den Eigentümer des Wunschzettels, dem Sie beitreten möchten, und bitten Sie um eine erneute Einladung.",
+    "memberJoinError" : "Bei der Einladung ist ein Fehler aufgetreten.",
+    "pleaseWaitProcessingMsg" : "Warten Sie, während Ihre Einladung verarbeitet wird"
+  }
+}

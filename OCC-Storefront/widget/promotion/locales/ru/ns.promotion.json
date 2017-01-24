@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Добавление кода рекламной акции или программы лояльности",
+  "promoCode": "Ввод кода рекламной акции",
+  "promoCodeAriaLabelText": "Ввод кода рекламной акции",
+  "buttonApplyCodeText": "Применить код",
+  "buttonApplyingCodeText": "Применение кода",
+  "couponDetailsError": "Проблема с данными купона.",
+  "promoCodeRequired": "Код купона не может быть пустым",
+  "duplicateCoupon": "Код уже применен."
+  }
+}

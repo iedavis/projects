@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Alustage juba täna ostmisel koostöö tegemist!",
+    "welcomePageLoginText": "Logi sisse",
+    "welcomePageCreateAccountText": "Loo konto",
+    "welcomePageTitle": "Tere tulemast kasutama sooviloendeid!",
+    "welcomePageSubtitle": "Liituge sooviloenditega tasuta ja lõbutsege koos teistega!",
+    "welcomePageBulletText1": "Salvestage ja korraldage tooteid, mis teile huvi pakuvad, ning vaadake nende kohta tagasisidet või küsige lisateavet.",
+    "welcomePageBulletText2": "Jagage oma sooviloendeid pere ja sõpradega ning arutage koos, mida osta.",
+    "welcomePageBulletText3": "Kasutage sooviloendeid kingituste leidmiseks ja nende läbiarutamiseks. Nii pole muret, et ostate vale kingituse!",
+    "welcomePageOrText": "või"
+  }
+}

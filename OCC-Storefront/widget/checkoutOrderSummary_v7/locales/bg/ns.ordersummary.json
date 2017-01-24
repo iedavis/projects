@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Обща информация за поръчка",
+    "subtotalText": "Междинна обща сума: ",
+    "shippingOptionsText": "Опции за доставка",
+    "salesTaxText": "Данък върху продажбите: ",
+    "orderTotalText": "Обща сума на поръчката: ",
+    "placeOrderText": "Направи поръчка",
+    "scheduleOrderText": "Планирана поръчка",
+    "noShippingText": "Без доставка",
+    "shippingText": "Доставяне: __displayName__",    
+    "applicableTaxesText": "Приложимите данъци ще се добавят при финализирането.",
+    "paymentOptionsText": "Опции за плащане",
+    "checkoutText": "Каса",
+    "noShippingSelectedText": "Не е избран метод на доставка.",
+    "shippingAddressRequired": "Моля, въведете адрес за доставка",
+    "noShippingMethodsText": "Няма никакви предлагани методи на доставка за вашия адрес на местоназначение.",
+    "noShippingMethodsForAddressText": "Няма достъпни методи на доставка за избрания адрес",
+    "checkoutErrorMsg": "Моля, уверете се, че сте попълнили всички задължителни полета и сте поправили всички невалидни данни.",
+    "rePricingText":"Преоценяване",
+    "removeLinkText":"Премахване",
+    "paymentMessage": "Следващият екран, който ще видите, може да е проверка на плащане с карта от издателя на вашата карта.",
+    "includingTaxText": "(с включен данък)",
+    "totalExcludingTaxText": "Общо (без данък): ",
+    "paymentMethodNotAvilable": "(Тази опция за плащане не може да се използва за планирани поръчки.)",
+    "selectShippingMethodText": "Избор на метод на доставка"
+  }
+}

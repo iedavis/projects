@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Оформление покупки",
+    "defaultAddressLabel": "Адрес по умолчанию",
+    "billingAddressText" : "Адрес получателя счета",
+    "noAddressesText" : "Адреса не сохранены.",
+    "firstNameText": "Имя",
+    "lastNameText": "Фамилия",
+    "shippingAddressText": "Адрес получателя товара",
+    "checkoutErrorMsg": "Убедитесь, что все обязательные поля заполнены и введенные недопустимые значения исправлены.",
+    "firstNameRequired": "Имя - обязательное поле. ",
+    "lastNameRequired": "Фамилия - обязательное поле. ",
+    "unsupportedShippingAddressText": "Доставка по этому адресу невозможна.",
+    "invalidBillingAddressText": "Ваш адрес получателя товара нельзя использовать как адрес получателя счета. Введите адрес получателя счета.",
+    "invalidPreviousAddress": "Мы больше не доставляем заказы по ранее использовавшемуся вами адресу доставки."
+  }
+}

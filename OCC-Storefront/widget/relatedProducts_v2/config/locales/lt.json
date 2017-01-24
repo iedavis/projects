@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Rodyti atributus",
+    "numberOfRelatedProductsHelpText": "Įveskite karuselėje rodytinų susijusių produktų skaičių",
+    "numberOfRelatedProductsTextLabel": "Susijusių produktų skaičius",
+    "displayNameOfRelatedProductsTextLabel": "Produkto pavadinimas",
+    "displayPriceOfRelatedProductsTextLabel": "Kaina"
+  }
+}

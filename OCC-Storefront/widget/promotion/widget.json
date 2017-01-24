@@ -1,0 +1,19 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "promotion",
+  "imports": [],
+  "javascript": "promotion",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Promotion",
+  "pageTypes": [
+    "cart",
+    "checkout"
+  ],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "promotion",
+  "widgetType": "promotion"
+}

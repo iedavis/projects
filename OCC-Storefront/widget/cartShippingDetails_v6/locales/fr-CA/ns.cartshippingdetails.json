@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Calculer les frais d'expédition et les taxes (facultatif)",
+    "cartShippingErrorMsg": "Vérifiez que vous avez rempli tous les champs relatifs à l'expédition et corrigé les entrées non valides.",
+    "countryText": "Pays",
+    "stateText": "État",
+    "zipCodeText": "Code postal",
+    "countryRequired": "Le champ Pays est obligatoire. ",
+    "stateRequired": "Le champ État/Province est obligatoire. ",
+    "zipCodeRequired": "Le code postal est obligatoire. ",
+    "zipCodeInvalid": "Entrée non valide. Entrez un code postal valide.",
+    "stateRegionText": "État/Région",
+    "noShippingSelectedText": "Aucun mode d'expédition n'est sélectionné.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Aucun mode d'expédition n'est disponible pour votre adresse de destination.",
+    "noShippingMethodsForAddressText": "Échec de l'extraction des modes d'expédition pour l'adresse d'expédition entrée",
+    "fetchingShippingMethodsText": "Extraction des modes d'expédition pour l'adresse",
+    "invalidShippingAddress": "Adresse d'expédition non valide indiquée.",
+    "invalidShippingMethod": "Mode d'expédition non valide indiqué.",
+    "pricingError" : "Impossible de calculer les coûts d'expédition et les taxes. Vérifiez l'adresse d'expédition.",
+    "invalidPreviousAddress": "Nous n'effectuons plus d'expédition à l'adresse d'expédition que vous utilisiez précédemment.",
+    "shippingMethodNoLongerAvailable": "Le mode d'expédition sélectionné précédemment n'est plus disponible. Vérifiez le mode d'expédition avant de passer votre commande."
+  }
+}

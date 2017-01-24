@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Unesite maksimalni broj stavki koje će se prikazati u sažetku kartice.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Maksimalan broj stavki u sažetku košarice"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "以禮品卡支付",
+    "giftCardNumberText": "禮品卡卡號",
+    "giftCardPinText": "禮品卡 PIN",
+    "giftCardApplyText": "套用禮品卡", 
+    "giftCardApplyingText": "正在套用禮品卡", 
+    "displayGiftCardDetailsText" : "以禮品卡支付",
+    "duplicateGiftcardErrMsg":"已套用禮品卡。"
+  }
+}

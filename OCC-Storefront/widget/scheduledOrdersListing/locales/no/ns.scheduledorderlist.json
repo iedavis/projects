@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Planlagte ordrer",
+    "backToMyAccount" : "<< Tilbake til min konto",
+    "scheduledOrderName" : "Navn",
+    "frequency": "Frekvens",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Status",
+    "nextShipDate": "Neste ordre",
+    "lastScheduledRun": "Siste ordre",
+    "scheduledOrderDetails": "Ordredetaljer",
+    "orderDetails": "Detaljer",
+    "action": "Handling",
+    "createdDate":"Opprettelsesdato",
+    "editOrder": "Rediger",
+    "deleteOrder": "Slett",
+    "deleteSuccessMsg":"Sletting fullført",
+    "myAccount" : "Min konto"
+  }
+}

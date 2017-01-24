@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Saate määrata, kas tõrkeinfot mittesisaldavate teatiste ajalõpp on lubatud.",
+    "notificationsTimeoutEnabledTextLabel": "Ajalõpp lubatud",
+    "notificationsTimeoutHelpText": "Saate määrata tõrkeinfot mittesisaldavate teatiste ajalõpu (sekundites).",
+    "notificationsTimeoutTextLabel": "Ajalõpp (sekundites)",
+    "notificationsFixedHelpText": "Saate määrata, kas fikseerida teatiste vidin lehe ülaossa.",
+    "notificationsFixedTextLabel": "Fikseeritud"
+  }
+}

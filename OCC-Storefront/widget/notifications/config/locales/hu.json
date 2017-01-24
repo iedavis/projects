@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Beállíthatja, hogy a nem hibaértesítések esetében engedélyezett-e az időtúllépés.",
+    "notificationsTimeoutEnabledTextLabel": "Időtúllépés engedélyezve",
+    "notificationsTimeoutHelpText": "Beállítja a nem hiba típusú értesítések időtúllépését (másodpercben).",
+    "notificationsTimeoutTextLabel": "Időtúllépés (másodpercben)",
+    "notificationsFixedHelpText": "Annak beállítása, hogy az értesítési vezérlő rögzítve legyen-e az oldal tetején.",
+    "notificationsFixedTextLabel": "Rögzített"
+  }
+}

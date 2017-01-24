@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "102": "(102) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "104": "(104) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "110": "(110) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "150": "(150) Pri kontaktiranju banke izdajateljice vaše kreditne kartice smo naleteli na tehnično težavo. Poskusite znova ali uporabite alternativno kartico.",
+    "151": "(151) Naleteli smo na tehnično težavo. Poskusite znova čez nekaj časa.",
+    "152": "(152) Naleteli smo na tehnično težavo. Poskusite znova čez nekaj casa.",
+    "200": "(200) Navedeni naslov za fakturo se ne ujema z naslovom, zabeleženim za vašo kreditno kartico. Preverite naslov in poskusite znova.",
+    "201": "(201) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "202": "(202) Preverite datum poteka svoje kartice in poskusite znova.",
+    "203": "(203) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "204": "(204) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "205": "(205) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "207": "(207) Pri kontaktiranju banke izdajateljice vaše kreditne kartice smo naleteli na tehnično težavo. Poskusite znova ali uporabite alternativno kartico.",
+    "208": "(208) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "209": "(209) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "210": "(210) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "211": "(211) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "221": "(221) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "230": "(230) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "231": "(231) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "232": "(232) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "233": "(233) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "234": "(234) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "520": "(520) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "1000": "(1000) Vaša kreditna kartica je bila zavrnjena, uporabite alternativno kartico.",
+    "476": "(476) Kartica ni odobrena za uporabo, uporabite alternativno kartico.",
+    "paymentErrorText":"Naleteli smo na tehnično težavo. Poskusite znova čez nekaj časa.",
+    "processingText": "Obdelava v teku, počakajte. Ne kliknite gumba za osveževanje ali vrnitev, saj to lahko začasno ali povsem prekine transakcijo."
+  }
+}

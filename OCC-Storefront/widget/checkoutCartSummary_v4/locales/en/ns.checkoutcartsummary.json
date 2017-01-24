@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Cart Summary",
+    "quantityText": "Quantity: ",
+    "colorText": "Color: ",
+    "sizeText": "Size: ",
+    "instockText": "In stock",
+    "outofstockText": "Out of stock",
+    "estimiatedShippingText": "Estimated Shipping: ",
+    "buttonEditCartSummary": "Edit",
+    "editCartText": "Edit Cart",
+    "seeAllProducts": "See All Products",
+    "showAll": "Show All",
+    "cartSummaryItemLimitText": "Showing initial __noOfItems__ cart items"
+  }
+}

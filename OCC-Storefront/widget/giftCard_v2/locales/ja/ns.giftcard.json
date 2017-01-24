@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "ギフト・カードで支払",
+    "giftCardNumberText": "ギフト・カード番号",
+    "giftCardPinText": "ギフト・カードPIN",
+    "giftCardApplyText": "ギフト・カードの適用", 
+    "giftCardApplyingText": "ギフト・カードの適用中", 
+    "displayGiftCardDetailsText" : "ギフト・カードで支払",
+    "duplicateGiftcardErrMsg":"すでに適用済のギフト・カードです。"
+  }
+}

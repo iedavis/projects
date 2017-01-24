@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Należy wprowadzić maksymalną liczbę pozycji, która ma być wyświetlana w podsumowaniu koszyka.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Maksymalna liczba pozycji w podsumowaniu koszyka"
+  }
+}

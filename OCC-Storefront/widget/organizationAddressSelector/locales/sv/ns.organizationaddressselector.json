@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Kassan",
+    "defaultAddressLabel": "Standardadress",
+    "billingAddressText" : "Faktureringsadress",
+    "noAddressesText" : "Inga adresser har sparats.",
+    "firstNameText": "Förnamn",
+    "lastNameText": "Efternamn",
+    "shippingAddressText": "Leveransadress",
+    "checkoutErrorMsg": "Kontrollera att du har fyllt i alla obligatoriska fält och korrigerat eventuella ogiltiga poster.",
+    "firstNameRequired": "Förnamn måste anges. ",
+    "lastNameRequired": "Efternamn måste anges. ",
+    "unsupportedShippingAddressText": "Kan inte leverera till den här adressen.",
+    "invalidBillingAddressText": "Leveransadressen kan inte användas som faktureringsadress. Ange en faktureringsadress.",
+    "invalidPreviousAddress": "Vi levererar inte längre till leveransadressen som du tidigare har använt."
+  }
+}

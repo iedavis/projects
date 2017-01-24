@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "立即开始合作式购物！",
+    "welcomePageLoginText": "登录",
+    "welcomePageCreateAccountText": "创建账户",
+    "welcomePageTitle": "欢迎使用收藏列表！",
+    "welcomePageSubtitle": "加入收藏列表，免费获得礼品，共享欢乐时光！",
+    "welcomePageBulletText1": "保存、整理感兴趣的产品并查看产品反馈。",
+    "welcomePageBulletText2": "与家人和朋友共享您的收藏列表，一起做出购物决定。",
+    "welcomePageBulletText3": "使用收藏列表来搜索和讨论礼品。再也不花冤枉钱！",
+    "welcomePageOrText": "或"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Til kassen",
+    "defaultAddressLabel": "Standardadresse",
+    "billingAddressText" : "Faktureringsadresse",
+    "noAddressesText" : "Ingen adresser er lagret.",
+    "firstNameText": "Fornavn",
+    "lastNameText": "Etternavn",
+    "shippingAddressText": "Forsendelsesadresse",
+    "checkoutErrorMsg": "Kontroller at du har fylt ut alle obligatoriske felt og korrigert eventuelle ugyldige registreringer.",
+    "firstNameRequired": "Fornavn er obligatorisk. ",
+    "lastNameRequired": "Etternavn er obligatorisk. ",
+    "unsupportedShippingAddressText": "Forsendelse til denne adressen er ikke mulig.",
+    "invalidBillingAddressText": "Forsendelsesadressen kan ikke brukes som faktureringsadresse. Angi en faktureringsadresse.",
+    "invalidPreviousAddress": "Vi leverer ikke lenger til forsendelsesadressen du har brukt tidligere."
+  }
+}

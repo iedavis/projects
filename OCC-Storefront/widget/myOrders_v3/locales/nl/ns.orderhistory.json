@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Mijn account",
+    "orderHistoryText" : "Orderhistorie",
+    "backToMyAccount" : "<<Terug naar Mijn account",
+    "historyHeaderOrderDate": "Orderdatum",    
+    "historyHeaderOrderNumber": "Ordernummer",
+    "historyHeaderOrderStatus": "Orderstatus",
+    "historyHeaderOrderTotal": "Ordertotaal",
+    "historyHeaderOrderDetails": "Orderdetails",
+    "listingHeaderScheduledOrderId": "Schema-ID",
+    "orderDetails": "Details"
+  }
+}

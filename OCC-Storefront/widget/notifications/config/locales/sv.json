@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Ange om tidsgränsen är tillåtet för meddelanden utan fel.",
+    "notificationsTimeoutEnabledTextLabel": "Tidsgräns är aktiv",
+    "notificationsTimeoutHelpText": "Ange tidsgränsen för meddelanden utan fel (i sekunder).",
+    "notificationsTimeoutTextLabel": "Tidsgräns (i sekunder)",
+    "notificationsFixedHelpText": "Ange om meddelande-widgeten ska ha en fast position högst upp på sidan.",
+    "notificationsFixedTextLabel": "Fast"
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["shoppingCartSummaryInst_v5"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["promotionInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 9,
+      "type": "body",
+      "widgets": ["cartShippingDetailsInst_v6"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 3,
+      "type": "body",
+      "widgets": ["orderSummaryInst_v4"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "cart",
+  "isLayoutDisplayable": true,
+  "displayName": "Cart Layout With Shipping",
+  "translations": [
+    {
+      "name": "Корзина",
+      "language": "ru"
+    },
+    {
+      "name": "รถเข็น",
+      "language": "th"
+    },
+    {
+      "name": "Carrinho",
+      "language": "pt_BR"
+    },
+    {
+      "name": "Alşv Spt",
+      "language": "tr"
+    },
+    {
+      "name": "Koszyk",
+      "language": "pl"
+    },
+    {
+      "name": "购物车",
+      "language": "zh_CN"
+    },
+    {
+      "name": "購物車",
+      "language": "zh_TW"
+    },
+    {
+      "name": "카트",
+      "language": "ko"
+    },
+    {
+      "name": "Košík",
+      "language": "cs"
+    },
+    {
+      "name": "Kosár",
+      "language": "hu"
+    },
+    {
+      "name": "Καλάθι",
+      "language": "el"
+    },
+    {
+      "name": "Vogn",
+      "language": "da"
+    },
+    {
+      "name": "Cart",
+      "language": "en"
+    },
+    {
+      "name": "Korb",
+      "language": "de"
+    },
+    {
+      "name": "Carro",
+      "language": "es"
+    },
+    {
+      "name": "Panier",
+      "language": "fr"
+    },
+    {
+      "name": "Carrello",
+      "language": "it"
+    },
+    {
+      "name": "Wagen",
+      "language": "nl"
+    },
+    {
+      "name": "Kundvagn",
+      "language": "sv"
+    },
+    {
+      "name": "Carrinho",
+      "language": "pt"
+    },
+    {
+      "name": "Kori",
+      "language": "fi"
+    },
+    {
+      "name": "カート",
+      "language": "ja"
+    }
+  ]
+}

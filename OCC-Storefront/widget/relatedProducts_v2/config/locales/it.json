@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Attributi di visualizzazione",
+    "numberOfRelatedProductsHelpText": "Inserire il numero di prodotti correlati da visualizzare nella girandola",
+    "numberOfRelatedProductsTextLabel": "Numero di prodotti correlati",
+    "displayNameOfRelatedProductsTextLabel": "Nome prodotto",
+    "displayPriceOfRelatedProductsTextLabel": "Prezzo"
+  }
+}

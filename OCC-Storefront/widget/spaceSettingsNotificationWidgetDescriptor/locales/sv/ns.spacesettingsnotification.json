@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Inställningar för e-postmeddelanden",
+    "spaceSettingsNotificationIntroText" : "Jag vill få:",
+    "spaceSettingsCommentNotificationTxt" : "Meddelanden om kommentarer och produkter",
+    "spaceSettingsNewMemberNotificationTxt" : "Meddelanden om nya medlemmar",
+    "spaceSettingsSaveTxt" : "Spara",
+    "spaceSettingsCancelTxt" : "Avbryt",
+    "spaceSettingsSaveErrorTxt" : "Ett problem inträffade när ändringarna av meddelandeinställningarna sparades.",
+    "spaceSettingsSaveSuccessTxt" : "Meddelandeinställningarna har uppdaterats och sparats.",
+    "spaceSettingsOnText" : "Ja",
+    "spaceSettingsOffText" : "Nej",
+    "spaceSettingsNotificationEnableHelpText" : "Markera Jag vill få information via e-post på sidan Mitt konto för att aktivera meddelanden om önskelistor."
+  }
+}

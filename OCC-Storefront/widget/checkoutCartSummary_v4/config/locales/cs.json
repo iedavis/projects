@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Zadejte maximální počet položek, které se mají zobrazit v přehledu zboží v košíku.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Maximální počet položek v přehledu zboží v košíku"
+  }
+}

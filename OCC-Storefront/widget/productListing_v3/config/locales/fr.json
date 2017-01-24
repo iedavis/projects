@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Cochez la case pour utiliser les listes basées sur le style.",
+    "shouldUseStyleBasedTextLabel": "Utiliser les listes basées sur le style",
+    "listTypeHelpText": "Indiquez si l'instance de widget est de type liste de produits ou liste de résultats d'une recherche.",
+    "listTypeTextLabel": "Type de liste",
+    "productLabel" : "Produit",
+    "searchLabel" : "Recherche",
+    "productListingFieldsRequiredHelpText": "Entrez une liste des champs à inclure dans la réponse, séparés par des virgules. Ce paramètre pour les champs s'applique uniquement aux listes de produits faisant l'objet d'une navigation par catégorie, et non aux résultats de la recherche.",
+    "productListingFieldsRequiredLabel": "Champs",
+    "productsPerPageRequiredHelpText": "Entrez le nombre de produits à afficher sur une page.",
+    "productsPerPageRequiredLabel": "Produits par page",
+    "blockSizeRequiredHelpText": "Entrez le nombre de produits à charger par demande. Le paramètre de taille de bloc s'applique uniquement aux listes de produits faisant l'objet d'une navigation par catégorie, et non aux résultats de la recherche.",
+    "blockSizeRequiredLabel": "Taille du bloc"
+  }
+}

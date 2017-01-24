@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Adicionar à Lista de Desejos",
+    "spaceSelectionText": "Selecione uma lista de desejos",
+    "spaceCommentText": "Escreva um comentário...",
+    "spaceNameText": "Nome",
+    "buttonSpaceAdd": "Adicionar",
+    "buttonSpaceCancel": "Cancelar",
+    "mySpacesGroupText": "Minhas listas de desejos",
+    "joinedSpacesGroupText": "Listas de desejos combinadas",
+    "createNewSpaceOptText": "Nova lista de desejos...",
+    "addToSpaceSuccessMsg" : "Êxito! __socialproduct__ foi adicionado a __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Este item já estava na lista de desejos. Atualizamos a Data de Adição.",
+    "addToSpaceProductViewWishListMsg" : "  Exibir __wishlistname__",
+    "spaceAddProductError" : "Erro ao tentar incluir um produto na lista de desejos. Tente atualizar a página.",
+    "uniqueNameMsg": "O nome da lista de desejos deve ser exclusivo.",
+    "emptyNameMsg": "O nome não pode ficar em branco",
+    "privacySettingsLabel": "Configurações de Privacidade",
+    "privacySettingsDescription": "Convidar os amigos para uma lista de desejos Privada alterará sua configuração de privacidade para o Grupo. Enviar uma lista de desejos Privada ou do Grupo por e-mail ou compartilhá-la a transformará em uma lista compartilhada.",
+    "privacySharedLabel": "Qualquer pessoa com um link pode ver esta lista. Somente você e as pessoas que você convidar poderão ver, comentar e adicionar itens a esta lista.",
+    "privacyGroupLabel": "Somente você e as pessoas que você convidar poderão ver, comentar e adicionar itens a esta lista.",
+    "privacyPrivateLabel": "Somente você pode ver, comentar e adicionar itens a esta lista.",
+    "spaceAccessPrivateIconTxt" : "Privado",
+    "spaceAccessSharedIconTxt" : "Compartilhado",
+    "spaceAccessGroupIconTxt" : "Grupo",
+    "spaceCreateMaxSpacesMsg" : "Problema ao criar a lista de desejos. Você excedeu o limite para o número de listas de desejos. Exclua uma lista de desejos existente antes de criar uma nova lista.",
+    "productAddMaxProductsMsg" : "Problema ao adicionar o produto à lista de desejos. Você excedeu o limite para o número de publicações em uma lista de desejos. Exclua um produto existente da lista de desejos de destino antes de adicionar um novo produto."
+  }
+}

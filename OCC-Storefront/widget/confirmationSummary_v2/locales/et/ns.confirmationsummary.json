@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Tellimuse kokkuvõte", 
+    "orderDoesNotExist": "Tellimust pole olemas.", 
+    "subTotalText": "Vahesumma:", 
+    "salesTaxText": "Käibemaks:", 
+    "orderTotalText": "Tellimuse kogusumma:", 
+    "continueShoppingText": "Jätka ostmist",
+    "delimiter": ":",
+    "includingTaxText": "(koos maksudega)",
+    "totalExcludingTaxText": "Kokku (välja arvatud maksud): "
+  }
+}

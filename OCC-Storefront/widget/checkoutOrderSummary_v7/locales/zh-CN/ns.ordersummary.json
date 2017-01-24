@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "订单摘要",
+    "subtotalText": "小计：",
+    "shippingOptionsText": "配送选项",
+    "salesTaxText": "销售税：",
+    "orderTotalText": "订单合计：",
+    "placeOrderText": "下订单",
+    "scheduleOrderText": "创建订购计划",
+    "noShippingText": "无配送",
+    "shippingText": "配送：__displayName__",    
+    "applicableTaxesText": "将在结账时计算适用的税。",
+    "paymentOptionsText": "付款选项",
+    "checkoutText": "结账",
+    "noShippingSelectedText": "未选择配送方式。",
+    "shippingAddressRequired": "请输入收货地址",
+    "noShippingMethodsText": "目的地地址无可用配送方式。",
+    "noShippingMethodsForAddressText": "选定地址无可用配送方式",
+    "checkoutErrorMsg": "请确保填写了所有必填字段并更正了所有无效输入。",
+    "rePricingText":"重新定价",
+    "removeLinkText":"删除",
+    "paymentMessage": "您看到的下一个屏幕可能是通过发卡商进行支付卡验证。",
+    "includingTaxText": "（含税）",
+    "totalExcludingTaxText": "合计（不含税）：",
+    "paymentMethodNotAvilable": "（此付款选项不能用于计划订单。）",
+    "selectShippingMethodText": "选择配送方式"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Potvrzení objednávky", 
+    "orderDoesNotExist": "Objednávka neexistuje.", 
+    "thankyouMsg": "Děkujeme za objednávku ze dne __orderDate__ v __orderTime__.", 
+    "processingMsg": "Tato objednávka se nyní zpracovává.",
+    "pendingMsg": "Děkujeme vám, váš požadavek na objednávku jsme obdrželi a čekáme na platbu. Jakmile bude platba schválena, vaši objednávku vyřídíme.",
+    "orderNumberMsg": "Číslo vaší objednávky je __orderNumber__.", 
+    "emailMsg": "E-mail s potvrzením a podrobnými údaji níže uvedené objednávky byl odeslán na adresu __emailAddress__.", 
+    "yourOrderText": "Vaše objednávka", 
+    "itemText": "Položka", 
+    "quantityText": "Množství", 
+    "itemTotalText": "Položka celkem", 
+    "shippingAddressAndMethodText": "Dodací adresa a způsob dopravy", 
+    "shipToText": "Komu dodat:", 
+    "shippingMethodText": "Způsob dopravy:", 
+    "paymentDetailsText": "Podrobnosti platby", 
+    "cardTypeText": "Typ karty: ", 
+    "cardNumberText": "Číslo karty:", 
+    "billingAddressText": "Fakturační adresa:",
+    "loginSuccessText": "Účet byl vytvořen. Děkujeme za registraci.",
+    "loginFailureText": "Chyba: Objednávka byla zpracována, ale při vytváření účtu se vyskytl problém. Zkuste to znovu.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

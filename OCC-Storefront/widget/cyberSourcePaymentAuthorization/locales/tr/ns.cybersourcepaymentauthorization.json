@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "102": "(102) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "104": "(104) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "110": "(110) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "150": "(150) Kredi kartınızı düzenleyen bankayla irtibata geçme konusunda teknik bir sorun yaşadık. Lütfen tekrar deneyin veya başka bir kart kullanın.",
+    "151": "(151) Teknik bir problem yaşadık. Lütfen kısa bir süre sonra tekrar deneyin.",
+    "152": "(152) Teknik bir problem yaşadık. Lütfen kısa bir süre sonra tekrar deneyin.",
+    "200": "(200) Girdiğiniz fatura adresi, kredi kartınız için kayıtlı adresle eşleşmiyor. Lütfen adresi kontrol edin ve tekrar deneyin.",
+    "201": "(201) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "202": "(202) Lütfen kredi kartınızın geçerlilik bitiş tarihini kontrol edin ve tekrar deneyin.",
+    "203": "(203) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "204": "(204) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "205": "(205) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "207": "(207) Kredi kartınızı düzenleyen bankayla irtibata geçme konusunda teknik bir sorun yaşadık. Lütfen tekrar deneyin veya başka bir kart kullanın.",
+    "208": "(208) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "209": "(209) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "210": "(210) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "211": "(211) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "221": "(221) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "230": "(230) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "231": "(231) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "232": "(232) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "233": "(233) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "234": "(234) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "520": "(520) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "1000": "(1000) Kredi kartınız reddedildi, lütfen başka bir kart kullanın.",
+    "476": "(476) Bu kartın kimliği kullanım için doğrulanmadı, lütfen farklı bir kart kullanın..",
+    "paymentErrorText":"Teknik bir problem yaşadık. Lütfen kısa bir süre sonra tekrar deneyin.",
+    "processingText": "İşleniyor, lütfen bekleyin. Yenile veya geri düğmelerine basmayın; aksi takdirde işleminiz kesilebilir veya sonlandırılabilir."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Пометьте, чтобы использовать список на основе стилей.",
+    "shouldUseStyleBasedTextLabel": "Использовать базовый список стилей",
+    "listTypeHelpText": "Выберите, какого типа должен быть экземпляр виджета: список продуктов или список результатов поиска.",
+    "listTypeTextLabel": "Тип списка",
+    "productLabel" : "Продукт",
+    "searchLabel" : "Поиск",
+    "productListingFieldsRequiredHelpText": "Введите список полей для включения в ответ через запятую. Настройка полей применяется к спискам продуктов только для навигации по категориям, а не к результатам поиска.",
+    "productListingFieldsRequiredLabel": "Поля",
+    "productsPerPageRequiredHelpText": "Введите количество продуктов для вывода на странице.",
+    "productsPerPageRequiredLabel": "Продуктов на страницу",
+    "blockSizeRequiredHelpText": "Введите количество продуктов для загрузки в одном запросе. Настройка размера блока применяется к спискам продуктов только для навигации по категориям, а не к результатам поиска.",
+    "blockSizeRequiredLabel": "Размер блока"
+  }
+}

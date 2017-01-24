@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Account personale",
+    "orderHistoryText" : "Cronologia ordine",
+    "backToMyAccount" : "<< Torna all'account personale",
+    "historyHeaderOrderDate": "Data ordine",    
+    "historyHeaderOrderNumber": "Numero ordine",
+    "historyHeaderOrderStatus": "Stato ordine",
+    "historyHeaderOrderTotal": "Totale ordine",
+    "historyHeaderOrderDetails": "Dettagli ordine",
+    "listingHeaderScheduledOrderId": "ID schedulazione",
+    "orderDetails": "Dettagli"
+  }
+}

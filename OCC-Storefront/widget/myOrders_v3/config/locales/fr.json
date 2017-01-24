@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Inclure l'ID commande planifiée ?",
+	"includeScheduledHelpText" : "Sélectionner pour inclure l'ID commande planifiée dans la table de l'historique des commandes"
+  }
+}

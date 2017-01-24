@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Immagini precedenti",
+    "nextImageText" : "Immagini successive",
+    "onSaleText": "Vendita",
+    "salePriceText": "Prezzo di vendita",
+    "listPriceText": "Prezzo di listino",
+    "relatedProductsText": "Prodotti correlati"
+  }
+}

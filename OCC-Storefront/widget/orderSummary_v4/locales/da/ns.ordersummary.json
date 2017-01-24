@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Ordreopsummering",
+    "subtotalText": "Subtotal: ",
+    "discountText": "Rabat(ter)*: ",
+    "shippingOptionsText": "Forsendelsesindstillinger",
+    "changeText": "ændring",
+    "salesTaxText": "Omsætningsafgift:",
+    "orderTotalText": "Ordretotal:",
+    "placeOrderText": "Afgiv ordre",
+    "noShippingText": "Ingen forsendelse",
+    "applicableTaxesText": "Gældende afgifter vil blive beregnet ved udtjekning.",
+    "paymentOptionsText": "Betalingsindstillinger",
+    "checkoutText": "Tjek-ud",
+    "noShippingSelectedText": "Ingen forsendelsesmetode valgt.",
+    "shippingAddressRequired":"Indtast en forsendelsesadresse",
+    "shippingText": "Forsendelse: __displayName__",
+    "noShippingMethodsText": "Ingen forsendelsesmetoder tilgængelige",
+    "checkoutErrorMsg": "Sørg for, at du har udfyldt alle obligatoriske felter og rettet evt. ugyldige indtastninger.",
+    "removeLinkText": "fjern",
+    "rePricingText":"Genprissætning",
+    "totalExcludingTaxText": "Total (eksklusiv afgift): ",
+    "includingTaxText": "(inklusiv afgift)"
+  }
+}

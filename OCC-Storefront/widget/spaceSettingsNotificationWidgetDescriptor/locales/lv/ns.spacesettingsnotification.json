@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "E-pasta paziņojumu iestatījumi",
+    "spaceSettingsNotificationIntroText" : "Vēlos saņemt:",
+    "spaceSettingsCommentNotificationTxt" : "Paziņojumus par komentāriem un produktiem",
+    "spaceSettingsNewMemberNotificationTxt" : "Paziņojumus par jauniem dalībniekiem",
+    "spaceSettingsSaveTxt" : "Saglabāt",
+    "spaceSettingsCancelTxt" : "Atcelt",
+    "spaceSettingsSaveErrorTxt" : "Radās problēma, saglabājot jūsu paziņojumu iestatījumu izmaiņas.",
+    "spaceSettingsSaveSuccessTxt" : "Jūsu paziņojumu iestatījumi ir atjaunināti un saglabāti.",
+    "spaceSettingsOnText" : "Jā",
+    "spaceSettingsOffText" : "Nē",
+    "spaceSettingsNotificationEnableHelpText" : "Lai iespējotu vēlmju saraksta paziņojumus, lapā \"Mans konts\" atlasiet \"Vēlos iegūt e-pasta atjauninājumus\"."
+  }
+}

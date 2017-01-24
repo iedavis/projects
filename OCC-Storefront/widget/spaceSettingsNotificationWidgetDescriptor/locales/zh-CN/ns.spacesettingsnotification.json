@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "电子邮件通知设置",
+    "spaceSettingsNotificationIntroText" : "我愿意接收：",
+    "spaceSettingsCommentNotificationTxt" : "评论和产品通知",
+    "spaceSettingsNewMemberNotificationTxt" : "新成员通知",
+    "spaceSettingsSaveTxt" : "保存",
+    "spaceSettingsCancelTxt" : "取消",
+    "spaceSettingsSaveErrorTxt" : "保存您所做的通知设置更改时出现问题。",
+    "spaceSettingsSaveSuccessTxt" : "您的通知设置已更新并保存。",
+    "spaceSettingsOnText" : "是",
+    "spaceSettingsOffText" : "否",
+    "spaceSettingsNotificationEnableHelpText" : "在“我的账户”页面上选择“我希望获得电子邮件更新”以启用收藏列表通知。"
+  }
+}

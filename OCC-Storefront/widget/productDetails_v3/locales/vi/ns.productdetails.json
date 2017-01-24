@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "addToCartText": "[PX][Add to Cart ă]",    
+    "clickToZoomText": "[PX][Click to Zoom ă]",
+    "missingImageText": "[PX][Missing Product Image ă]",
+    "strikeThroughPrice" : "[PX][strikethrough __currency____listprice__ ăơư ]",
+    "listPriceLabel" : "[PX][List Price ă]",
+    "salePriceLabel" : "[PX][Sale Price ă]",
+    "addToCartGrowlHeader" : "[PX][You've added this item to your cart ăơư]",
+    "addToCartGrowlQuantity" : "[PX][Quantity __quantity__ ă]",
+    "addToCartGrowlCheckoutButton" : "[PX][Checkout ă]",
+    "addToCartGrowlContinueShoppingButton" : "[PX][Continue Shopping ă]",
+    "instockText": "[PX][In Stock ă]",
+    "outofstockText": "[PX][Out of Stock ă]",
+    "magnifyText" : "[PX][Magnify ă]",
+    "zoomText" : "[PX][Zoom ă]",
+    "onSaleBannerText" : "[PX][On Sale - You Save ă]",
+    "resetText" : "[PX][Reset Zoom ă]",
+    "zoomInText" : "[PX][Zoom In ă]",
+    "zoomOutText" : "[PX][Zoom Out ă]",
+    "panUpText" : "[PX][Pan Up ă]",
+    "panDownText" : "[PX][Pan Down ă]",
+    "panLeftText" : "[PX][Pan Left ă]",
+    "panRightText" : "[PX][Pan Right ă]",
+    "addProductSuccessMsg" : "[PX][__displayname__ added successfully. ăơư]",
+    "cartUpdateMsg" : "[PX][Your cart has been updated. ă]",
+    "addedToCartText" : "[PX][Added ă]",
+    "socialAddToSpaceText": "[PX][Add to Space ă]",
+    "socialAddedToSpaceText" : "[PX][Added ă]"
+  }
+}

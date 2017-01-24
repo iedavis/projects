@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Detalhes de pagamento",
+  "paymentMethod": "Método de Pagamento",
+  "paypalText": "A maneira mais segura e mais fácil de pagar.", 
+  "paymentDetailsError": "Verifique se você preencheu todos os campos obrigatórios e corrigiu todas as entradas inválidas.",
+  "paymentMethodNotAvilable": "(Esta opção de pagamento não pode ser usada para pedidos programados.)",
+  
+  "nameOnCardLabel": "Nome no cartão",
+  "nameOnCardPlaceholder": "Nome no cartão",
+  "nameOnCardRequired": "O nome do cartão é obrigatório.",
+  "nameOnCardInvalid": "O nome do cartão é inválido.",
+  
+  "cardTypeLabel": "Tipo de cartão",
+  "cardTypePlaceholder": "Tipo de cartão",
+  "cardTypeRequired": "O tipo de cartão é obrigatório.",
+  "cardTypeInvalid": "O tipo de cartão é inválido.",
+  
+  "cardNumberLabel": "Número do cartão",
+  "cardNumberPlaceholder": "Número do cartão",
+  "cardNumberRequired": "O número do cartão é obrigatório.",
+  "cardNumberMaxLength":"Entrada inválida. Não exceda o máximo de __maxLength__ caracteres.",
+  "cardNumberInvalid": "Número do cartão inválido, tente novamente.",
+  
+  "cardCVVLabel": "Cód. Seg.",
+  "cardCVVPlaceholder": "Cód. Seg.",
+  "cardCVVRequired": "O Código de Segurança é obrigatório.",
+  "cardCVVInvalid": "O Código de Segurança é inválido.",
+  "cardCVVWhatsThis": "O que é isso?",
+  "cardCVVPopupTitle": "Cód. Seg.",
+  "cardCVVPopupText": "Os últimos 3 dígitos encontrados na tira de assinatura do cartão.",
+  "cardCVVNumberInvalid": "Entrada inválida. Informe somente números.",
+  "cardCVVNumberMaxLength": "Entrada inválida. Não exceda o máximo de 4 caracteres permitidos.",
+  "cardCVVNumberMinLength": "Entrada inválida. Informe no mínimo 3 caracteres.",
+  
+  "endMonthLabel": "Expira (Mês)",
+  "endMonthPlaceholder": "Mês de vencimento",
+  "endMonthRequired": "O mês de vencimento do cartão é obrigatório.",
+  "endMonthInvalid": "Mês/ano de vencimento inválido, tente novamente.",
+  
+  "endYearLabel": "Ano de vencimento",
+  "endYearPlaceholder": "Ano de vencimento",
+  "endYearRequired": "O ano de vencimento do cartão é obrigatório.",
+  "endYearInvalid": "Mês/ano de vencimento inválido, tente novamente.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

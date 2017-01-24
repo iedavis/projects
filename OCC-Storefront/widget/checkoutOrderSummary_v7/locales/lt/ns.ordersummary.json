@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Užsakymo suvestinė",
+    "subtotalText": "Tarpinė suma:",
+    "shippingOptionsText": "Siuntimo parinktys",
+    "salesTaxText": "Pardavimo mokestis:",
+    "orderTotalText": "Bendroji užsakymo suma: ",
+    "placeOrderText": "Užsakymo priskyrimas",
+    "scheduleOrderText": "Suplanuotas užsakymas",
+    "noShippingText": "Nesiunčiama",
+    "shippingText": "Siuntimas: __displayName__",    
+    "applicableTaxesText": "Taikytini mokesčiai bus apskaičiuoti atsiskaitant.",
+    "paymentOptionsText": "Mokėjimų parinktys",
+    "checkoutText": "Atsiskaitymas",
+    "noShippingSelectedText": "Nepasirinktas siuntimo būdas.",
+    "shippingAddressRequired": "Įveskite siuntimo adresą",
+    "noShippingMethodsText": "Pagal nurodytą paskirties adresą nėra galimų pristatymo būdų.",
+    "noShippingMethodsForAddressText": "Pagal pasirinktą adresą siuntimo būdų nėra",
+    "checkoutErrorMsg": "Įsitikinkite, kad užpildėte visus privalomus laukus ir ištaisėte visus netinkamus įrašus.",
+    "rePricingText":"Įkainojimas iš naujo",
+    "removeLinkText":"pašalinti",
+    "paymentMessage": "Kitame ekrane gali būti vykdomas mokėjimo kortelės patikrinimas, atliekamas kortelės išdavėjo.",
+    "includingTaxText": "(mokestis įskaičiuotas)",
+    "totalExcludingTaxText": "Iš viso (mokestis neįskaičiuotas): ",
+    "paymentMethodNotAvilable": "(Šio mokėjimo parinkties suplanuotiems užsakymams naudoti negalima.)",
+    "selectShippingMethodText": "Pasirinkti siuntimo būdą"
+  }
+}

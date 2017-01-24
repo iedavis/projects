@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Aprēķināt sūtīšanas izmaksas un nodokli (pēc izvēles)",
+    "cartShippingErrorMsg": "Lūdzu, pārliecinieties, vai esat aizpildījis visus sūtīšanas laukus un izlabojis visus nederīgos ierakstus.",
+    "countryText": "Valsts",
+    "stateText": "Reģions",
+    "zipCodeText": "Pasta indekss",
+    "countryRequired": "Valsts ir obligāta.",
+    "stateRequired": "Reģions ir obligāts.",
+    "zipCodeRequired": "Pasta indekss ir obligāts.",
+    "zipCodeInvalid": "Nederīgs ieraksts. Lūdzu, ievadiet derīgu pasta indeksu.",
+    "stateRegionText": "Reģions",
+    "noShippingSelectedText": "Nav atlasīts sūtīšanas veids.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Jūsu galamērķa adresei nav pieejams neviens sūtīšanas veids.",
+    "noShippingMethodsForAddressText": "Neizdevās izgūt sūtīšanas veidus ievadītajai nosūtīšanas adresei",
+    "fetchingShippingMethodsText": "Notiek adresei paredzēto sūtīšanas veidu ienešana",
+    "invalidShippingAddress": "Norādīta nederīga nosūtīšanas adrese.",
+    "invalidShippingMethod": "Norādīts nederīgs sūtīšanas veids.",
+    "pricingError" : "Nevar aprēķināt sūtīšanas un nodokļu izmaksas. Lūdzu, pārbaudiet nosūtīšanas adresi.",
+    "invalidPreviousAddress": "Mēs vairs nenosūtām uz jūsu iepriekš izmantoto nosūtīšanas adresi.",
+    "shippingMethodNoLongerAvailable": "Iepriekš atlasītais nosūtīšanas veids vairs nav pieejams. Lūdzu, pārbaudiet sūtīšanas veidu, pirms veicat pasūtījumu."
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Кошик пустий.",
+    "buttonContinueShopping": "Продовжити покупки",
+    "cartHeader" : "Ваш кошик",
+    "itemHeaderItem": "Позиція",    
+    "itemHeaderQuantity": "Кількість",
+    "itemQuantity": "Кількість товару \"__productName__\"",
+    "itemHeaderItemTotal": "Загальна сума товару",
+    "totalTableSubTotal": "Проміжний підсумок:",
+    "includingTaxText": "(включно з податком)",
+    "totalTableTotal": "Усього:",
+    "buttonUpdateQuantity": "Оновити",
+    "buttonRemoveItem": "Видалити",
+    "instockText": "Є на складі",
+    "outofstockText": "Немає на складі",
+    "totalTableSummary": "Загальна сума покупок у кошику."
+  }
+}

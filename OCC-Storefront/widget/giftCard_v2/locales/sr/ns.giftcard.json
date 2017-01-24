@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Плаћање поклон картицом",
+    "giftCardNumberText": "Број поклон картице",
+    "giftCardPinText": "PIN поклон картице",
+    "giftCardApplyText": "Примени поклон картицу", 
+    "giftCardApplyingText": "Поклон картица се примењује", 
+    "displayGiftCardDetailsText" : "Плаћање поклон картицом",
+    "duplicateGiftcardErrMsg":"Поклон картица је већ искоришћена."
+  }
+}

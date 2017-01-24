@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Geplande orders",
+    "backToMyAccount" : "<<Terug naar Mijn account",
+    "scheduledOrderName" : "Naam",
+    "frequency": "Frequentie",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Status",
+    "nextShipDate": "Volgende order",
+    "lastScheduledRun": "Laatste order",
+    "scheduledOrderDetails": "Orderdetails",
+    "orderDetails": "Details",
+    "action": "Actie",
+    "createdDate":"Gemaakt op",
+    "editOrder": "Bewerken",
+    "deleteOrder": "Verwijderen",
+    "deleteSuccessMsg":"Verwijderd",
+    "myAccount" : "Mijn account"
+  }
+}

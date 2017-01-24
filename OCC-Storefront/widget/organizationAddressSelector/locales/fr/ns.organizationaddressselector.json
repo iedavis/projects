@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Valider la commande",
+    "defaultAddressLabel": "Adresse par défaut",
+    "billingAddressText" : "Adresse de facturation",
+    "noAddressesText" : "Aucune adresse sauvegardée.",
+    "firstNameText": "Prénom",
+    "lastNameText": "Nom",
+    "shippingAddressText": "Adresse de livraison",
+    "checkoutErrorMsg": "Assurez-vous que vous avez renseigné tous les champs obligatoires et corrigé les entrées non valides.",
+    "firstNameRequired": "Le prénom est obligatoire. ",
+    "lastNameRequired": "Le nom est obligatoire. ",
+    "unsupportedShippingAddressText": "L'expédition n'est pas disponible pour cette adresse.",
+    "invalidBillingAddressText": "Votre adresse de livraison ne peut pas être utilisée comme adresse de facturation. Entrez une adresse de facturation.",
+    "invalidPreviousAddress": "Nous n'assurons plus d'expédition vers l'adresse de livraison que vous utilisiez précédemment."
+  }
+}

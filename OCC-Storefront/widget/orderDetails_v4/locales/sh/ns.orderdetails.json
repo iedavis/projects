@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Moje narudžbine",
+    "backToMyOrdersLink" : "<< Nazad na moje narudžbine",
+    "orderDetailsText": "Detalji narudžbine",
+    "orderDateText": "Datum narudžbine:",
+    "orderNumberText": "Broj narudžbine:",
+    "orderStatusText": "OrderStatus:",
+    "quoteExpiryText": "Isticanje ponude:",
+    "scheduledOrderName": "Ime plana:",
+    "shippingAddressAndMethodText": "Adresa i način isporuke", 
+    "shippingAddressText": "Otpremiti na:",
+    "noShippingAddressText" : "Nije dostupna nijedna adresa isporuke", 
+    "shippingMethodText": "Način isporuke:",
+    "shippingText": "Standardna isporuka:",
+    "salesTaxText": "Porez na promet:",
+    "orderTotalText": "Ukupno za narudžbinu:",
+    "includingTaxText": "(uključujući porez)",
+    "totalExcludingTaxText": "Ukupno (bez poreza): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Brojevi praćenja:",
+    "trackingReferenceReaderText": "__carrierName__ - referentni broj za praćenje__trackingReference__",
+    "scheduledOrderPriceListGroupText": "Planirana narudžbina je kreirana u skladu sa cenovnikom '__priceListGroup__'"
+  } 
+}

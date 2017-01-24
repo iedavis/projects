@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Sivua ei löydy",
+    "error404" : "Virhe 404:",
+    "pageNotFoundText" : "Olet ehkä kirjoittanut osoitteen väärin tai sivu on päivitetty tai poistettu.",
+    "lnkHome" : "Koti",
+    "lnkBack" : "Takaisin"            
+  }
+}

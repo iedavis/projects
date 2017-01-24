@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Финализиране",
+    "defaultAddressLabel": "Адрес по подразбиране",
+    "billingAddressText" : "Адрес за фактуриране",
+    "noAddressesText" : "Няма записани адреси.",
+    "firstNameText": "Собствено име",
+    "lastNameText": "Фамилно име",
+    "shippingAddressText": "Адрес за доставка",
+    "checkoutErrorMsg": "Моля, уверете се, че сте попълнили всички задължителни полета и сте поправили всички невалидни данни.",
+    "firstNameRequired": "Собственото име е задължително. ",
+    "lastNameRequired": "Фамилното име е задължително. ",
+    "unsupportedShippingAddressText": "Не е възможна доставка до този адрес.",
+    "invalidBillingAddressText": "Вашият адрес за доставка не може да се използва като адрес за плащане. Моля, въведете адрес за плащане.",
+    "invalidPreviousAddress": "Вече не доставяме до адреса, който използвахте преди като адрес за доставка."
+  }
+}

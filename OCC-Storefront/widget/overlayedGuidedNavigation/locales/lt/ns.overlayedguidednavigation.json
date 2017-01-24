@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Rodyti mažiau...",
+    "seeMoreText" : "Rodyti daugiau...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Patikslinti",
+    "clearAllRefinementsText" : "Pašalinti visus patikslinimus",
+    "guidedNavigationHeader" : "Naršymo vadovo antraštė",
+    "doneText" : "Atlikta",
+    "expandText" : "Išplėsti",
+    "collapseText" : "Sutraukti",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Įkeltas naršymo vadovas perdangoje"
+  }
+}

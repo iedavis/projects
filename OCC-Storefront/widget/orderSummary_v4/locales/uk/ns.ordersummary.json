@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Про замовлення",
+    "subtotalText": "Проміжний підсумок: ",
+    "discountText": "Знижки*: ",
+    "shippingOptionsText": "Варіанти поставки",
+    "changeText": "змінити",
+    "salesTaxText": "Податок із продажів: ",
+    "orderTotalText": "Загальна сума замовлення: ",
+    "placeOrderText": "Оформити замовлення",
+    "noShippingText": "Без поставки",
+    "applicableTaxesText": "Відповідні податки буде обчислено під час оформлення.",
+    "paymentOptionsText": "Варіанти оплати",
+    "checkoutText": "Оформлення",
+    "noShippingSelectedText": "Не вибрано спосіб поставки.",
+    "shippingAddressRequired":"Введіть адресу поставки. ",
+    "shippingText": "Поставка: __displayName__ ",
+    "noShippingMethodsText": "Немає доступних способів поставки",
+    "checkoutErrorMsg": "Переконайтеся, що заповнено всі обов'язкові поля та виправлено будь-які неправильні записи.",
+    "removeLinkText": "видалити",
+    "rePricingText":"Переоцінка",
+    "totalExcludingTaxText": "Загалом (без урахування податку): ",
+    "includingTaxText": "(включно з податком)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Kuva vähem...",
+    "seeMoreText" : "Kuva rohkem...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Piiritlemisalus",
+    "clearAllRefinementsText" : "Eemalda kõik piiritlused",
+    "guidedNavigationHeader" : "Juhendatud navigeerimise päis",
+    "doneText" : "Valmis",
+    "expandText" : "Laienda",
+    "collapseText" : "Ahenda",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Ülekattega juhendatud navigeerimine on laaditud."
+  }
+}

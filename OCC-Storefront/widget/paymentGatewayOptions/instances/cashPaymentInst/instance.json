@@ -1,0 +1,13 @@
+{
+  "config": {},
+  "currentLayout": "cashPaymentLayoutInstance",
+  "id": "cashPaymentInst",
+  "layouts": [{
+    "id": "cashPaymentLayoutInstance",
+    "widgetLayoutDescriptor": "paymentGatewayOptionsDefaultLayout"
+  }],
+  "name": "Cash Payment Widget",
+  "templatePath": "/templates/display-cashPaymentLayoutInstance.template",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

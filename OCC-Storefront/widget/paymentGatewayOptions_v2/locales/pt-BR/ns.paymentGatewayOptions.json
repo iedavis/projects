@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Ocorreu um erro durante o processamento de gateway do pagamento. Tente novamente.",
+    "paymentDeclinedMsg": "O pagamento foi Recusado. Tente novamente.",
+    "paymentExpiredMsg": "O pagamento Expirou. Tente novamente.",
+    "paymentErrorMsg": "Erro ao processar pagamento. Tente novamente.",
+    "payByCashText": "Pagar em dinheiro",
+    "invoicePaymentMsg": "Solicitar fatura",
+    "purchaseOrderNumberMsg":"Número da ordem de compra"
+  }
+}

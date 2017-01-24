@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "支払詳細",
+  "paymentMethod": "支払方法",
+  "paypalText": "より安全で簡単な支払方法です。", 
+  "paymentDetailsError": "すべての必須フィールドを入力し、無効なエントリをすべて修正したことを確認してください。",
+  "paymentMethodNotAvilable": "(この支払オプションはスケジュール済オーダーに使用できません。)",
+  
+  "nameOnCardLabel": "カード名義",
+  "nameOnCardPlaceholder": "カード名義",
+  "nameOnCardRequired": "カード名義は必須です。",
+  "nameOnCardInvalid": "カード名義が無効です。",
+  
+  "cardTypeLabel": "カード・タイプ",
+  "cardTypePlaceholder": "カード・タイプ",
+  "cardTypeRequired": "カード・タイプは必須です。",
+  "cardTypeInvalid": "カード・タイプが無効です。",
+  
+  "cardNumberLabel": "カード番号",
+  "cardNumberPlaceholder": "カード番号",
+  "cardNumberRequired": "カード番号は必須です。",
+  "cardNumberMaxLength":"エントリが無効です。最大文字数__maxLength__を超えないようにしてください。",
+  "cardNumberInvalid": "カード番号が無効なため、再試行してください。",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVVは必須です。",
+  "cardCVVInvalid": "CVVが無効です。",
+  "cardCVVWhatsThis": "これは何ですか?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "カードの署名欄にある最後の3桁です。",
+  "cardCVVNumberInvalid": "エントリが無効です。番号のみを入力してください。",
+  "cardCVVNumberMaxLength": "エントリが無効です。許容最大文字数4を超えないようにしてください。",
+  "cardCVVNumberMinLength": "エントリが無効です。3文字以上入力してください。",
+  
+  "endMonthLabel": "失効(月)",
+  "endMonthPlaceholder": "失効(月)",
+  "endMonthRequired": "カード失効月は必須です。",
+  "endMonthInvalid": "失効年月が無効です。再試行してください。",
+  
+  "endYearLabel": "失効(年)",
+  "endYearPlaceholder": "失効(年)",
+  "endYearRequired": "カード失効年は必須です。",
+  "endYearInvalid": "失効年月が無効です。再試行してください。",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

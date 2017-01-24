@@ -1,0 +1,15 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["paymentGatewayOptions"],
+  "tag": "invoice-payment-element",
+  "translations": [{
+    "description": "Element for invoice payment option",
+    "language": "en",
+    "title": "Invoice Payment"
+  }],
+  "type": "fragment",
+  "version": 2
+}

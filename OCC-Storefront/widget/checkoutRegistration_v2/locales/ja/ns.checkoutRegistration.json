@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "精算",
+    "emailAddressText" : "Eメール・アドレス",
+    "firstNameText" : "名",
+    "lastNameText" : "姓",
+    "passwordText" : "パスワード",
+    "confirmPasswordText" : "確認パスワード",
+    "checkoutAsGuestText" : "ゲストとして精算",
+    "loginToAccountText" : "アカウントにログイン",
+    "rememberMeText" : "アカウントを作成します。",
+    "marketingMailsText" : "Eメールで更新情報を取得します。",
+    "checkoutErrorMsg" : "すべての必須フィールドを入力し、無効なエントリをすべて修正したことを確認してください。",
+    "buttonCancel": "取消",
+    "buttonLogin": "ログイン",
+    "checkoutOption": "精算オプションを選択してください。",
+    "buttonLogout": "ログアウト",
+    "welcomeMessage": "ようこそ!",
+    "registrationMessageText":"アカウントを作成することで、スムーズなショッピング、現在のオーダーの進捗に関する最新情報の入手、さらに以前のオーダーのステータスの確認が可能になります。",
+    "userSessionExpiredErrorMsg" : "非アクティブであったため精算セッションが失効しました。精算を再開してください。"
+  }
+}

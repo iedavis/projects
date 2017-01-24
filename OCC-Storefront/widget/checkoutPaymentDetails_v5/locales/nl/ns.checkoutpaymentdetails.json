@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Betalingsdetails",
+  "paymentMethod": "Betalingswijze",
+  "paypalText": "De veiligere, gemakkelijkere manier om te betalen", 
+  "paymentDetailsError": "Controleer of u alle verplichte velden hebt ingevuld en eventuele ongeldige invoer hebt gecorrigeerd.",
+  "paymentMethodNotAvilable": "(Deze betalingsoptie kan niet worden gebruikt voor geplande orders.)",
+  
+  "nameOnCardLabel": "Naam op kaart",
+  "nameOnCardPlaceholder": "Naam op kaart",
+  "nameOnCardRequired": "Naam op kaart is verplicht.",
+  "nameOnCardInvalid": "Naam op kaart is ongeldig.",
+  
+  "cardTypeLabel": "Kaarttype",
+  "cardTypePlaceholder": "Kaarttype",
+  "cardTypeRequired": "Kaarttype is verplicht.",
+  "cardTypeInvalid": "Kaarttype is ongeldig.",
+  
+  "cardNumberLabel": "Kaartnummer",
+  "cardNumberPlaceholder": "Kaartnummer",
+  "cardNumberRequired": "Kaartnummer is verplicht.",
+  "cardNumberMaxLength":"De invoer is ongeldig. Voer niet meer tekens in dan het maximumaantal van __maxLength__.",
+  "cardNumberInvalid": "Ongeldig kaartnummer. Probeer het opnieuw.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV is verplicht.",
+  "cardCVVInvalid": "CVV is ongeldig.",
+  "cardCVVWhatsThis": "Wat is dit?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "De laatste drie cijfers op de strip met uw handtekening op uw kaart",
+  "cardCVVNumberInvalid": "Ongeldige invoer. Voer alleen getallen in.",
+  "cardCVVNumberMaxLength": "Ongeldige invoer. Voer niet meer dan de maximaal vier toegestane tekens in.",
+  "cardCVVNumberMinLength": "Ongeldige invoer. Voer minimaal drie tekens in.",
+  
+  "endMonthLabel": "Vervalt (maand)",
+  "endMonthPlaceholder": "Vervalt (maand)",
+  "endMonthRequired": "Vervalmaand van kaart is verplicht.",
+  "endMonthInvalid": "Ongeldige waarde voor vervalmaand/-jaar. Probeer het opnieuw.",
+  
+  "endYearLabel": "Vervalt (jaar)",
+  "endYearPlaceholder": "Vervalt (jaar)",
+  "endYearRequired": "Vervaljaar van kaart is verplicht.",
+  "endYearInvalid": "Ongeldige waarde voor vervalmaand/-jaar. Probeer het opnieuw.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

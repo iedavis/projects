@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Подтверждение заказа", 
+    "orderDoesNotExist": "Заказ не существует.", 
+    "thankyouMsg": "Благодарим за заказ, размещенный __orderDate__ в __orderTime__.", 
+    "processingMsg": "Этот заказ сейчас обрабатывается.",
+    "pendingMsg": "Благодарим вас, заказ получен и ожидает оплаты. После утверждения платежа мы продолжим выполнение заказа.",
+    "orderNumberMsg": "Номер вашего заказа: __orderNumber__.", 
+    "emailMsg": "По адресу __emailAddress__ отправлено сообщение электронной почты с подтверждением заказа, где подробно описан представленный ниже заказ.", 
+    "yourOrderText": "Ваш заказ", 
+    "itemText": "Позиция", 
+    "quantityText": "Количество", 
+    "itemTotalText": "Итого по позиции", 
+    "shippingAddressAndMethodText": "Адрес получателя товара и метод доставки", 
+    "shipToText": "Получатель товара:", 
+    "shippingMethodText": "Метод доставки:", 
+    "paymentDetailsText": "Сведения о платеже", 
+    "cardTypeText": "Тип карты:", 
+    "cardNumberText": "Номер карты:", 
+    "billingAddressText": "Адрес для счета:",
+    "loginSuccessText": "Учетная запись создана. Благодарим за регистрацию.",
+    "loginFailureText": "Ошибка: ваш заказ обработан, но при создании учетной записи возникла проблема. Повторите попытку.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Encomendas Pessoais",
+    "backToMyOrdersLink" : "<< Regressar às Encomendas Pessoais",
+    "orderDetailsText": "Detalhes da Encomenda",
+    "orderDateText": "Data da Encomenda:",
+    "orderNumberText": "Número da Encomenda:",
+    "orderStatusText": "Estado da Encomenda:",
+    "quoteExpiryText": "Expiração da Cotação:",
+    "scheduledOrderName": "Nome da Programação:",
+    "shippingAddressAndMethodText": "Método e Morada para Expedição", 
+    "shippingAddressText": "Expedir Para:",
+    "noShippingAddressText" : "Nenhuma Morada para Expedição Disponível", 
+    "shippingMethodText": "Método de Expedição:",
+    "shippingText": "Expedição Standard:",
+    "salesTaxText": "Imposto Sobre o Consumo:",
+    "orderTotalText": "Total da Encomenda:",
+    "includingTaxText": "(imposto incluído)",
+    "totalExcludingTaxText": "Total (imposto excluído): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Números de Controlo:",
+    "trackingReferenceReaderText": "__carrierName__ Referência de Controlo __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Encomenda programada criada de acordo com a lista de preços '__priceListGroup__'"
+  } 
+}

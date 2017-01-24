@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Bun venit, __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Invitaţia a fost deja acceptată.",
+    "spaceNotFound" : "Lista de dorinţe pe care încercaţi s-o accesaţi nu a fost găsită.",
+    "invitationExpiredError" : "Invitaţia dvs. a expirat. Contactaţi deţinătorul listei de dorinţe la care doriţi să vă înscrieţi şi cereţi-i să vă invite din nou.",
+    "memberJoinError" : "A survenit o eroare pt. invitaţie.",
+    "pleaseWaitProcessingMsg" : "Aşteptaţi să se proceseze invitaţia"
+  }
+}

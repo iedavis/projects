@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-add-to-space",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ปุ่มเพิ่มลงในลิสต์สิ่งที่ต้องการ"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Botão Adicionar à lista desejos"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "\u201c添加到收藏列表\u201d按钮"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Кн. \"Дод. до сп. бажан. товарів\""
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Бутон \"Доб. към списък с жел.\""
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Nupp \u201eLisa sooviloendisse\u201c"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Poga Pievienot vēlmju sarakstam"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Mygtukas Įtraukti į pageid. sąr."
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Knappen Legg til i ønskeliste"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Buton Adăugare la listă dorinţe"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Bouton Ajouter à liste souhaits"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "「ウィッシュ・リストに追加」ボタン"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Gumb \"Dodaj na seznam želja\""
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Кнопка \"Доб. в список желаний\""
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Gumb Dodaj na popis želja"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "İstek Listesine Ekle Düğmesi"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Przycisk Dodaj do listy życzeń"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "新增至欲購清單按鈕"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "희망 목록에 추가 단추"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Tlačítko Přidat do seznamu přání"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Hozzáad. a kívánságlistához gomb"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Κουμπί-Προσθήκη στη λίστα επιθυμ"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Tilføj til ønskeliste (knap)"
+    },
+    {
+      "description": "Add to Wish List button",
+      "language": "en",
+      "title": "Add to Wish List Button"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Дугме \"Додај на листу жеља\""
+    },
+    {
+      "description": "[PX][Add to Space button ä]",
+      "language": "de",
+      "title": "Auf den Wunschzettel"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Botón Agregar a lista de deseos"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Bouton Ajouter à liste souhaits"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Puls. Agg. a elenco desiderata"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Toevoegen aan verlanglijst"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Knappen Lägg till i önskelista"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Botão Acrescentar à Lista Pref."
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Lisää toivomuslistaan -painike"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "체크아웃",
+    "defaultAddressLabel": "기본 주소",
+    "billingAddressText" : "청구 주소",
+    "noAddressesText" : "저장된 주소가 없습니다.",
+    "firstNameText": "이름",
+    "lastNameText": "성",
+    "shippingAddressText": "배송 주소",
+    "checkoutErrorMsg": "모든 필수 필드에 내용을 입력하고 부적합한 항목을 수정했는지 확인하십시오.",
+    "firstNameRequired": "이름은 필수입니다.",
+    "lastNameRequired": "성은 필수입니다. ",
+    "unsupportedShippingAddressText": "이 주소에 배송할 수 없습니다.",
+    "invalidBillingAddressText": "배송 주소는 청구 주소로 사용할 수 없습니다. 청구 주소를 입력하십시오.",
+    "invalidPreviousAddress": "이전에 사용된 배송 주소로 더 이상 배송하지 않습니다."
+  }
+}

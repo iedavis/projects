@@ -1,0 +1,182 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [
+    "wrapperTag",
+    "fontPicker",
+    "preview"
+  ],
+  "global": false,
+  "inline": false,
+  "previewText": "Varta AA Alkaline Batteries - 30 Pack",
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-title",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ชื่อ"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Nome"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "名称"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Ім'я"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Име"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Nimi"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Nosauk."
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Pavad."
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Navn"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Nume"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Nom"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "名前"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Ime"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Имя"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Naziv"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Adı"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Nazwa"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "名稱"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "이름"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Název"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Név"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Όνομα"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Navn"
+    },
+    {
+      "description": "Product name will be displayed here",
+      "language": "en",
+      "title": "Name"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Име"
+    },
+    {
+      "description": "[PX][Product name will be displayed here ä]",
+      "language": "de",
+      "title": "Name"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Nombre"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Nom"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Nome"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Naam"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Namn"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Nome"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Nimi"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

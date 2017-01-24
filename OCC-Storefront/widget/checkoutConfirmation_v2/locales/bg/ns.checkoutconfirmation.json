@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Потвърждение на поръчка", 
+    "orderDoesNotExist": "Поръчката не съществува.", 
+    "thankyouMsg": "Благодарим ви за поръчката на __orderDate__ в __orderTime__.", 
+    "processingMsg": "Поръчката се обработва.",
+    "pendingMsg": "Благодаря Ви, поръчката е получена и очаква плащане. Веднага щом плащането е одобрено, ще изпълним поръчката.",
+    "orderNumberMsg": "Номерът на вашата поръчка е __orderNumber__.", 
+    "emailMsg": "Изпратен е имейл с потвърждение и описание на поръчката по-долу на __emailAddress__.", 
+    "yourOrderText": "Вашата поръчка", 
+    "itemText": "Артикул", 
+    "quantityText": "Количество", 
+    "itemTotalText": "Общо артикули", 
+    "shippingAddressAndMethodText": "Адрес и метод за доставка", 
+    "shipToText": "Доставка на:", 
+    "shippingMethodText": "Метод на доставка:", 
+    "paymentDetailsText": "Информация за плащане", 
+    "cardTypeText": "Тип карта:", 
+    "cardNumberText": "Номер на карта:", 
+    "billingAddressText": "Адрес за плащане:",
+    "loginSuccessText": "Вашият акаунт е създаден. Благодарим ви, че се регистрирахте.",
+    "loginFailureText": "Грешка: Вашата поръчка е обработена, но има проблем при създаването на вашия акаунт. Моля, опитайте отново.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

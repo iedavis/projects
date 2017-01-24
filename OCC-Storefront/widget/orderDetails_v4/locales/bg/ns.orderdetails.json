@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Моите поръчки",
+    "backToMyOrdersLink" : "<< Обратно към моите поръчки",
+    "orderDetailsText": "Информация за поръчка",
+    "orderDateText": "Дата на поръчка:",
+    "orderNumberText": "Номер на поръчка:",
+    "orderStatusText": "Състояние на поръчка:",
+    "quoteExpiryText": "Офертата изтича на:",
+    "scheduledOrderName": "Име на график:",
+    "shippingAddressAndMethodText": "Адрес и метод за доставка", 
+    "shippingAddressText": "Доставка на:",
+    "noShippingAddressText" : "Няма достъпен адрес за доставка", 
+    "shippingMethodText": "Метод на доставка:",
+    "shippingText": "Стандартна доставка:",
+    "salesTaxText": "Данък върху продажбите:",
+    "orderTotalText": "Обща сума на поръчката:",
+    "includingTaxText": "(с включен данък)",
+    "totalExcludingTaxText": "Общо (без данък): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Номера за проследяване:",
+    "trackingReferenceReaderText": "__carrierName__ сведения за проследяване __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Планираната поръчка е създадена както ценоразпис '__priceListGroup__'"
+  } 
+}

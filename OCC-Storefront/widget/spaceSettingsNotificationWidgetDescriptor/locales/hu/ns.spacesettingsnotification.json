@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "E-mail értesítés beállításai",
+    "spaceSettingsNotificationIntroText" : "Értesítést szeretnék kapni:",
+    "spaceSettingsCommentNotificationTxt" : "Megjegyzések és termékértesítések",
+    "spaceSettingsNewMemberNotificationTxt" : "Az új tagokról",
+    "spaceSettingsSaveTxt" : "Mentés",
+    "spaceSettingsCancelTxt" : "Mégse",
+    "spaceSettingsSaveErrorTxt" : "Probléma lépett fel értesítési beállításai módosításainak mentése során.",
+    "spaceSettingsSaveSuccessTxt" : "Értesítési beállításait a rendszer módosította és mentette.",
+    "spaceSettingsOnText" : "Igen",
+    "spaceSettingsOffText" : "Nem",
+    "spaceSettingsNotificationEnableHelpText" : "A kívánságlista értesítéseinek engedélyezéséhez válassza a \"Feliratkozom a hírlevélre\" beállítást a \"Saját fiók\" lapon."
+  }
+}

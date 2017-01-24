@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Medtag tidsplanlagt ordre-id?",
+	"includeScheduledHelpText" : "Vælg at medtage tidsplanlagt ordre-id i tabellen Ordrehistorik"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Należy zaznaczyć w celu użycia wykazu na podstawie stylu.",
+    "shouldUseStyleBasedTextLabel": "Używanie wykazu na podstawie stylu",
+    "listTypeHelpText": "Należy wybrać, czy typ wystąpienia widżetu to wykaz produktów czy lista wyników wyszukiwania.",
+    "listTypeTextLabel": "Typ listy",
+    "productLabel" : "Produkt",
+    "searchLabel" : "Wyszukiwanie",
+    "productListingFieldsRequiredHelpText": "Należy wprowadzić listę pól rozdzielonych przecinkami, które zostaną uwzględnione w odpowiedzi. Konfiguracja pól ma zastosowanie tylko do wykazów produktów poprzez nawigację w kategoriach, a nie do wyników wyszukiwania.",
+    "productListingFieldsRequiredLabel": "Pola",
+    "productsPerPageRequiredHelpText": "Należy wprowadzić liczbę produktów, które będą wyświetlane na stronie.",
+    "productsPerPageRequiredLabel": "Liczba produktów na stronę",
+    "blockSizeRequiredHelpText": "Należy wprowadzić liczbę produktów, które zostaną załadowane w ramach zlecenia. Konfiguracja rozmiaru bloku ma zastosowanie tylko do wykazów produktów poprzez nawigację w kategoriach, a nie do wyników wyszukiwania.",
+    "blockSizeRequiredLabel": "Rozmiar bloku"
+  }
+}

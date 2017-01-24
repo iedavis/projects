@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "ใบสั่งที่วางกำหนดการ",
+    "backToMyAccount" : "<< กลับไปที่บัญชีของฉัน",
+    "scheduledOrderName" : "ชื่อ",
+    "frequency": "ความถี่",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "สถานะ",
+    "nextShipDate": "ใบสั่งถัดไป",
+    "lastScheduledRun": "ใบสั่งล่าสุด",
+    "scheduledOrderDetails": "รายละเอียดใบสั่ง",
+    "orderDetails": "รายละเอียด",
+    "action": "การดำเนินการ",
+    "createdDate":"วันที่จัดทำ",
+    "editOrder": "แก้ไข",
+    "deleteOrder": "ลบ",
+    "deleteSuccessMsg":"ลบสำเร็จ",
+    "myAccount" : "บัญชีของฉัน"
+  }
+}

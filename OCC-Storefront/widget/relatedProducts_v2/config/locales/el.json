@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Εμφανιζόμενα χαρακτηριστικά",
+    "numberOfRelatedProductsHelpText": "Εισαγάγετε τον αριθμό σχετικών προϊόντων που θα εμφανίζονται στο καρουζέλ",
+    "numberOfRelatedProductsTextLabel": "Αριθμός σχετικών προϊόντων",
+    "displayNameOfRelatedProductsTextLabel": "Όνομα προϊόντος",
+    "displayPriceOfRelatedProductsTextLabel": "Τιμή"
+  }
+}

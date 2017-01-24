@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Sidan hittades inte",
+    "error404" : "Fel 404: ",
+    "pageNotFoundText" : "Du kan ha angett adressen felaktigt eller så har sidan uppdaterats eller tagits bort.",
+    "lnkHome" : "Hem",
+    "lnkBack" : "Tillbaka"            
+  }
+}

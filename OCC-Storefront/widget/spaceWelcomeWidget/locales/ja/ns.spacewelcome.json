@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "今日から協力してショッピングをしましょう!",
+    "welcomePageLoginText": "ログイン",
+    "welcomePageCreateAccountText": "アカウントの作成",
+    "welcomePageTitle": "ウィッシュ・リストへようこそ!",
+    "welcomePageSubtitle": "無料のウィッシュ・リストに参加して楽しく共有しましょう!",
+    "welcomePageBulletText1": "関心のある製品を保存および整理して、フィードバックを取得します。",
+    "welcomePageBulletText2": "家族や友人とウィッシュ・リストを共有して、一緒に買う物を決めましょう。",
+    "welcomePageBulletText3": "ウィッシュ・リストを利用すると話し合いながらギフトを選ぶことができます。もう間違ったギフトを買うことはありません!",
+    "welcomePageOrText": "または"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "availableToAllWidgets": true,
+  "config": {
+    "borderConfig": {
+      "borderColor": "#000000",
+      "borderWidth": 0
+    },
+    "customTitle": "Image_100001",
+    "elementNameConfig": {},
+    "horizontalAlignmentConfig": {"horizontalAlignment": "center"},
+    "id": "100001",
+    "imageConfig": {
+      "altText": "promotion",
+      "altTextId": "100001",
+      "isProductImage": false,
+      "src": "/file/v7149310979533958767/general/homepageimage.png",
+      "titleText": "promotion",
+      "titleTextId": "100002",
+      "zoomEnabled": false
+    },
+    "paddingConfig": {
+      "paddingBottom": "0",
+      "paddingLeft": "0",
+      "paddingRight": "0",
+      "paddingTop": "0"
+    },
+    "previewConfig": {}
+  },
+  "configOptions": [
+    "elementName",
+    "image",
+    "horizontalAlignment",
+    "border",
+    "padding",
+    "preview"
+  ],
+  "dependantWidget": "wi100007",
+  "global": true,
+  "inline": true,
+  "tag": "image@100001",
+  "translations": [{
+    "description": "Image Element",
+    "language": "en",
+    "title": "Image"
+  }],
+  "type": "instance",
+  "version": 1
+}

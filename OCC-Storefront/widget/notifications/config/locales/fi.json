@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Määritä, onko aikakatkaisu muissa kuin virheilmoituksissa sallittu.",
+    "notificationsTimeoutEnabledTextLabel": "Aikakatkaisu käytössä",
+    "notificationsTimeoutHelpText": "Määrittää muiden kuin virheilmoitusten aikakatkaisun (sekunteina).",
+    "notificationsTimeoutTextLabel": "Aikakatkaisu (sekunteina)",
+    "notificationsFixedHelpText": "Määrittää, kiinnitetäänkö ilmoitusten widget sivun yläreunaan.",
+    "notificationsFixedTextLabel": "Kiinteä"
+  }
+}

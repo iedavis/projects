@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Promotie- of loyaliteitscode toevoegen",
+  "promoCode": "Promotiecode invoeren",
+  "promoCodeAriaLabelText": "Promotiecode invoeren",
+  "buttonApplyCodeText": "Code toepassen",
+  "buttonApplyingCodeText": "Code wordt toegepast.",
+  "couponDetailsError": "Er is een probleem met uw coupondetails.",
+  "promoCodeRequired": "Couponcode mag niet leeg zijn.",
+  "duplicateCoupon": "Code is al toegepast."
+  }
+}

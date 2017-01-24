@@ -1,0 +1,9 @@
+  <!-- oc layout: panels -->
+  <div class="row">
+    <div data-oc-id="panel-paymentGatewayOptions-cashPayment" class="oc-panel col-md-12">
+      <!-- oc section: cashPayment -->
+        <div data-bind="element: 'cashPayment'"></div>
+      <!-- /oc -->
+    </div>
+  </div>
+  <!-- /oc -->

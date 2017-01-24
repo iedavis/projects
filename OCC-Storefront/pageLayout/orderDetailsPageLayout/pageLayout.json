@@ -1,0 +1,177 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["orderDetailsWidgetInst_v4"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "orderDetails",
+  "isLayoutDisplayable": true,
+  "displayName": "Order Details Layout",
+  "translations": [
+    {
+      "name": "รายละเอียดใบสั่ง",
+      "language": "th"
+    },
+    {
+      "name": "Detalhes do Pedido",
+      "language": "pt_BR"
+    },
+    {
+      "name": "订单详细信息",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Відомості про зам.",
+      "language": "uk"
+    },
+    {
+      "name": "Информ. за поръчка",
+      "language": "bg"
+    },
+    {
+      "name": "Tellimuse andmed",
+      "language": "et"
+    },
+    {
+      "name": "Pasūtījuma dati",
+      "language": "lv"
+    },
+    {
+      "name": "Užsakymo inf.",
+      "language": "lt"
+    },
+    {
+      "name": "Ordredetaljer",
+      "language": "no"
+    },
+    {
+      "name": "Detalii comandă",
+      "language": "ro"
+    },
+    {
+      "name": "Détails de commande",
+      "language": "fr_CA"
+    },
+    {
+      "name": "オーダー詳細",
+      "language": "ja"
+    },
+    {
+      "name": "Podrobn. naročila",
+      "language": "sl"
+    },
+    {
+      "name": "Сведения о заказе",
+      "language": "ru"
+    },
+    {
+      "name": "Pojedin. narudžbe",
+      "language": "hr"
+    },
+    {
+      "name": "Sipariş Detayları",
+      "language": "tr"
+    },
+    {
+      "name": "Szczeg. zamówienia",
+      "language": "pl"
+    },
+    {
+      "name": "訂單詳細資料",
+      "language": "zh_TW"
+    },
+    {
+      "name": "주문 세부정보",
+      "language": "ko"
+    },
+    {
+      "name": "Detaily objednávky",
+      "language": "cs"
+    },
+    {
+      "name": "Rendelés adatai",
+      "language": "hu"
+    },
+    {
+      "name": "Στοιχ. παραγγελίας",
+      "language": "el"
+    },
+    {
+      "name": "Ordredetaljer",
+      "language": "da"
+    },
+    {
+      "name": "Order Details",
+      "language": "en"
+    },
+    {
+      "name": "Детаљи наруџбине",
+      "language": "sr"
+    },
+    {
+      "name": "Bestelldetails",
+      "language": "de"
+    },
+    {
+      "name": "تفاصيل الطلب",
+      "language": "ar"
+    },
+    {
+      "name": "Detalles de orden",
+      "language": "es"
+    },
+    {
+      "name": "Détails de commande",
+      "language": "fr"
+    },
+    {
+      "name": "Dettagli ordine",
+      "language": "it"
+    },
+    {
+      "name": "Orderdetails",
+      "language": "nl"
+    },
+    {
+      "name": "Orderdetaljer",
+      "language": "sv"
+    },
+    {
+      "name": "Detalhes Encomenda",
+      "language": "pt"
+    },
+    {
+      "name": "Tilauksen tiedot",
+      "language": "fi"
+    }
+  ]
+}

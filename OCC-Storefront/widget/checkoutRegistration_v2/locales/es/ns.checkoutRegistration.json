@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Finalización de compra",
+    "emailAddressText" : "Dirección de correo electrónico",
+    "firstNameText" : "Nombre",
+    "lastNameText" : "Apellido",
+    "passwordText" : "Contraseña",
+    "confirmPasswordText" : "Confirmar contraseña",
+    "checkoutAsGuestText" : "Bloquear como invitado",
+    "loginToAccountText" : "Conexión a la cuenta",
+    "rememberMeText" : "Quiero crear una cuenta.",
+    "marketingMailsText" : "Deseo recibir actualizaciones por correo electrónico.",
+    "checkoutErrorMsg" : "Asegúrese de que ha completado todos los campos obligatorios y que ha corregido las entradas no válidas.",
+    "buttonCancel": "Cancelar",
+    "buttonLogin": "Conexión",
+    "checkoutOption": "Seleccione una opción de finalización de compra.",
+    "buttonLogout": "Desconexión",
+    "welcomeMessage": "Bienvenido",
+    "registrationMessageText":"La creación de una cuenta implica que puede comprar más deprisa, mantenerse al día sobre el progreso de la orden actual y comprobar el estado de las órdenes anteriores.",
+    "userSessionExpiredErrorMsg" : "La sesión de finalización de compra ha caducado debido a la inactividad. Reinicie la finalización de compra."
+  }
+}

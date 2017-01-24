@@ -1,0 +1,25 @@
+{
+  "name": "Google Fonts",
+  "javascript": "googleFonts",
+  "global": true,
+  "globalEnabled": true,
+  "jsEditable": true,
+  "editableTemplate": false,
+  "config": {
+  	"baseFontFamily": "",
+  	"baseFontStyle": "",
+  	"baseFontCharSets": "",
+    "h1FontFamily": "",
+    "h1FontStyle": "",
+    "h1FontCharSets": "",
+    "h2FontFamily": "",
+    "h2FontStyle": "",
+    "h2FontCharSets": "",
+    "h3FontFamily": "",
+    "h3FontStyle": "",
+    "h3FontCharSets": "",
+    "pFontFamily": "",
+    "pFontStyle": "",
+    "pFontCharSets": ""
+  }
+}

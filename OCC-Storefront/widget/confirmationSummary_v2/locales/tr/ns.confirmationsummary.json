@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Sipariş Özeti", 
+    "orderDoesNotExist": "Sipariş yok.", 
+    "subTotalText": "Alt Toplam:", 
+    "salesTaxText": "Satış Vergisi:", 
+    "orderTotalText": "Sipariş Toplamı:", 
+    "continueShoppingText": "Alışverişe Devam Et",
+    "delimiter": ":",
+    "includingTaxText": "(vergi dahil)",
+    "totalExcludingTaxText": "Toplam (vergi hariç): "
+  }
+}

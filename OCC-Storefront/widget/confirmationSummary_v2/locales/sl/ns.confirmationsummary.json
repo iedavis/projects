@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Povzetek naročila", 
+    "orderDoesNotExist": "Naročilo ne obstaja.", 
+    "subTotalText": "Delna vsota:", 
+    "salesTaxText": "Prometni davek:", 
+    "orderTotalText": "Naročilo skupaj:", 
+    "continueShoppingText": "Nadaljevanje nakupovanja",
+    "delimiter": ":",
+    "includingTaxText": "(vključno z davkom)",
+    "totalExcludingTaxText": "Skupaj (brez davka): "
+  }
+}

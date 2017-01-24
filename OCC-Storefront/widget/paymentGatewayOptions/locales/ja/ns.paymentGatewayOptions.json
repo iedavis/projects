@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "この支払のゲートウェイ処理中にエラーが発生しました。再試行してください。",
+    "paymentDeclinedMsg": "支払が拒否されました。再試行してください。",
+    "paymentExpiredMsg": "支払が失効しました。再試行してください。",
+    "paymentErrorMsg": "支払の処理中にエラーが発生しました。再試行してください。",
+    "payByCashText": "現金で支払",
+    "invoicePaymentMsg": "請求書の要求",
+    "purchaseOrderNumberMsg":"購買オーダー番号"
+  }
+}

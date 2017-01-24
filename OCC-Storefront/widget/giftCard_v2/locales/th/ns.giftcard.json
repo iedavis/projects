@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "ชำระเงินด้วยบัตรของขวัญ",
+    "giftCardNumberText": "เลขที่บัตรของขวัญ",
+    "giftCardPinText": "PIN ของบัตรของขวัญ",
+    "giftCardApplyText": "ใช้บัตรของขวัญ", 
+    "giftCardApplyingText": "กำลังใช้บัตรของขวัญ", 
+    "displayGiftCardDetailsText" : "ชำระเงินด้วยบัตรของขวัญ",
+    "duplicateGiftcardErrMsg":"ใช้บัตรของขวัญแล้ว"
+  }
+}

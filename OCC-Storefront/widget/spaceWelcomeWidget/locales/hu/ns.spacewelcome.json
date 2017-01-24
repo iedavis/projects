@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Vásároljon mától másokkal együtt!",
+    "welcomePageLoginText": "Bejelentkezés",
+    "welcomePageCreateAccountText": "Fiók létrehozása",
+    "welcomePageTitle": "Üdvözlik a kívánságlisták!",
+    "welcomePageSubtitle": "Csatlakozzon a kívánságlistákat használókhoz a vásárlás élményének megosztásához!",
+    "welcomePageBulletText1": "Mentse és rendezze az Önt érdeklő termékeket, szerezzen róluk visszajelzést!",
+    "welcomePageBulletText2": "Ossza meg kívánságlistáit családtagjaival, barátaival, és döntsenek együtt a vásárlásról.",
+    "welcomePageBulletText3": "Használja a kívánságlistákat ajándékok felfedezésére és megvitatására. Ne vegyen többé haszontalan ajándékot!",
+    "welcomePageOrText": "vagy"
+  }
+}

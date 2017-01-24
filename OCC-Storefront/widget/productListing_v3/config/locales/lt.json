@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Pažymėkite, jie norite naudoti sąrašų sudarymą pagal stilių.",
+    "shouldUseStyleBasedTextLabel": "Naudoti vardijimą pagal stilių",
+    "listTypeHelpText": "Pasirinkite, ar valdiklio egzempliorius yra produktų sąrašas, ar paieškos rezultatų sąrašo tipas.",
+    "listTypeTextLabel": "Sąrašo tipas",
+    "productLabel" : "Produktas",
+    "searchLabel" : "Ieškoti",
+    "productListingFieldsRequiredHelpText": "Įtraukite sąrašą į atsakymą įtrauktinų laukų, atskirtų kableliais. Laukų nustatymas produktų sąrašams taikomas tik naršant kategorijas, o ne ieškant rezultatų.",
+    "productListingFieldsRequiredLabel": "Laukai",
+    "productsPerPageRequiredHelpText": "Įveskite puslapyje rodytinų produktų skaičių.",
+    "productsPerPageRequiredLabel": "Produktų puslapyje",
+    "blockSizeRequiredHelpText": "Įveskite į kiekvieną užklausą įkeltinų produktų skaičių. Bloko dydžio nustatymas produktų sąrašams taikomas tik naršant kategorijas, o ne ieškant rezultatų. ",
+    "blockSizeRequiredLabel": "Bloko dydis"
+  }
+}

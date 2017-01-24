@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Ustawienia powiadomień e-mail",
+    "spaceSettingsNotificationIntroText" : "Chcę otrzymywać:",
+    "spaceSettingsCommentNotificationTxt" : "Powiadomienia o komentarzach i produktach",
+    "spaceSettingsNewMemberNotificationTxt" : "Powiadomienia o nowych uczestnikach",
+    "spaceSettingsSaveTxt" : "Zapisywanie",
+    "spaceSettingsCancelTxt" : "Anulowanie",
+    "spaceSettingsSaveErrorTxt" : "Wystąpił problem podczas zapisywania zmian w ustawieniach powiadomień.",
+    "spaceSettingsSaveSuccessTxt" : "Ustawienia powiadomień zostały zaktualizowane i zapisane.",
+    "spaceSettingsOnText" : "Tak",
+    "spaceSettingsOffText" : "Nie",
+    "spaceSettingsNotificationEnableHelpText" : "Należy zaznaczyć opcję \"Chcę otrzymywać powiadomienia pocztą e-mail\" na stronie \"Moje konto\", aby włączyć powiadomienia dotyczące listy życzeń."
+  }
+}

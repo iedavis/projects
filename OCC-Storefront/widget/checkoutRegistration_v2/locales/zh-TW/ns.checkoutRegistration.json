@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "結帳",
+    "emailAddressText" : "電子郵件地址",
+    "firstNameText" : "名字",
+    "lastNameText" : "姓氏",
+    "passwordText" : "密碼",
+    "confirmPasswordText" : "確認密碼",
+    "checkoutAsGuestText" : "以訪客身分結帳",
+    "loginToAccountText" : "登入您的帳戶",
+    "rememberMeText" : "我想要建立帳戶。",
+    "marketingMailsText" : "我想要取得電子郵件更新資料。",
+    "checkoutErrorMsg" : "請確認您已完成所有必要欄位，且已更正所有無效的項目。",
+    "buttonCancel": "取消",
+    "buttonLogin": "登入",
+    "checkoutOption": "選擇您的結帳選項。",
+    "buttonLogout": "登出",
+    "welcomeMessage": "歡迎再度光臨！",
+    "registrationMessageText":"建立帳戶表示您可以更快速購物、掌握目前訂單的最新進度，以及查看先前訂單的狀態。",
+    "userSessionExpiredErrorMsg" : "結帳階段作業已因閒置而過期。請重新啟動結帳。"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Fejl opstod under gateway-behandling af betalingen. Prøv igen.",
+    "paymentDeclinedMsg": "Betaling er afvist. Prøv igen.",
+    "paymentExpiredMsg": "Betaling er udløbet. Prøv igen.",
+    "paymentErrorMsg": "Fejl ved behandling af betaling. Prøv igen.",
+    "payByCashText": "Betal kontant",
+    "invoicePaymentMsg": "Anmod om en faktura",
+    "purchaseOrderNumberMsg":"Indkøbsordrenr."
+  }
+}

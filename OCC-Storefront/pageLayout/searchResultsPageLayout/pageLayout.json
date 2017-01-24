@@ -1,0 +1,178 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "overlayedGuidedNavigationInst",
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["searchResultListingInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "searchResults",
+  "isLayoutDisplayable": true,
+  "displayName": "Search Results Layout",
+  "translations": [
+    {
+      "name": "ผลการค้นหา",
+      "language": "th"
+    },
+    {
+      "name": "Resultados pesquisa",
+      "language": "pt_BR"
+    },
+    {
+      "name": "搜索结果",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Результати пошуку",
+      "language": "uk"
+    },
+    {
+      "name": "Резултати от търсене",
+      "language": "bg"
+    },
+    {
+      "name": "Otsingutulemid",
+      "language": "et"
+    },
+    {
+      "name": "Meklēšanas rezultāti",
+      "language": "lv"
+    },
+    {
+      "name": "Paieškos rezultatai",
+      "language": "lt"
+    },
+    {
+      "name": "Søkeresultater",
+      "language": "no"
+    },
+    {
+      "name": "Rezultate căutare",
+      "language": "ro"
+    },
+    {
+      "name": "Résultats recherche",
+      "language": "fr_CA"
+    },
+    {
+      "name": "検索結果",
+      "language": "ja"
+    },
+    {
+      "name": "Rezultati iskanja",
+      "language": "sl"
+    },
+    {
+      "name": "Результаты поиска",
+      "language": "ru"
+    },
+    {
+      "name": "Rezultati pretrage",
+      "language": "hr"
+    },
+    {
+      "name": "Arama Sonuçları",
+      "language": "tr"
+    },
+    {
+      "name": "Wyniki wyszukiwania",
+      "language": "pl"
+    },
+    {
+      "name": "搜尋結果",
+      "language": "zh_TW"
+    },
+    {
+      "name": "검색 결과",
+      "language": "ko"
+    },
+    {
+      "name": "Výsledky hledání",
+      "language": "cs"
+    },
+    {
+      "name": "Találatok",
+      "language": "hu"
+    },
+    {
+      "name": "Αποτελ. αναζήτησης",
+      "language": "el"
+    },
+    {
+      "name": "Søgeresultater",
+      "language": "da"
+    },
+    {
+      "name": "Search Results",
+      "language": "en"
+    },
+    {
+      "name": "Резултати претраге",
+      "language": "sr"
+    },
+    {
+      "name": "Suchergebnisse",
+      "language": "de"
+    },
+    {
+      "name": "نتائج البحث",
+      "language": "ar"
+    },
+    {
+      "name": "Resultados búsqueda",
+      "language": "es"
+    },
+    {
+      "name": "Résultats recherche",
+      "language": "fr"
+    },
+    {
+      "name": "Risultati ricerca",
+      "language": "it"
+    },
+    {
+      "name": "Zoekresultaten",
+      "language": "nl"
+    },
+    {
+      "name": "Sökresultat",
+      "language": "sv"
+    },
+    {
+      "name": "Resultados Pesquisa",
+      "language": "pt"
+    },
+    {
+      "name": "Hakutulokset",
+      "language": "fi"
+    }
+  ]
+}

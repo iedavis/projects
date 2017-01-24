@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "A következőt kereste: __searchterm__. A rendszer nem talált terméket.",
+    "titleText": "Keresés",
+    "searchFailedText": "A keresés jelenleg nem hajtható végre."
+  }
+}

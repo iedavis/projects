@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Defina se o tempo limite das notificações de erro é permitido.",
+    "notificationsTimeoutEnabledTextLabel": "Tempo Limite Ativado",
+    "notificationsTimeoutHelpText": "Defina o limite de tempo das notificações de não erro (em segs).",
+    "notificationsTimeoutTextLabel": "Limite de Tempo (em segs)",
+    "notificationsFixedHelpText": "Defina se o widget de notificação deve ser fixado na parte superior da página.",
+    "notificationsFixedTextLabel": "Fixo"
+  }
+}

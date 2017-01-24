@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "سمات العرض",
+    "numberOfRelatedProductsHelpText": "أدخل العدد للمنتجات المرتبطة المطلوب عرضها في العرض الدائري",
+    "numberOfRelatedProductsTextLabel": "عدد المنتجات المرتبطة",
+    "displayNameOfRelatedProductsTextLabel": "اسم المنتج",
+    "displayPriceOfRelatedProductsTextLabel": "السعر"
+  }
+}

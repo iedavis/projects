@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["paymentGatewayOptions"],
+  "tag": "payU-gateway",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "เกตเวย์การชำระเงินของ PayU"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Gateway de Pagamento PayU"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "PayU 付款网关"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Шлюз платежів PayU"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Дост.на онл.плащ. н/усл.PayU"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Makselüüs PayU"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "PayU maksājuma vārteja"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "\u201ePayU\u201c mokėjimų šliuzas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "PayU-innfallsport for bet."
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Gateway de plăţi PayU"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Passerelle de paiement PayU"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "PayU支払ゲートウェイ"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Prehod plačil PayU"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "PayU - платежный шлюз"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "PayU opcija plaćanja"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "PayU Ödemesi Ağ Geçidi"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Brama płatności PayU"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "PayU 付款閘道"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "PayU 결제 게이트웨이"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Platební brána PayU"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "PayU - Kifizetési átjáró"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Πύλη πληρωμών PayU"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "PayU-betalingsgateway"
+    },
+    {
+      "description": "PayU Payment Gateway",
+      "language": "en",
+      "title": "PayU Payment Gateway"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "PayU - мрежни пролаз плаћања"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "PayU-Zahlungsgateway"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Gateway de pagos de PayU"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Passerelle de règlement PayU"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Gateway pagamenti PayU"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "PayU betalingsgateway"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Nätsluss för PayU-betalning"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Gateway de Pagamentos PayU"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "PayU-maksuyhdyskäytävä"
+    }
+  ],
+  "type": "fragment",
+  "version": 2
+}

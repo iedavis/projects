@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Sipariş Teyidi", 
+    "orderDoesNotExist": "Sipariş yok.", 
+    "thankyouMsg": "__orderDate__ tarihli __orderTime__. saatli siparişiniz için teşekkür ederiz.", 
+    "processingMsg": "Bu sipariş şu anda işleniyor.",
+    "pendingMsg": "Teşekkürler, sipariş talebiniz alındı ve ödeme bekleniyor. Ödeme onaylandıktan sonra siparişi işleyeceğiz.",
+    "orderNumberMsg": "Sipariş numaranız __orderNumber__.", 
+    "emailMsg": "__emailAddress__ e-posta adresine aşağıdaki siparişin detaylarını gösteren bir sipariş teyidi gönderildi.", 
+    "yourOrderText": "Siparişiniz", 
+    "itemText": "Kalem", 
+    "quantityText": "Miktar", 
+    "itemTotalText": "Kalem Toplamı", 
+    "shippingAddressAndMethodText": "Sevkiyat Adresi ve Yöntemi", 
+    "shipToText": "Sevk Varış Yeri:", 
+    "shippingMethodText": "Sevk Yöntemi:", 
+    "paymentDetailsText": "Ödeme Detayları", 
+    "cardTypeText": "Kart Tipi", 
+    "cardNumberText": "Kart Numarası:", 
+    "billingAddressText": "Faturalama Adresi:",
+    "loginSuccessText": "Hesabınız oluşturuldu. Kaydolduğunuz için teşekkür ederiz.",
+    "loginFailureText": "Hata: Siparişiniz işlendi ancak hesabınız oluşturulurken bir sorun oluştu. Lütfen yeniden deneyin.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

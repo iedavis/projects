@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "주문 요약", 
+    "orderDoesNotExist": "주문이 없습니다.", 
+    "subTotalText": "소계:", 
+    "salesTaxText": "판매세:", 
+    "orderTotalText": "주문 합계:", 
+    "continueShoppingText": "쇼핑 계속하기",
+    "delimiter": ":",
+    "includingTaxText": "(세금 포함)",
+    "totalExcludingTaxText": "합계(세금 제외): "
+  }
+}

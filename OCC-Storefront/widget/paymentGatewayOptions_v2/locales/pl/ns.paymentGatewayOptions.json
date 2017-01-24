@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Wystąpił błąd podczas przetwarzania płatności w bramie. Proszę spróbować ponownie.",
+    "paymentDeclinedMsg": "Płatność została odrzucona. Proszę spróbować ponownie.",
+    "paymentExpiredMsg": "Płatność wygasła. Proszę spróbować ponownie.",
+    "paymentErrorMsg": "Błąd podczas przetwarzania płatności. Proszę spróbować ponownie.",
+    "payByCashText": "Zapłata gotówką",
+    "invoicePaymentMsg": "Żądanie faktury",
+    "purchaseOrderNumberMsg":"Numer zamówienia zakupu"
+  }
+}

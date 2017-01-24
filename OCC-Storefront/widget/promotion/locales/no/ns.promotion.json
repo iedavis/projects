@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Legg til en salgskampanje- eller lojalitetskode",
+  "promoCode": "Angi salgskampanjekode",
+  "promoCodeAriaLabelText": "Angi salgskampanjekode",
+  "buttonApplyCodeText": "Bruk kode",
+  "buttonApplyingCodeText": "Bruker kode",
+  "couponDetailsError": "Det er funnet et problem med kupongdetaljene.",
+  "promoCodeRequired": "Kupongkode må angis",
+  "duplicateCoupon": "Koden er allerede brukt."
+  }
+}

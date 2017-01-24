@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Ordrebekræftelse", 
+    "orderDoesNotExist": "Ordre findes ikke.", 
+    "thankyouMsg": "Tak for din ordre den __orderDate__ kl. __orderTime__.", 
+    "processingMsg": "Denne ordre er nu ved at blive behandlet.",
+    "pendingMsg": "Tak. Din ordreanmodning er modtaget, og betaling venter. Din ordre vil blive behandlet, når betaling er godkendt.",
+    "orderNumberMsg": "Dit ordrenummer er __orderNumber__.", 
+    "emailMsg": "En e-mail med ordrebekræftelse er sendt til __emailAddress__ og indeholder detaljer om ordren nedenfor.", 
+    "yourOrderText": "Din ordre", 
+    "itemText": "Vare", 
+    "quantityText": "Mængde", 
+    "itemTotalText": "Varetotal", 
+    "shippingAddressAndMethodText": "Forsendelsesadresse og -metode", 
+    "shipToText": "Afsend til:", 
+    "shippingMethodText": "Forsendelsesmetode:", 
+    "paymentDetailsText": "Betalingsdetaljer", 
+    "cardTypeText": "Korttype:", 
+    "cardNumberText": "Kortnr.:", 
+    "billingAddressText": "Regningsadresse:",
+    "loginSuccessText": "Din konto er oprettet. Tak for din registrering.",
+    "loginFailureText": "Fejl: Din ordre er behandlet, men der var et problem med at oprette din konto. Prøv igen.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

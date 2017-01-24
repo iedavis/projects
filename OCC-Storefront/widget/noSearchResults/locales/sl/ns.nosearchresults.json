@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Iskali ste \"__searchterm__\". Izdelkov ni bilo mogoče najti.",
+    "titleText": "Iskanje",
+    "searchFailedText": "Iskanja trenutno ni mogoče izvesti."
+  }
+}

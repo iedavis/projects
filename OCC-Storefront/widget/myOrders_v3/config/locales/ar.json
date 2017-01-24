@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "تضمين معرف الطلب المجدول؟",
+	"includeScheduledHelpText" : "حدد \"تضمين معرف الطلب المجدول\" في جدول \"تاريخ الطلب\""
+  }
+}

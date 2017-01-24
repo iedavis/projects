@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Tilføj til ønskeliste",
+    "spaceSelectionText": "Vælg en ønskeliste",
+    "spaceCommentText": "Indtast en kommentar...",
+    "spaceNameText": "Navn",
+    "buttonSpaceAdd": "Tilføj",
+    "buttonSpaceCancel": "Annuller",
+    "mySpacesGroupText": "Mine ønskelister",
+    "joinedSpacesGroupText": "Sammenføjede ønskelister",
+    "createNewSpaceOptText": "Ny ønskeliste...",
+    "addToSpaceSuccessMsg" : "Succes! __socialproduct__ blev føjet til __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Denne vare var allerede på ønskelisten. Vi har opdateret tilføjelsesdatoen.",
+    "addToSpaceProductViewWishListMsg" : "  Se __wishlistname__",
+    "spaceAddProductError" : "Fejl under forsøg på at opslå et produkt på ønskelisten. Prøv at opfriske siden.",
+    "uniqueNameMsg": "Navnet på ønskelisten skal være entydigt.",
+    "emptyNameMsg": "Navn må ikke være tomt",
+    "privacySettingsLabel": "Indstillinger for beskyttelse af personlige oplysninger",
+    "privacySettingsDescription": "Invitering af venner til en privat ønskeliste vil ændre indstillingen for beskyttelse af personlige oplysninger til Gruppe. Afsendelse af en privat eller gruppeønskeliste pr. e-mail eller deling af den på et socialt netværk vil gøre den til en delt liste.",
+    "privacySharedLabel": "Alle med et link kan se denne liste. Kun du og personer, som du inviterer, kan se, kommentere og foretage tilføjelse til denne liste.",
+    "privacyGroupLabel": "Kun du og personer, som du inviterer, kan se, kommentere og foretage tilføjelse til denne liste.",
+    "privacyPrivateLabel": "Kun du kan se og foretage tilføjelse til denne liste.",
+    "spaceAccessPrivateIconTxt" : "Privat",
+    "spaceAccessSharedIconTxt" : "Delt",
+    "spaceAccessGroupIconTxt" : "Gruppe",
+    "spaceCreateMaxSpacesMsg" : "Problem ved oprettelse af ønskeliste. Du har overskredet grænsen for antal ønskelister. Slet en eksisterende ønskeliste, før du opretter en ny.",
+    "productAddMaxProductsMsg" : "Problem ved tilføjelse af produkt til ønskeliste. Du har overskredet grænsen for opslag på en ønskeliste. Slet et eksisterende produkt fra destinationsønskeliste, før du tilføjer en ny."
+  }
+}

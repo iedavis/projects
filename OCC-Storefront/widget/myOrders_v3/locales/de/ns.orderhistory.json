@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Mein Account",
+    "orderHistoryText" : "Bestellhistorie",
+    "backToMyAccount" : "<< Zurück zu \"Mein Account\"",
+    "historyHeaderOrderDate": "Bestelldatum",    
+    "historyHeaderOrderNumber": "Bestellnummer",
+    "historyHeaderOrderStatus": "Bestellstatus",
+    "historyHeaderOrderTotal": "Bestellsumme",
+    "historyHeaderOrderDetails": "Bestelldetails",
+    "listingHeaderScheduledOrderId": "Plan-ID",
+    "orderDetails": "Details"
+  }
+}

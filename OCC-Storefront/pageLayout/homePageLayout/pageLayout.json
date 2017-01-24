@@ -1,0 +1,184 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["wi100006"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["wi100007"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "home",
+  "isLayoutDisplayable": true,
+  "displayName": "Home Layout",
+  "translations": [
+    {
+      "name": "หน้าหลัก",
+      "language": "th"
+    },
+    {
+      "name": "Início",
+      "language": "pt_BR"
+    },
+    {
+      "name": "主页",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Домашня",
+      "language": "uk"
+    },
+    {
+      "name": "Начало",
+      "language": "bg"
+    },
+    {
+      "name": "Avaleht",
+      "language": "et"
+    },
+    {
+      "name": "Sākums",
+      "language": "lv"
+    },
+    {
+      "name": "Pagr.",
+      "language": "lt"
+    },
+    {
+      "name": "Hjem",
+      "language": "no"
+    },
+    {
+      "name": "Home",
+      "language": "ro"
+    },
+    {
+      "name": "Accueil",
+      "language": "fr_CA"
+    },
+    {
+      "name": "ホーム",
+      "language": "ja"
+    },
+    {
+      "name": "Domov",
+      "language": "sl"
+    },
+    {
+      "name": "Домой",
+      "language": "ru"
+    },
+    {
+      "name": "Početna",
+      "language": "hr"
+    },
+    {
+      "name": "Giriş",
+      "language": "tr"
+    },
+    {
+      "name": "Start",
+      "language": "pl"
+    },
+    {
+      "name": "首頁",
+      "language": "zh_TW"
+    },
+    {
+      "name": "홈",
+      "language": "ko"
+    },
+    {
+      "name": "Domů",
+      "language": "cs"
+    },
+    {
+      "name": "Kezdőlap",
+      "language": "hu"
+    },
+    {
+      "name": "Αρχική",
+      "language": "el"
+    },
+    {
+      "name": "Start",
+      "language": "da"
+    },
+    {
+      "name": "Home",
+      "language": "en"
+    },
+    {
+      "name": "Почетна",
+      "language": "sr"
+    },
+    {
+      "name": "Home",
+      "language": "de"
+    },
+    {
+      "name": "الرئيسية",
+      "language": "ar"
+    },
+    {
+      "name": "Inicio",
+      "language": "es"
+    },
+    {
+      "name": "Accueil",
+      "language": "fr"
+    },
+    {
+      "name": "Home",
+      "language": "it"
+    },
+    {
+      "name": "Begin",
+      "language": "nl"
+    },
+    {
+      "name": "Hem",
+      "language": "sv"
+    },
+    {
+      "name": "Pág. Pr.",
+      "language": "pt"
+    },
+    {
+      "name": "Koti",
+      "language": "fi"
+    }
+  ]
+}

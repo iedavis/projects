@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "カートが空です。",
+    "buttonContinueShopping": "ショッピングを続ける",
+    "cartHeader" : "ショッピング・カート",
+    "itemHeaderItem": "品目",    
+    "itemHeaderQuantity": "数量",
+    "itemQuantity": "__productName__ の数量",
+    "itemHeaderItemTotal": "品目合計",
+    "totalTableSubTotal": "小計:",
+    "includingTaxText": "(内税)",
+    "totalTableTotal": "合計:",
+    "buttonUpdateQuantity": "更新",
+    "buttonRemoveItem": "削除",
+    "instockText": "在庫あり",
+    "outofstockText": "在庫切れ",
+    "totalTableSummary": "ショッピング・カートの合計です。"
+  }
+}

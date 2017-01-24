@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "精算",
+    "defaultAddressLabel": "デフォルト住所",
+    "billingAddressText" : "請求先住所",
+    "noAddressesText" : "住所が保存されていません。",
+    "firstNameText": "名",
+    "lastNameText": "姓",
+    "shippingAddressText": "出荷先住所",
+    "checkoutErrorMsg": "すべての必須フィールドを入力し、無効なエントリをすべて修正したことを確認してください。",
+    "firstNameRequired": "名は必須です。 ",
+    "lastNameRequired": "姓は必須です。 ",
+    "unsupportedShippingAddressText": "この住所には出荷できません。",
+    "invalidBillingAddressText": "出荷先住所は請求先住所として使用できません。請求先住所を入力してください。",
+    "invalidPreviousAddress": "以前使用された出荷先住所には出荷しなくなりました。"
+  }
+}

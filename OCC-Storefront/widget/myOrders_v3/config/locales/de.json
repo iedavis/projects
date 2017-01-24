@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "ID für geplante Bestellung einschließen?",
+	"includeScheduledHelpText" : "Einschließen der ID für die geplante Bestellung in der Bestellhistorientabelle auswählen"
+  }
+}

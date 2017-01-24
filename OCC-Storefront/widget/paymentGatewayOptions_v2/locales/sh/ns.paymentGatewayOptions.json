@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Došlo je do greške prilikom obrade uplate od strane mrežnog prolaza. Pokušajte ponovo.",
+    "paymentDeclinedMsg": "Uplata je odbijena. Pokušajte ponovo.",
+    "paymentExpiredMsg": "Uplata je istekla. Pokušajte ponovo.",
+    "paymentErrorMsg": "Došlo je do greške prilikom obrade uplate. Pokušajte ponovo.",
+    "payByCashText": "Plati gotovinom",
+    "invoicePaymentMsg": "Zahtevaj fakturu",
+    "purchaseOrderNumberMsg":"Broj narudžbenice"
+  }
+}

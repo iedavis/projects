@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Görüntü Özellikleri",
+    "numberOfRelatedProductsHelpText": "Döngüde görüntülenecek ilgili ürün sayısını girin.",
+    "numberOfRelatedProductsTextLabel": "İlgili Ürünlerin Sayısı",
+    "displayNameOfRelatedProductsTextLabel": "Ürün adı",
+    "displayPriceOfRelatedProductsTextLabel": "Fiyat"
+  }
+}

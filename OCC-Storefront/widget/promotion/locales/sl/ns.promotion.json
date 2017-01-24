@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Dodajanje promocijske kode ali kode zvestobe",
+  "promoCode": "Vnos promocijske kode",
+  "promoCodeAriaLabelText": "Vnos promocijske kode",
+  "buttonApplyCodeText": "Dodelitev kode",
+  "buttonApplyingCodeText": "Uporaba kode",
+  "couponDetailsError": "V podrobnostih vašega kupona je bila najdena težava.",
+  "promoCodeRequired": "Koda kupona ne more biti prazna",
+  "duplicateCoupon": "Koda je že bila dodeljena."
+  }
+}

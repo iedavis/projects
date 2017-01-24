@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Můj účet",
+    "orderHistoryText" : "Historie objednávek",
+    "backToMyAccount" : "<< Zpět k mému účtu",
+    "historyHeaderOrderDate": "Datum objednávky",    
+    "historyHeaderOrderNumber": "Číslo objednávky",
+    "historyHeaderOrderStatus": "Stav objednávky",
+    "historyHeaderOrderTotal": "Objednávka celkem",
+    "historyHeaderOrderDetails": "Detaily objednávky",
+    "listingHeaderScheduledOrderId": "ID plánu",
+    "orderDetails": "Detaily"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "電子郵件通知設定值",
+    "spaceSettingsNotificationIntroText" : "我希望收到：",
+    "spaceSettingsCommentNotificationTxt" : "附註與產品通知",
+    "spaceSettingsNewMemberNotificationTxt" : "新成員通知",
+    "spaceSettingsSaveTxt" : "儲存",
+    "spaceSettingsCancelTxt" : "取消",
+    "spaceSettingsSaveErrorTxt" : "儲存您的通知設定值變更時發生問題。",
+    "spaceSettingsSaveSuccessTxt" : "已更新並儲存您的通知設定值。",
+    "spaceSettingsOnText" : "是",
+    "spaceSettingsOffText" : "否",
+    "spaceSettingsNotificationEnableHelpText" : "在「我的帳戶」頁面上選取「我想要取得電子郵件更新資料」以啟用欲購清單通知。"
+  }
+}

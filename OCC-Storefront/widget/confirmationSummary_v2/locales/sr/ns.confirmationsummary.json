@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Резиме наруџбине", 
+    "orderDoesNotExist": "Наруџбина не постоји.", 
+    "subTotalText": "Међузбир:", 
+    "salesTaxText": "Порез на промет:", 
+    "orderTotalText": "Укупно за наруџбину:", 
+    "continueShoppingText": "Настави куповину",
+    "delimiter": ":",
+    "includingTaxText": "(укључујући порез)",
+    "totalExcludingTaxText": "Укупно (без пореза): "
+  }
+}

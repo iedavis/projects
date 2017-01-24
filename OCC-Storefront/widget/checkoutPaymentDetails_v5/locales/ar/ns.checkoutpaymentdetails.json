@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "تفاصيل الدفع",
+  "paymentMethod": "طريقة الدفع",
+  "paypalText": "الطريقة الأكثر أمانًا والأسهل للدفع.", 
+  "paymentDetailsError": "الرجاء التأكد من إتمام ملء كل الحقول الإلزامية وتصحيح أية إدخالات غير صالحة.",
+  "paymentMethodNotAvilable": "(لا يمكن استخدام خيار الدفع هذا للطلبات المجدولة.)",
+  
+  "nameOnCardLabel": "الاسم الموجود على البطاقة",
+  "nameOnCardPlaceholder": "الاسم الموجود على البطاقة",
+  "nameOnCardRequired": "يجب إدخال الاسم الموجود على البطاقة.",
+  "nameOnCardInvalid": "الاسم الموجود على البطاقة غير صالح.",
+  
+  "cardTypeLabel": "نوع البطاقة",
+  "cardTypePlaceholder": "نوع البطاقة",
+  "cardTypeRequired": "يجب إدخال نوع البطاقة.",
+  "cardTypeInvalid": "نوع البطاقة غير صالح.",
+  
+  "cardNumberLabel": "رقم البطاقة",
+  "cardNumberPlaceholder": "رقم البطاقة",
+  "cardNumberRequired": "يجب إدخال رقم البطاقة.",
+  "cardNumberMaxLength":"الإدخال غير صالح. الرجاء عدم تجاوز الحد الأقصى الذي يبلغ __maxLength__من الحروف.",
+  "cardNumberInvalid": "رقم البطاقة غير صالح. الرجاء المحاولة مرة أخرى.",
+  
+  "cardCVVLabel": "قيمة التحقق من البطاقة",
+  "cardCVVPlaceholder": "قيمة التحقق من البطاقة",
+  "cardCVVRequired": "يجب إدخال قيمة التحقق من البطاقة.",
+  "cardCVVInvalid": "قيمة التحقق من البطاقة غير صالحة.",
+  "cardCVVWhatsThis": "ما هذا؟",
+  "cardCVVPopupTitle": "قيمة التحقق من البطاقة",
+  "cardCVVPopupText": "آخر 3 أرقام في شريط التوقيع على البطاقة الخاصة بك.",
+  "cardCVVNumberInvalid": "الإدخال غير صالح، الرجاء إدخال أرقام فقط.",
+  "cardCVVNumberMaxLength": "الإدخال غير صالح. الرجاء عدم تجاوز الحد الأقصى لعدد الحروف المسموح به وهو 4.",
+  "cardCVVNumberMinLength": "الإدخال غير صالح. الرجاء إدخال 3 أحرف كحد أدنى.",
+  
+  "endMonthLabel": "تنتهي الصلاحية في (شهر)",
+  "endMonthPlaceholder": "تنتهي الصلاحية في (شهر)",
+  "endMonthRequired": "يجب إدخال شهر انتهاء صلاحية البطاقة.",
+  "endMonthInvalid": "شهر/عام انتهاء الصلاحية غير صالح، الرجاء المحاولة مرة أخرى.",
+  
+  "endYearLabel": "تنتهي الصلاحية في (عام)",
+  "endYearPlaceholder": "تنتهي الصلاحية في (عام)",
+  "endYearRequired": "يجب إدخال عام انتهاء صلاحية البطاقة.",
+  "endYearInvalid": "شهر/عام انتهاء الصلاحية غير صالح، الرجاء المحاولة مرة أخرى.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

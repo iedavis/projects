@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Maksāt ar dāvanu karti",
+    "giftCardNumberText": "Dāvanu kartes numurs",
+    "giftCardPinText": "Dāvanu kartes PIN kods",
+    "giftCardApplyText": "Lietot dāvanu karti", 
+    "giftCardApplyingText": "Lieto dāvanu karti", 
+    "displayGiftCardDetailsText" : "Maksāt ar dāvanu karti",
+    "duplicateGiftcardErrMsg":"Dāvanu karte jau ir izlietota."
+  }
+}

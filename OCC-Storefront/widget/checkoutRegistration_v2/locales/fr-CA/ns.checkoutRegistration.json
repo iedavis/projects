@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Commander",
+    "emailAddressText" : "Adresse de courriel",
+    "firstNameText" : "Prénom",
+    "lastNameText" : "Nom",
+    "passwordText" : "Mot de passe",
+    "confirmPasswordText" : "Confirmer le mot de passe",
+    "checkoutAsGuestText" : "Commander en tant qu'invité",
+    "loginToAccountText" : "Connexion à votre compte",
+    "rememberMeText" : "Je veux créer un compte.",
+    "marketingMailsText" : "Je souhaite être informé par courriel.",
+    "checkoutErrorMsg" : "Vérifiez que vous avez rempli tous les champs obligatoires et corrigé les entrées non valides.",
+    "buttonCancel": "Annuler",
+    "buttonLogin": "Connexion",
+    "checkoutOption": "Choisissez votre option de commande.",
+    "buttonLogout": "Déconnexion",
+    "welcomeMessage": "Heureux de vous revoir!",
+    "registrationMessageText":"En créant un compte, vous pouvez effectuer vos achats plus rapidement, suivre la progression de votre commande courante et vérifier le statut des commandes précédentes.",
+    "userSessionExpiredErrorMsg" : "Votre session de commande a expiré car elle était inactive. Relancez la commande."
+  }
+}

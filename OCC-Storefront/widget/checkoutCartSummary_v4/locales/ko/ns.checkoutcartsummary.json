@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "카트 요약",
+    "quantityText": "수량: ",
+    "colorText": "색상: ",
+    "sizeText": "크기: ",
+    "instockText": "재고 있음",
+    "outofstockText": "재고 없음",
+    "estimiatedShippingText": "추정 배송: ",
+    "buttonEditCartSummary": "편집",
+    "editCartText": "카트 편집",
+    "seeAllProducts": "모든 제품 표시",
+    "showAll": "모두 표시",
+    "cartSummaryItemLimitText": "초기 __noOfItems__ cart개의 카트 항목 표시 중"
+  }
+}

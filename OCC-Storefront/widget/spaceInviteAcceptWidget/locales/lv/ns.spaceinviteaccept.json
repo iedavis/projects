@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Esiet sveicināts, __userdisplayname__!",
+    "invitationAlreadyAccepted" : "Ielūgums jau ir pieņemts.",
+    "spaceNotFound" : "Vēlmju saraksts, kam cenšaties piekļūt, netika atrasts.",
+    "invitationExpiredError" : "Jūsu ielūguma derīgums ir beidzies! Lūdzu, sazinieties ar tā vēlmju saraksta īpašnieku, kam vēlaties pievienoties, un palūdziet ielūgt jūs vēlreiz.",
+    "memberJoinError" : "Radusies kļūda saistībā ar ielūgumu.",
+    "pleaseWaitProcessingMsg" : "Lūdzu, uzgaidiet, kamēr apstrādājam jūsu ielūgumu"
+  }
+}

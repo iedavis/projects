@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Dit kreditkort er afvist. Brug et andet kort.",
+    "102": "(102) Dit kreditkort er afvist. Brug et andet kort.",
+    "104": "(104) Dit kreditkort er afvist. Brug et andet kort.",
+    "110": "(110) Dit kreditkort er afvist. Brug et andet kort.",
+    "150": "(150) Der var et teknisk problem med at kontakte kreditkortets udstedende bank. Prøv igen, eller brug et andet kort.",
+    "151": "(151) Der var et teknisk problem. Prøv igen om lidt.",
+    "152": "(152) Der var et teknisk problem. Prøv igen om lidt.",
+    "200": "(200) Den angivne regningsadresse matcher ikke den adresse, der er registreret med dit kreditkort. Tjek adressen og prøv igen.",
+    "201": "(201) Dit kreditkort er afvist. Brug et andet kort.",
+    "202": "(202) Tjek dit korts udløbsdato, og prøv igen.",
+    "203": "(203) Dit kreditkort er afvist. Brug et andet kort.",
+    "204": "(204) Dit kreditkort er afvist. Brug et andet kort.",
+    "205": "(205) Dit kreditkort er afvist. Brug et andet kort.",
+    "207": "(207) Der var et teknisk problem med at kontakte kreditkortets udstedende bank. Prøv igen, eller brug et andet kort.",
+    "208": "(208) Dit kreditkort er afvist. Brug et andet kort.",
+    "209": "(209) Dit kreditkort er afvist. Brug et andet kort.",
+    "210": "(210) Dit kreditkort er afvist. Brug et andet kort.",
+    "211": "(211) Dit kreditkort er afvist. Brug et andet kort.",
+    "221": "(211) Dit kreditkort er afvist. Brug et andet kort.",
+    "230": "(230) Dit kreditkort er afvist. Brug et andet kort.",
+    "231": "(231) Dit kreditkort er afvist. Brug et andet kort.",
+    "232": "(232) Dit kreditkort er afvist. Brug et andet kort.",
+    "233": "(233) Dit kreditkort er afvist. Brug et andet kort.",
+    "234": "(234) Dit kreditkort er afvist. Brug et andet kort.",
+    "520": "(520) Dit kreditkort er afvist. Brug et andet kort.",
+    "1000": "(1000) Dit kreditkort er afvist. Brug et andet kort.",
+    "476": "(476) Kort ikke autentificeret til brug. Brug et andet kort.",
+    "paymentErrorText":"Der var et teknisk problem. Prøv igen om lidt.",
+    "processingText": "Behandler, vent venligst. Klik ikke på knappen Opfrisk eller Tilbage, da transaktionen kan blive afbrudt eller afsluttet."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Dobrodošli, __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Vabilo je bilo že sprejeto.",
+    "spaceNotFound" : "Seznama želja, do katerega poskušate dostopati, ni mogoče najti.",
+    "invitationExpiredError" : "Vaše vabilo je poteklo! Obrnite se na lastnika seznama želja, ki se mu želite pridružiti, in ga/jo prosite, naj vas znova povabi.",
+    "memberJoinError" : "Pri povabilu je prišlo do napake.",
+    "pleaseWaitProcessingMsg" : "Počakajte, da obdelamo vaše povabilo"
+  }
+}

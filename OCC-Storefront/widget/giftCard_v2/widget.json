@@ -1,0 +1,19 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "giftcard",
+  "imports": [
+    "order",
+    "payment"
+  ],
+  "javascript": "gift-card",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Gift Card",
+  "pageTypes": ["checkout"],
+  "source": 100,
+  "version": 2,
+  "widgetFamily": "giftCard",
+  "widgetType": "giftCard"
+}

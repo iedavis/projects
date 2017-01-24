@@ -1,0 +1,16 @@
+{
+  "availableToAllPages": true,
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "heroWidget",
+  "imports": [],
+  "javascript": "hero",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Hero",
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "heroWidget",
+  "widgetType": "heroWidget"
+}

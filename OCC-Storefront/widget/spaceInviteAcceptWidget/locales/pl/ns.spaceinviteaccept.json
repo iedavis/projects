@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Zapraszamy, __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Zaproszenie zostało już zaakceptowane.",
+    "spaceNotFound" : "Nie udało się odnaleźć listy życzeń, do której użytkownik próbuje uzyskać dostęp.",
+    "invitationExpiredError" : "Zaproszenie wygasło. Aby dołączyć, proszę skontaktować się z właścicielem listy życzeń i poprosić o ponowne zaproszenie.",
+    "memberJoinError" : "Wystąpił błąd w zaproszeniu.",
+    "pleaseWaitProcessingMsg" : "Proszę czekać, trwa przetwarzanie zaproszenia"
+  }
+}

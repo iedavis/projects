@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Zaplanowane zamówienia",
+    "backToMyAccount" : "<< Powrót do mojego konta",
+    "scheduledOrderName" : "Nazwa",
+    "frequency": "Częstotliwość",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Status",
+    "nextShipDate": "Następne zamówienie",
+    "lastScheduledRun": "Ostatnie zamówienie",
+    "scheduledOrderDetails": "Szczegóły zamówienia",
+    "orderDetails": "Szczegóły",
+    "action": "Czynność",
+    "createdDate":"Data utworzenia",
+    "editOrder": "Edycja",
+    "deleteOrder": "Kasowanie",
+    "deleteSuccessMsg":"Pomyślnie skasowano",
+    "myAccount" : "Moje konto"
+  }
+}

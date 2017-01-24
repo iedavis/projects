@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["spaceWelcomeWidget"],
+  "tag": "welcome-text",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ข้อความต้อนรับของ Wish List"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Boas-vindas da lista de desejos"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "收藏列表欢迎文本"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Вступний текст списку бажань"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Поздр. текст на сп. с жел. арт."
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Sooviloendi tervitustekst"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Vēlmju sar. sveiciena teksts"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Pageidavimų sąr. pasv. tekstas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Velkomsttekst for ønskeliste"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Text întâmpinare listă dorinţe"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Texte accueil liste de souhaits"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "ウィッシュ・リストへようこそテキスト"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Besed. dobrodošlice sezn. želja"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Текст приветствия для сп. жел."
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Dobrodošlica za popis želja"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "İstek Listesi Karşılama Metni"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Tekst powitalny listy życzeń"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "欲購清單歡迎使用文字"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "희망 목록 시작 텍스트"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Uvítací text na seznamu přání"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Kívánságlista üdvözlő szövege"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Κείμ. υποδοχής λίστας επιθυμιών"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Velkomsttekst til ønskeliste"
+    },
+    {
+      "description": "Displays a Wish List welcome message to the user",
+      "language": "en",
+      "title": "Wish List Welcome Text"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Добродошлица за листу жеља"
+    },
+    {
+      "description": "[DE][Displays a Wish List welcome message to the user ä]",
+      "language": "de",
+      "title": "Begrüßungstext für Wunschzettel"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Texto bienvenida lista deseos"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Texte bienvenue liste souhaits"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Testo benvenuto el. des."
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Welkomtekst voor verlanglijst"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Välkomsttext för önskelista"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Texto Boas-Vindas Lista Pref."
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Toivomusl. tervetuloa-teksti"
+    }
+  ],
+  "type": "fragment",
+  "version": 1
+}

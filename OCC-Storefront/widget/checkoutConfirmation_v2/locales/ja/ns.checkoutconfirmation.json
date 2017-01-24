@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "オーダー確認", 
+    "orderDoesNotExist": "オーダーが存在しません。", 
+    "thankyouMsg": "__orderDate__ at __orderTime__のご注文ありがとうございます。", 
+    "processingMsg": "このオーダーは現在処理中です。",
+    "pendingMsg": "ありがとうございます。オーダー要求を受け取り、支払を保留中です。支払が承認されるとオーダーが処理されます。",
+    "orderNumberMsg": "オーダー番号は__orderNumber__です。", 
+    "emailMsg": "次のオーダーを詳細に示したオーダー確認Eメールを __emailAddress__ に送信しました。", 
+    "yourOrderText": "オーダー", 
+    "itemText": "品目", 
+    "quantityText": "数量", 
+    "itemTotalText": "品目合計", 
+    "shippingAddressAndMethodText": "出荷先住所および出荷方法", 
+    "shipToText": "出荷先:", 
+    "shippingMethodText": "出荷方法:", 
+    "paymentDetailsText": "支払詳細", 
+    "cardTypeText": "カード・タイプ:", 
+    "cardNumberText": "カード番号:", 
+    "billingAddressText": "請求先住所:",
+    "loginSuccessText": "アカウントが作成されました。ご登録いただきありがとうございます。",
+    "loginFailureText": "エラー: オーダーは処理されましたが、アカウントの作成中に問題が発生しました。再試行してください。",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

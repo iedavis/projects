@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "您的购物车为空。",
+    "buttonContinueShopping": "继续购物",
+    "cartHeader" : "您的购物车",
+    "itemHeaderItem": "商品",    
+    "itemHeaderQuantity": "数量",
+    "itemQuantity": "__productName__ 数量",
+    "itemHeaderItemTotal": "商品合计",
+    "totalTableSubTotal": "小计：",
+    "includingTaxText": "（含税）",
+    "totalTableTotal": "合计：",
+    "buttonUpdateQuantity": "更新",
+    "buttonRemoveItem": "删除",
+    "instockText": "有货",
+    "outofstockText": "缺货",
+    "totalTableSummary": "购物车合计。"
+  }
+}

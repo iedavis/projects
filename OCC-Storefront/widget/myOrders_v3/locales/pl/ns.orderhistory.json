@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Moje konto",
+    "orderHistoryText" : "Historia zamówień",
+    "backToMyAccount" : "<< Powrót do mojego konta",
+    "historyHeaderOrderDate": "Data zamówienia",    
+    "historyHeaderOrderNumber": "Numer zamówienia",
+    "historyHeaderOrderStatus": "Status zamówienia",
+    "historyHeaderOrderTotal": "Zamówienie łącznie",
+    "historyHeaderOrderDetails": "Szczegóły zamówienia",
+    "listingHeaderScheduledOrderId": "ID harmonogramu",
+    "orderDetails": "Szczegóły"
+  }
+}

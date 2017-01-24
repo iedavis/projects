@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Lisää toivomuslistaan",
+    "spaceSelectionText": "Valitse toivomuslista",
+    "spaceCommentText": "Kirjoita kommentti...",
+    "spaceNameText": "Nimi",
+    "buttonSpaceAdd": "Lisää",
+    "buttonSpaceCancel": "Peruuta",
+    "mySpacesGroupText": "Omat toivomuslistat",
+    "joinedSpacesGroupText": "Liitetyt toivomuslistat",
+    "createNewSpaceOptText": "Uusi toivomuslista...",
+    "addToSpaceSuccessMsg" : "Onnistui! __socialproduct__ on lisätty tilaan __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Tämä nimike oli jo toivomuslistassa. Lisäyspvm on päivitetty.",
+    "addToSpaceProductViewWishListMsg" : "  Näytä __wishlistname__",
+    "spaceAddProductError" : "Virhe yritettäessä julkaista tuotetta toivomuslistassa. Yritä päivittää sivu.",
+    "uniqueNameMsg": "Toivomuslistan nimen on oltava yksilöivä.",
+    "emptyNameMsg": "Nimi ei saa olla tyhjä",
+    "privacySettingsLabel": "Tietosuoja-asetukset",
+    "privacySettingsDescription": "Jos kutsut kavereita yksityiseen toivomuslistaan, yksityisyysasetukseksi vaihtuu Ryhmä. Jos lähetät yksityisen tai ryhmän toivomuslistan sähköpostitse tai jaat sen sosiaalisessa verkostossa, toivomuslistasta tulee jaettu lista.",
+    "privacySharedLabel": "Tämä lista näkyy kaikille, joilla on linkki. Vain sinä ja kutsumasi henkilöt voitte katsella listaa, kommentoida sitä ja lisätä siihen kohteita.",
+    "privacyGroupLabel": "Vain sinä ja kutsumasi henkilöt voitte katsella listaa, kommentoida sitä ja lisätä siihen kohteita.",
+    "privacyPrivateLabel": "Vain sinä voit katsella tätä listaa ja lisätä siihen kohteita.",
+    "spaceAccessPrivateIconTxt" : "Yksityinen",
+    "spaceAccessSharedIconTxt" : "Jaettu",
+    "spaceAccessGroupIconTxt" : "Ryhmä",
+    "spaceCreateMaxSpacesMsg" : "Ongelma toivomuslistan luonnissa. Olet ylittänyt toivomuslistojen enimmäismäärän. Poista aiemmin luotu toivomuslista, ennen kuin luot uuden listan.",
+    "productAddMaxProductsMsg" : "Ongelma lisättäessä tuotetta toivomuslistalle. Olet ylittänyt toivomuslistan julkaisujen enimmäismäärän. Poista aiemmin luotu tuote kohdetoivomuslistasta, ennen kuin lisäät uuden tuotteen."
+  }
+}

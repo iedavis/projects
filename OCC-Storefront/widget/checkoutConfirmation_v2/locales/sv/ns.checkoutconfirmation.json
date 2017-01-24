@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Orderbekräftelse", 
+    "orderDoesNotExist": "Ordern finns inte.", 
+    "thankyouMsg": "Tack för din order den __orderDate__ vid __orderTime__.", 
+    "processingMsg": "Den här ordern bearbetas nu.",
+    "pendingMsg": "Tack! Din order har mottagits och avvaktar betalning. När betalningen har godkänts bearbetar vi ordern.",
+    "orderNumberMsg": "Ditt ordernummer är __orderNumber__.", 
+    "emailMsg": "Ett e-postmeddelande med orderbekräftelsen har skickats till __emailAddress__ där ordern nedan specificeras.", 
+    "yourOrderText": "Din order", 
+    "itemText": "Artikel", 
+    "quantityText": "Kvantitet", 
+    "itemTotalText": "Artikelsumma", 
+    "shippingAddressAndMethodText": "Leveransadress och -sätt", 
+    "shipToText": "Lev.adress:", 
+    "shippingMethodText": "Leveranssätt:", 
+    "paymentDetailsText": "Betalningsdetaljer", 
+    "cardTypeText": "Korttyp:", 
+    "cardNumberText": "Kortnummer:", 
+    "billingAddressText": "Fakt.adress:",
+    "loginSuccessText": "Ditt konto har skapats. Tack för att du registrerade dig.",
+    "loginFailureText": "Fel: Ordern har bearbetats men ett problem inträffade när kontot skapades. Försök igen.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

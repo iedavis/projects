@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Σύνοψη παραγγελίας",
+    "subtotalText": "Μερικό σύνολο: ",
+    "shippingOptionsText": "Επιλογές αποστολής",
+    "salesTaxText": "Φόρος πωλήσεων: ",
+    "orderTotalText": "Σύνολο παραγγελίας: ",
+    "placeOrderText": "Τοποθέτηση παραγγελίας",
+    "scheduleOrderText": "Προγραμματισμός παραγγελίας",
+    "noShippingText": "Δεν υπάρχει αποστολή",
+    "shippingText": "Αποστολή: __displayName__",    
+    "applicableTaxesText": "Οι εφαρμοστέοι φόροι θα υπολογίζονται στο ταμείο",
+    "paymentOptionsText": "Επιλογές πληρωμής",
+    "checkoutText": "Ταμείο",
+    "noShippingSelectedText": "Δεν έχει επιλεγεί μέθοδος αποστολής.",
+    "shippingAddressRequired": "Καταχωρίστε μια διεύθυνση αποστολής",
+    "noShippingMethodsText": "Δεν υπάρχουν διαθέσιμες μέθοδοι αποστολής για τη διεύθυνση προορισμού.",
+    "noShippingMethodsForAddressText": "Δεν υπάρχουν διαθέσιμες μέθοδοι αποστολής για την επιλεγμένη διεύθυνση",
+    "checkoutErrorMsg": "Βεβαιωθείτε ότι έχετε συμπληρώσει όλα τα υποχρεωτικά πεδία και ότι έχετε διορθώσει τυχόν μη έγκυρες καταχωρίσεις.",
+    "rePricingText":"Ανακοστολόγηση",
+    "removeLinkText":"κατάργηση",
+    "paymentMessage": "Η επόμενη οθόνη που θα εμφανιστεί θα είναι η οθόνη επαλήθευσης κάρτας πληρωμής της αρχής έκδοσης της κάρτας σας.",
+    "includingTaxText": "(με φόρο)",
+    "totalExcludingTaxText": "Σύνολο (χωρίς φόρο): ",
+    "paymentMethodNotAvilable": "(Αυτή η επιλογή πληρωμής δεν μπορεί να χρησιμοποιηθεί για προγραμματισμένες παραγγελίες.)",
+    "selectShippingMethodText": "Επιλογή μεθόδου αποστολής"
+  }
+}

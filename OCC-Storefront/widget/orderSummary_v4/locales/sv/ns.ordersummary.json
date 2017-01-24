@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Orderöversikt",
+    "subtotalText": "Delsumma: ",
+    "discountText": "Rabatt(er)*: ",
+    "shippingOptionsText": "Leveransalternativ",
+    "changeText": "ändra",
+    "salesTaxText": "Moms: ",
+    "orderTotalText": "Ordersumma: ",
+    "placeOrderText": "Beställ",
+    "noShippingText": "Ingen frakt",
+    "applicableTaxesText": "Tillämplig moms beräknas vid kassan.",
+    "paymentOptionsText": "Betalningsalternativ",
+    "checkoutText": "Kassan",
+    "noShippingSelectedText": "Inget leveranssätt har valts.",
+    "shippingAddressRequired":"Ange en leveransadress",
+    "shippingText": "Frakt: __displayName__ ",
+    "noShippingMethodsText": "Inga tillgängliga leveranssätt",
+    "checkoutErrorMsg": "Kontrollera att du har fyllt i alla obligatoriska fält och korrigerat eventuella ogiltiga poster.",
+    "removeLinkText": "ta bort",
+    "rePricingText":"Prisändring",
+    "totalExcludingTaxText": "Summa (exklusive moms): ",
+    "includingTaxText": "(inklusive moms)"
+  }
+}

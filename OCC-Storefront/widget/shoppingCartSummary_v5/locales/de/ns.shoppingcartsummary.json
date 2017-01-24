@@ -1,0 +1,26 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Ihr Warenkorb ist leer.",
+    "buttonContinueShopping": "Einkauf fortsetzen",
+    "cartHeader" : "Ihr Warenkorb",
+    "itemHeaderItem": "Artikel",    
+    "itemHeaderQuantity": "Menge",
+    "itemQuantity": "Menge für __productName__",
+    "itemHeaderItemPrice": "Preis",
+    "itemHeaderItemTotal": "Artikel gesamt",
+    "totalTableSubTotal": "Zwischensumme:",
+    "includingTaxText": "(mit Steuer)",
+    "totalTableTotal": "Gesamtsumme:",
+    "buttonUpdateQuantity": "Aktualisieren",
+    "buttonRemoveItem": "Entfernen",
+    "instockText": "Auf Lager",
+    "outofstockText": "Nicht auf Lager",
+    "totalTableSummary": "Warenkorb gesamt.",
+    "placeHolderSelect": "Gratisgeschenk auswählen",
+    "changeButton": "Ändern",
+    "gwpItemNotAvailable": "Im Moment ist kein Promotiongratisgeschenk verfügbar.",
+    "buttonReconfigure" : "Bearbeiten",
+    "reconfigureText" : "Neu konfigurieren",
+    "atTheRateText" : "@"
+  }
+}

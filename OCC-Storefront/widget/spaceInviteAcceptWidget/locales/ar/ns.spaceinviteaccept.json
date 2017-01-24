@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "مرحبًا __userdisplayname__.",
+    "invitationAlreadyAccepted" : "تم بالفعل قبول الدعوة.",
+    "spaceNotFound" : "لم يتم العثور على قائمة الرغبات التي تحاول الوصول إليها.",
+    "invitationExpiredError" : "انتهت صلاحية دعوتك! الرجاء الاتصال بمالك قائمة الرغبات التي تريد الانضمام إليها واطلب منه/منها دعوتك مرة أخرى.",
+    "memberJoinError" : "حدث خطأ في الدعوة.",
+    "pleaseWaitProcessingMsg" : "الرجاء الانتظار حتى تتم معالجة دعوتك"
+  }
+}

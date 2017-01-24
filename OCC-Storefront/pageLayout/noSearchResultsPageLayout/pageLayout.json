@@ -1,0 +1,177 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["noSearchResultsInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "noSearchResults",
+  "isLayoutDisplayable": true,
+  "displayName": "No Search Results Layout",
+  "translations": [
+    {
+      "name": "ไม่มีผลการค้นหา",
+      "language": "th"
+    },
+    {
+      "name": "Sem resultados pesquisa",
+      "language": "pt_BR"
+    },
+    {
+      "name": "没有搜索结果",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Немає результатів пошуку",
+      "language": "uk"
+    },
+    {
+      "name": "Няма рез. от търсенето",
+      "language": "bg"
+    },
+    {
+      "name": "Otsingutulemeid pole",
+      "language": "et"
+    },
+    {
+      "name": "Nav meklēšanas rezultātu",
+      "language": "lv"
+    },
+    {
+      "name": "Paieškos rezultatų nėra",
+      "language": "lt"
+    },
+    {
+      "name": "Ingen søkeresultater",
+      "language": "no"
+    },
+    {
+      "name": "Fără rezultate căutare",
+      "language": "ro"
+    },
+    {
+      "name": "Aucun résultat recherche",
+      "language": "fr_CA"
+    },
+    {
+      "name": "検索結果なし",
+      "language": "ja"
+    },
+    {
+      "name": "Ni rezultatov iskanja",
+      "language": "sl"
+    },
+    {
+      "name": "Нет результатов поиска",
+      "language": "ru"
+    },
+    {
+      "name": "Nema rezultata pretrage",
+      "language": "hr"
+    },
+    {
+      "name": "Arama Sonucu Yok",
+      "language": "tr"
+    },
+    {
+      "name": "Brak wyników wyszukiwania",
+      "language": "pl"
+    },
+    {
+      "name": "無搜尋結果",
+      "language": "zh_TW"
+    },
+    {
+      "name": "검색 결과 없음",
+      "language": "ko"
+    },
+    {
+      "name": "Žádné výsledky hledání",
+      "language": "cs"
+    },
+    {
+      "name": "Nincs találat",
+      "language": "hu"
+    },
+    {
+      "name": "Κανένα αποτελ. αναζήτησης",
+      "language": "el"
+    },
+    {
+      "name": "Ingen søgeresultater",
+      "language": "da"
+    },
+    {
+      "name": "No Search Results",
+      "language": "en"
+    },
+    {
+      "name": "Нема резултата претраге",
+      "language": "sr"
+    },
+    {
+      "name": "Keine Suchergebnisse",
+      "language": "de"
+    },
+    {
+      "name": "لا توجد نتائج بحث",
+      "language": "ar"
+    },
+    {
+      "name": "Sin resultados búsqueda",
+      "language": "es"
+    },
+    {
+      "name": "Recherche infructueuse",
+      "language": "fr"
+    },
+    {
+      "name": "Nessun risultato ricerca",
+      "language": "it"
+    },
+    {
+      "name": "Geen zoekresultaten",
+      "language": "nl"
+    },
+    {
+      "name": "Inga sökresultat",
+      "language": "sv"
+    },
+    {
+      "name": "Sem Result. da Pesquisa",
+      "language": "pt"
+    },
+    {
+      "name": "Ei hakutuloksia",
+      "language": "fi"
+    }
+  ]
+}

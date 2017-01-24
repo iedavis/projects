@@ -1,0 +1,180 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [
+    "textBox",
+    "fontPicker"
+  ],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-out-of-stock-message",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ข้อความแสดงการหมดสต็อค"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Mensagem de produto esgotado"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "缺货消息"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Повідом. \"Немає на складі\""
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Съобщ. за изчерпана налич."
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Teade \u201eLäbi müüdud\u201c"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Ziņojums Nav krājumā"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Pranešimas Nėra sandėlyje"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Ikke på lager-melding"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Mesaj Epuizat din stoc"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Message En rupture de stock"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "在庫切れメッセージ"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Sporočilo \"Ni na zalogi\""
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Сообщ. об отсутст. на складе"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Poruka Nema na zalihama"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Stokta Yok Mesajı"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Komunikat Brak w magazynie"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "缺貨訊息"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "재고 없음 메시지"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Zpráva Není na skladě"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Nincs készleten - Üzenet"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Μήνυμα εξάντλησης αποθέματος"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Ikke på lager-meddelelse"
+    },
+    {
+      "description": "Message to display when product is out of stock",
+      "language": "en",
+      "title": "Out Of Stock Message"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Порука \"Није на залихама\""
+    },
+    {
+      "description": "[PX][Message to display when product is out of stock ä]",
+      "language": "de",
+      "title": "Nachricht \"Nicht auf Lager\""
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Mensaje de stock agotado"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Message de Rupture de stock"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Messaggio Esaurito"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Bericht Niet op voorraad"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Ej i lager - meddelande"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Mensagem Esgotado"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Loppunut varastosta -sanoma"
+    }
+  ],
+  "type": "dynamicFragment",
+  "version": 3
+}

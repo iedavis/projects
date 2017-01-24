@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Moja naročila",
+    "backToMyOrdersLink" : "<< Back to My Orders  ",
+    "orderDetailsText": "Podrobnosti naročila",
+    "orderDateText": "Datum naročila:",
+    "orderNumberText": "Številka naročila:",
+    "orderStatusText": "OrderStatus:",
+    "quoteExpiryText": "Potek ponudbe:",
+    "scheduledOrderName": "Ime plana:",
+    "shippingAddressAndMethodText": "Naslov za pošiljanje in metoda pošiljanja", 
+    "shippingAddressText": "Prejemnik:",
+    "noShippingAddressText" : "Ni razpoložljivega naslova za pošiljanje", 
+    "shippingMethodText": "Metoda pošiljanja:",
+    "shippingText": "Standardno pošiljanje:",
+    "salesTaxText": "Prometni davek:",
+    "orderTotalText": "Naročilo skupaj:",
+    "includingTaxText": "(vključno z davkom)",
+    "totalExcludingTaxText": "Skupaj (brez davka): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Številke za sledenje:",
+    "trackingReferenceReaderText": "Referenca za sledenje __carrierName__ __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Planirano naročilo je bilo ustvarjeno po ceniku \"__priceListGroup__\""
+  } 
+}

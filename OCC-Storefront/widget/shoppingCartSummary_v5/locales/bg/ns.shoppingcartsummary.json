@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Вашата количка е празна.",
+    "buttonContinueShopping": "Продължаване на пазаруване",
+    "cartHeader" : "Вашата количка",
+    "itemHeaderItem": "Артикул",    
+    "itemHeaderQuantity": "Количество",
+    "itemQuantity": "Количество на __productName__",
+    "itemHeaderItemTotal": "Общо артикули",
+    "totalTableSubTotal": "Междинна обща сума:",
+    "includingTaxText": "(с включен данък)",
+    "totalTableTotal": "Общо:",
+    "buttonUpdateQuantity": "Актуализиране",
+    "buttonRemoveItem": "Премахване",
+    "instockText": "В наличност",
+    "outofstockText": "Изчерпана наличност",
+    "totalTableSummary": "Обща стойност в количката."
+  }
+}

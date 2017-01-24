@@ -1,0 +1,7 @@
+{
+  "resources": {
+	"heroWidget": "Hero",
+	"previousBannerText": "上一个标帜",
+	"nextBannerText": "下一个标帜"
+  }
+}

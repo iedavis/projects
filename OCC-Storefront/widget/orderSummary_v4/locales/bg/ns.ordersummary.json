@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Обща информация за поръчка",
+    "subtotalText": "Междинна обща сума: ",
+    "discountText": "Отстъпки*: ",
+    "shippingOptionsText": "Опции за доставка",
+    "changeText": "промяна",
+    "salesTaxText": "Данък върху продажбите: ",
+    "orderTotalText": "Обща сума на поръчката: ",
+    "placeOrderText": "Направи поръчка",
+    "noShippingText": "Без доставка",
+    "applicableTaxesText": "Приложимите данъци ще се добавят при финализирането.",
+    "paymentOptionsText": "Опции за плащане",
+    "checkoutText": "Каса",
+    "noShippingSelectedText": "Не е избран метод на доставка.",
+    "shippingAddressRequired":"Моля, въведете адрес за доставка ",
+    "shippingText": "Доставяне: __displayName__ ",
+    "noShippingMethodsText": "Няма достъпни методи на доставка.",
+    "checkoutErrorMsg": "Моля, уверете се, че сте попълнили всички задължителни полета и сте поправили всички невалидни данни.",
+    "removeLinkText": "Премахване",
+    "rePricingText":"Преоценяване",
+    "totalExcludingTaxText": "Общо (без данък): ",
+    "includingTaxText": "(с включен данък)"
+  }
+}

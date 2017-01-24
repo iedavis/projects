@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Zaplatit dárkovou kartou",
+    "giftCardNumberText": "Číslo dárkové karty",
+    "giftCardPinText": "PIN dárkové karty",
+    "giftCardApplyText": "Použít dárkovou kartou", 
+    "giftCardApplyingText": "Použití dárkové karty", 
+    "displayGiftCardDetailsText" : "Zaplatit dárkovou kartou",
+    "duplicateGiftcardErrMsg":"Dárková karta již byla použita."
+  }
+}

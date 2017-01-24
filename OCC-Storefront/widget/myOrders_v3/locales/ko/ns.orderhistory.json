@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "내 계정",
+    "orderHistoryText" : "주문 기록",
+    "backToMyAccount" : "<< 내 계정으로 돌아가기",
+    "historyHeaderOrderDate": "주문 일자",    
+    "historyHeaderOrderNumber": "주문 번호",
+    "historyHeaderOrderStatus": "주문 상태",
+    "historyHeaderOrderTotal": "주문 합계",
+    "historyHeaderOrderDetails": "주문 세부정보",
+    "listingHeaderScheduledOrderId": "스케줄 ID",
+    "orderDetails": "세부정보"
+  }
+}

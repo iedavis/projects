@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Įtraukti į pageidavimų sąrašą",
+    "spaceSelectionText": "Pasirinkite pageidavimų sąrašą",
+    "spaceCommentText": "Įvesti komentarą...",
+    "spaceNameText": "Pavadinimas",
+    "buttonSpaceAdd": "Įtraukti",
+    "buttonSpaceCancel": "Atšaukti",
+    "mySpacesGroupText": "Mano pageidavimų sąrašai",
+    "joinedSpacesGroupText": "Pageidavimų sąrašai, prie kurių prisijungta",
+    "createNewSpaceOptText": "Naujas pageidavimų sąrašas…",
+    "addToSpaceSuccessMsg" : "Pavyko!  __socialproduct__ įtrauktas į __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Ši prekė jau buvo pageidavimų sąraše. Atnaujinome įtraukimo datą.",
+    "addToSpaceProductViewWishListMsg" : "Peržiūrėti __wishlistname__",
+    "spaceAddProductError" : "Bandant įtraukti produktą į pageidavimų sąrašą įvyko klaida. Pabandykite atnaujinti puslapį.",
+    "uniqueNameMsg": "Pageidavimų sąrašo pavadinimas turi būti unikalus.",
+    "emptyNameMsg": "Pavadinimo laukas negali būti tuščias",
+    "privacySettingsLabel": "Privatumo parametrai",
+    "privacySettingsDescription": "Į privatų pageidavimų sąrašą pakvietus draugų, privatumo parametras pasikeis į grupės. Siunčiamas el. paštu arba bendrinamas socialiniuose tinkluose privatus arba grupės pageidavimų sąrašas tampa bendrinamu sąrašu.",
+    "privacySharedLabel": "Bet kuris, turintis nuorodą, šį sąrašą gali peržiūrėti. Tik jūs ir jūsų pakviesti žmonės sąrašą gali peržiūrėti, komentuoti ir į jį įtraukti produktų.",
+    "privacyGroupLabel": "Tik jūs ir jūsų pakviesti žmonės šį sąrašą gali peržiūrėti, komentuoti ir įtraukti į jį produktų.",
+    "privacyPrivateLabel": "Tik jūs galite matyti šį sąrašą ir įtraukti į jį produktų.",
+    "spaceAccessPrivateIconTxt" : "Privatus",
+    "spaceAccessSharedIconTxt" : "Bendrinamas",
+    "spaceAccessGroupIconTxt" : "Grupės",
+    "spaceCreateMaxSpacesMsg" : "Kuriant pageidavimų sąrašą kilo problema. Viršijote leistinų pageidavimų sąrašų limitą. Norėdami kurti naują pageidavimų sąrašą, vieną iš esamų panaikinkite.",
+    "productAddMaxProductsMsg" : "Bandant į pageidavimų sąrašą įtraukti produktą kilo problema. Viršijote pageidavimų sąraše leistinų įrašų limitą. Norėdami į paskirties pageidavimų sąrašą įtaukti naują produktą, panaikinkite vieną iš esamų."
+  }
+}

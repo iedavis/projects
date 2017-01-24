@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "102": "(102) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "104": "(104) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "110": "(110) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "150": "(150) Tekninen ongelma muodostettaessa yhteyttä luottokorttisi myöntäneeseen pankkiin. Yritä uudelleen tai käytä vaihtoehtoista korttia.",
+    "151": "(151) Tekninen ongelma. Yritä uudelleen hetken kuluttua.",
+    "152": "(152) Tekninen ongelma. Yritä uudelleen hetken kuluttua.",
+    "200": "(200) Antamasi laskutusosoite ei vastaa tallennettua luottokorttisi osoitetta. Tarkista osoite ja yritä uudelleen.",
+    "201": "(201) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "202": "(202) Tarkista korttisi vanhentumispäivämäärä ja yritä uudelleen.",
+    "203": "(203) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "204": "(204) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "205": "(205) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "207": "(207) Tekninen ongelma muodostettaessa yhteyttä luottokorttisi myöntäneeseen pankkiin. Yritä uudelleen tai käytä vaihtoehtoista korttia.",
+    "208": "(208) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "209": "(209) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "210": "(210) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "211": "(211) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "221": "(221) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "230": "(230) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "231": "(231) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "232": "(232) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "233": "(233) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "234": "(234) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "520": "(520) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "1000": "(1000) Luottokorttisi on hylätty, käytä vaihtoehtoista korttia.",
+    "476": "(476) Korttia ei ole todennettu käyttöä varten, käytä vaihtoehtoista korttia.",
+    "paymentErrorText":"Tekninen ongelma. Yritä uudelleen hetken kuluttua.",
+    "processingText": "Käsitellään, odota. Älä napsauta Päivitä- tai Takaisin-painiketta, koska tapahtuma saattaa keskeytyä tai päättyä."
+  }
+}

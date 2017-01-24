@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Přidat do seznamu přání",
+    "spaceSelectionText": "Vyberte seznam přání",
+    "spaceCommentText": "Zadat komentář...",
+    "spaceNameText": "Název",
+    "buttonSpaceAdd": "Přidat",
+    "buttonSpaceCancel": "Zrušit",
+    "mySpacesGroupText": "Moje seznamy přání",
+    "joinedSpacesGroupText": "Společné seznamy přání",
+    "createNewSpaceOptText": "Nový seznam přání...",
+    "addToSpaceSuccessMsg" : "Povedlo se! Produkt __socialproduct__ byl přidán do prostoru __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Tato položka je již na seznamu přání uvedena. Aktualizovali jsme datum přidání.",
+    "addToSpaceProductViewWishListMsg" : "  Zobrazit seznam __wishlistname__",
+    "spaceAddProductError" : "Při pokusu o odeslání produktu na seznam přání došlo k chybě. Zkuste aktualizovat stránku.",
+    "uniqueNameMsg": "Název seznamu přání musí být jedinečný.",
+    "emptyNameMsg": "Název nesmí být prázdný",
+    "privacySettingsLabel": "Soukromí - nastavení",
+    "privacySettingsDescription": "Pozvete-li přátele do soukromého seznamu přání, změní se tím vaše nastavení ochrany soukromí na Skupinové. Odešlete-li soukromý nebo skupinový seznam přání e-mailem nebo pokud jej budete sdílet na sociálních sítích, stane se z něj sdílený seznam.",
+    "privacySharedLabel": "Tento seznam uvidí každý uživatel s odkazem. Vidět jej, přidat k němu komentář nebo do něj položku můžete jen vy a uživatelé, které pozvete.",
+    "privacyGroupLabel": "Zobrazit seznam, přidat k němu komentář nebo do něj položku můžete jen vy a uživatelé, které pozvete.",
+    "privacyPrivateLabel": "Pouze vy uvidíte tento seznam a můžete do něj přidat další položky.",
+    "spaceAccessPrivateIconTxt" : "Soukromé",
+    "spaceAccessSharedIconTxt" : "Sdílené",
+    "spaceAccessGroupIconTxt" : "Skupinové",
+    "spaceCreateMaxSpacesMsg" : "Při vytváření seznamu přání došlo k chybě. Překročili jste limit pro počet seznamů přání. Než vytvoříte nový seznam přání, odstraňte některý ze stávajících seznamů přání.",
+    "productAddMaxProductsMsg" : "Při přidávání produktu na seznam přání došlo k chybě. Překročili jste limit pro počet příspěvků v seznamu přání. Než přidáte nový produkt, odstraňte z cílového seznamu přání některý ze stávajících produktů."
+  }
+}

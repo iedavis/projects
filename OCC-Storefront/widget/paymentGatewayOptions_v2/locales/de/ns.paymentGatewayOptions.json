@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Bei der Gatewayverarbeitung der Zahlung ist ein Fehler aufgetreten. Versuchen Sie es erneut.",
+    "paymentDeclinedMsg": "Zahlung wurde abgelehnt. Versuchen Sie es erneut.",
+    "paymentExpiredMsg": "Zahlung ist abgelaufen. Versuchen Sie es erneut.",
+    "paymentErrorMsg": "Fehler beim Verarbeiten der Zahlung. Versuchen Sie es erneut.",
+    "payByCashText": "Bar bezahlen",
+    "invoicePaymentMsg": "Rechnung anfordern",
+    "purchaseOrderNumberMsg":"Bestellnummer"
+  }
+}

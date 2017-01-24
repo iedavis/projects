@@ -1,0 +1,23 @@
+{
+  "config": {},
+  "defaultLayout": "productDetailsDefaultLayout",
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "productdetails",
+  "imports": [
+    "product",
+    "imageRootUrl",
+    "loaded",
+    "productVariantOptions",
+    "productTypes"
+  ],
+  "javascript": "product-details",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Product Details",
+  "pageTypes": ["product"],
+  "source": 100,
+  "version": 3,
+  "widgetFamily": "productDetails",
+  "widgetType": "productDetails"
+}

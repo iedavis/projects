@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Angi maksimalt antall artikler som skal vises i handlekurvsammendraget.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Maksimalt antall artikler i handlekurvsammendrag"
+  }
+}

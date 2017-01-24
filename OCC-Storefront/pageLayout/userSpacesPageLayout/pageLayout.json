@@ -1,0 +1,205 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["spaceInviteAcceptWidgetInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["wishListCanvasJSWidgetInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["spaceWelcomeWidgetInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["spaceHeaderWidgetInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["spaceContentWidgetInst_v5"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "swm",
+  "isLayoutDisplayable": true,
+  "displayName": "Wish List Layout",
+  "translations": [
+    {
+      "name": "Wish List",
+      "language": "th"
+    },
+    {
+      "name": "Lista-Desejos",
+      "language": "pt_BR"
+    },
+    {
+      "name": "收藏列表",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Сп. баж. тов.",
+      "language": "uk"
+    },
+    {
+      "name": "Списък с жел.",
+      "language": "bg"
+    },
+    {
+      "name": "Sooviloend",
+      "language": "et"
+    },
+    {
+      "name": "Vēlmju sar.",
+      "language": "lv"
+    },
+    {
+      "name": "Pageid. sąr.",
+      "language": "lt"
+    },
+    {
+      "name": "Ønskeliste",
+      "language": "no"
+    },
+    {
+      "name": "Listă dorinţe",
+      "language": "ro"
+    },
+    {
+      "name": "Liste souhaits",
+      "language": "fr_CA"
+    },
+    {
+      "name": "ウィッシュ・リスト",
+      "language": "ja"
+    },
+    {
+      "name": "Seznam želja",
+      "language": "sl"
+    },
+    {
+      "name": "Список пожел-й",
+      "language": "ru"
+    },
+    {
+      "name": "Popis želja",
+      "language": "hr"
+    },
+    {
+      "name": "İstek Listesi",
+      "language": "tr"
+    },
+    {
+      "name": "Lista życzeń",
+      "language": "pl"
+    },
+    {
+      "name": "欲購清單",
+      "language": "zh_TW"
+    },
+    {
+      "name": "희망 목록",
+      "language": "ko"
+    },
+    {
+      "name": "Seznam přání",
+      "language": "cs"
+    },
+    {
+      "name": "Kívánságlista",
+      "language": "hu"
+    },
+    {
+      "name": "Λίστα επιθυμ.",
+      "language": "el"
+    },
+    {
+      "name": "Ønskeliste",
+      "language": "da"
+    },
+    {
+      "name": "Wish List",
+      "language": "en"
+    },
+    {
+      "name": "Листа жеља",
+      "language": "sr"
+    },
+    {
+      "name": "Wunschzettel",
+      "language": "de"
+    },
+    {
+      "name": "قائمة الرغبات",
+      "language": "ar"
+    },
+    {
+      "name": "Lista deseos",
+      "language": "es"
+    },
+    {
+      "name": "Liste souhaits",
+      "language": "fr"
+    },
+    {
+      "name": "El. desiderata",
+      "language": "it"
+    },
+    {
+      "name": "Verlanglijst",
+      "language": "nl"
+    },
+    {
+      "name": "Önskelista",
+      "language": "sv"
+    },
+    {
+      "name": "Lista Prefer.",
+      "language": "pt"
+    },
+    {
+      "name": "Toivomuslista",
+      "language": "fi"
+    }
+  ]
+}

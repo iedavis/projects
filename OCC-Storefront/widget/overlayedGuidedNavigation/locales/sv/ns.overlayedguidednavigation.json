@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Visa mindre...",
+    "seeMoreText" : "Visa mer...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Begränsa per",
+    "clearAllRefinementsText" : "Rensa alla begränsningar",
+    "guidedNavigationHeader" : "Sidhuvud för guidad navigering",
+    "doneText" : "Slutför",
+    "expandText" : "Expandera",
+    "collapseText" : "Komprimera",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Överlappande guidad navigering har laddats"
+  }
+}

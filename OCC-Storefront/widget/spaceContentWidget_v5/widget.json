@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "spacecontent",
+  "imports": ["space"],
+  "javascript": "space-content",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Wish List Content",
+  "pageTypes": ["swm"],
+  "source": 100,
+  "version": 5,
+  "widgetFamily": "spaceContentWidget",
+  "widgetType": "spaceContentWidget"
+}

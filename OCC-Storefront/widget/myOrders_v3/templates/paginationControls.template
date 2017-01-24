@@ -1,0 +1,22 @@
+<div class="btn-group">
+     
+    <a href="#" class="btn btn-default" data-bind="click: getFirstPage, widgetLocaleText : {value:'goToFirstPageText', attr:'aria-label'}, makeAccess: {readerText: 'Go to first page &nbsp;', cssContent: 'on'}, css: { disabled: $data.currentPage() == 1 }, widgetLocaleText: 'goToFirstPagePaginationSymbol'" >&lt;&lt;</a> 
+    <a href="#" class="btn btn-default" data-bind="click: decrementPage, widgetLocaleText : {value:'goToPreviousPageText', attr:'aria-label'}, makeAccess: {readerText: 'Go to previous page &nbsp;', cssContent: 'on'}, css: { disabled: $data.currentPage() == 1 }, widgetLocaleText: 'goToPreviousPagePaginationSymbol'" rel="prev">&lt;</a>
+   
+    <!-- ko foreach: pages -->
+      <a href="#" class="btn btn-default" data-bind="click: $parent.changePage.bind($parent, $data), css: {active: $data.pageNumber===$parent.clickedPage() }">
+        <!-- ko if: $data.selected === true -->
+          <span data-bind="widgetLocaleText : {value:'activePageText', attr:'aria-label'}, makeAccess: {readerText: 'Active page is &nbsp;', cssContent: 'on'}"></span>
+        <!-- /ko -->
+        <!-- ko if: $data.selected === false -->
+          <span data-bind="widgetLocaleText : {value:'clickToViewText', attr:'aria-label'}, makeAccess: {readerText: 'Click to view page &nbsp;', cssContent: 'on'}"></span>
+        <!-- /ko -->
+        <span data-bind="ccNumber: $data.pageNumber"></span>
+      </a>
+    <!-- /ko -->
+
+    <a href="#" class="btn btn-default" data-bind="click: incrementPage, widgetLocaleText : {value:'goToNextPageText', attr:'aria-label'}, makeAccess: {readerText: 'Go to next page &nbsp; ', cssContent: 'on'}, css: { disabled: currentPage() == $data.totalNumberOfPages() }, widgetLocaleText: 'goToNextPagePaginationSymbol'" rel="next">&gt;</a>
+    <a href="#" class="btn btn-default" data-bind="click: $data.getLastPage, widgetLocaleText : {value:'goToLastPageText', attr:'aria-label'}, makeAccess: {readerText: 'Go to last page &nbsp;', cssContent: 'on'}, css: { disabled: currentPage() == $data.totalNumberOfPages() }, widgetLocaleText: 'goToLastPagePaginationSymbol'">&gt;&gt;</a>
+  
+</div>
+

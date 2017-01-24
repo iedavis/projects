@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Při zpracování platby bránou došlo k chybě. Opakujte akci.",
+    "paymentDeclinedMsg": "Platba byla zamítnuta. Opakujte akci.",
+    "paymentExpiredMsg": "Platnost platby vypršela. Opakujte akci.",
+    "paymentErrorMsg": "Při zpracování platby došlo k chybě. Opakujte akci.",
+    "payByCashText": "Platba v hotovosti",
+    "invoicePaymentMsg": "Vyžádat fakturu",
+    "purchaseOrderNumberMsg":"Číslo nákupní objednávky"
+  }
+}

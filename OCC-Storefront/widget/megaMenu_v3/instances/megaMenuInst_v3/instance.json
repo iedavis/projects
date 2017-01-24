@@ -1,0 +1,13 @@
+{
+  "config": {
+    "catalogId": "cloudCatalog",
+    "fields": "",
+    "maxNoOfElements": "10",
+    "rootCategoryId": "rootCategory"
+  },
+  "id": "megaMenuInst_v3",
+  "name": "Collection Navigation Widget",
+  "templatePath": "/templates/display-megaMenuInst_v3.template",
+  "usingCodeView": true,
+  "usingLessCodeView": true
+}

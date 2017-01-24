@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "ภาพก่อนหน้า",
+    "nextImageText" : "ภาพถัดไป",
+    "onSaleText": "ขาย",
+    "salePriceText": "ราคาขาย",
+    "listPriceText": "ราคาตามบัญชี",
+    "relatedProductsText": "ผลิตภัณฑ์ที่เกี่ยวข้อง"
+  }
+}

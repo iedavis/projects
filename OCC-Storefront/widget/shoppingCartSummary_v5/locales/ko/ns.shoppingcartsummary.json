@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "카트가 비어 있습니다.",
+    "buttonContinueShopping": "쇼핑 계속하기",
+    "cartHeader" : "쇼핑 카트",
+    "itemHeaderItem": "항목",    
+    "itemHeaderQuantity": "수량",
+    "itemQuantity": "__productName__ 수량",
+    "itemHeaderItemTotal": "항목 합계",
+    "totalTableSubTotal": "소계:",
+    "includingTaxText": "(세금 포함)",
+    "totalTableTotal": "합계:",
+    "buttonUpdateQuantity": "업데이트",
+    "buttonRemoveItem": "제거",
+    "instockText": "재고 있음",
+    "outofstockText": "재고 없음",
+    "totalTableSummary": "쇼핑 카트 합계입니다."
+  }
+}

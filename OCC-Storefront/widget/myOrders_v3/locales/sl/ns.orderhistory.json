@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Moj račun",
+    "orderHistoryText" : "Zgodovina naročil",
+    "backToMyAccount" : "<< Back to My Account",
+    "historyHeaderOrderDate": "Datum naročila",    
+    "historyHeaderOrderNumber": "Številka naročila",
+    "historyHeaderOrderStatus": "Status naročila",
+    "historyHeaderOrderTotal": "Naročilo skupaj",
+    "historyHeaderOrderDetails": "Podrobnosti naročila",
+    "listingHeaderScheduledOrderId": "ID plana",
+    "orderDetails": "Podrobnosti"
+  }
+}

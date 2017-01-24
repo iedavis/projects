@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Mans konts",
+    "orderHistoryText" : "Pasūtījumu vēsture",
+    "backToMyAccount" : "<<Atpakaļ uz manu kontu",
+    "historyHeaderOrderDate": "Pasūtījuma datums",    
+    "historyHeaderOrderNumber": "Pasūtījuma numurs",
+    "historyHeaderOrderStatus": "Pasūtījuma statuss",
+    "historyHeaderOrderTotal": "Pasūtījums kopā",
+    "historyHeaderOrderDetails": "Pasūtījuma dati",
+    "listingHeaderScheduledOrderId": "Plāna ID",
+    "orderDetails": "Detalizēta informācija"
+  }
+}

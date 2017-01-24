@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Atzīmējiet, lai lietotu stila pamatsarakstu.",
+    "shouldUseStyleBasedTextLabel": "Lietot stila pamatsarakstu",
+    "listTypeHelpText": "Atlasiet, vai logrīka instance ir produktu saraksta vai meklēšanas rezultātu saraksta tips.",
+    "listTypeTextLabel": "Saraksta tips",
+    "productLabel" : "Produkts",
+    "searchLabel" : "Meklēt",
+    "productListingFieldsRequiredHelpText": "Ievadiet lauku sarakstu, kas jāiekļauj atbildē, atdalot tos ar komatiem. Lauku iestatījums tiek lietots produktu sarakstiem, izmantojot tikai kategoriju navigāciju, nevis meklēšanas rezultātus.",
+    "productListingFieldsRequiredLabel": "Lauki",
+    "productsPerPageRequiredHelpText": "Ievadiet produktu skaitu, kas jāparāda lapā.",
+    "productsPerPageRequiredLabel": "Produktu skaits lapā",
+    "blockSizeRequiredHelpText": "Ievadiet produktu skaitu, kas jāielādē vienā pieprasījumā. Bloka lieluma iestatījums tiek lietots produktu sarakstiem, izmantojot tikai kategoriju navigāciju, nevis meklēšanas rezultātus.",
+    "blockSizeRequiredLabel": "Bloka lielums"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Toevoegen aan verlanglijst",
+    "spaceSelectionText": "Een verlanglijst selecteren",
+    "spaceCommentText": "Toelichting invoeren...",
+    "spaceNameText": "Naam",
+    "buttonSpaceAdd": "Toevoegen",
+    "buttonSpaceCancel": "Annuleren",
+    "mySpacesGroupText": "Mijn verlanglijsten",
+    "joinedSpacesGroupText": "Verlanglijsten waarvan lid",
+    "createNewSpaceOptText": "Nieuwe verlanglijst...",
+    "addToSpaceSuccessMsg" : "__socialproduct__ is toegevoegd aan __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Dit artikel staat al in de verlanglijst. Datum toegevoegd is bijgewerkt.",
+    "addToSpaceProductViewWishListMsg" : "  __wishlistname__ bekijken",
+    "spaceAddProductError" : "Er is een fout opgetreden bij het plaatsen van een product op de verlanglijst. Vernieuw de pagina.",
+    "uniqueNameMsg": "De naam van de verlanglijst moet uniek zijn.",
+    "emptyNameMsg": "Naam mag niet leeg zijn.",
+    "privacySettingsLabel": "Privacyinstellingen",
+    "privacySettingsDescription": "Wanneer u vrienden uitnodigt voor een privéverlanglijst, wordt de privacyinstelling gewijzigd in Groep. Wanneer u een privéverlanglijst of groepsverlanglijst per e-mail verstuurt of deelt op een sociaal netwerk, wordt het een gedeelde lijst.",
+    "privacySharedLabel": "Iedereen met de koppeling kan deze lijst zien, maar alleen u en de door u uitgenodigde personen kunnen toelichtingen invoeren en producten aan de lijst toevoegen.",
+    "privacyGroupLabel": "Alleen u en de door u uitgenodigde personen kunnen de lijst zien, toelichtingen invoeren en producten aan deze lijst toevoegen.",
+    "privacyPrivateLabel": "Alleen u kunt de lijst zien en er producten aan toevoegen.",
+    "spaceAccessPrivateIconTxt" : "Privé",
+    "spaceAccessSharedIconTxt" : "Gedeeld",
+    "spaceAccessGroupIconTxt" : "Groep",
+    "spaceCreateMaxSpacesMsg" : "Probleem bij het maken van de verlanglijst. U hebt de limiet voor het aantal verlanglijsten overschreden. Verwijder een bestaande verlanglijst voordat u een nieuwe maakt.",
+    "productAddMaxProductsMsg" : "Probleem bij het toevoegen van het product aan de verlanglijst. U hebt de limiet voor het aantal berichten in een verlanglijst overschreden. Verwijder een bestaand product uit de doelverlanglijst voordat u een nieuw product toevoegt."
+  }
+}

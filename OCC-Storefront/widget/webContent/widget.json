@@ -1,0 +1,15 @@
+{
+  "availableToAllPages": true,
+  "config": {"sourceMedia": ""},
+  "global": false,
+  "globalEnabled": false,
+  "imports": [],
+  "javascript": "web-content",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Web Content",
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "webContent",
+  "widgetType": "webContent"
+}

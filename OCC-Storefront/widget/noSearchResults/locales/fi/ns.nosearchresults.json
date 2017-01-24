@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Hait hakutermillä \"__searchterm__\". Tuotteita ei löytynyt.",
+    "titleText": "Hae",
+    "searchFailedText": "Hakuasi ei voi suorittaa tällä hetkellä."
+  }
+}

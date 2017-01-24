@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-image",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ภาพผลิตภัณฑ์"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Imagem do Produto"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "产品图像"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Зображення продукту"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Изображ. на продукт"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Toote pilt"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Produkta attēls"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Produkto pav."
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Produktbilde"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Imagine produs"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Image de produit"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "製品イメージ"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Slika izdelka"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Изображ. продукта"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Slika proizvoda"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Ürün Resmi"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Obraz produktu"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "產品影像"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "제품 이미지"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Obrázek produktu"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Termék képe"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Εικόνα προϊόντων"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Produktbillede"
+    },
+    {
+      "description": "Product image will be presented here",
+      "language": "en",
+      "title": "Product Image"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Слика производа"
+    },
+    {
+      "description": "[PX][Product image will be presented here ä]",
+      "language": "de",
+      "title": "Produktbild"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Imagen de producto"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Image du produit"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Immagine prodotto"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Productafbeelding"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Produktbild"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Imagem do Produto"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Tuotteen kuva"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

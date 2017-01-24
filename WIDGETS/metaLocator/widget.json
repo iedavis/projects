@@ -1,0 +1,9 @@
+{
+  "name": "MetaLocator",
+  "javascript": "metaLocator",
+  "availableToAllPages": true,
+  "config": {
+  	"metaLocatorId": "2906",
+  	"frameHeight": "700"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Begynd at shoppe samarbejdsmæssigt i dag!",
+    "welcomePageLoginText": "Log på",
+    "welcomePageCreateAccountText": "Opret konto",
+    "welcomePageTitle": "Velkommen til ønskelister!",
+    "welcomePageSubtitle": "Tilmeld dig Ønskelister for at deltage gratis!",
+    "welcomePageBulletText1": "Gem, organiser og få feedback om produkter, som du er interesseret i.",
+    "welcomePageBulletText2": "Del dine ønskelister med familie og venner, og foretag shoppingbeslutninger sammen.",
+    "welcomePageBulletText3": "Brug ønskelister til at finde og diskutere gaver. Køb aldrig den forkerte gave igen!",
+    "welcomePageOrText": "eller"
+  }
+}

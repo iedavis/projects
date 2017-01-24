@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Povzetek naročila",
+    "subtotalText": "Delna vsota: ",
+    "shippingOptionsText": "Možnosti pošiljanja",
+    "salesTaxText": "Prometni davek: ",
+    "orderTotalText": "Naročilo skupaj: ",
+    "placeOrderText": "Oddaja naročila",
+    "scheduleOrderText": "Planiranje naročila",
+    "noShippingText": "Brez pošiljanja",
+    "shippingText": "Pošiljanje: __displayName__",    
+    "applicableTaxesText": "Veljavni davki bodo izračunani pri zaključku.",
+    "paymentOptionsText": "Možnosti plačila",
+    "checkoutText": "Zaključek",
+    "noShippingSelectedText": "Nobena metoda pošiljanja ni izbrana.",
+    "shippingAddressRequired": "Vnesite naslov za pošiljanje.",
+    "noShippingMethodsText": "Za vaš namembni naslov ni razpoložljiva nobena metoda pošiljanja.",
+    "noShippingMethodsForAddressText": "Za izbrani naslov ni razpoložljivih nobenih metod pošiljanja",
+    "checkoutErrorMsg": "Poskrbite, da ste izpolnili vsa obvezna polja in popravili neveljavne vnose.",
+    "rePricingText":"Ponovno določanje cene",
+    "removeLinkText":"odstranjevanje",
+    "paymentMessage": "Na naslednjem zaslonu se bo morda prikazalo preverjanje plačilne kartice prek vašega izdajatelja kartice.",
+    "includingTaxText": "(vključno z davkom)",
+    "totalExcludingTaxText": "Skupaj (brez davka): ",
+    "paymentMethodNotAvilable": "(Te možnosti plačila ni mogoče uporabiti za planirana naročila.)",
+    "selectShippingMethodText": "Izbira metode pošiljanja"
+  }
+}

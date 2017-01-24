@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Lüüsil ilmnes makse töötlemise ajal tõrge. Proovige uuesti.",
+    "paymentDeclinedMsg": "Makse on tagasi lükatud. Proovige uuesti.",
+    "paymentExpiredMsg": "Makse on aegunud. Proovige uuesti.",
+    "paymentErrorMsg": "Makse töötlemisel ilmnes tõrge. Proovige uuesti.",
+    "payByCashText": "Maksa sularahas",
+    "invoicePaymentMsg": "Taotle arvet",
+    "purchaseOrderNumberMsg":"Ostutellimuse number"
+  }
+}

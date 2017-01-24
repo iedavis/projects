@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Betalen met cadeaubon",
+    "giftCardNumberText": "Cadeaubonnummer",
+    "giftCardPinText": "Cadeaubon-PIN",
+    "giftCardApplyText": "Cadeaubon toepassen", 
+    "giftCardApplyingText": "Cadeaubon wordt toegepast.", 
+    "displayGiftCardDetailsText" : "Betalen met cadeaubon",
+    "duplicateGiftcardErrMsg":"Cadeaubon is al toegepast."
+  }
+}

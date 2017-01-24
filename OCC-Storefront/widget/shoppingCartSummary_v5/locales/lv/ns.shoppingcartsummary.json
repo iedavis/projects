@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Jūsu grozs ir tukšs.",
+    "buttonContinueShopping": "Turpināt iepirkšanos",
+    "cartHeader" : "Jūsu iepirkumu grozs",
+    "itemHeaderItem": "Prece",    
+    "itemHeaderQuantity": "Daudzums",
+    "itemQuantity": "__productName__ daudzums",
+    "itemHeaderItemTotal": "Preces kopā",
+    "totalTableSubTotal": "Starpsumma:",
+    "includingTaxText": "(ietverot nodokli)",
+    "totalTableTotal": "Kopā:",
+    "buttonUpdateQuantity": "Atjaunināt",
+    "buttonRemoveItem": "Noņemt",
+    "instockText": "Ir krājumā",
+    "outofstockText": "Nav krājumā",
+    "totalTableSummary": "Iepirkumu groza kopējie rādītāji."
+  }
+}

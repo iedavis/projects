@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Ange det högsta antalet varor som ska visas i kundvagnsöversikten.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Högsta antal varor i kundvagnsöversikt"
+  }
+}

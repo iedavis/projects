@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "spaceinviteaccept",
+  "imports": ["space"],
+  "javascript": "space-invite-accept",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Wish List Invitation",
+  "pageTypes": ["swm"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "spaceInviteAcceptWidget",
+  "widgetType": "spaceInviteAcceptWidget"
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Benvenuto/a __userdisplayname__.",
+    "invitationAlreadyAccepted" : "L'invito è già stato accettato.",
+    "spaceNotFound" : "L'elenco dei desiderata a cui si sta tentando di accedere non è stato trovato.",
+    "invitationExpiredError" : "L'invito è scaduto. Contatta il proprietario dell'elenco dei desiderata a cui vuoi aderire e chiedi di rispedirti l'invito.",
+    "memberJoinError" : "Si è verificato un errore con l'invito.",
+    "pleaseWaitProcessingMsg" : "Elaborazione dell'invito in corso. Attendere."
+  }
+}

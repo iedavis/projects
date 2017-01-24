@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Betal med gavekort",
+    "giftCardNumberText": "Gavekortnr.",
+    "giftCardPinText": "Gavekort-PIN",
+    "giftCardApplyText": "Anvend gavekort", 
+    "giftCardApplyingText": "Anvendelse af gavekort", 
+    "displayGiftCardDetailsText" : "Betal med gavekort",
+    "duplicateGiftcardErrMsg":"Gavekort allerede anvendt"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "ตั้งค่าว่าอนุญาตให้ใช้การหมดเวลากับการแจ้งที่ไม่มีข้อผิดพลาดหรือไม่",
+    "notificationsTimeoutEnabledTextLabel": "ใช้การหมดเวลา",
+    "notificationsTimeoutHelpText": "ตั้งค่าการหมดเวลาของการแจ้งที่ไม่มีข้อผิดพลาด (วินาที)",
+    "notificationsTimeoutTextLabel": "หมดเวลา (วินาที)",
+    "notificationsFixedHelpText": "ตั้งค่าว่าวิดเจ็ตการแจ้งควรคงไว้ที่ด้านบนของเพจหรือไม่",
+    "notificationsFixedTextLabel": "คงไว้"
+  }
+}

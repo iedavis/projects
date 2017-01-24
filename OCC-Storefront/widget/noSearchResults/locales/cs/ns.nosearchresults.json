@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Hledali jste \"__searchterm__\". Nebyly nalezeny žádné produkty.",
+    "titleText": "Hledat",
+    "searchFailedText": "Požadované hledání nelze v tuto chvíli provést."
+  }
+}

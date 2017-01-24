@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Rendelés összesítése",
+    "subtotalText": "Részösszeg:",
+    "discountText": "Árengedmény(ek)*: ",
+    "shippingOptionsText": "Szállítási beállítások",
+    "changeText": "módosítás",
+    "salesTaxText": "Forgalmi adó:",
+    "orderTotalText": "Rendelés végösszege:",
+    "placeOrderText": "Rendelés feladása",
+    "noShippingText": "Nincs szállítás",
+    "applicableTaxesText": "A felszámolandó adókat a rendszer a rendelés véglegesítésekor számítja ki.",
+    "paymentOptionsText": "Fizetési beállítások",
+    "checkoutText": "Véglegesítés",
+    "noShippingSelectedText": "Nincs megadva szállítási mód.",
+    "shippingAddressRequired":"Adjon meg szállítási címet. ",
+    "shippingText": "Szállítás: __displayName__ ",
+    "noShippingMethodsText": "Nincsenek elérhető szállítási módszerek.",
+    "checkoutErrorMsg": "Győződjön meg arról, hogy minden kötelezően kitöltendő mezőt kitöltött és javított minden érvénytelen bejegyzést.",
+    "removeLinkText": "eltávolítás",
+    "rePricingText":"Ármódosítás",
+    "totalExcludingTaxText": "Összesen (adó nélkül):",
+    "includingTaxText": "(adóval)"
+  }
+}

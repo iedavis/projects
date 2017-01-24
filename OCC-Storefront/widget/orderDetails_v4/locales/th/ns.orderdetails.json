@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "ใบสั่งของฉัน",
+    "backToMyOrdersLink" : "<< กลับไปยังใบสั่งของฉัน",
+    "orderDetailsText": "รายละเอียดใบสั่ง",
+    "orderDateText": "วันที่ในใบสั่ง:",
+    "orderNumberText": "เลขที่ใบสั่ง:",
+    "orderStatusText": "สถานะใบสั่ง:",
+    "quoteExpiryText": "การหมดอายุของการเสนอราคา:",
+    "scheduledOrderName": "ชื่อกำหนดการ:",
+    "shippingAddressAndMethodText": "ที่อยู่และวิธีจัดส่งสินค้า", 
+    "shippingAddressText": "ส่งสินค้าไปที่:",
+    "noShippingAddressText" : "ไม่มีที่อยู่ที่รับสินค้า", 
+    "shippingMethodText": "วิธีจัดส่งสินค้า:",
+    "shippingText": "การจัดส่งสินค้ามาตรฐาน:",
+    "salesTaxText": "ภาษีขาย:",
+    "orderTotalText": "ยอดรวมในใบสั่ง:",
+    "includingTaxText": "(รวมภาษี)",
+    "totalExcludingTaxText": "ยอดรวม (ไม่รวมภาษี): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "หมายเลขการติดตาม:",
+    "trackingReferenceReaderText": "ข้อมูลอ้างอิงการติดตาม __carrierName__ __trackingReference__",
+    "scheduledOrderPriceListGroupText": "ใบสั่งที่วางกำหนดการจัดทำตามบัญชีราคา '__priceListGroup__'"
+  } 
+}

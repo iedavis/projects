@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Resumo do Carrinho",
+    "quantityText": "Quantidade: ",
+    "colorText": "Cor: ",
+    "sizeText": "Tamanho: ",
+    "instockText": "Em stock",
+    "outofstockText": "Esgotado",
+    "estimiatedShippingText": "Expedição Estimada: ",
+    "buttonEditCartSummary": "Editar",
+    "editCartText": "Editar Carrinho",
+    "seeAllProducts": "Ver Todos os Produtos",
+    "showAll": "Mostrar Todos",
+    "cartSummaryItemLimitText": "Mostrar os __noOfItems__ artigos no carrinho iniciais"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "스케줄링된 주문",
+    "backToMyAccount" : "<< 내 계정으로 돌아가기",
+    "scheduledOrderName" : "이름",
+    "frequency": "빈도",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "상태",
+    "nextShipDate": "다음 주문",
+    "lastScheduledRun": "마지막 주문",
+    "scheduledOrderDetails": "주문 세부정보",
+    "orderDetails": "세부정보",
+    "action": "작업",
+    "createdDate":"생성 일자",
+    "editOrder": "편집",
+    "deleteOrder": "삭제",
+    "deleteSuccessMsg":"성공적으로 삭제되었습니다.",
+    "myAccount" : "내 계정"
+  }
+}

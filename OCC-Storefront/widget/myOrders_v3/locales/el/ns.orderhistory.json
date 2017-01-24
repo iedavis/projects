@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Ο λογαριασμός μου",
+    "orderHistoryText" : "Ιστορικό παραγγελίας",
+    "backToMyAccount" : "<< Επιστροφή στο λογαριασμό μου",
+    "historyHeaderOrderDate": "Ημ/νία παραγγελίας",    
+    "historyHeaderOrderNumber": "Αριθμός παραγγελίας",
+    "historyHeaderOrderStatus": "Κατάσταση παραγγελίας",
+    "historyHeaderOrderTotal": "Σύνολο παραγγελίας",
+    "historyHeaderOrderDetails": "Λεπτομέρειες παραγγελίας",
+    "listingHeaderScheduledOrderId": "Αναγνωριστικό χρονοδιαγράμματος",
+    "orderDetails": "Λεπτομέρειες"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": true,
+  "supportedWidgetType": ["spaceWelcomeWidget"],
+  "tag": "login-button",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ปุ่มล็อกอิน"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Botão Log-in"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "\u201c登录\u201d按钮"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Кнопка входу"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Бутон за влизане"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Sisselogimisnupp"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Poga Pieteikties"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Mygt. Prisijungti"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Påloggingsknapp"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Butonul Conectare"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Bouton connexion"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "ログイン・ボタン"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Gumb za prijavo"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Кнопка \"Вход\""
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Gumb za prijavu"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Oturum Aç Düğmesi"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Przycisk logowania"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "登入按鈕"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "로그인 단추"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Tlačít. přihlášení"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Bejelentkezés gomb"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Κουμπί σύνδεσης"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Logonknap"
+    },
+    {
+      "description": "Displays a Login button",
+      "language": "en",
+      "title": "Login Button"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Дугме за пријаву"
+    },
+    {
+      "description": "[DE][Displays a Login button ä]",
+      "language": "de",
+      "title": "Anmeldeschaltfl."
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Botón de conexión"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Bouton Connexion"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Pulsante Accesso"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Inlogknop"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Inloggningsknapp"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Botão Entr. Sessão"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Sisäänkirj.painike"
+    }
+  ],
+  "type": "subFragment",
+  "version": 1
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Le damos la bienvenida __userdisplayname__.",
+    "invitationAlreadyAccepted" : "La invitación ya se ha aceptado.",
+    "spaceNotFound" : "No se ha encontrado la lista de deseos a la que intenta acceder.",
+    "invitationExpiredError" : "¡Su invitación ha caducado! Póngase en contacto con el propietario de la Lista de deseos si quiere unirse y solicite que le inviten de nuevo.",
+    "memberJoinError" : "Se ha producido un error con la invitación.",
+    "pleaseWaitProcessingMsg" : "Espere mientras procesamos su invitación"
+  }
+}

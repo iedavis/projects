@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Bem-vindo(a) __userdisplayname__.",
+    "invitationAlreadyAccepted" : "O convite já foi aceito.",
+    "spaceNotFound" : "A Lista de Desejos que você está tentando acessar não foi encontrada.",
+    "invitationExpiredError" : "Seu convite expirou! Entre em contato com o proprietário da Lista de Desejos na qual você quer ingressar e solicite a ele que o convide novamente.",
+    "memberJoinError" : "Ocorreu um erro com o convite.",
+    "pleaseWaitProcessingMsg" : "Aguarde enquanto processamos seu convite"
+  }
+}

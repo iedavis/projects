@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Krepšelis tuščias.",
+    "buttonContinueShopping": "Tęsti pirkimą",
+    "cartHeader" : "Jūsų pirkinių krepšelis",
+    "itemHeaderItem": "Elementas ",    
+    "itemHeaderQuantity": "Kiekis",
+    "itemQuantity": "__productName__ kiekis",
+    "itemHeaderItemTotal": "Prekių bendroji suma",
+    "totalTableSubTotal": "Tarpinė suma:",
+    "includingTaxText": "(mokestis įskaičiuotas)",
+    "totalTableTotal": "Iš viso:",
+    "buttonUpdateQuantity": "Naujinti",
+    "buttonRemoveItem": "Pašalinti",
+    "instockText": "Yra sandėlyje",
+    "outofstockText": "Nėra sandėlyje",
+    "totalTableSummary": "Pirkinių krepšelio suma."
+  }
+}

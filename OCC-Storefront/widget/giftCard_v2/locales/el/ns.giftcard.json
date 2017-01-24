@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Πληρωμή με δωροκάρτα",
+    "giftCardNumberText": "Αριθμός δωροκάρτας",
+    "giftCardPinText": "Κωδικός PIN δωροκάρτας",
+    "giftCardApplyText": "Εφαρμογή δωροκάρτας", 
+    "giftCardApplyingText": "Γίνεται εφαρμογή δωροκάρτας", 
+    "displayGiftCardDetailsText" : "Πληρωμή με δωροκάρτα",
+    "duplicateGiftcardErrMsg":"Η δωροκάρτα έχει ήδη εφαρμοστεί."
+  }
+}

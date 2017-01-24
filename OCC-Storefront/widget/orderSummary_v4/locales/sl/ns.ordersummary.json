@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Povzetek naročila",
+    "subtotalText": "Delna vsota: ",
+    "discountText": "Popusti*: ",
+    "shippingOptionsText": "Možnosti pošiljanja",
+    "changeText": "sprememba",
+    "salesTaxText": "Prometni davek: ",
+    "orderTotalText": "Naročilo skupaj: ",
+    "placeOrderText": "Oddaja naročila",
+    "noShippingText": "Brez pošiljanja",
+    "applicableTaxesText": "Veljavni davki bodo izračunani pri zaključku.",
+    "paymentOptionsText": "Možnosti plačila",
+    "checkoutText": "Zaključek",
+    "noShippingSelectedText": "Nobena metoda pošiljanja ni izbrana.",
+    "shippingAddressRequired":"Vnesite naslov za pošiljanje ",
+    "shippingText": "Pošiljanje: __displayName__ ",
+    "noShippingMethodsText": "Nobena metoda pošiljanja ni razpoložljiva",
+    "checkoutErrorMsg": "Poskrbite, da ste izpolnili vsa obvezna polja in popravili neveljavne vnose.",
+    "removeLinkText": "odstranjevanje",
+    "rePricingText":"Ponovno določanje cene",
+    "totalExcludingTaxText": "Skupaj (brez davka): ",
+    "includingTaxText": "(vključno z davkom)"
+  }
+}

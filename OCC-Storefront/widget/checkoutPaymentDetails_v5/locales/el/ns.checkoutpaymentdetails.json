@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Λεπτομέρειες πληρωμής",
+  "paymentMethod": "Μέθοδος πληρωμής",
+  "paypalText": "Ο ασφαλέστερος και ευκολότερος τρόπος πληρωμής.", 
+  "paymentDetailsError": "Βεβαιωθείτε ότι έχετε συμπληρώσει όλα τα υποχρεωτικά πεδία και ότι έχετε διορθώσει τυχόν μη έγκυρες καταχωρίσεις.",
+  "paymentMethodNotAvilable": "(Αυτή η επιλογή πληρωμής δεν μπορεί να χρησιμοποιηθεί για προγραμματισμένες παραγγελίες.)",
+  
+  "nameOnCardLabel": "Όνομα στην κάρτα",
+  "nameOnCardPlaceholder": "Όνομα στην κάρτα",
+  "nameOnCardRequired": "Το όνομα στην κάρτα είναι υποχρεωτικό.",
+  "nameOnCardInvalid": "Το όνομα στην κάρτα δεν είναι έγκυρο.",
+  
+  "cardTypeLabel": "Τύπος κάρτας",
+  "cardTypePlaceholder": "Τύπος κάρτας",
+  "cardTypeRequired": "Ο τύπος κάρτας είναι υποχρεωτικός.",
+  "cardTypeInvalid": "Ο τύπος κάρτας δεν είναι έγκυρος.",
+  
+  "cardNumberLabel": "Αριθμός κάρτας",
+  "cardNumberPlaceholder": "Αριθμός κάρτας",
+  "cardNumberRequired": "Ο αριθμός κάρτας είναι υποχρεωτικός.",
+  "cardNumberMaxLength":"Μη έγκυρη καταχώριση. Μην υπερβαίνετε τους __maxLength__ χαρακτήρες.",
+  "cardNumberInvalid": "Μη έγκυρος αριθμός κάρτας, προσπαθήστε ξανά.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "Το CVV είναι υποχρεωτικό.",
+  "cardCVVInvalid": "Το CVV δεν είναι έγκυρο.",
+  "cardCVVWhatsThis": "Τι είναι αυτό;",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Τα τελευταία 3 ψηφία που βρίσκονται στην ταινία υπογραφής της κάρτας σας.",
+  "cardCVVNumberInvalid": "Μη έγκυρη καταχώριση. Εισαγάγετε μόνο αριθμούς.",
+  "cardCVVNumberMaxLength": "Μη έγκυρη καταχώριση. Μην υπερβαίνετε τους 4 επιτρεπόμενους χαρακτήρες.",
+  "cardCVVNumberMinLength": "Μη έγκυρη καταχώριση. Εισαγάγετε τουλάχιστον 3 χαρακτήρες.",
+  
+  "endMonthLabel": "Λήγει (Μήνας)",
+  "endMonthPlaceholder": "Λήγει (Μήνας)",
+  "endMonthRequired": "Ο μήνας λήξης της κάρτας είναι υποχρεωτικός.",
+  "endMonthInvalid": "Μη έγκυρος μήνας/έτος λήξης. Προσπαθήστε ξανά.",
+  
+  "endYearLabel": "Λήγει (Έτος)",
+  "endYearPlaceholder": "Λήγει (Έτος)",
+  "endYearRequired": "Το έτος λήξης της κάρτας είναι υποχρεωτικό.",
+  "endYearInvalid": "Μη έγκυρος μήνας/έτος λήξης. Προσπαθήστε ξανά.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

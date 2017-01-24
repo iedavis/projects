@@ -1,0 +1,7 @@
+{
+  "resources": {
+	"heroWidget": "Hero",
+	"previousBannerText": "Edellinen mainospalkki",
+	"nextBannerText": "Seuraava mainospalkki"
+  }
+}

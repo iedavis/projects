@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Oldal nem található",
+    "error404" : "404-es hiba:",
+    "pageNotFoundText" : "Lehetséges, hogy helytelenül írta be a címet, vagy az oldalt módosították vagy törölték.",
+    "lnkHome" : "Kezdőlap",
+    "lnkBack" : "Vissza"            
+  }
+}

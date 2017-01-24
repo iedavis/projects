@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Zaključek",
+    "emailAddressText" : "E-poštni naslov",
+    "firstNameText" : "Ime",
+    "lastNameText" : "Priimek",
+    "passwordText" : "Geslo",
+    "confirmPasswordText" : "Potrditev gesla",
+    "checkoutAsGuestText" : "Odjava kot gost",
+    "loginToAccountText" : "Prijavite se v račun",
+    "rememberMeText" : "Rad bi ustvaril račun.",
+    "marketingMailsText" : "Želim obvestila prek e-pošte.",
+    "checkoutErrorMsg" : "Poskrbite, da ste izpolnili vsa obvezna polja in popravili neveljavne vnose.",
+    "buttonCancel": "Prekliči",
+    "buttonLogin": "Prijava",
+    "checkoutOption": "Izberite možnost zaključka.",
+    "buttonLogout": "Odjava",
+    "welcomeMessage": "Dobrodošli nazaj!",
+    "registrationMessageText":"Če ustvarite račun, boste lahko hitreje nakupovali, spremljali napredovanje vašega trenutnega naročila in preverili status prejšnjih naročil.",
+    "userSessionExpiredErrorMsg" : "Vaša seja odjave je potekla zaradi neaktivnosti. Ponovno zaženite odjavo."
+  }
+}

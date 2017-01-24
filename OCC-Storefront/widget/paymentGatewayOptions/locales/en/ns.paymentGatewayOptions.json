@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Error occurred during gateway processing the payment. Please try again.",
+    "paymentDeclinedMsg": "Payment has been Declined. Please try again.",
+    "paymentExpiredMsg": "Payment has been Expired. Please try again.",
+    "paymentErrorMsg": "Error processing payment. Please try again.",
+    "payByCashText": "Pay by cash",
+    "invoicePaymentMsg": "Request an Invoice",
+    "purchaseOrderNumberMsg":"Purchase Order Number"
+  }
+}

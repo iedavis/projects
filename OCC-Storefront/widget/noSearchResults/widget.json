@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "nosearchresults",
+  "imports": [],
+  "javascript": "no-search-results",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "No Search Results",
+  "pageTypes": ["noSearchResults"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "noSearchResults",
+  "widgetType": "noSearchResults"
+}

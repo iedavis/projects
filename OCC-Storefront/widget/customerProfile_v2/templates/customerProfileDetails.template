@@ -1,0 +1,43 @@
+<div id="CC-customerProfile" data-bind="onRender: addEventHandlersForAnchorClick" class="col-xs-12">
+  <div id="CC-customerProfile-title" class="h2" data-bind="widgetLocaleText:'myProfileText'"></div>
+  <hr>
+  <br/>
+  <div class="row cc-customerProfile-container" id="CC-customerProfile-controls">
+    <div class="col-sm-6" id="CC-customerProfile-password-details">
+      <div id="CC-customerProfile-user-details" class="row cc-customerProfile-user-details" data-bind="template: { name: templateAbsoluteUrl('/templates/customerProfileUserDetails.template') , templateUrl: ''}"></div>
+      <div id="CC-customerProfile-password" class="row cc-customerProfile-password" data-bind="template: { name: templateAbsoluteUrl('/templates/customerProfilePassword.template') , templateUrl: ''}"></div>
+    </div>    
+  </div>
+  <div id="CC-customerProfile-save-cancel-control" class="row cc-customer-profile-save-cancel" 
+       data-bind="visible: (isUserDetailsEdited() || isUserProfileShippingEdited() || isUserProfileDefaultAddressEdited() || isUserProfilePasswordEdited())">
+    <button class="cc-button-primary col-sm-2 col-xs-12 pull-right cc-customer-profile-button" id="CC-customerProfile-save" data-bind="click: handleUpdateProfile, event: { mousedown: handleMouseDown, mouseup: handleMouseUp}">
+      <span data-bind="widgetLocaleText: 'buttonSave'"></span>
+    </button>
+    <button class="cc-button-secondary col-sm-2 col-xs-12 pull-right cc-customer-profile-button" id="CC-customerProfile-cancel" data-bind="click: handleCancelUpdate, event: { mousedown: handleMouseDown, mouseup: handleMouseUp}">
+      <span data-bind="widgetLocaleText: 'buttonCancel'"></span>
+    </button>
+  </div>
+</div>
+<!-- CC-customerProfileModalPane -->
+<div class="modal fade" id="CC-customerProfile-modal"
+     tabindex="-1" role="alert" data-bind="modalTabbingContraint">
+  <div class="modal-dialog" id="CC-customerProfile-modal-dialog">
+    <div class="modal-content" id="CC-customerProfileModalContent">
+      <div class="modal-header cc-profile-modal-heading cc-profile-confirm-icon" id="CC-customerProfile-modal-header">
+        <button type="button" class="close" data-dismiss="modal" id="CC-customerProfile-modal-headerClose" aria-hidden="true">&times;</button>
+        <h4 data-bind="widgetLocaleText:'updateCacelModalTitle'" id="CC-customerProfile-modal-headerText"></h4>
+      </div>
+      <div class="modal-body cc-profile-body-modal" id="CC-customerProfile-modal-modalBody">
+        <p data-bind="widgetLocaleText:'updateCancelModalMessage'" align="center" id="CC-customerProfile-modal-bodyText"></p>
+      </div>
+      <div class="modal-footer cc-profile-modal-footer" id="CC-customerProfile-modal-footer">
+        <button class="btn cc-button-secondary" id="CC-customerProfile-modal-cancel" data-bind="click: handleModalCancelUpdateDiscard">
+          <span id="CC-customerProfile-modal-discard" data-bind="widgetLocaleText:'updateCancelModalClose'"></span>
+        </button>
+        <button class="btn cc-button-primary" id="CC-customerProfile-modal-submit"  data-bind="click: handleModalUpdateProfile">
+          <span id="CC-customerProfile-modal-save" data-bind="widgetLocaleText:'updateCancelModalSave'"></span>
+        </button>
+    </div> 
+    </div>
+  </div>
+</div>

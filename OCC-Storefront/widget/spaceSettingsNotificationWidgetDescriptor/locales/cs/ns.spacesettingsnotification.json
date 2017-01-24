@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Nastavení e-mailových oznámení",
+    "spaceSettingsNotificationIntroText" : "Přeji si dostávat:",
+    "spaceSettingsCommentNotificationTxt" : "Upozornění na komentáře a produkty",
+    "spaceSettingsNewMemberNotificationTxt" : "Upozornění na nového člena",
+    "spaceSettingsSaveTxt" : "Uložit",
+    "spaceSettingsCancelTxt" : "Zrušit",
+    "spaceSettingsSaveErrorTxt" : "Při ukládání změn nastavení upozornění se vyskytl problém.",
+    "spaceSettingsSaveSuccessTxt" : "Nastavení upozornění bylo aktualizováno a uloženo.",
+    "spaceSettingsOnText" : "Ano",
+    "spaceSettingsOffText" : "Ne",
+    "spaceSettingsNotificationEnableHelpText" : "Chcete-li aktivovat upozornění týkající se seznamu přání, zaškrtněte na stránce Můj účet položku \"Chci dostávat aktuální informace e-mailem\"."
+  }
+}

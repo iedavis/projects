@@ -1,0 +1,24 @@
+<div id='cookieConsentContainer'>
+    <h3 style="line-height: 80%;margin-top: 0px;" data-bind="widgetLocaleText : 'cookieConsentTitle'"></h3>
+    <p data-bind="widgetLocaleText : 'cookieConsentLine1'"></p>
+    <p data-bind="widgetLocaleText : 'cookieConsentLine2'">
+        <u><a href='#!/privacy' data-bind="widgetLocaleText : 'cookieConsentLink'"></a></u>
+    </p>
+    <a class='btn btn-mini' data-bind="widgetLocaleText : 'cookieConsentButton'"></a>
+</div>
+
+
+/**
+        cookieConsentDiv.style.position = "fixed";
+        cookieConsentDiv.style.width = "310px";
+        cookieConsentDiv.style.backgroundColor = getComputedStyle($('.footer')[0]).color;
+        cookieConsentDiv.style.backgroundColor = getComputedStyle($('.header-background')[0]).backgroundColor;
+        cookieConsentDiv.style.padding = "10px";
+        cookieConsentDiv.style.border = "1px solid #ccc";
+        cookieConsentDiv.style.zIndex = "9999";
+        cookieConsentDiv.style.maxWidth = "90%";
+        cookieConsentDiv.style.borderRadius = "10px";
+        cookieConsentDiv.style.fontSize = "11px";
+        cookieConsentDiv.style.boxShadow = "0px 5px 10px rgba(0,0,0,0.2)";
+        cookieConsentDiv.style.top = "10px";
+*/

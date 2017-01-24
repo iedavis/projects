@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "出荷および税金の計算(オプション)",
+    "cartShippingErrorMsg": "すべての出荷フィールドを入力し、無効なエントリをすべて修正したことを確認してください。",
+    "countryText": "国",
+    "stateText": "都道府県",
+    "zipCodeText": "郵便番号",
+    "countryRequired": "国は必須です。 ",
+    "stateRequired": "都道府県は必須です。 ",
+    "zipCodeRequired": "郵便番号は必須です。 ",
+    "zipCodeInvalid": "エントリが無効です。有効な郵便番号を入力してください。",
+    "stateRegionText": "都道府県/地域",
+    "noShippingSelectedText": "出荷方法が選択されていません。",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "宛先住所に使用できる出荷方法がありません。",
+    "noShippingMethodsForAddressText": "入力した出荷先住所に対する出荷方法の取得に失敗しました",
+    "fetchingShippingMethodsText": "住所に対する出荷方法をフェッチしています",
+    "invalidShippingAddress": "無効な出荷先住所が指定されました。",
+    "invalidShippingMethod": "無効な出荷方法が指定されました。",
+    "pricingError" : "出荷および税金原価を計算できません。出荷先住所を確認してください。",
+    "invalidPreviousAddress": "以前使用された出荷先住所には出荷しなくなりました。",
+    "shippingMethodNoLongerAvailable": "前に選択した出荷方法は使用できなくなりました。オーダーを発行する前に出荷方法を確認してください。"
+  }
+}

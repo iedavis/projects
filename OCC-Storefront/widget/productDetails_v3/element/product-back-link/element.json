@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-back-link",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ย้อนกลับ"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Voltar"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "返回"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Назад"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Назад"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Tagasi"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Atpakaļ"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Atgal"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Tilbake"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Înapoi"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Préc."
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "戻る"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Nazaj"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Назад"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Natrag"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Geri"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Wstecz"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "返回"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "뒤로"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Zpět"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Vissza"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Πίσω"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Tilbage"
+    },
+    {
+      "description": "Product page back link",
+      "language": "en",
+      "title": "Back"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Назад"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Zurück"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Volver"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Préc."
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Indietro"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Terug"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Tillbaka"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Retroc."
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Takaisin"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

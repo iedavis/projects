@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Sipariş Özeti",
+    "subtotalText": "Alt Toplam: ",
+    "discountText": "İndirimler*:",
+    "shippingOptionsText": "Sevkiyat Seçenekleri",
+    "changeText": "değiştir",
+    "salesTaxText": "Satış Vergisi:",
+    "orderTotalText": "Sipariş Toplamı: ",
+    "placeOrderText": "Sipariş Ver",
+    "noShippingText": "Sevkiyat Yok",
+    "applicableTaxesText": "Uygulanacak vergiler çıkışta hesaplanacak.",
+    "paymentOptionsText": "Ödeme Seçenekleri",
+    "checkoutText": "Teslim alma",
+    "noShippingSelectedText": "Sevkiyat Yöntemi Seçilmedi.",
+    "shippingAddressRequired":"Lütfen sevkiyat adresi girin ",
+    "shippingText": "Sevkiyat: __displayName__ ",
+    "noShippingMethodsText": "Hiçbir Sevkiyat Yöntemi Kullanılamıyor",
+    "checkoutErrorMsg": "Lütfen zorunlu alanların tümünü doldurduğunuzdan ve varsa geçersiz girişleri düzelttiğinizden emin olun.",
+    "removeLinkText": "kaldır",
+    "rePricingText":"Yeniden Fiyatlandırma",
+    "totalExcludingTaxText": "Toplam (vergi hariç): ",
+    "includingTaxText": "(vergi dahil)"
+  }
+}

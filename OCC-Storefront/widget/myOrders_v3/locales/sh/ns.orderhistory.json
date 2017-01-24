@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Moj nalog",
+    "orderHistoryText" : "Istorijat narudžbina",
+    "backToMyAccount" : "<< Nazad na moj nalog",
+    "historyHeaderOrderDate": "Datum narudžbine",    
+    "historyHeaderOrderNumber": "Broj narudžbine",
+    "historyHeaderOrderStatus": "Status narudžbine",
+    "historyHeaderOrderTotal": "Ukupno za narudžbinu",
+    "historyHeaderOrderDetails": "Detalji narudžbine",
+    "listingHeaderScheduledOrderId": "ID plana",
+    "orderDetails": "Detalji"
+  }
+}

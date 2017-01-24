@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Додайте промокод або код для знижки",
+  "promoCode": "Введіть промокод",
+  "promoCodeAriaLabelText": "Введіть промокод",
+  "buttonApplyCodeText": "Застосувати код",
+  "buttonApplyingCodeText": "Застосування коду",
+  "couponDetailsError": "Виявлено проблему з відомостями про купон.",
+  "promoCodeRequired": "Потрібно вказати код купону",
+  "duplicateCoupon": "Код уже застосовано."
+  }
+}

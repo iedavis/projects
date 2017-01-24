@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "詳細の非表示...",
+    "seeMoreText" : "詳細の表示...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "絞込み基準",
+    "clearAllRefinementsText" : "絞込みをすべて消去",
+    "guidedNavigationHeader" : "ガイド付きナビゲーション・ヘッダー",
+    "doneText" : "完了",
+    "expandText" : "展開",
+    "collapseText" : "縮小",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "オーバーレイされたガイド付きナビゲーションがロードされました"
+  }
+}

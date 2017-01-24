@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Une erreur est survenue lors du traitement du paiement par la passerelle. Réessayez.",
+    "paymentDeclinedMsg": "Le paiement a été refusé. Réessayez.",
+    "paymentExpiredMsg": "Le paiement a expiré. Réessayez.",
+    "paymentErrorMsg": "Erreur lors du traitement du paiement. Réessayez.",
+    "payByCashText": "Paiement en espèces",
+    "invoicePaymentMsg": "Demander une facture",
+    "purchaseOrderNumberMsg":"Numéro de bon de commande"
+  }
+}

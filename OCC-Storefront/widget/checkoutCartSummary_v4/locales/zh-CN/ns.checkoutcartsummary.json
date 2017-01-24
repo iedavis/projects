@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "购物车摘要",
+    "quantityText": "数量：",
+    "colorText": "颜色：",
+    "sizeText": "尺码：",
+    "instockText": "有货",
+    "outofstockText": "缺货",
+    "estimiatedShippingText": "估计配送时间：",
+    "buttonEditCartSummary": "编辑",
+    "editCartText": "编辑购物车",
+    "seeAllProducts": "查看所有产品",
+    "showAll": "全部显示",
+    "cartSummaryItemLimitText": "显示初始的 __noOfItems__ 件购物车商品"
+  }
+}

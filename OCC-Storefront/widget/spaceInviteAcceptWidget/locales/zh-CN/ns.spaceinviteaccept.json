@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "欢迎您，__userdisplayname__。",
+    "invitationAlreadyAccepted" : "已接受邀请。",
+    "spaceNotFound" : "找不到您尝试访问的收藏列表。",
+    "invitationExpiredError" : "您的邀请已过期！请与您要加入的收藏列表的所有者联系，让其重新邀请您。",
+    "memberJoinError" : "邀请中出错。",
+    "pleaseWaitProcessingMsg" : "正在处理您的邀请，请稍候"
+  }
+}

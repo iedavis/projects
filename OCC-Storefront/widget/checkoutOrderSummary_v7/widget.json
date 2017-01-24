@@ -1,0 +1,21 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "ordersummary",
+  "imports": [
+    "order",
+    "payment",
+    "shippingmethods",
+    "paymentauthorization"
+  ],
+  "javascript": "checkout-order-summary",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Order Summary - Checkout",
+  "pageTypes": ["checkout"],
+  "source": 100,
+  "version": 7,
+  "widgetFamily": "checkoutOrderSummary",
+  "widgetType": "checkoutOrderSummary"
+}

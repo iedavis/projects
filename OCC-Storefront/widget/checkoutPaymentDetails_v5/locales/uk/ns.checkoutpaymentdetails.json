@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Відомості про платіж",
+  "paymentMethod": "Спосіб платежу",
+  "paypalText": "Простіший і безпечніший спосіб оплати.", 
+  "paymentDetailsError": "Переконайтеся, що заповнено всі обов'язкові поля та виправлено будь-які неправильні записи.",
+  "paymentMethodNotAvilable": "(Цей варіант платежу не можна використовувати для планових замовлень.)",
+  
+  "nameOnCardLabel": "Ім'я на картці",
+  "nameOnCardPlaceholder": "Ім'я на картці",
+  "nameOnCardRequired": "Необхідно обов'язково вказати ім'я на картці.",
+  "nameOnCardInvalid": "Ім'я на картці неприпустиме.",
+  
+  "cardTypeLabel": "Тип картки",
+  "cardTypePlaceholder": "Тип картки",
+  "cardTypeRequired": "Необхідно обов'язково вказати тип картки.",
+  "cardTypeInvalid": "Тип картки неприпустимий.",
+  
+  "cardNumberLabel": "Номер картки",
+  "cardNumberPlaceholder": "Номер картки",
+  "cardNumberRequired": "Необхідно обов'язково вказати номер картки.",
+  "cardNumberMaxLength":"Введено неприпустимі дані. Не перевищуйте максимальну кількість символів: __maxLength__",
+  "cardNumberInvalid": "Неприпустимий номер картки. Повторіть спробу.",
+  
+  "cardCVVLabel": "CVV-код",
+  "cardCVVPlaceholder": "CVV-код",
+  "cardCVVRequired": "Необхідно обов'язково вказати CVV-код.",
+  "cardCVVInvalid": "CVV-код неприпустимий.",
+  "cardCVVWhatsThis": "Що це?",
+  "cardCVVPopupTitle": "CVV-код",
+  "cardCVVPopupText": "3 останні цифри в рядку підпису картки.",
+  "cardCVVNumberInvalid": "Введено неприпустиме значення. Вводьте лише цифри.",
+  "cardCVVNumberMaxLength": "Введено неприпустимі дані. Не перевищуйте максимально дозволену кількість символів (4).",
+  "cardCVVNumberMinLength": "Введено неприпустимі дані. Введіть принаймні 3 символи.",
+  
+  "endMonthLabel": "Закінчення терміну дії (місяць)",
+  "endMonthPlaceholder": "Закінчення терміну дії (місяць)",
+  "endMonthRequired": "Потрібно обов'язково вказати місяць закінчення терміну дії картки.",
+  "endMonthInvalid": "Неприпустимий місяць або рік закінчення терміну дії. Повторіть спробу.",
+  
+  "endYearLabel": "Закінчення терміну дії (рік)",
+  "endYearPlaceholder": "Закінчення терміну дії (рік)",
+  "endYearRequired": "Потрібно обов'язково вказати рік закінчення терміну дії картки.",
+  "endYearInvalid": "Неприпустимий місяць або рік закінчення терміну дії. Повторіть спробу.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

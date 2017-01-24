@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "إعدادات إخطارات البريد الإلكتروني",
+    "spaceSettingsNotificationIntroText" : "أريد أن أستلم:",
+    "spaceSettingsCommentNotificationTxt" : "إخطارات التعليقات والمنتجات",
+    "spaceSettingsNewMemberNotificationTxt" : "إخطارات الأعضاء الجدد",
+    "spaceSettingsSaveTxt" : "حفظ",
+    "spaceSettingsCancelTxt" : "إلغاء",
+    "spaceSettingsSaveErrorTxt" : "حدثت مشكلة أثناء حفظ تغييرات إعدادات الإخطارات الخاصة بك.",
+    "spaceSettingsSaveSuccessTxt" : "تم تحديث إعدادات الإخطارات وحفظها.",
+    "spaceSettingsOnText" : "نعم",
+    "spaceSettingsOffText" : "لا",
+    "spaceSettingsNotificationEnableHelpText" : "حدد \"أريد الحصول على التحديثات بالبريد الإلكتروني\" في صفحة \"الحساب الخاص بي\" لتمكين إخطارات قائمة الرغبات."
+  }
+}

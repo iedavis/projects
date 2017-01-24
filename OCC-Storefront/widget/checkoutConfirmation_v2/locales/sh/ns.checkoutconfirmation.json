@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Potvrda narudžbine", 
+    "orderDoesNotExist": "Narudžbina ne postoji.", 
+    "thankyouMsg": "Hvala vam za narudžbinu poslatu __orderDate__ u __orderTime__.", 
+    "processingMsg": "Narudžbina se obrađuje.",
+    "pendingMsg": "Hvala vam, primili smo vaš zahtev za narudžbinu, a uplata je na čekanju. čim se uplata odobri, obradićemo narudžbinu.",
+    "orderNumberMsg": "Vaš broj narudžbine je __orderNumber__.", 
+    "emailMsg": "E-poruka sa potvrdom narudžbine koja sadrži detalje narudžbine poslata je na e-adresu __emailAddress__.", 
+    "yourOrderText": "Vaša narudžbina", 
+    "itemText": "Artikal", 
+    "quantityText": "Količina", 
+    "itemTotalText": "Ukupno za artikal", 
+    "shippingAddressAndMethodText": "Adresa i način isporuke", 
+    "shipToText": "Otpremiti na:", 
+    "shippingMethodText": "Način isporuke:", 
+    "paymentDetailsText": "Detalji o plaćanju", 
+    "cardTypeText": "Tip kartice:", 
+    "cardNumberText": "Broj kartice:", 
+    "billingAddressText": "Adresa fakturisanja:",
+    "loginSuccessText": "Nalog je kreiran. Hvala vam na registraciji.",
+    "loginFailureText": "Greška: Narudžbina je obrađena, ali je došlo do problema prilikom kreiranja naloga. Pokušajte ponovo.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

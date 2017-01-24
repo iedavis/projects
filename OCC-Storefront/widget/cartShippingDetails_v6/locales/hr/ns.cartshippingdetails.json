@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Izračunaj troškove otpreme i porez (nije obavezno)",
+    "cartShippingErrorMsg": "Provjerite jeste li ispunili sva polja o otpremi te jeste li ispravili sve pogrešne unose.",
+    "countryText": "Država",
+    "stateText": "Županija",
+    "zipCodeText": "Poštanski broj",
+    "countryRequired": "Država je obavezna.",
+    "stateRequired": "Županija je obavezna.",
+    "zipCodeRequired": "Poštanski je broj obavezan.",
+    "zipCodeInvalid": "Unos nije valjan. Unesite valjani poštanski broj.",
+    "stateRegionText": "Županija/regija",
+    "noShippingSelectedText": "Način otpreme nije odabran.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Za vašu odredišnu adresu nema dostupnih metoda otpreme.",
+    "noShippingMethodsForAddressText": "Dohvat načina otpreme za unesenu adresu za otpremu nije uspio",
+    "fetchingShippingMethodsText": "Dohvat načina otpreme za adresu",
+    "invalidShippingAddress": "Navedena adresa za otpremu nije valjana.",
+    "invalidShippingMethod": "Navedeni način otpreme nije valjan.",
+    "pricingError" : "Ne mogu se izračunati troškovi otpreme i porez. Provjerite adresu za otpremu.",
+    "invalidPreviousAddress": "Više ne otpremamo na adresu koju ste ranije upotrijebili za otpremu.",
+    "shippingMethodNoLongerAvailable": "Prethodno odabrani način otpreme više nije dostupan. Prije no što predate narudžbu, provjerite način otpreme."
+  }
+}

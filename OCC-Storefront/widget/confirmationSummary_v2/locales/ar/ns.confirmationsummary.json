@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "إجمالي الطلب", 
+    "orderDoesNotExist": "الطلب غير موجود.", 
+    "subTotalText": "الإجمالي الفرعي:", 
+    "salesTaxText": "ضريبة المبيعات:", 
+    "orderTotalText": "إجمالي الطلبات:", 
+    "continueShoppingText": "متابعة التسوق",
+    "delimiter": ":",
+    "includingTaxText": "(متضمن الضريبة)",
+    "totalExcludingTaxText": "الإجمالي (بدون الضريبة):"
+  }
+}

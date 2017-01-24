@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Přejít k pokladně",
+    "defaultAddressLabel": "Výchozí adresa",
+    "billingAddressText" : "Fakturační adresa",
+    "noAddressesText" : "Nebyly uloženy žádné adresy.",
+    "firstNameText": "Jméno",
+    "lastNameText": "Příjmení",
+    "shippingAddressText": "Dodací adresa",
+    "checkoutErrorMsg": "Zkontrolujte, zda jste vyplnili všechna povinná pole a opravili všechny neplatné hodnoty.",
+    "firstNameRequired": "Jméno je povinný údaj.",
+    "lastNameRequired": "Příjmení je povinný údaj.",
+    "unsupportedShippingAddressText": "Dodání na tuto adresu není dostupné.",
+    "invalidBillingAddressText": "Dodací adresu nelze použít jako fakturační adresu. Zadejte fakturační adresu.",
+    "invalidPreviousAddress": "Na dodací adresu, kterou jste dříve použili, již nedodáváme."
+  }
+}

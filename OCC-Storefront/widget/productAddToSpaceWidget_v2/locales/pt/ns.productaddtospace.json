@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Acrescentar à lista de preferências",
+    "spaceSelectionText": "Selecionar uma lista de preferências",
+    "spaceCommentText": "Introduzir um comentário...",
+    "spaceNameText": "Nome",
+    "buttonSpaceAdd": "Acrescentar",
+    "buttonSpaceCancel": "Cancelar",
+    "mySpacesGroupText": "As minhas listas de preferências",
+    "joinedSpacesGroupText": "Listas de preferências unidas",
+    "createNewSpaceOptText": "Nova lista de preferências...",
+    "addToSpaceSuccessMsg" : "Parabéns! __socialproduct__ foi acrescentado a __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Este artigo já estava na lista de preferências. A Data de Adição foi atualizada.",
+    "addToSpaceProductViewWishListMsg" : "  Visualizar __wishlistname__",
+    "spaceAddProductError" : "Erro ao tentar publicar um produto na lista de preferências. Tente renovar a sua página.",
+    "uniqueNameMsg": "O nome da lista de preferências deve ser exclusivo.",
+    "emptyNameMsg": "O nome não deve estar em branco",
+    "privacySettingsLabel": "Definições de Privacidade",
+    "privacySettingsDescription": "Convidar amigos para uma lista de preferências de tipo Privado irá alterar a definição de privacidade para Grupo. Enviar uma lista de preferências de tipo Privado ou Grupo por correio eletrónico ou partilhar numa rede social irá torná-la numa lista partilhada.",
+    "privacySharedLabel": "Qualquer pessoa com uma ligação pode ver esta lista. Apenas o utilizador e as pessoas que forem convidadas podem ver, comentar e acrescentar a esta lista.",
+    "privacyGroupLabel": "Apenas o utilizador e as pessoas que forem convidadas podem ver, comentar e acrescentar a esta lista.",
+    "privacyPrivateLabel": "Apenas o utilizador pode ver e acrescentar a esta lista.",
+    "spaceAccessPrivateIconTxt" : "Privado",
+    "spaceAccessSharedIconTxt" : "Partilhado",
+    "spaceAccessGroupIconTxt" : "Grupo",
+    "spaceCreateMaxSpacesMsg" : "Problema ao criar a lista de preferências. Excedeu o número limite de listas de preferências. Apague uma lista de preferências existente antes de criar uma nova.",
+    "productAddMaxProductsMsg" : "Problema ao acrescentar um produto à lista de preferências. Excedeu o número limite de publicações numa lista de preferências. Apague um produto existente na lista de preferências de destino antes de acrescentar um novo."
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Objednávka - shrnutí",
+    "subtotalText": "Mezisoučet:",
+    "shippingOptionsText": "Volby dopravy",
+    "salesTaxText": "Daň z prodeje:",
+    "orderTotalText": "Celkem za objednávku:",
+    "placeOrderText": "Zadat objednávku",
+    "scheduleOrderText": "Plánovat objednávku",
+    "noShippingText": "Bez dopravy",
+    "shippingText": "Doprava: __displayName__",    
+    "applicableTaxesText": "Příslušné daně budou vypočítány při přechodu k pokladně.",
+    "paymentOptionsText": "Volby pro platby",
+    "checkoutText": "Přejít k pokladně",
+    "noShippingSelectedText": "Nebyl vybrán způsob dopravy.",
+    "shippingAddressRequired": "Zadejte dodací adresu",
+    "noShippingMethodsText": "Pro vaši cílovou adresu nejsou dostupné žádné způsoby dopravy.",
+    "noShippingMethodsForAddressText": "Pro vybranou adresu nejsou k dispozici žádné způsoby dopravy.",
+    "checkoutErrorMsg": "Zkontrolujte, zda jste vyplnili všechna povinná pole a opravili všechny neplatné hodnoty.",
+    "rePricingText":"Přecenění",
+    "removeLinkText":"odebrat",
+    "paymentMessage": "Je možné, že další obrazovka se bude týkat ověření platební karty prostřednictvím jejího vydavatele.",
+    "includingTaxText": "(včetně daně)",
+    "totalExcludingTaxText": "Celkem (bez daně): ",
+    "paymentMethodNotAvilable": "(Tuto volbu platby nelze použít u plánovaných objednávek.)",
+    "selectShippingMethodText": "Vybrat způsob dopravy"
+  }
+}

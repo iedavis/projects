@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Sepetiniz boş.",
+    "buttonContinueShopping": "Alışverişe Devam Et",
+    "cartHeader" : "Alışveriş Sepetiniz",
+    "itemHeaderItem": "Kalem",    
+    "itemHeaderQuantity": "Miktar",
+    "itemQuantity": "__productName__ Miktarı",
+    "itemHeaderItemTotal": "Kalem Toplamı",
+    "totalTableSubTotal": "Alt Toplam:",
+    "includingTaxText": "(vergi dahil)",
+    "totalTableTotal": "Toplam:",
+    "buttonUpdateQuantity": "Güncelle",
+    "buttonRemoveItem": "Kaldır",
+    "instockText": "Stokta",
+    "outofstockText": "Stok Dışı",
+    "totalTableSummary": "Alışveriş sepeti toplamları."
+  }
+}

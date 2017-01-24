@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Pievienot vēlmju sarakstam",
+    "spaceSelectionText": "Atlasīt vēlmju sarakstu",
+    "spaceCommentText": "Ievadīt komentāru...",
+    "spaceNameText": "Nosaukums",
+    "buttonSpaceAdd": "Pievienot",
+    "buttonSpaceCancel": "Atcelt",
+    "mySpacesGroupText": "Mani vēlmju saraksti",
+    "joinedSpacesGroupText": "Apvienotie vēlmju saraksti",
+    "createNewSpaceOptText": "Jauns vēlmju saraksts...",
+    "addToSpaceSuccessMsg" : "Izdevās! __socialproduct__tika pievienots__socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Šī prece jau bija vēlmju sarakstā. Ir atjaunināts pievienošanas datums.",
+    "addToSpaceProductViewWishListMsg" : "  Skatīt __wishlistname__",
+    "spaceAddProductError" : "Kļūda, mēģinot izlikt produktu vēlmju sarakstā. Mēģiniet atsvaidzināt lapu.",
+    "uniqueNameMsg": "Vēlmju saraksta nosaukumam ir jābūt unikālam.",
+    "emptyNameMsg": "Nosaukums nedrīkst būt tukšs",
+    "privacySettingsLabel": "Konfidencialitātes iestatījumi",
+    "privacySettingsDescription": "Ielūdzot draugus uz privātu vēlmju sarakstu, jūsu konfidencialitātes iestatījums tiek mainīts uz Grupa. Sūtot privātu vai grupas vēlmju sarakstu pa e-pastu vai kopīgojot to sociālajā tīklā, tas kļūst par kopīgotu sarakstu.",
+    "privacySharedLabel": "Jebkurš, kam ir saite, var redzēt šo sarakstu. Tikai jūs un tie lietotāji, ko esat ielūdzis, var redzēt, komentēt un pievienot kaut ko šim sarakstam.",
+    "privacyGroupLabel": "Tikai jūs un tie lietotāji, ko esat ielūdzis, var redzēt, komentēt un pievienot kaut ko šim sarakstam.",
+    "privacyPrivateLabel": "Tikai jūs varat redzēt šo sarakstu un tam kaut ko pievienot.",
+    "spaceAccessPrivateIconTxt" : "Privāts",
+    "spaceAccessSharedIconTxt" : "Kopīgots",
+    "spaceAccessGroupIconTxt" : "Grupa",
+    "spaceCreateMaxSpacesMsg" : "Veidojot vēlmju sarakstu, radās problēma. Esat pārsniedzis vēlmu sarakstu skaita ierobežojumu. Pirms veidojat jaunu vēlmju sarakstu, lūdzu, izdzēsiet kādu no esošajiem. ",
+    "productAddMaxProductsMsg" : "Pievienojot produktu vēlmju sarakstam, radās problēma. Esat pārsniedzis ziņu skaita ierobežojumu vēlmju sarakstā. Pirms galamērķa vēlmju sarakstā pievienojat jaunu produktu, lūdzu, izdzēsiet kādu no esošajiem."
+  }
+}

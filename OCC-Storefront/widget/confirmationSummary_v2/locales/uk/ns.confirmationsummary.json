@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Про замовлення", 
+    "orderDoesNotExist": "Замовлення не існує.", 
+    "subTotalText": "Проміжний підсумок:", 
+    "salesTaxText": "Податок із продажів", 
+    "orderTotalText": "Загальна сума замовлення:", 
+    "continueShoppingText": "Продовжити покупки",
+    "delimiter": ":",
+    "includingTaxText": "(включно з податком)",
+    "totalExcludingTaxText": "Загалом (без урахування податку): "
+  }
+}

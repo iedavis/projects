@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Beräkna leverans och skatt (valfritt)",
+    "cartShippingErrorMsg": "Kontrollera att du har fyllt i alla leveransfält och korrigerat eventuella ogiltiga poster.",
+    "countryText": "Land",
+    "stateText": "Delstat",
+    "zipCodeText": "Postnummer",
+    "countryRequired": "Land måste anges. ",
+    "stateRequired": "Delstat måste anges. ",
+    "zipCodeRequired": "Postnummer måste anges. ",
+    "zipCodeInvalid": "Ogiltigt värde. Ange ett giltigt postnummer.",
+    "stateRegionText": "Delstat/region",
+    "noShippingSelectedText": "Inget leveranssätt har valts.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Det finns inga tillgängliga leveranssätt för destinationsadressen.",
+    "noShippingMethodsForAddressText": "Kunde inte hämta leveranssätt för den angivna leveransadressen",
+    "fetchingShippingMethodsText": "Hämtar leveranssätt för adressen",
+    "invalidShippingAddress": "En ogiltig leveransadress har angetts.",
+    "invalidShippingMethod": "Ett ogiltigt leveranssätt har angetts.",
+    "pricingError" : "Kan inte beräkna frakt och moms. Kontrollera leveransadressen.",
+    "invalidPreviousAddress": "Vi levererar inte längre till leveransadressen som du tidigare har använt.",
+    "shippingMethodNoLongerAvailable": "Den tidigare valda leveransmetoden är inte längre tillgänglig. Kontrollera leveransmetoden innan du lägger din order."
+  }
+}

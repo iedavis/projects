@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "添加促销代码或忠诚度代码",
+  "promoCode": "输入促销代码",
+  "promoCodeAriaLabelText": "输入促销代码",
+  "buttonApplyCodeText": "应用代码",
+  "buttonApplyingCodeText": "正在应用代码",
+  "couponDetailsError": "您的优惠券详细信息存在问题。",
+  "promoCodeRequired": "优惠券代码不能为空",
+  "duplicateCoupon": "已应用代码。"
+  }
+}

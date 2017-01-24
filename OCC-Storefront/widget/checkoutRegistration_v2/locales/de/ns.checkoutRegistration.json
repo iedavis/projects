@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Checkout",
+    "emailAddressText" : "E-Mail-Adresse",
+    "firstNameText" : "Vorname",
+    "lastNameText" : "Nachname",
+    "passwordText" : "Kennwort",
+    "confirmPasswordText" : "Kennwort bestätigen",
+    "checkoutAsGuestText" : "Als Gast auschecken",
+    "loginToAccountText" : "Melden Sie sich bei Ihrem Account an",
+    "rememberMeText" : "Ich möchte einen Account erstellen.",
+    "marketingMailsText" : "Ich möchte Aktualisierungen per E-Mail erhalten.",
+    "checkoutErrorMsg" : "Stellen Sie sicher, dass Sie alle erforderlichen Felder ausgefüllt und alle ungültigen Einträge korrigiert haben.",
+    "buttonCancel": "Abbrechen",
+    "buttonLogin": "Anmelden",
+    "checkoutOption": "Wählen Sie Ihre Checkout-Option aus.",
+    "buttonLogout": "Abmelden",
+    "welcomeMessage": "Willkommen zurück!",
+    "registrationMessageText":"Wenn Sie einen Account erstellen, können Sie schneller einkaufen, sich über den Fortschritt Ihrer aktuellen Bestellung auf dem Laufenden halten und den Status vorheriger Bestellungen prüfen.",
+    "userSessionExpiredErrorMsg" : "Ihre Checkout-Session ist wegen Inaktivität abgelaufen. Starten Sie den Checkout erneut."
+  }
+}

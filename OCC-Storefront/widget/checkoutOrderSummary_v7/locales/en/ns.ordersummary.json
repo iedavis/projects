@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "orderSummaryText": "Order Summary",
+    "subtotalText": "Sub-Total: ",
+    "shippingOptionsText": "Shipping Options",
+    "salesTaxText": "Sales Tax: ",
+    "orderTotalText": "Order Total: ",
+    "placeOrderText": "Place Order",
+    "scheduleOrderText": "Schedule Order",
+    "noShippingText": "No Shipping",
+    "shippingText": "Shipping: __displayName__",    
+    "applicableTaxesText": "Applicable taxes will be calculated at checkout.",
+    "paymentOptionsText": "Payment Options",
+    "checkoutText": "Checkout",
+    "noShippingSelectedText": "No Shipping Method Selected.",
+    "shippingAddressRequired": "Please enter a shipping address",
+    "noShippingMethodsText": "There are no shipping methods available for your destination address.",
+    "noShippingMethodsForAddressText": "No shipping methods are available for the selected address",
+    "checkoutErrorMsg": "Please ensure you have completed all mandatory fields and corrected any invalid entries.",
+    "rePricingText":"Repricing",
+    "removeLinkText":"remove",
+    "paymentMessage": "The next screen you see may be payment card verification through your card issuer.",
+    "includingTaxText": "(including tax)",
+    "totalExcludingTaxText": "Total (excluding tax): ",
+    "paymentMethodNotAvilable": "(This payment option cannot be used for scheduled orders.)",
+    "selectShippingMethodText": "Select shipping method",
+    "shippingMethodRequiredText": "Shipping Method is mandatory."
+  }
+}

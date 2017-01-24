@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "结账",
+    "defaultAddressLabel": "默认地址",
+    "billingAddressText" : "开单地址",
+    "noAddressesText" : "未保存地址。",
+    "firstNameText": "名字",
+    "lastNameText": "姓氏",
+    "shippingAddressText": "收货地址",
+    "checkoutErrorMsg": "请确保填写了所有必填字段并更正了所有无效输入。",
+    "firstNameRequired": "“名字”是必填项。",
+    "lastNameRequired": "“姓氏”是必填项。",
+    "unsupportedShippingAddressText": "此地址无法配送。",
+    "invalidBillingAddressText": "收货地址不能用作开单地址。请输入开单地址。",
+    "invalidPreviousAddress": "我们不再配送到您以前使用的收货地址。"
+  }
+}

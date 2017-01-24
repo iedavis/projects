@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "102": "(102) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "104": "(104) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "110": "(110) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "150": "(150) Hemos experimentado un problema técnico al contactar con el banco emisor de la tarjeta de crédito. Vuelva a intentarlo o use otra tarjeta.",
+    "151": "(151) Hemos experimentado un problema técnico. Vuelva a intentarlo dentro de un rato.",
+    "152": "(152) Hemos experimentado un problema técnico. Vuelva a intentarlo dentro de un rato.",
+    "200": "(200) La dirección de facturación que ha indicado no coincide con la dirección de la tarjeta de crédito. Compruebe la dirección y vuelva a intentarlo.",
+    "201": "(201) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "202": "(202) Compruebe la fecha de caducidad de la tarjeta y vuelva a intentarlo.",
+    "203": "(203) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "204": "(204) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "205": "(205) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "207": "(207) Hemos experimentado un problema técnico al contactar con el banco emisor de la tarjeta de crédito. Vuelva a intentarlo o use otra tarjeta.",
+    "208": "(208) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "209": "(209) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "210": "(210) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "211": "(211) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "221": "(221) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "230": "(230) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "231": "(231) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "232": "(232) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "233": "(233) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "234": "(234) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "520": "(520) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "1000": "(1000) La tarjeta de crédito ha sido rechazada; utilice otra tarjeta.",
+    "476": "(476) La tarjeta no se autenticado para su uso; utilice otra tarjeta.",
+    "paymentErrorText":"Hemos experimentado un problema técnico. Vuelva a intentarlo dentro de un rato.",
+    "processingText": "Espere, está en proceso. No haga clic en el botón de refrescamiento o de retroceso porque la transacción pude interrumpirse o finalizar."
+  }
+}

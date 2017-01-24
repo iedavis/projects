@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "ID geplande order opnemen?",
+	"includeScheduledHelpText" : "Selecteer om ID geplande order op te nemen in de tabel Orderhistorie"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Üdvözöljük, __userdisplayname__!",
+    "invitationAlreadyAccepted" : "A meghívó már el lett fogadva.",
+    "spaceNotFound" : "Sikeres! Az elérni kívánt kívánságlista nem található.",
+    "invitationExpiredError" : "A meghívása lejárt! Kérje a kívánságlista tulajdonosának segítségét, amelyhez csatlakozni kíván, és kérje meg, hogy hívja meg Önt újból.",
+    "memberJoinError" : "A meghívóval kapcsolatban hiba lépett fel.",
+    "pleaseWaitProcessingMsg" : "Várjon, míg feldolgozzuk a meghívóját."
+  }
+}

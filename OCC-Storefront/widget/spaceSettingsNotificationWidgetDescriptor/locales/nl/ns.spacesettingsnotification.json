@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Instellingen e-mailmeldingen",
+    "spaceSettingsNotificationIntroText" : "Ik wil graag ontvangen:",
+    "spaceSettingsCommentNotificationTxt" : "Toelichting en productmeldingen",
+    "spaceSettingsNewMemberNotificationTxt" : "Nieuw-lid-meldingen",
+    "spaceSettingsSaveTxt" : "Opslaan",
+    "spaceSettingsCancelTxt" : "Annuleren",
+    "spaceSettingsSaveErrorTxt" : "Er is een probleem opgetreden bij het opslaan van de wijzigingen in uw meldingsinstellingen.",
+    "spaceSettingsSaveSuccessTxt" : "Uw meldingsinstellingen zijn bijgewerkt en opgeslagen.",
+    "spaceSettingsOnText" : "Ja",
+    "spaceSettingsOffText" : "Nee",
+    "spaceSettingsNotificationEnableHelpText" : "Als u meldingen voor de verlanglijst wilt activeren, selecteert u op de pagina Mijn account de optie 'Ik wil updates ontvangen via e-mail'."
+  }
+}

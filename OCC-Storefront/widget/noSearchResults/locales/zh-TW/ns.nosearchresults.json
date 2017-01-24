@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "您搜尋了 '__searchterm__'。找不到產品。",
+    "titleText": "搜尋",
+    "searchFailedText": "目前無法執行您的搜尋。"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Zobrazit méně...",
+    "seeMoreText" : "Zobrazit více...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Upřesnit podle",
+    "clearAllRefinementsText" : "Vymazat všechna upřesnění",
+    "guidedNavigationHeader" : "Záhlaví řízené navigace",
+    "doneText" : "Hotovo",
+    "expandText" : "Rozbalit",
+    "collapseText" : "Sbalit",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Překryv řízené navigace je načten"
+  }
+}

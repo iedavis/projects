@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Přejít k pokladně",
+    "emailAddressText" : "E-mailová adresa",
+    "firstNameText" : "Jméno",
+    "lastNameText" : "Příjmení",
+    "passwordText" : "Heslo",
+    "confirmPasswordText" : "Potvrzení hesla",
+    "checkoutAsGuestText" : "Dokončit nákup jako host",
+    "loginToAccountText" : "Přihlaste se k účtu",
+    "rememberMeText" : "Chci si vytvořit účet.",
+    "marketingMailsText" : "Chci dostávat aktuální informace e-mailem.",
+    "checkoutErrorMsg" : "Zkontrolujte, zda jste vyplnili všechna povinná pole a opravili všechny neplatné hodnoty.",
+    "buttonCancel": "Zrušit",
+    "buttonLogin": "Přihlásit se",
+    "checkoutOption": "Vyberte volbu pro přechod k pokladně.",
+    "buttonLogout": "Odhlásit se",
+    "welcomeMessage": "Vítáme zpět.",
+    "registrationMessageText":"Díky vytvoření účtu budete moci nakupovat rychleji, mít aktuální informace o zpracování současné objednávky a možnost kontrolovat stav předchozích objednávek.",
+    "userSessionExpiredErrorMsg" : "Platnost relace pokladny vypršela z důvodu nečinnosti. Projděte procesem zaplacení znovu."
+  }
+}

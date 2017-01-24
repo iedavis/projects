@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "สรุปใบสั่ง",
+    "subtotalText": "ยอดรวมย่อย: ",
+    "discountText": "ส่วนลด*: ",
+    "shippingOptionsText": "ตัวเลือกการจัดส่งสินค้า",
+    "changeText": "เปลี่ยนแปลง",
+    "salesTaxText": "ภาษีขาย: ",
+    "orderTotalText": "ยอดรวมในใบสั่ง: ",
+    "placeOrderText": "สั่งสินค้า",
+    "noShippingText": "ไม่มีการจัดส่งสินค้า",
+    "applicableTaxesText": "จะมีการคำนวณภาษีที่เรียกเก็บเมื่อเช็คเอาต์",
+    "paymentOptionsText": "ตัวเลือกการชำระเงิน",
+    "checkoutText": "เช็คเอาต์",
+    "noShippingSelectedText": "ไม่ได้เลือกวิธีจัดส่งสินค้า",
+    "shippingAddressRequired":"โปรดป้อนที่อยู่ที่รับสินค้า ",
+    "shippingText": "การจัดส่งสินค้า: __displayName__ ",
+    "noShippingMethodsText": "ไม่มีวิธีจัดส่งสินค้า",
+    "checkoutErrorMsg": "โปรดตรวจสอบให้แน่ใจว่าคุณได้ป้อนข้อมูลในฟิลด์ที่จำเป็นทั้งหมดครบและแก้ไขรายการที่ไม่ถูกต้องแล้ว",
+    "removeLinkText": "ลบ",
+    "rePricingText":"การปรับราคา",
+    "totalExcludingTaxText": "ยอดรวม (ไม่รวมภาษี): ",
+    "includingTaxText": "(รวมภาษี)"
+  }
+}

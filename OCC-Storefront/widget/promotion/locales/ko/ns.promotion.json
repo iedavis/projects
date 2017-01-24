@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "판촉 또는 로얄티 코드 추가",
+  "promoCode": "판촉 코드 입력",
+  "promoCodeAriaLabelText": "판촉 코드 입력",
+  "buttonApplyCodeText": "코드 적용",
+  "buttonApplyingCodeText": "코드 적용 중",
+  "couponDetailsError": "쿠폰 세부정보에서 문제가 발견되었습니다.",
+  "promoCodeRequired": "쿠폰 코드는 비워둘 수 없습니다.",
+  "duplicateCoupon": "코드가 이미 적용되었습니다."
+  }
+}

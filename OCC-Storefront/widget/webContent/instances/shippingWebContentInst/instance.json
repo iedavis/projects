@@ -1,0 +1,7 @@
+{
+  "config": {"sourceMedia": "shippingStaticContent"},
+  "id": "shippingWebContentInst",
+  "name": "Shipping Web Content Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

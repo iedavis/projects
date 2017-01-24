@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Rendelés összesítése",
+    "subtotalText": "Részösszeg:",
+    "shippingOptionsText": "Szállítási beállítások",
+    "salesTaxText": "Forgalmi adó:",
+    "orderTotalText": "Rendelés végösszege:",
+    "placeOrderText": "Rendelés feladása",
+    "scheduleOrderText": "Rendelésütemezés",
+    "noShippingText": "Nincs szállítás",
+    "shippingText": "Szállítás: __displayName__",    
+    "applicableTaxesText": "A felszámolandó adókat a rendszer a rendelés véglegesítésekor számítja ki.",
+    "paymentOptionsText": "Fizetési beállítások",
+    "checkoutText": "Véglegesítés",
+    "noShippingSelectedText": "Nincs megadva szállítási mód.",
+    "shippingAddressRequired": "Adjon meg szállítási címet.",
+    "noShippingMethodsText": "Nincsenek elérhető szállítási módok a rendeltetési címhez.",
+    "noShippingMethodsForAddressText": "Nincsenek elérhető szállítási módszerek a kiválasztott címhez.",
+    "checkoutErrorMsg": "Győződjön meg arról, hogy minden kötelezően kitöltendő mezőt kitöltött és javított minden érvénytelen bejegyzést.",
+    "rePricingText":"Ármódosítás",
+    "removeLinkText":"eltávolítás",
+    "paymentMessage": "A következő megjelenő oldalon ellenőrizheti a fizetési kártyát a kártya kibocsátóján keresztül.",
+    "includingTaxText": "(adóval)",
+    "totalExcludingTaxText": "Összesen (adó nélkül):",
+    "paymentMethodNotAvilable": "(Ez a fizetési beállítás nem használható ütemezett rendelésekhez.)",
+    "selectShippingMethodText": "Szállítási mód kiválasztása"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Podrobnosti plačila",
+  "paymentMethod": "Plačilna metoda",
+  "paypalText": "Varnejši, preprostejši način plačila.", 
+  "paymentDetailsError": "Poskrbite, da ste izpolnili vsa obvezna polja in popravili neveljavne vnose.",
+  "paymentMethodNotAvilable": "(Te možnosti plačila ni mogoče uporabiti za planirana naročila.)",
+  
+  "nameOnCardLabel": "Ime na kartici",
+  "nameOnCardPlaceholder": "Ime na kartici",
+  "nameOnCardRequired": "Ime na kartici je obvezno.",
+  "nameOnCardInvalid": "Ime na kartici je neveljavno.",
+  
+  "cardTypeLabel": "Tip kartice",
+  "cardTypePlaceholder": "Tip kartice",
+  "cardTypeRequired": "Tip kartice je obvezen.",
+  "cardTypeInvalid": "Tip kartice je neveljaven.",
+  
+  "cardNumberLabel": "Številka kartice",
+  "cardNumberPlaceholder": "Številka kartice",
+  "cardNumberRequired": "Številka kartice je obvezna.",
+  "cardNumberMaxLength":"Neveljaven vnos. Ne smete preseči več kot __maxLength__ znakov.",
+  "cardNumberInvalid": "Neveljavna številka kartice. Poskusite znova.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "Številka CVV je obvezna.",
+  "cardCVVInvalid": "Številka CVV je neveljavna.",
+  "cardCVVWhatsThis": "Kaj je to?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Zadnje tri števke na traku za podpis vaše kartice.",
+  "cardCVVNumberInvalid": "Neveljaven vnos. Vnesite samo števila.",
+  "cardCVVNumberMaxLength": "Neveljaven vnos. Maksimalno število dovoljenih znakov je 4.",
+  "cardCVVNumberMinLength": "Neveljaven vnos. Vnesite vsaj 3 znake.",
+  
+  "endMonthLabel": "Poteče (mesec)",
+  "endMonthPlaceholder": "Poteče (mesec)",
+  "endMonthRequired": "Mesec poteka kartice je obvezen.",
+  "endMonthInvalid": "Neveljaven mesec/leto poteka. Poskusite znova.",
+  
+  "endYearLabel": "Poteče (leto)",
+  "endYearPlaceholder": "Poteče (leto)",
+  "endYearRequired": "Leto poteka kartice je obvezno.",
+  "endYearInvalid": "Neveljaven mesec/leto poteka. Poskusite znova.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Užsakymo suvestinė",
+    "subtotalText": "Tarpinė suma:",
+    "discountText": "Nuolaida (-os)*:",
+    "shippingOptionsText": "Siuntimo parinktys",
+    "changeText": "keisti",
+    "salesTaxText": "Pardavimo mokestis:",
+    "orderTotalText": "Bendroji užsakymo suma: ",
+    "placeOrderText": "Užsakymo priskyrimas",
+    "noShippingText": "Nesiunčiama",
+    "applicableTaxesText": "Taikytini mokesčiai bus apskaičiuoti atsiskaitant.",
+    "paymentOptionsText": "Mokėjimų parinktys",
+    "checkoutText": "Atsiskaitymas",
+    "noShippingSelectedText": "Nepasirinktas siuntimo būdas.",
+    "shippingAddressRequired":"Įveskite siuntimo adresą",
+    "shippingText": "Siunčiama: __displayName__ ",
+    "noShippingMethodsText": "Nėra galimų siuntimo būdų",
+    "checkoutErrorMsg": "Įsitikinkite, kad užpildėte visus privalomus laukus ir ištaisėte visus netinkamus įrašus.",
+    "removeLinkText": "pašalinti",
+    "rePricingText":"Įkainojimas iš naujo",
+    "totalExcludingTaxText": "Iš viso (mokestis neįskaičiuotas): ",
+    "includingTaxText": "(mokestis įskaičiuotas)"
+  }
+}

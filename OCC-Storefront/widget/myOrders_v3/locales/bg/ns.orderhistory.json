@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Моят акаунт",
+    "orderHistoryText" : "История на поръчките",
+    "backToMyAccount" : "<< Обратно към моя акаунт",
+    "historyHeaderOrderDate": "Дата на поръчка",    
+    "historyHeaderOrderNumber": "Номер на поръчка",
+    "historyHeaderOrderStatus": "Състояние на поръчка",
+    "historyHeaderOrderTotal": "Обща сума на поръчката",
+    "historyHeaderOrderDetails": "Информация за поръчка",
+    "listingHeaderScheduledOrderId": "ИД на график",
+    "orderDetails": "Информация"
+  }
+}

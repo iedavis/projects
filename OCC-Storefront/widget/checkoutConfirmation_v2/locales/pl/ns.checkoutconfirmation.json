@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Potwierdzenie zamówienia", 
+    "orderDoesNotExist": "Zamówienie nie istnieje.", 
+    "thankyouMsg": "Dziękujemy za zamówienie złożone __orderDate__ o godzinie __orderTime__.", 
+    "processingMsg": "Zamówienie to jest obecnie przetwarzane.",
+    "pendingMsg": "Dziękujemy, żądanie zamówienia zostało odebrane i płatność oczekuje na realizację. Po zatwierdzeniu płatności zamówienie zostanie przetworzone.",
+    "orderNumberMsg": "Numer zamówienia to __orderNumber__.", 
+    "emailMsg": "Wiadomość e-mail z potwierdzeniem zamówienia została wysłana na adres: __emailAddress__ . Zawiera ona szczegóły poniższego zamówienia.", 
+    "yourOrderText": "Zamówienie użytkownika", 
+    "itemText": "Pozycja", 
+    "quantityText": "Ilość", 
+    "itemTotalText": "Pozycje łącznie", 
+    "shippingAddressAndMethodText": "Adres i sposób wysyłki", 
+    "shipToText": "Miejsce docelowe wysyłki:", 
+    "shippingMethodText": "Sposób wysyłki:", 
+    "paymentDetailsText": "Szczegóły płatności", 
+    "cardTypeText": "Typ karty:", 
+    "cardNumberText": "Numer karty:", 
+    "billingAddressText": "Adres płatnika:",
+    "loginSuccessText": "Konto zostało utworzone. Dziękujemy za rejestrację.",
+    "loginFailureText": "Błąd: Zamówienie zostało przetworzone, ale wystąpił problem podczas tworzenia konta. Proszę spróbować ponownie.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

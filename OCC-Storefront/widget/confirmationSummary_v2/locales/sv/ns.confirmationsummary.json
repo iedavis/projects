@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Orderöversikt", 
+    "orderDoesNotExist": "Ordern finns inte.", 
+    "subTotalText": "Delsumma:", 
+    "salesTaxText": "Moms: ", 
+    "orderTotalText": "Ordersumma:", 
+    "continueShoppingText": "Fortsätt handla",
+    "delimiter": ":",
+    "includingTaxText": "(inklusive moms)",
+    "totalExcludingTaxText": "Summa (exklusive moms): "
+  }
+}

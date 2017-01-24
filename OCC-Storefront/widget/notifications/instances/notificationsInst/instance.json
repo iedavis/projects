@@ -1,0 +1,11 @@
+{
+  "config": {
+    "fixed": true,
+    "timeout": "5",
+    "timeoutEnabled": true
+  },
+  "id": "notificationsInst",
+  "name": "Notifications Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

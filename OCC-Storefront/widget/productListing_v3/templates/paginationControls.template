@@ -1,0 +1,22 @@
+<div class="btn-group">
+     
+    <a class="btn btn-default" data-bind="ccNavigation: '',  attr : {href: firstPage()}, widgetLocaleText : {value:'goToFirstPageText', attr:'aria-label'}, css: { disabled: $data.currentPage() == 1 }" ><span data-bind="widgetLocaleText: 'goToFirstPagePaginationSymbol'"></span></a> 
+    <a href="#" class="btn btn-default" data-bind="ccNavigation: '', attr: {href: previousPage()}, widgetLocaleText : {value:'goToPreviousPageText', attr:'aria-label'}, css: { disabled: $data.currentPage() == 1 }" rel="prev"><span data-bind="widgetLocaleText: 'goToPreviousPagePaginationSymbol'"></span></a>
+   
+    <!-- ko foreach: pages -->
+      <a href="#" class="btn btn-default" data-bind="ccNavigation: '', attr: {href: $parent.goToPage($data)}, css: {active: $data.pageNumber===$parent.currentPage() }">
+        <!-- ko if: $data.selected === true -->
+          <span class="sr-only" data-bind="widgetLocaleText : 'activePageText'"></span>
+        <!-- /ko -->
+        <!-- ko if: $data.selected === false -->
+          <span class="sr-only" data-bind="widgetLocaleText : 'goToPageText'"></span>
+        <!-- /ko -->
+        <span data-bind="ccNumber: $data.pageNumber"></span>
+      </a>
+    <!-- /ko -->
+
+    <a href="#" class="btn btn-default" data-bind="ccNavigation: '', attr: {href: nextPage()}, widgetLocaleText : {value:'goToNextPageText', attr:'aria-label'}, css: { disabled: currentPage() == $data.totalNumberOfPages() }" rel="next"><span data-bind="widgetLocaleText: 'goToNextPagePaginationSymbol'"></span></a>
+    <a href="#" class="btn btn-default" data-bind="ccNavigation: '', attr: {href: lastPage()}, widgetLocaleText : {value:'goToLastPageText', attr:'aria-label'}, css: { disabled: currentPage() == $data.totalNumberOfPages() }"><span data-bind="widgetLocaleText: 'goToLastPagePaginationSymbol'"></span></a>
+  
+</div>
+

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Krepšelio suvestinė",
+    "quantityText": "Kiekis:",
+    "colorText": "Spalva:",
+    "sizeText": "Dydis:",
+    "instockText": "Yra sandėlyje",
+    "outofstockText": "Nėra sandėlyje",
+    "estimiatedShippingText": "Numatomas išsiųsti:",
+    "buttonEditCartSummary": "Redaguoti",
+    "editCartText": "Redaguoti krepšelį",
+    "seeAllProducts": "Rodyti visus produktus",
+    "showAll": "Rodyti viską",
+    "cartSummaryItemLimitText": "Rodomi pradiniai krepšelio elementai: __noOfItems__"
+  }
+}

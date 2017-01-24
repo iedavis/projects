@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "เช็คเอาต์",
+    "defaultAddressLabel": "ที่อยู่ดีฟอลต์",
+    "billingAddressText" : "ที่อยู่ที่เรียกเก็บ",
+    "noAddressesText" : "ไม่มีการบันทึกที่อยู่",
+    "firstNameText": "ชื่อ",
+    "lastNameText": "นามสกุล",
+    "shippingAddressText": "ที่อยู่ที่รับสินค้า",
+    "checkoutErrorMsg": "โปรดตรวจสอบให้แน่ใจว่าคุณได้ป้อนข้อมูลในฟิลด์ที่จำเป็นทั้งหมดครบและแก้ไขรายการที่ไม่ถูกต้องแล้ว",
+    "firstNameRequired": "คุณต้องป้อนชื่อ ",
+    "lastNameRequired": "คุณต้องป้อนนามสกุล ",
+    "unsupportedShippingAddressText": "ใช้การจัดส่งสินค้ากับที่อยู่นี้ไม่ได้",
+    "invalidBillingAddressText": "ที่อยู่ที่รับสินค้าของคุณไม่สามารถใช้เป็นที่อยู่ที่เรียกเก็บ โปรดป้อนที่อยู่ที่เรียกเก็บ",
+    "invalidPreviousAddress": "เราจะไม่จัดส่งสินค้าไปยังที่อยู่ที่รับสินค้าของคุณที่ใช้ก่อนหน้านี้อีกต่อไป"
+  }
+}

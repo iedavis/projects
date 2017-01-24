@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Začněte nakupovat společně ještě dnes!",
+    "welcomePageLoginText": "Přihlásit se",
+    "welcomePageCreateAccountText": "Vytvořit účet",
+    "welcomePageTitle": "Vítají vás seznamy přání.",
+    "welcomePageSubtitle": "Připojte se k seznamům přání a bavte se společně s ostatními.",
+    "welcomePageBulletText1": "Ukládejte a třiďte produkty, které vás zajímají, a získávejte k nim zpětnou vazbu.",
+    "welcomePageBulletText2": "Sdílejte seznamy přání s rodinou a přáteli a rozhodujte o nákupech společně.",
+    "welcomePageBulletText3": "Hledejte pomocí seznamů přání dárky a diskutujte o nich. Už nikdy nekoupíte nesprávný dárek.",
+    "welcomePageOrText": "nebo"
+  }
+}

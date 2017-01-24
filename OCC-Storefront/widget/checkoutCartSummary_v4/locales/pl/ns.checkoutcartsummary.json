@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Podsumowanie koszyka",
+    "quantityText": "Ilość: ",
+    "colorText": "Kolor: ",
+    "sizeText": "Rozmiar: ",
+    "instockText": "W magazynie",
+    "outofstockText": "Brak w magazynie",
+    "estimiatedShippingText": "Szacowany czas dostawy: ",
+    "buttonEditCartSummary": "Edytuj",
+    "editCartText": "Edycja koszyka",
+    "seeAllProducts": "Wyświetl wszystkie produkty",
+    "showAll": "Pokaż wszystkie",
+    "cartSummaryItemLimitText": "Pokazywanie __noOfItems__ początkowych pozycji koszyka"
+  }
+}

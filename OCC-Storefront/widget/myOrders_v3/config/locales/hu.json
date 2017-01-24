@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Ütemezett rendelés azonosítójának szerepeltetése?",
+	"includeScheduledHelpText" : "Ütemezett rendelés azonosítójának szerepeltetése a Rendeléselőzmények táblában"
+  }
+}

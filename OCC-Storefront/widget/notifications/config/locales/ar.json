@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "إعداد ما إذا كان مسموحًا بمهلة انتهاء الوقت لإخطارات عدم وجود أخطاء.",
+    "notificationsTimeoutEnabledTextLabel": "مهلة انتهاء الوقت ممكَّنة",
+    "notificationsTimeoutHelpText": "إعداد مهلة انتهاء الوقت لإخطارات عدم وجود أخطاء (بالثواني).",
+    "notificationsTimeoutTextLabel": "مهلة انتهاء الوقت (بالثواني)",
+    "notificationsFixedHelpText": "إعداد ما إذا كان يجب تثبيت عنصر واجهة مستخدم الإخطار بأعلى الصفحة أم لا.",
+    "notificationsFixedTextLabel": "ثابت"
+  }
+}

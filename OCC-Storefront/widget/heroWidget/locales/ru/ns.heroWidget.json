@@ -1,0 +1,7 @@
+{
+  "resources": {
+	"heroWidget": "Главное изображение",
+	"previousBannerText": "Предыдущий баннер",
+	"nextBannerText": "Следующий баннер"
+  }
+}

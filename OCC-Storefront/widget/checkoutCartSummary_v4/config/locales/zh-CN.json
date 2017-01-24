@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "输入要在“购物车摘要”中显示的最大商品数量。",
+    "checkoutCartSummaryItemsToDisplayLabel": "购物车摘要中的最大商品数量"
+  }
+}

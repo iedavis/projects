@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Про замовлення",
+    "subtotalText": "Проміжний підсумок: ",
+    "shippingOptionsText": "Варіанти поставки",
+    "salesTaxText": "Податок із продажів: ",
+    "orderTotalText": "Загальна сума замовлення ",
+    "placeOrderText": "Оформити замовлення",
+    "scheduleOrderText": "Планове замовлення",
+    "noShippingText": "Без поставки",
+    "shippingText": "Поставка: __displayName__",    
+    "applicableTaxesText": "Відповідні податки буде обчислено під час оформлення.",
+    "paymentOptionsText": "Варіанти оплати",
+    "checkoutText": "Оформити",
+    "noShippingSelectedText": "Не вибрано спосіб поставки.",
+    "shippingAddressRequired": "Введіть адресу поставки",
+    "noShippingMethodsText": "Для цієї адреси призначення немає доступних способів поставки.",
+    "noShippingMethodsForAddressText": "Для вибраної адреси немає доступних способів поставки",
+    "checkoutErrorMsg": "Переконайтеся, що заповнено всі обов'язкові поля та виправлено будь-які неправильні записи.",
+    "rePricingText":"Переоцінка",
+    "removeLinkText":"видалити",
+    "paymentMessage": "Можливо, наступним відобразиться екран підтвердження платіжної картки її емітентом.",
+    "includingTaxText": "(включно з податком)",
+    "totalExcludingTaxText": "Загалом (без урахування податку): ",
+    "paymentMethodNotAvilable": "(Цей варіант платежу не можна використовувати для планових замовлень.)",
+    "selectShippingMethodText": "Вибрати спосіб доставки"
+  }
+}

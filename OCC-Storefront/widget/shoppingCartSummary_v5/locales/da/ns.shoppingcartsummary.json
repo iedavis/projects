@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Din vogn er tom.",
+    "buttonContinueShopping": "Fortsæt shopping",
+    "cartHeader" : "Din indkøbsvogn",
+    "itemHeaderItem": "Vare",    
+    "itemHeaderQuantity": "Mængde",
+    "itemQuantity": "__productName__ mængde",
+    "itemHeaderItemTotal": "Varetotal",
+    "totalTableSubTotal": "Subtotal:",
+    "includingTaxText": "(inklusiv afgift)",
+    "totalTableTotal": "Total:",
+    "buttonUpdateQuantity": "Opdater",
+    "buttonRemoveItem": "Fjern",
+    "instockText": "På lager",
+    "outofstockText": "Ikke på lager",
+    "totalTableSummary": "Totaler for indkøbsvogn."
+  }
+}

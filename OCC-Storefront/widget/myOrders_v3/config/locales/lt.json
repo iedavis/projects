@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Įtraukti suplanuoto užsakymo ID?",
+	"includeScheduledHelpText" : "Pasirinkite įtraukti suplanuoto užsakymo ID į užsakymų istorijos lentelę"
+  }
+}

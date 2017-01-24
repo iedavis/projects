@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "网关处理付款期间出错。请重试。",
+    "paymentDeclinedMsg": "付款被拒绝。请重试。",
+    "paymentExpiredMsg": "付款已过期。请重试。",
+    "paymentErrorMsg": "处理付款时出错。请重试。",
+    "payByCashText": "用现金付款",
+    "invoicePaymentMsg": "请求发票",
+    "purchaseOrderNumberMsg":"采购订单编号"
+  }
+}

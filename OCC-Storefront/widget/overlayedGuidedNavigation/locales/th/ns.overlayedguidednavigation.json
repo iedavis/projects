@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "ดูน้อยลง...",
+    "seeMoreText" : "ดูเพิ่มเติม...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "ปรับการค้นหาตาม",
+    "clearAllRefinementsText" : "ล้างการปรับการค้นหาทั้งหมด",
+    "guidedNavigationHeader" : "ส่วนหัวการนาวิเกตที่แนะนำ",
+    "doneText" : "เสร็จสิ้น",
+    "expandText" : "ขยาย",
+    "collapseText" : "ยุบ",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "โหลดการนาวิเกตที่แนะนำที่ซ้อนกันแล้ว"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Сведения о платеже",
+  "paymentMethod": "Метод платежа",
+  "paypalText": "Более безопасный и удобный способ оплаты.", 
+  "paymentDetailsError": "Убедитесь, что все обязательные поля заполнены и введенные недопустимые значения исправлены.",
+  "paymentMethodNotAvilable": "(Этот вариант оплаты не может использоваться для запланированных заказов.)",
+  
+  "nameOnCardLabel": "Имя на карте",
+  "nameOnCardPlaceholder": "Имя на карте",
+  "nameOnCardRequired": "Имя на карте - обязательное поле.",
+  "nameOnCardInvalid": "Имя на карте недопустимо.",
+  
+  "cardTypeLabel": "Тип карты",
+  "cardTypePlaceholder": "Тип карты",
+  "cardTypeRequired": "Тип карты - обязательное поле.",
+  "cardTypeInvalid": "Недопустимый тип карты.",
+  
+  "cardNumberLabel": "Номер карты",
+  "cardNumberPlaceholder": "Номер карты",
+  "cardNumberRequired": "Номер карты - обязательное поле.",
+  "cardNumberMaxLength":"Недопустимая запись. Разрешается ввести не более __maxLength__ символов.",
+  "cardNumberInvalid": "Недопустимый номер карты, повторите попытку.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV - обязательное поле.",
+  "cardCVVInvalid": "Недопустимый код CVV.",
+  "cardCVVWhatsThis": "Что это?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Последние 3 цифры на полосе для подписи на вашей карте.",
+  "cardCVVNumberInvalid": "Недопустимая запись, следует вводить только цифры.",
+  "cardCVVNumberMaxLength": "Недопустимая запись. Разрешается ввести не более 4 символов.",
+  "cardCVVNumberMinLength": "Недопустимая запись. Введите не менее 3 символов.",
+  
+  "endMonthLabel": "Окончание действия (месяц)",
+  "endMonthPlaceholder": "Окончание действия (месяц)",
+  "endMonthRequired": "Поле месяца окончания действия карты является обязательным.",
+  "endMonthInvalid": "Недопустимый месяц/год окончания действия. Повторите попытку.",
+  
+  "endYearLabel": "Окончание действия (год)",
+  "endYearPlaceholder": "Окончание действия (год)",
+  "endYearRequired": "Поле года окончания действия карты является обязательным.",
+  "endYearInvalid": "Недопустимый месяц/год окончания действия. Повторите попытку.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

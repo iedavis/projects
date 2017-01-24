@@ -1,0 +1,20 @@
+{
+  "availableToAllPages": true,
+  "config": {
+    "fixed": true,
+    "timeout": "5",
+    "timeoutEnabled": true
+  },
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "notifications",
+  "imports": [],
+  "javascript": "notifications-widget",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Notifications",
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "notifications",
+  "widgetType": "notifications"
+}

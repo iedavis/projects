@@ -1,0 +1,8 @@
+{
+  "resources" : {
+    "metaLocatorIdLabel": "MetaLocator Interface ID",
+    "metaLocatorIdHelpText": "",
+    "frameHeightLabel": "Frame Height",
+    "frameHeightHelpText": "Height in pixels of the frame to display the Locator"
+  }
+}

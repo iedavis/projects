@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Adăugare în lista de dorinţe",
+    "spaceSelectionText": "Selectaţi o listă de dorinţe",
+    "spaceCommentText": "Introduceţi un comentariu...",
+    "spaceNameText": "Nume",
+    "buttonSpaceAdd": "Adăugare",
+    "buttonSpaceCancel": "Anulare",
+    "mySpacesGroupText": "Listele mele de dorinţe",
+    "joinedSpacesGroupText": "Liste de dorinţe înscrise",
+    "createNewSpaceOptText": "Listă de dorinţe nouă...",
+    "addToSpaceSuccessMsg" : "Succes! S-a adăugat __socialproduct__ la __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Acest articol exista deja în lista de dorinţe. Am actualizat data adăugării.",
+    "addToSpaceProductViewWishListMsg" : "  Vizualizare __wishlistname__",
+    "spaceAddProductError" : "Eroare la încercarea de postare a unui produs în lista de dorinţe. Încercaţi să reîmprospătaţi pagina.",
+    "uniqueNameMsg": "Numele listei de dorinţe trebuie să fie unic.",
+    "emptyNameMsg": "Numele nu trebuie să fie necompletat.",
+    "privacySettingsLabel": "Setări confidenţialitate",
+    "privacySettingsDescription": "Invitarea prietenilor într-o listă de dorinţe privată va conduce la modificarea setării dvs. de confidenţialitate la Grup. Trimiterea unei liste de dorinţe private sau de grup prin e-mail sau partajarea acesteia pe o reţea socială o va transforma într-o listă partajată.",
+    "privacySharedLabel": "Oricine are linkul poate vedea această listă. Numai dvs. şi persoanele pe care le invitaţi pot vedea, comenta şi adăuga în această listă.",
+    "privacyGroupLabel": "Numai dvs. şi persoanele pe care le invitaţi pot vedea, comenta şi adăuga în această listă.",
+    "privacyPrivateLabel": "Numai dvs. puteţi vedea şi adăuga în această listă.",
+    "spaceAccessPrivateIconTxt" : "Privată",
+    "spaceAccessSharedIconTxt" : "Partajată",
+    "spaceAccessGroupIconTxt" : "Grup",
+    "spaceCreateMaxSpacesMsg" : "Problemă la crearea listei de dorinţe. Aţi depăşit limita pt. nr. de liste de dorinţe. Ştergeţi o listă de dorinţe existentă pt. a crea una nouă.",
+    "productAddMaxProductsMsg" : "Problemă la adăugarea produsului în lista de dorinţe. Aţi depăşit limita pt. nr. de postări dintr-o listă de dorinţe. Ştergeţi un produs existent din lista de dorinţe destinaţie pt. a adăuga unul nou."
+  }
+}

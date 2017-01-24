@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-social-sharing-2",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "การแชร์ทางโซเชียล 2"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Compartilh. Social 2"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "社交共享 2"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Обмін у соцмережах 2"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Социално споделяне 2"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Suhtlusvõrgus jagam. 2"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "2. kopīg. soc. tīklos"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "2 bendr. soc. tinkluose"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Sosial deling 2"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Partajare socială 2"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Partage dans réseaux 2"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "ソーシャル共有2"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Družabna skupna raba 2"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Общ. дост. в соцсетях 2"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Dijeljenje na mrežama 2"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Sosyal Paylaşım 2"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Udost. w serw. społ. 2"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "社交分享 2"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "소셜 공유 2"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Sdílení v soc. sítích 2"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Közösségi megosztás 2"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Κοιν. σε κοιν. δίκτυα 2"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Social Sharing 2"
+    },
+    {
+      "description": "Share product to social networks",
+      "language": "en",
+      "title": "Social Sharing 2"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Дељење на друш. мреж. 2"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Social Sharing 2"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Uso compartido social 2"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Partage social 2"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Condivisione social 2"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Sociaal delen 2"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Social delning 2"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Partilha Social 2"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Sosiaalinen jakaminen 2"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Indiquez si la temporisation est autorisée pour les avis non relatifs à des erreurs.",
+    "notificationsTimeoutEnabledTextLabel": "Temporisation activée",
+    "notificationsTimeoutHelpText": "Indiquez le délai de temporisation des avis non relatifs à des erreurs (en secondes).",
+    "notificationsTimeoutTextLabel": "Délai de temporisation (en secondes)",
+    "notificationsFixedHelpText": "Indiquez si le widget d'avis doit être fixé au haut de la page.",
+    "notificationsFixedTextLabel": "Fixé"
+  }
+}

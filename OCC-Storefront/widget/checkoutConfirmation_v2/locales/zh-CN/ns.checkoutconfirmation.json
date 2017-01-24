@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "订单确认", 
+    "orderDoesNotExist": "订单不存在。", 
+    "thankyouMsg": "感谢您于 __orderDate__ __orderTime__ 下订单。", 
+    "processingMsg": "此订单现在正在进行处理。",
+    "pendingMsg": "谢谢！已收到您的订单请求并在等待付款。付款通过审批后，我们将处理订单。",
+    "orderNumberMsg": "您的订单编号是 __orderNumber__。", 
+    "emailMsg": "订单确认电子邮件已经发送到 __emailAddress__，其中详细描述了下面的订单。", 
+    "yourOrderText": "您的订单", 
+    "itemText": "商品", 
+    "quantityText": "数量", 
+    "itemTotalText": "商品合计", 
+    "shippingAddressAndMethodText": "收货地址和配送方式", 
+    "shipToText": "收货地址：", 
+    "shippingMethodText": "配送方式：", 
+    "paymentDetailsText": "付款详细信息", 
+    "cardTypeText": "卡类型：", 
+    "cardNumberText": "卡号：", 
+    "billingAddressText": "开单地址：",
+    "loginSuccessText": "您的账户已经创建。感谢注册。",
+    "loginFailureText": "错误：您的订单已经处理，但创建您的账户时出现问题。请重试。",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

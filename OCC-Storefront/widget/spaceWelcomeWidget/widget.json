@@ -1,0 +1,17 @@
+{
+  "config": {},
+  "defaultLayout": "spaceWelcomeWidgetDefaultLayout",
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "spacewelcome",
+  "imports": ["space"],
+  "javascript": "space-welcome",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Wish List Welcome",
+  "pageTypes": ["swm"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "spaceWelcomeWidget",
+  "widgetType": "spaceWelcomeWidget"
+}

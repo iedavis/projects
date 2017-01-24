@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Schemalagda order",
+    "backToMyAccount" : "<< Tillbaka till mitt konto",
+    "scheduledOrderName" : "Namn",
+    "frequency": "Frekvens",    
+    "scheduledOrderId": "Id",
+    "scheduledOrderStatus": "Status",
+    "nextShipDate": "Nästa order",
+    "lastScheduledRun": "Senaste order",
+    "scheduledOrderDetails": "Orderdetaljer",
+    "orderDetails": "Detaljer",
+    "action": "Åtgärd",
+    "createdDate":"Skapad den",
+    "editOrder": "Redigera",
+    "deleteOrder": "Ta bort",
+    "deleteSuccessMsg":"Borttagen",
+    "myAccount" : "Mitt konto"
+  }
+}

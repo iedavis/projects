@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Bestellübersicht",
+    "subtotalText": "Zwischensumme:",
+    "discountText": "Rabatt(e)*: ",
+    "shippingOptionsText": "Versandoptionen",
+    "changeText": "Ändern",
+    "salesTaxText": "Umsatzsteuer: ",
+    "orderTotalText": "Gesamtsumme Bestellung:",
+    "placeOrderText": "Kaufen",
+    "noShippingText": "Kein Versand",
+    "applicableTaxesText": "Anwendbare Steuern werden beim Checkout berechnet.",
+    "paymentOptionsText": "Zahlungsoptionen",
+    "checkoutText": "Checkout",
+    "noShippingSelectedText": "Keine Versandart ausgewählt.",
+    "shippingAddressRequired":"Geben Sie eine Versandadresse ein",
+    "shippingText": "Versand: __displayName__ ",
+    "noShippingMethodsText": "Keine Versandarten verfügbar",
+    "checkoutErrorMsg": "Stellen Sie sicher, dass Sie alle erforderlichen Felder ausgefüllt und alle ungültigen Einträge korrigiert haben.",
+    "removeLinkText": "Entfernen",
+    "rePricingText":"Preis neu festsetzen",
+    "totalExcludingTaxText": "Summe (ohne Steuer):",
+    "includingTaxText": "(mit Steuer)"
+  }
+}

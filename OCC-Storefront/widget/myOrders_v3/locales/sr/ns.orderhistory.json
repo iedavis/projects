@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Мој налог",
+    "orderHistoryText" : "Историјат наруџбина",
+    "backToMyAccount" : "<< Назад на мој налог",
+    "historyHeaderOrderDate": "Датум наруџбине",    
+    "historyHeaderOrderNumber": "Број наруџбине",
+    "historyHeaderOrderStatus": "Статус наруџбине",
+    "historyHeaderOrderTotal": "Укупно за наруџбину",
+    "historyHeaderOrderDetails": "Детаљи наруџбине",
+    "listingHeaderScheduledOrderId": "ID плана",
+    "orderDetails": "Детаљи"
+  }
+}

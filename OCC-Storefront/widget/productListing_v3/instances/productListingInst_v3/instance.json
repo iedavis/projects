@@ -1,0 +1,14 @@
+{
+  "config": {
+    "blockSize": "60",
+    "fields": "",
+    "gridWidth": "4",
+    "listType": "product",
+    "productsPerPage": "12",
+    "shouldUseStyleBased": false
+  },
+  "id": "productListingInst_v3",
+  "name": "Product Listing Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

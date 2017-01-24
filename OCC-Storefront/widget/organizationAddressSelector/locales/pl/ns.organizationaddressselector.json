@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Kasa",
+    "defaultAddressLabel": "Adres domyślny",
+    "billingAddressText" : "Adres płatnika",
+    "noAddressesText" : "Nie zapisano adresów.",
+    "firstNameText": "Imię",
+    "lastNameText": "Nazwisko",
+    "shippingAddressText": "Adres wysyłki",
+    "checkoutErrorMsg": "Proszę upewnić się, że wypełniono wszystkie obowiązkowe pola i poprawiono ewentualne nieprawidłowe wpisy.",
+    "firstNameRequired": "Pole \"Imię\" jest obowiązkowe. ",
+    "lastNameRequired": "Pole \"Nazwisko\" jest obowiązkowe. ",
+    "unsupportedShippingAddressText": "Wysyłka na ten adres jest niedostępna.",
+    "invalidBillingAddressText": "Nie można użyć adresu wysyłki jako adresu płatnika. Proszę wprowadzić adres płatnika.",
+    "invalidPreviousAddress": "Wysyłka na poprzednio użyty adres nie jest już możliwa."
+  }
+}

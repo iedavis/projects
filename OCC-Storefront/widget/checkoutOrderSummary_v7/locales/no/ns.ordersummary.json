@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Ordresammendrag",
+    "subtotalText": "Delsum: ",
+    "shippingOptionsText": "Forsendelsesvalg",
+    "salesTaxText": "Merverdiavgift: ",
+    "orderTotalText": "Ordresum: ",
+    "placeOrderText": "Plasser ordre",
+    "scheduleOrderText": "Planlegg ordre",
+    "noShippingText": "Ingen forsendelse",
+    "shippingText": "Frakt: __displayName__",    
+    "applicableTaxesText": "Aktuelle avgifter beregnes i kassen.",
+    "paymentOptionsText": "Betalingsvalg",
+    "checkoutText": "Til kassen",
+    "noShippingSelectedText": "Det er ikke valgt forsendelsesmåte.",
+    "shippingAddressRequired": "Angi en forsendelsesadresse",
+    "noShippingMethodsText": "Ingen forsendelsesmåter er tilgjengelige for måladressen.",
+    "noShippingMethodsForAddressText": "Ingen forsendelsesmåter er tilgjengelige for den valgte adressen",
+    "checkoutErrorMsg": "Kontroller at du har fylt ut alle obligatoriske felt og korrigert eventuelle ugyldige registreringer.",
+    "rePricingText":"Ny prising",
+    "removeLinkText":"fjern",
+    "paymentMessage": "Det neste skjermbildet gjelder muligens betalingskortverifisering via kortutstederen.",
+    "includingTaxText": "(inklusive avgift)",
+    "totalExcludingTaxText": "Sum (eksklusive avgift): ",
+    "paymentMethodNotAvilable": "(Dette betalingsvalget kan ikke brukes for planlagte ordrer.)",
+    "selectShippingMethodText": "Velg forsendelsesmåte"
+  }
+}

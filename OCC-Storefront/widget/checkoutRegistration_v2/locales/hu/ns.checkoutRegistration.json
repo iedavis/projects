@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Véglegesítés",
+    "emailAddressText" : "E-mail-cím",
+    "firstNameText" : "Utónév",
+    "lastNameText" : "Vezetéknév",
+    "passwordText" : "Jelszó",
+    "confirmPasswordText" : "Jelszó megerősítése",
+    "checkoutAsGuestText" : "Fizetés vevőként",
+    "loginToAccountText" : "Jelentkezzen be a fiókjába",
+    "rememberMeText" : "Létre szeretnék hozni saját fiókot.",
+    "marketingMailsText" : "Feliratkozom a hírlevélre.",
+    "checkoutErrorMsg" : "Győződjön meg arról, hogy minden kötelezően kitöltendő mezőt kitöltött és javított minden érvénytelen bejegyzést.",
+    "buttonCancel": "Mégse",
+    "buttonLogin": "Bejelentkezés",
+    "checkoutOption": "Adja meg a vásárlás véglegesítésének beállításait.",
+    "buttonLogout": "Kijelentkezés",
+    "welcomeMessage": "Üdvözöljük ismét!",
+    "registrationMessageText":"Ha létrehozza saját fiókját, gyorsabban vásárolhat, és nyomon követheti aktuális és korábbi rendeléseinek állapotát.",
+    "userSessionExpiredErrorMsg" : "A vásárlás véglegesítésének munkamenete tétlenség miatt lejárt. Indítsa újra a vásárlás véglegesítési folyamatát."
+  }
+}

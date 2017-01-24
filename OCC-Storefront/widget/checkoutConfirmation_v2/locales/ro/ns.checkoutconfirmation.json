@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Confirmare comandă ", 
+    "orderDoesNotExist": "Comanda nu există.", 
+    "thankyouMsg": "Vă mulţumim pt. comanda efectuată în __orderDate__, la __orderTime__.", 
+    "processingMsg": "Această comandă este în curs de procesare.",
+    "pendingMsg": "Cererea dvs. de comandă a fost primită, iar plata este în aşteptare. După aprobarea plăţii vom procesa comanda.",
+    "orderNumberMsg": "Numărul comenzii dvs. este __orderNumber__.", 
+    "emailMsg": "A fost trimis un e-mail de confirmare la adresa __emailAddress__ care include detaliile despre comanda de mai jos.", 
+    "yourOrderText": "Comanda dvs.", 
+    "itemText": "Articol", 
+    "quantityText": "Cantitate", 
+    "itemTotalText": "Total articole", 
+    "shippingAddressAndMethodText": "Adresă de expediere şi metodă", 
+    "shipToText": "Expediere la:", 
+    "shippingMethodText": "Metodă de expediere:", 
+    "paymentDetailsText": "Detalii plată", 
+    "cardTypeText": "Tip card:", 
+    "cardNumberText": "Nr. card:", 
+    "billingAddressText": "Adresă de facturare:",
+    "loginSuccessText": "Contul dvs. a fost creat. Vă mulţumim pt. înregistrare.",
+    "loginFailureText": "Eroare: Comanda dvs. a fost procesată, dar a survenit o problemă la crearea contului dvs. Încercaţi din nou.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

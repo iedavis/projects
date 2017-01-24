@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "주문 요약",
+    "subtotalText": "소계: ",
+    "discountText": "할인*: ",
+    "shippingOptionsText": "배송 옵션",
+    "changeText": "변경",
+    "salesTaxText": "판매세: ",
+    "orderTotalText": "주문 합계: ",
+    "placeOrderText": "주문 생성",
+    "noShippingText": "배송 없음",
+    "applicableTaxesText": "체크아웃 시 해당 세금이 계산됩니다.",
+    "paymentOptionsText": "결제 옵션",
+    "checkoutText": "체크아웃",
+    "noShippingSelectedText": "선택한 배송 방법이 없습니다.",
+    "shippingAddressRequired":"배송 주소를 입력하십시오.",
+    "shippingText": "배송: __displayName__",
+    "noShippingMethodsText": "사용 가능한 배송 방법이 없음",
+    "checkoutErrorMsg": "모든 필수 필드에 내용을 입력하고 부적합한 항목을 수정했는지 확인하십시오.",
+    "removeLinkText": "제거",
+    "rePricingText":"가격재산정",
+    "totalExcludingTaxText": "합계(세금 제외): ",
+    "includingTaxText": "(세금 포함)"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "간단히 보기...",
+    "seeMoreText" : "자세히 보기...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "세분화 기준",
+    "clearAllRefinementsText" : "모든 세분화 지우기",
+    "guidedNavigationHeader" : "안내식 탐색 헤더",
+    "doneText" : "완료",
+    "expandText" : "확장",
+    "collapseText" : "축소",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "중첩된 안내식 탐색이 로드되었습니다."
+  }
+}

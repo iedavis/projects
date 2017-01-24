@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Επιβεβαίωση παραγγελίας", 
+    "orderDoesNotExist": "Η παραγγελία δεν υπάρχει.", 
+    "thankyouMsg": "Ευχαριστούμε για την παραγγελία που υποβάλατε την __orderDate__ στις __orderTime__.", 
+    "processingMsg": "Η παραγγελία σας βρίσκεται σε επεξεργασία.",
+    "pendingMsg": "Ευχαριστούμε, λάβαμε το αίτημα παραγγελίας και εκκρεμεί η πληρωμή. Μόλις εγκριθεί η πληρωμή, θα γίνει επεξεργασία της παραγγελίας.",
+    "orderNumberMsg": "Ο αριθμός της παραγγελίας σας είναι __orderNumber__.", 
+    "emailMsg": "Ένα μήνυμα επιβεβαίωσης παραγγελίας σας έχει σταλεί στη διεύθυνση ηλ. ταχυδρομείου __emailAddress__ στο οποίο περιγράφεται η παρακάτω παραγγελία.", 
+    "yourOrderText": "Η παραγγελία σας", 
+    "itemText": "Είδος", 
+    "quantityText": "Ποσότητα", 
+    "itemTotalText": "Σύνολο είδους", 
+    "shippingAddressAndMethodText": "Διεύθυνση και μέθοδος αποστολής", 
+    "shipToText": "Αποστολή σε:", 
+    "shippingMethodText": "Μέθοδος αποστολής:", 
+    "paymentDetailsText": "Λεπτομέρειες πληρωμής", 
+    "cardTypeText": "Τύπος κάρτας:", 
+    "cardNumberText": "Αριθμός κάρτας:", 
+    "billingAddressText": "Διεύθυνση χρέωσης:",
+    "loginSuccessText": "Ο λογαριασμός σας δημιουργήθηκε. Ευχαριστούμε για την εγγραφή.",
+    "loginFailureText": "Σφάλμα: Η παραγγελία σας έχει υποβληθεί σε επεξεργασία, αλλά προέκυψε κάποιο πρόβλημα κατά τη δημιουργία του λογαριασμού σας. Προσπαθήστε ξανά.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

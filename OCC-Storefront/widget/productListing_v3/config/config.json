@@ -1,0 +1,63 @@
+{
+  "widgetDescriptorName": "productListing",
+  "properties": [
+    {
+      "id": "shouldUseStyleBased",
+      "type": "booleanType",
+      "name": "shouldUseStyleBased",
+      "helpTextResourceId": "shouldUseStyleBasedHelpText",
+      "labelResourceId": "shouldUseStyleBasedTextLabel",
+      "defaultValue": true
+    },
+    {
+      "id": "listType",
+      "type": "optionType",
+      "name": "tag",
+      "helpTextResourceId": "listTypeHelpText",
+      "labelResourceId": "listTypeTextLabel",
+      "defaultValue": "product",
+      "required": true,
+      "options": [
+        {
+          "id": "product",
+          "value": "product",
+          "labelResourceId": "productLabel"
+        },
+        {
+          "id": "search",
+          "value": "search",
+          "labelResourceId": "searchLabel"
+        }
+      ]
+    },
+    {
+      "id": "fields",
+      "type": "stringType",
+      "name": "fields",
+      "helpTextResourceId": "productListingFieldsRequiredHelpText",
+      "labelResourceId": "productListingFieldsRequiredLabel",
+      "defaultValue": "",
+      "required": false,
+      "pattern": "^[a-zA-Z0-9-_,.()]+$",
+      "maxLength":5000
+    },
+    {
+      "id": "productsPerPage",
+      "type": "stringType",
+      "name": "fields",
+      "helpTextResourceId": "productsPerPageRequiredHelpText",
+      "labelResourceId": "productsPerPageRequiredLabel",
+      "defaultValue": "12",
+      "required": true
+    },
+    {
+      "id": "blockSize",
+      "type": "stringType",
+      "name": "fields",
+      "helpTextResourceId": "blockSizeRequiredHelpText",
+      "labelResourceId": "blockSizeRequiredLabel",
+      "defaultValue": "60",
+      "required": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "config": {"homePageLink": "home"},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "404",
+  "imports": [],
+  "javascript": "404",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Page Not Found",
+  "pageTypes": ["error"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "404Widget",
+  "widgetType": "404Widget"
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Tere tulemast, __userdisplayname__!",
+    "invitationAlreadyAccepted" : "Kutse on juba vastu võetud.",
+    "spaceNotFound" : "Sooviloendit, mida te püüate avada, ei leitud.",
+    "invitationExpiredError" : "Teie kutse on aegunud. Pöörduge selle sooviloendi omaniku poole, millega soovite liituda, ja paluge, et ta teid uuesti kutsuks.",
+    "memberJoinError" : "Kutsega seoses ilmnes tõrge.",
+    "pleaseWaitProcessingMsg" : "Oodake, kuni me töötleme teie kutset."
+  }
+}

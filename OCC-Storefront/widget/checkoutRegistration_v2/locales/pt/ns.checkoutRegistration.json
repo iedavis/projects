@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Registo de Saída",
+    "emailAddressText" : "Endereço de Correio Eletrónico",
+    "firstNameText" : "Nome Próprio",
+    "lastNameText" : "Apelido",
+    "passwordText" : "Senha",
+    "confirmPasswordText" : "Confirmar Senha",
+    "checkoutAsGuestText" : "Registar saída como Utilizador Temporário",
+    "loginToAccountText" : "Entrar em sessão na conta",
+    "rememberMeText" : "Quero criar uma conta.",
+    "marketingMailsText" : "Quero obter atualizações por correio eletrónico.",
+    "checkoutErrorMsg" : "Certifique-se de que preencheu todos os campos obrigatórios e corrigiu quaisquer entradas inválidas.",
+    "buttonCancel": "Cancelar",
+    "buttonLogin": "Entrar em Sessão",
+    "checkoutOption": "Escolha a sua opção de registo de saída.",
+    "buttonLogout": "Sair de Sessão",
+    "welcomeMessage": "Bem-vindo!",
+    "registrationMessageText":"Criar uma conta significa que pode comprar mais rapidamente, manter-se atualizado quanto ao progresso da sua encomenda atual e verificar o estado das encomendas anteriores.",
+    "userSessionExpiredErrorMsg" : "A sua sessão de registo de saída expirou por inatividade. Reinicie o registo de saída."
+  }
+}

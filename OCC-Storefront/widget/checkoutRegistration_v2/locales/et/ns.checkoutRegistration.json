@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Vormista ost",
+    "emailAddressText" : "Meiliaadress",
+    "firstNameText" : "Eesnimi",
+    "lastNameText" : "Perekonnanimi",
+    "passwordText" : "Parool",
+    "confirmPasswordText" : "Kinnita parool",
+    "checkoutAsGuestText" : "Vormista ost külalisena",
+    "loginToAccountText" : "Logige oma kontole sisse",
+    "rememberMeText" : "Soovin luua konto.",
+    "marketingMailsText" : "Soovin saada meiliteavitusi.",
+    "checkoutErrorMsg" : "Kontrollige, kas kõik kohustuslikud väljad on täidetud ja sobimatud kirjed parandatud.",
+    "buttonCancel": "Loobu",
+    "buttonLogin": "Logi sisse",
+    "checkoutOption": "Valige ostu vormistamise viis.",
+    "buttonLogout": "Logi välja",
+    "welcomeMessage": "Tere tulemast tagasi!",
+    "registrationMessageText":"Konto loomine võimaldab kiiremini osta, jälgida oma jooksvat tellimust ning kontrollida eelnevaid tellimusi.",
+    "userSessionExpiredErrorMsg" : "Teie ostu vormistamise seanss on mitteaktiivsuse tõttu aegunud. Alustage ostu vormistamist uuesti."
+  }
+}

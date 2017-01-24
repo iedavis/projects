@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Betalingsdetaljer",
+  "paymentMethod": "Betalingsmåte",
+  "paypalText": "Den tryggeste og enkleste måten å betale på.", 
+  "paymentDetailsError": "Kontroller at du har fylt ut alle obligatoriske felt og korrigert eventuelle ugyldige registreringer.",
+  "paymentMethodNotAvilable": "(Dette betalingsvalget kan ikke brukes for planlagte ordrer.)",
+  
+  "nameOnCardLabel": "Navn på kort",
+  "nameOnCardPlaceholder": "Navn på kort",
+  "nameOnCardRequired": "Navn på kort er obligatorisk.",
+  "nameOnCardInvalid": "Ugyldig navn på kort.",
+  
+  "cardTypeLabel": "Korttype",
+  "cardTypePlaceholder": "Korttype",
+  "cardTypeRequired": "Korttype er obligatorisk.",
+  "cardTypeInvalid": "Ugyldig korttype.",
+  
+  "cardNumberLabel": "Kortnummer",
+  "cardNumberPlaceholder": "Kortnummer",
+  "cardNumberRequired": "Kortnummer er obligatorisk.",
+  "cardNumberMaxLength":"Ugyldig registrering. Maksimalt antall tegn er __maxLength__.",
+  "cardNumberInvalid": "Ugyldig kortnummer. Prøv på nytt.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV er obligatorisk.",
+  "cardCVVInvalid": "Ugyldig CVV.",
+  "cardCVVWhatsThis": "Hva er dette?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "De tre siste sifrene i signaturfeltet på kortet.",
+  "cardCVVNumberInvalid": "Ugyldig registrering. Angi bare tall.",
+  "cardCVVNumberMaxLength": "Ugyldig registrering. Maksimalt antall tegn er 4.",
+  "cardCVVNumberMinLength": "Ugyldig registrering. Angi minst 3 tegn.",
+  
+  "endMonthLabel": "Utløper (måned)",
+  "endMonthPlaceholder": "Utløper (måned)",
+  "endMonthRequired": "Kortutløpsmåned er obligatorisk.",
+  "endMonthInvalid": "Ugyldig utløpsmåned/-år. Prøv på nytt.",
+  
+  "endYearLabel": "Utløper (år)",
+  "endYearPlaceholder": "Utløper (år)",
+  "endYearRequired": "Kortutløpsår er obligatorisk.",
+  "endYearInvalid": "Ugyldig utløpsmåned/-år. Prøv på nytt.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

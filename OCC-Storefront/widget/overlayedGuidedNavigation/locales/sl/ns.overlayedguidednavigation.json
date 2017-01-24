@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Pokaži manj ...",
+    "seeMoreText" : "Pokaži več ...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Natančneje določi po",
+    "clearAllRefinementsText" : "Počisti vse omejitve",
+    "guidedNavigationHeader" : "Glava vodenega krmarjenja",
+    "doneText" : "Končano",
+    "expandText" : "Razširitev",
+    "collapseText" : "Strnitev",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Prekrivno vodeno krmarjenje je naloženo."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Sommaire de la commande",
+    "subtotalText": "Sous-total : ",
+    "discountText": "Remise(s)*  : ",
+    "shippingOptionsText": "Options d'expédition",
+    "changeText": "modifier",
+    "salesTaxText": "Taxe de vente : ",
+    "orderTotalText": "Total de la commande : ",
+    "placeOrderText": "Passer une commande",
+    "noShippingText": "Pas d'expédition",
+    "applicableTaxesText": "Les taxes applicables seront calculées au moment de la commande.",
+    "paymentOptionsText": "Options de paiement",
+    "checkoutText": "Commander",
+    "noShippingSelectedText": "Aucun mode d'expédition n'est sélectionné.",
+    "shippingAddressRequired":"Entrez une adresse d'expédition ",
+    "shippingText": "Expédition : __displayName__ ",
+    "noShippingMethodsText": "Aucun mode d'expédition n'est disponible",
+    "checkoutErrorMsg": "Vérifiez que vous avez rempli tous les champs obligatoires et corrigé les entrées non valides.",
+    "removeLinkText": "supprimer",
+    "rePricingText":"Retarification",
+    "totalExcludingTaxText": "Total (taxes exclues) : ",
+    "includingTaxText": "(taxes incluses)"
+  }
+}

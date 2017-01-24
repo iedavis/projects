@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "カート要約に表示する最大品目数を入力してください。",
+    "checkoutCartSummaryItemsToDisplayLabel": "カート要約内の最大品目"
+  }
+}

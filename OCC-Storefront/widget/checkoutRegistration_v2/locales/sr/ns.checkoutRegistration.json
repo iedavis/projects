@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Завршетак куповине",
+    "emailAddressText" : "Е-адреса",
+    "firstNameText" : "Име",
+    "lastNameText" : "Презиме",
+    "passwordText" : "Лозинка",
+    "confirmPasswordText" : "Потврдите лозинку",
+    "checkoutAsGuestText" : "Завршите куповину као гост",
+    "loginToAccountText" : "Пријавите се на налог",
+    "rememberMeText" : "Желим да креирам налог.",
+    "marketingMailsText" : "Желим да добијам обавештења путем е-порука.",
+    "checkoutErrorMsg" : "Уверите се да сте попунили сва обавезна поља и да сте исправили све неважеће уносе.",
+    "buttonCancel": "Откажи",
+    "buttonLogin": "Пријављивање",
+    "checkoutOption": "Изаберите опцију за завршетак куповине",
+    "buttonLogout": "Одјављивање",
+    "welcomeMessage": "Добро дошли!",
+    "registrationMessageText":"Када креирате налог, моћи ћете да купујете брже, будете у току са током тренутне наруџбине и проверавате статус претходних наруџбина.",
+    "userSessionExpiredErrorMsg" : "Ваша сесија куповине је истекла услед неактивности. Поново покрените проверу."
+  }
+}

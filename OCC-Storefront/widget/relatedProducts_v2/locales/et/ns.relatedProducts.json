@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Eelmised pildid",
+    "nextImageText" : "Järgmised pildid",
+    "onSaleText": "Soodusmüük",
+    "salePriceText": "Soodusmüügihind",
+    "listPriceText": "Hinnakirjahind",
+    "relatedProductsText": "Seotud tooted"
+  }
+}

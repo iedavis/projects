@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Teslim alma",
+    "defaultAddressLabel": "Adres Öndeğeri",
+    "billingAddressText" : "Faturalama Adresi",
+    "noAddressesText" : "Adres kaydedilmedi.",
+    "firstNameText": "Ad",
+    "lastNameText": "Soyadı",
+    "shippingAddressText": "Sevkiyat Adresi",
+    "checkoutErrorMsg": "Lütfen zorunlu alanların tümünü doldurduğunuzdan ve varsa geçersiz girişleri düzelttiğinizden emin olun.",
+    "firstNameRequired": "Ad gereklidir.",
+    "lastNameRequired": "Soyadı gereklidir.",
+    "unsupportedShippingAddressText": "Bu adrese sevkiyat mevcut değil.",
+    "invalidBillingAddressText": "Sevkiyat adresiniz faturalama adresi olarak kullanılamaz. Lütfen faturalama adresi girin.",
+    "invalidPreviousAddress": "Önceden kullanılan sevkiyat adresinize artık sevkiyat yapmıyoruz."
+  }
+}

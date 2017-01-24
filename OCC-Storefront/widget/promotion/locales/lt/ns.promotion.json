@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Įtraukti akcijos arba lojalumo kodą",
+  "promoCode": "Įvesti akcijos kodą",
+  "promoCodeAriaLabelText": "Įvesti akcijos kodą",
+  "buttonApplyCodeText": "Pritaikyti kodą",
+  "buttonApplyingCodeText": "Kodas pritaikomas",
+  "couponDetailsError": "Iškilo problema dėl išsamios kupono informacijos.",
+  "promoCodeRequired": "Kupono kodo laukas negali būti tuščias",
+  "duplicateCoupon": "Kodas jau pritaikytas."
+  }
+}

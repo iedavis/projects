@@ -1,0 +1,15 @@
+{
+  "resources" : {
+    "quoteTextHelpText" : "Main text for the quote",
+    "quoteTextLabel" : "Quote Text",
+    "quoteSourceHelpText" : "Quote source will be displayed after the quote",
+    "quoteSourceLabel" : "Quote Source",
+    "quoteStyleHelpText" : "Include Quote Visuals",
+    "quoteStyleLabel" : "Include Quote Visuals",
+    "quoteSizeHelpText" : "Size",
+    "quoteSizeLabel" : "Size",
+    "quoteSizeSmallLabel" : "Small",
+    "quoteSizeMediumLabel" : "Medium",
+    "quoteSizeLargeLabel" : "Large"
+  }
+}

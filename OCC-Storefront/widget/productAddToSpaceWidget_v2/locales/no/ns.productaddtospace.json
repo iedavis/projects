@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Legg til i ønskeliste",
+    "spaceSelectionText": "Velg en ønskeliste",
+    "spaceCommentText": "Angi en kommentar ...",
+    "spaceNameText": "Navn",
+    "buttonSpaceAdd": "Legg til",
+    "buttonSpaceCancel": "Avbryt",
+    "mySpacesGroupText": "Mine ønskelister",
+    "joinedSpacesGroupText": "Påmeldte ønskelister",
+    "createNewSpaceOptText": "Ny ønskeliste ...",
+    "addToSpaceSuccessMsg" : "__socialproduct__ er lagt til i __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Denne artikkelen finnes allerede i ønskelisten. Tilføyingsdatoen er oppdatert.",
+    "addToSpaceProductViewWishListMsg" : "  Vis __wishlistname__",
+    "spaceAddProductError" : "Feil under forsøk på å legge inn et produkt i ønskelisten. Prøv å oppdatere siden.",
+    "uniqueNameMsg": "Navnet på ønskelisten må være unikt.",
+    "emptyNameMsg": "Et navn må angis",
+    "privacySettingsLabel": "Personverninnstillinger",
+    "privacySettingsDescription": "Hvis du inviterer venner til en privat ønskeliste, endres personverninnstillingen til Gruppe. Hvis du sender en privat ønskeliste eller en gruppeønskeliste via e-post eller deler den på et sosialt nettverk, blir den en delt liste.",
+    "privacySharedLabel": "Alle som har kobling til listen, kan se den. Bare du og personer du inviterer, kan se, kommentere og legge til noe i denne listen.",
+    "privacyGroupLabel": "Bare du og personer du inviterer, kan se, kommentere og legge til noe i denne listen.",
+    "privacyPrivateLabel": "Bare du kan se og legge til noe i denne listen.",
+    "spaceAccessPrivateIconTxt" : "Privat",
+    "spaceAccessSharedIconTxt" : "Delt",
+    "spaceAccessGroupIconTxt" : "Gruppe",
+    "spaceCreateMaxSpacesMsg" : "Problem med opprettelse av ønskeliste. Du har overskredet grensen for antall ønskelister. Du må slette en eksisterende ønskeliste før du kan opprette en ny.",
+    "productAddMaxProductsMsg" : "Problem med å legge til et produkt i ønskelisten. Du har overskredet grensen for antall elementer i en ønskeliste. Du må slette et eksisterende produkt fra målønskelisten før du kan legge til et nytt."
+  }
+}

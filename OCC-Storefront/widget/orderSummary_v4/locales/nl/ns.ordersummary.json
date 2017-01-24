@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Orderoverzicht",
+    "subtotalText": "Subtotaal: ",
+    "discountText": "Korting(en)*: ",
+    "shippingOptionsText": "Verzendopties",
+    "changeText": "wijzigen",
+    "salesTaxText": "Omzetbelasting: ",
+    "orderTotalText": "Ordertotaal: ",
+    "placeOrderText": "Order plaatsen",
+    "noShippingText": "Geen verzending",
+    "applicableTaxesText": "Toepasselijke belastingen worden berekend bij het afrekenen.",
+    "paymentOptionsText": "Betalingsopties",
+    "checkoutText": "Kassa",
+    "noShippingSelectedText": "Geen verzendmethode geselecteerd",
+    "shippingAddressRequired":"Voer een bestemmingsadres in. ",
+    "shippingText": "Verzending: __displayName__ ",
+    "noShippingMethodsText": "Geen verzendmethoden beschikbaar",
+    "checkoutErrorMsg": "Controleer of u alle verplichte velden hebt ingevuld en eventuele ongeldige invoer hebt gecorrigeerd.",
+    "removeLinkText": "verwijderen",
+    "rePricingText":"Prijs opnieuw berekenen",
+    "totalExcludingTaxText": "Totaal (exclusief belasting): ",
+    "includingTaxText": "(inclusief belasting)"
+  }
+}

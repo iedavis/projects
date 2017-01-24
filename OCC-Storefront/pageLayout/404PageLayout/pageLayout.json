@@ -1,0 +1,170 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["404WidgetInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "error",
+  "isLayoutDisplayable": true,
+  "displayName": "Error Layout",
+  "translations": [
+    {
+      "name": "ไม่พบเพจ",
+      "language": "th"
+    },
+    {
+      "name": "Página não encontrada",
+      "language": "pt_BR"
+    },
+    {
+      "name": "找不到页面",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Сторінку не знайдено",
+      "language": "uk"
+    },
+    {
+      "name": "Стр. не е намерена",
+      "language": "bg"
+    },
+    {
+      "name": "Lehte ei leitud",
+      "language": "et"
+    },
+    {
+      "name": "Lapa nav atrasta",
+      "language": "lv"
+    },
+    {
+      "name": "Puslapis nerastas",
+      "language": "lt"
+    },
+    {
+      "name": "Fant ikke siden",
+      "language": "no"
+    },
+    {
+      "name": "Pagină negăsită",
+      "language": "ro"
+    },
+    {
+      "name": "Page introuvable",
+      "language": "fr_CA"
+    },
+    {
+      "name": "ページが見つかりません",
+      "language": "ja"
+    },
+    {
+      "name": "Stran ni najdena",
+      "language": "sl"
+    },
+    {
+      "name": "Страница не найдена",
+      "language": "ru"
+    },
+    {
+      "name": "Str. nije pronađena",
+      "language": "hr"
+    },
+    {
+      "name": "Sayfa Bulunamadı",
+      "language": "tr"
+    },
+    {
+      "name": "Nie znaleziono strony",
+      "language": "pl"
+    },
+    {
+      "name": "找不到頁面",
+      "language": "zh_TW"
+    },
+    {
+      "name": "페이지를 찾을 수 없음",
+      "language": "ko"
+    },
+    {
+      "name": "Stránka nenalezena",
+      "language": "cs"
+    },
+    {
+      "name": "Oldal nem található",
+      "language": "hu"
+    },
+    {
+      "name": "Η σελίδα δεν βρέθηκε",
+      "language": "el"
+    },
+    {
+      "name": "Side ikke fundet",
+      "language": "da"
+    },
+    {
+      "name": "Page Not Found",
+      "language": "en"
+    },
+    {
+      "name": "Стр. није пронађена",
+      "language": "sr"
+    },
+    {
+      "name": "Seite nicht gefunden",
+      "language": "de"
+    },
+    {
+      "name": "الصفحة غير موجودة",
+      "language": "ar"
+    },
+    {
+      "name": "Página no encontrada",
+      "language": "es"
+    },
+    {
+      "name": "Page introuvable",
+      "language": "fr"
+    },
+    {
+      "name": "Pagina non trovata",
+      "language": "it"
+    },
+    {
+      "name": "Pagina niet gevonden",
+      "language": "nl"
+    },
+    {
+      "name": "Sidan hittades inte",
+      "language": "sv"
+    },
+    {
+      "name": "Página Não Encontrada",
+      "language": "pt"
+    },
+    {
+      "name": "Sivua ei löydy",
+      "language": "fi"
+    }
+  ]
+}

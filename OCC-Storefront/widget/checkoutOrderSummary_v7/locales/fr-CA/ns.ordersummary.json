@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Sommaire de la commande",
+    "subtotalText": "Sous-total : ",
+    "shippingOptionsText": "Options d'expédition",
+    "salesTaxText": "Taxe de vente : ",
+    "orderTotalText": "Total de la commande : ",
+    "placeOrderText": "Passer une commande",
+    "scheduleOrderText": "Commande programmée",
+    "noShippingText": "Pas d'expédition",
+    "shippingText": "Expédition : __displayName__",    
+    "applicableTaxesText": "Les taxes applicables seront calculées au moment de la commande.",
+    "paymentOptionsText": "Options de paiement",
+    "checkoutText": "Commander",
+    "noShippingSelectedText": "Aucun mode d'expédition n'est sélectionné.",
+    "shippingAddressRequired": "Entrez une adresse d'expédition",
+    "noShippingMethodsText": "Aucun mode d'expédition n'est disponible pour votre adresse de destination.",
+    "noShippingMethodsForAddressText": "Aucun mode d'expédition n'est disponible pour l'adresse sélectionnée",
+    "checkoutErrorMsg": "Vérifiez que vous avez rempli tous les champs obligatoires et corrigé les entrées non valides.",
+    "rePricingText":"Retarification",
+    "removeLinkText":"supprimer",
+    "paymentMessage": "Le prochain écran affiché sera peut-être une vérification de votre carte de paiement par l'organisme émetteur.",
+    "includingTaxText": "(taxes incluses)",
+    "totalExcludingTaxText": "Total (taxes exclues) : ",
+    "paymentMethodNotAvilable": "(Cette option de paiement ne peut pas être utilisée pour les commandes programmées.)",
+    "selectShippingMethodText": "Sélectionner le mode d'expédition"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Resumo do pedido",
+    "subtotalText": "Subtotal: ",
+    "shippingOptionsText": "Opções de entrega",
+    "salesTaxText": "Imposto sobre vendas: ",
+    "orderTotalText": "Total do pedido: ",
+    "placeOrderText": "Finalizar pedido",
+    "scheduleOrderText": "Programar Pedido",
+    "noShippingText": "Sem entrega",
+    "shippingText": "Entrega: __displayName__",    
+    "applicableTaxesText": "Os impostos aplicáveis serão calculados na finalização da compra.",
+    "paymentOptionsText": "Opções de pagamento",
+    "checkoutText": "Finalizar compra",
+    "noShippingSelectedText": "Nenhum método de entrega selecionado.",
+    "shippingAddressRequired": "Informe um endereço de entrega",
+    "noShippingMethodsText": "Não há métodos de entrega disponíveis para o seu endereço de destino.",
+    "noShippingMethodsForAddressText": "Não há métodos de entrega disponíveis para o endereço selecionado",
+    "checkoutErrorMsg": "Verifique se você preencheu todos os campos obrigatórios e corrigiu todas as entradas inválidas.",
+    "rePricingText":"Nova precificação",
+    "removeLinkText":"remover",
+    "paymentMessage": "A próxima tela que você verá pode ser a verificação de cartão de pagamento através da emissora do cartão.",
+    "includingTaxText": "(com imposto)",
+    "totalExcludingTaxText": "Total (sem imposto):",
+    "paymentMethodNotAvilable": "(Esta opção de pagamento não pode ser usada para pedidos programados.)",
+    "selectShippingMethodText": "Selecionar método de entrega"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Sisällytetäänkö suunnitellun tilauksen tunnus?",
+	"includeScheduledHelpText" : "Valitsemalla tämän voit sisällyttää suunnitellun tilauksen tunnuksen tilaushistorian tauluun"
+  }
+}

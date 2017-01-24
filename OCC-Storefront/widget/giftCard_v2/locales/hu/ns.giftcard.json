@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Fizetés ajándékkártyával",
+    "giftCardNumberText": "Ajándékkártya száma",
+    "giftCardPinText": "Ajándékkártya PIN-kódja",
+    "giftCardApplyText": "Ajándékkártya alkalmazása", 
+    "giftCardApplyingText": "Ajándékkártya alkalmazása", 
+    "displayGiftCardDetailsText" : "Fizetés ajándékkártyával",
+    "duplicateGiftcardErrMsg":"Az ajándékkártyát már felhasználták."
+  }
+}

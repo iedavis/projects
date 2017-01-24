@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Virhe yhdyskäytävän käsitellessä maksua. Yritä uudelleen.",
+    "paymentDeclinedMsg": "Maksu on hylätty. Yritä uudelleen.",
+    "paymentExpiredMsg": "Maksu on vanhentunut. Yritä uudelleen.",
+    "paymentErrorMsg": "Virhe maksun käsittelyssä. Yritä uudelleen.",
+    "payByCashText": "Maksu käteisenä",
+    "invoicePaymentMsg": "Pyydä lasku",
+    "purchaseOrderNumberMsg":"Ostotilausnumero"
+  }
+}

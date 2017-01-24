@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Hoş geldiniz __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Davetiye zaten kabul edilmiş.",
+    "spaceNotFound" : "Erişmeye çalıştığınız İstek Listesi bulunamadı.",
+    "invitationExpiredError" : "Davetinizin süresi doldu. Katılmak istediğiniz İstek Listesinin sahibiyle iletişime geçin ve sizi tekrar davet etmesini isteyin.",
+    "memberJoinError" : "Davetiyeyle ilgili bir hata oluştu.",
+    "pleaseWaitProcessingMsg" : "Lütfen davetiyeniz işlenirken bekleyin"
+  }
+}

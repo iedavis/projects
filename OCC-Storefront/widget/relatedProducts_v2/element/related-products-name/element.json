@@ -1,0 +1,181 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [
+    "textBox",
+    "fontPicker",
+    "preview"
+  ],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["relatedProducts"],
+  "tag": "related-products-name",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ชื่อผลิตภัณฑ์ที่เกี่ยวข้อง"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Título de Produtos Relacionados"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "相关产品标题"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Заголовок \"Пов'язані продукти\""
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Заглавие на свързаните продукти"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Seotud toodete pealkiri"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Saistīto produktu virsraksts"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Susijusių produktų pavadinimas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Tittel for relaterte produkter"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Titlu produse corelate"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Titre de produits connexes"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "関連製品タイトル"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Naziv sorodnih izdelkov"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Заголовок связанных продуктов"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Naslov srodnih proizvoda"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "İlgili Ürünler Başlığı"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Tytuł powiązanych produktów"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "相關產品標題"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "관련 제품 제목"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Související produkty - nadpis"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Kapcsolódó termékek - cím"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Τίτλος σχετικών προϊόντων"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Relaterede produkter (titel)"
+    },
+    {
+      "description": "Title for Related Products",
+      "language": "en",
+      "title": "Related Products Title"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Наслов сродних производа"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Titel für zugehörige Produkte"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Título productos relacionados"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Titre de produits associés"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Titolo prodotti correlati"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Titel gerelateerde producten"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Titel för relaterade produkter"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Título de Produtos Relacionados"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Liittyvien tuotteiden otsikko"
+    }
+  ],
+  "type": "fragment",
+  "version": 2
+}

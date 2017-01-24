@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Moje narudžbe",
+    "backToMyOrdersLink" : "<< Natrag na moje narudžbe",
+    "orderDetailsText": "Pojedinosti narudžbe",
+    "orderDateText": "Datum narudžbe:",
+    "orderNumberText": "Broj narudžbe:",
+    "orderStatusText": "Status narudžbe:",
+    "quoteExpiryText": "Istek ponude:",
+    "scheduledOrderName": "Naziv plana:",
+    "shippingAddressAndMethodText": "Adresa i način otpreme", 
+    "shippingAddressText": "Primatelj:",
+    "noShippingAddressText" : "Adresa otpreme nije dostupna", 
+    "shippingMethodText": "Način otpreme:",
+    "shippingText": "Standardna otprema:",
+    "salesTaxText": "Porez na promet:",
+    "orderTotalText": "Ukupan iznos narudžbe:",
+    "includingTaxText": "(porez uključen)",
+    "totalExcludingTaxText": "Ukupno (porez nije uključen):",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Brojevi za praćenje:",
+    "trackingReferenceReaderText": "__carrierName__ referenca praćenja __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Planirana narudžba stvorena u skladu s cjenikom '__priceListGroup__'"
+  } 
+}

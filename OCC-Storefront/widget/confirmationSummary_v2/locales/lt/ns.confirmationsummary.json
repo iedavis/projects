@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Užsakymo suvestinė", 
+    "orderDoesNotExist": "Užsakymas neegzistuoja", 
+    "subTotalText": "Tarpinė suma:", 
+    "salesTaxText": "Pardavimo mokestis:", 
+    "orderTotalText": "Bendroji užsakymo suma:", 
+    "continueShoppingText": "Tęsti pirkimą",
+    "delimiter": ":",
+    "includingTaxText": "(mokestis įskaičiuotas)",
+    "totalExcludingTaxText": "Iš viso (mokestis neįskaičiuotas): "
+  }
+}

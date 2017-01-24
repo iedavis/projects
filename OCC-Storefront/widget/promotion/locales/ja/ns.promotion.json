@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "プロモーションまたはロイヤルティ・コードの追加",
+  "promoCode": "プロモーション・コードの入力",
+  "promoCodeAriaLabelText": "プロモーション・コードの入力",
+  "buttonApplyCodeText": "コードの適用",
+  "buttonApplyingCodeText": "コードの適用中",
+  "couponDetailsError": "クーポン詳細に問題が見つかりました。",
+  "promoCodeRequired": "クーポン・コードは空にできません",
+  "duplicateCoupon": "コードはすでに適用されています。"
+  }
+}

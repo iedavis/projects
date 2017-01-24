@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "新增促銷或紅利積點代碼",
+  "promoCode": "輸入促銷代碼",
+  "promoCodeAriaLabelText": "輸入促銷代碼",
+  "buttonApplyCodeText": "套用代碼",
+  "buttonApplyingCodeText": "套用代碼",
+  "couponDetailsError": "在您的優惠券詳細資料中找到問題。",
+  "promoCodeRequired": "優惠券代碼不得空白",
+  "duplicateCoupon": "已套用代碼。"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "ยินดีต้อนรับ __userdisplayname__",
+    "invitationAlreadyAccepted" : "ตอบรับคำเชิญแล้ว",
+    "spaceNotFound" : "ไม่พบลิสต์สิ่งที่ต้องการที่คุณกำลังพยายามเข้าใช้",
+    "invitationExpiredError" : "คำเชิญของคุณหมดอายุแล้ว โปรดติดต่อเจ้าของลิสต์สิ่งที่ต้องการที่คุณต้องการเข้าร่วมและขอให้บุคคลนั้นเชิญคุณใหม่",
+    "memberJoinError" : "เกิดข้อผิดพลาดเกี่ยวกับคำเชิญ",
+    "pleaseWaitProcessingMsg" : "โปรดรอขณะที่เราประมวลผลคำเชิญของคุณ"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Προηγούμενες εικόνες",
+    "nextImageText" : "Επόμενες εικόνες",
+    "onSaleText": "Πώληση",
+    "salePriceText": "Τιμή πώλησης",
+    "listPriceText": "Τιμή καταλόγου",
+    "relatedProductsText": "Σχετικά προϊόντα"
+  }
+}

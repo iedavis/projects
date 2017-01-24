@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "cookieConsentTitle" : "Cookeie Consent",
+    "cookieConsentLine1" : "This website uses Cookies to improve your user experience. By continuing, you are accepting Cookies on this website.",
+    "cookieConsentLine2" : "For more details, see our ",
+    "cookieConsentLink" : "Privacy Policy",
+    "cookieConsentButton" : "Accept"
+  }
+}

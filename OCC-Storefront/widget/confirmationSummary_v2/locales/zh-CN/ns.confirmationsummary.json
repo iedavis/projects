@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "订单摘要", 
+    "orderDoesNotExist": "订单不存在。", 
+    "subTotalText": "小计：", 
+    "salesTaxText": "销售税：", 
+    "orderTotalText": "订单合计：", 
+    "continueShoppingText": "继续购物",
+    "delimiter": ":",
+    "includingTaxText": "（含税）",
+    "totalExcludingTaxText": "合计（不含税）："
+  }
+}

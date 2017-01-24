@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "__userdisplayname__님, 환영합니다.",
+    "invitationAlreadyAccepted" : "초대가 이미 수락되었습니다.",
+    "spaceNotFound" : "접근하려는 희망 목록을 찾을 수 없습니다.",
+    "invitationExpiredError" : "초대가 만료되었습니다. 참가하려는 희망 목록 소유자에게 문의해 다시 초대하도록 요청하십시오.",
+    "memberJoinError" : "초대에 오류가 발생했습니다.",
+    "pleaseWaitProcessingMsg" : "초대를 처리하는 동안 잠시 기다려 주십시오."
+  }
+}

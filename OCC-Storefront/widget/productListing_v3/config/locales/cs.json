@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Zaškrtněte, chcete-li použít výpis na základě stylu.",
+    "shouldUseStyleBasedTextLabel": "Použít výpis na základě stylu",
+    "listTypeHelpText": "Vyberte typ instance pomůcky - výpis produktů nebo seznam výsledků vyhledávání.",
+    "listTypeTextLabel": "Typ seznamu",
+    "productLabel" : "Produkt",
+    "searchLabel" : "Hledat",
+    "productListingFieldsRequiredHelpText": "Zadejte seznam polí oddělených čárkami, která mají být zahrnuta v odpovědi. Nastavení polí se vztahuje pouze na výpisy produktů prostřednictvím navigace na základě kategorií, nikoli na výsledky hledání.",
+    "productListingFieldsRequiredLabel": "Pole",
+    "productsPerPageRequiredHelpText": "Zadejte počet produktů, které se mají zobrazit na stránce.",
+    "productsPerPageRequiredLabel": "Počet produktů na stránce",
+    "blockSizeRequiredHelpText": "Zadejte počet produktů, které mají být načteny v rámci jednoho požadavku. Nastavení velikosti bloku se vztahuje pouze na výpisy produktů prostřednictvím navigace na základě kategorií, nikoli na výsledky hledání.",
+    "blockSizeRequiredLabel": "Velikost bloku"
+  }
+}

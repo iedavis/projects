@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Riepilogo carrello",
+    "quantityText": "Quantità:",
+    "colorText": "Colore:",
+    "sizeText": "Taglia:",
+    "instockText": "Disponibile ",
+    "outofstockText": "Esaurito",
+    "estimiatedShippingText": "Stima spedizione:",
+    "buttonEditCartSummary": "Modifica ",
+    "editCartText": "Modifica carrello",
+    "seeAllProducts": "Visualizza tutti i prodotti",
+    "showAll": "Mostra tutto",
+    "cartSummaryItemLimitText": "Visualizzazione dei primi __noOfItems__ articoli nel carrello"
+  }
+}

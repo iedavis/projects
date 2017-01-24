@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Entrez le nombre maximal d'articles à afficher dans le sommaire du panier.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Nombre maximal d'articles dans le sommaire du panier"
+  }
+}

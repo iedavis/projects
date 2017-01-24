@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Det oppstod en feil under behandling av betalingen i innfallsporten. Prøv på nytt.",
+    "paymentDeclinedMsg": "Betalingen er avslått. Prøv på nytt.",
+    "paymentExpiredMsg": "Betalingen har utløpt. Prøv på nytt.",
+    "paymentErrorMsg": "Feil ved behandling av betalingen. Prøv på nytt.",
+    "payByCashText": "Betal kontant",
+    "invoicePaymentMsg": "Be om faktura",
+    "purchaseOrderNumberMsg":"Bestillingsnummer"
+  }
+}

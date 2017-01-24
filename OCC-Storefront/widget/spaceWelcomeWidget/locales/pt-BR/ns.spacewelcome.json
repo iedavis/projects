@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Comece a comprar de forma colaborativa hoje!",
+    "welcomePageLoginText": "Fazer Log-in",
+    "welcomePageCreateAccountText": "Criar Conta",
+    "welcomePageTitle": "Bem-vindo às Listas de Desejos!",
+    "welcomePageSubtitle": "Inscreva-se gratuitamente nas Listas de Desejos e participe!",
+    "welcomePageBulletText1": "Salve, organize e obtenha feedback sobre os produtos em que está interessado.",
+    "welcomePageBulletText2": "Compartilhe suas listas de desejos com a família e os amigos e decidam juntos o que comprar.",
+    "welcomePageBulletText3": "Use as listas de desejos para descobrir e conversar sobre presentes. Nunca mais compre o presente errado!",
+    "welcomePageOrText": "ou"
+  }
+}

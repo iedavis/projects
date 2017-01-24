@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "الطلبات المجدولة",
+    "backToMyAccount" : "<< عودة إلى الحساب الخاص بي",
+    "scheduledOrderName" : "الاسم",
+    "frequency": "التكرار",    
+    "scheduledOrderId": "المعرف",
+    "scheduledOrderStatus": "الموقف",
+    "nextShipDate": "الطلب التالي",
+    "lastScheduledRun": "الطلب الأخير",
+    "scheduledOrderDetails": "تفاصيل الطلب",
+    "orderDetails": "التفاصيل",
+    "action": "الإجراء",
+    "createdDate":"تاريخ التكوين",
+    "editOrder": "تحرير",
+    "deleteOrder": "حذف",
+    "deleteSuccessMsg":"تم الحذف بنجاح",
+    "myAccount" : "الحساب الخاص بي"
+  }
+}

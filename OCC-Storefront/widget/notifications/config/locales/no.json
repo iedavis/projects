@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Angi om tidsavbrudd for ikke-feilvarsler er tillatt.",
+    "notificationsTimeoutEnabledTextLabel": "Tidsavbrudd aktivert",
+    "notificationsTimeoutHelpText": "Angi tidsavbruddet for ikke-feilvarsler (i sekunder).",
+    "notificationsTimeoutTextLabel": "Tidsavbrudd (i sekunder)",
+    "notificationsFixedHelpText": "Angi om varslingssmåprogrammet skal være festet til toppen av siden.",
+    "notificationsFixedTextLabel": "Fast"
+  }
+}

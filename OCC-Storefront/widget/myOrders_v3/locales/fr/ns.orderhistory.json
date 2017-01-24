@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Mon compte",
+    "orderHistoryText" : "Historique des commandes",
+    "backToMyAccount" : "<< Retourner à Mon compte",
+    "historyHeaderOrderDate": "Date de commande",    
+    "historyHeaderOrderNumber": "Numéro de commande",
+    "historyHeaderOrderStatus": "Statut de commande",
+    "historyHeaderOrderTotal": "Total commande",
+    "historyHeaderOrderDetails": "Détails de commande",
+    "listingHeaderScheduledOrderId": "ID planification",
+    "orderDetails": "Détails"
+  }
+}

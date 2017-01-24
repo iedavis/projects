@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Nastavitve e-poštnih obvestil",
+    "spaceSettingsNotificationIntroText" : "Rad bi prejel:",
+    "spaceSettingsCommentNotificationTxt" : "Obvestila o komentarjih in izdelkih",
+    "spaceSettingsNewMemberNotificationTxt" : "Obvestila o novih članih",
+    "spaceSettingsSaveTxt" : "Shrani",
+    "spaceSettingsCancelTxt" : "Prekliči",
+    "spaceSettingsSaveErrorTxt" : "Pri shranjevanju vaših nastavitev obvestil je prišlo do težave.",
+    "spaceSettingsSaveSuccessTxt" : "Vaše nastavitve obvestil so bile posodobljene in shranjene.",
+    "spaceSettingsOnText" : "Da",
+    "spaceSettingsOffText" : "Ne",
+    "spaceSettingsNotificationEnableHelpText" : "Za omogočanje obvestil seznama želja izberite \"Želim obvestila prek e-pošte\" na strani \"Moj račun\"."
+  }
+}

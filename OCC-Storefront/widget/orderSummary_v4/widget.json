@@ -1,0 +1,21 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "ordersummary",
+  "imports": [
+    "payment",
+    "order",
+    "paymentauthorization",
+    "shippingmethods"
+  ],
+  "javascript": "order-summary",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Order Summary",
+  "pageTypes": ["cart"],
+  "source": 100,
+  "version": 4,
+  "widgetFamily": "orderSummary",
+  "widgetType": "orderSummary"
+}

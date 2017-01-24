@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Coşul dvs. este gol.",
+    "buttonContinueShopping": "Continuare cumpărături",
+    "cartHeader" : "Coşul dvs. de cumpărături",
+    "itemHeaderItem": "Articol",    
+    "itemHeaderQuantity": "Cantitate",
+    "itemQuantity": "Cantitate __productName__",
+    "itemHeaderItemTotal": "Total articole",
+    "totalTableSubTotal": "Subtotal:",
+    "includingTaxText": "(inclusiv taxe)",
+    "totalTableTotal": "Total:",
+    "buttonUpdateQuantity": "Actualizare",
+    "buttonRemoveItem": "Eliminare",
+    "instockText": "În stoc",
+    "outofstockText": "Epuizat din stoc",
+    "totalTableSummary": "Totaluri coş de cumpărături."
+  }
+}

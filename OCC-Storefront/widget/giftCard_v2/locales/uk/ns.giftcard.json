@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Оплатити за допомогою подарункової картки",
+    "giftCardNumberText": "Номер подарункової картки",
+    "giftCardPinText": "PIN-код подарункової картки",
+    "giftCardApplyText": "Застосувати подарункову картку", 
+    "giftCardApplyingText": "Застосування подарункової картки", 
+    "displayGiftCardDetailsText" : "Оплатити за допомогою подарункової картки",
+    "duplicateGiftcardErrMsg":"Подарункову картку вже застосовано."
+  }
+}

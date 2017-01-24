@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "게이트웨이에서 결제를 처리하는 중 오류가 발생했습니다. 다시 시도하십시오.",
+    "paymentDeclinedMsg": "결제가 거부되었습니다. 다시 시도하십시오.",
+    "paymentExpiredMsg": "결제가 만료되었습니다. 다시 시도하십시오.",
+    "paymentErrorMsg": "결제를 처리하는 동안 오류가 발생했습니다. 다시 시도하십시오.",
+    "payByCashText": "현금으로 결제",
+    "invoicePaymentMsg": "송장 요청",
+    "purchaseOrderNumberMsg":"구매 주문 번호"
+  }
+}

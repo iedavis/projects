@@ -1,0 +1,151 @@
+<!-- ko if: $data.isDelegatedAdmin -->
+<div id="organizationAddressWidget" class="container-fluid">
+  <div id="organizationAddressHeader">
+  <span>
+    <h2 data-bind="widgetLocaleText: 'accountAddressesText'"></h2>
+  </span>
+  </div>
+  <div class="row">
+      <div class="col-md-12">
+        <legend></legend>
+      </div>
+  </div>
+  <!-- ko ifnot:isEditMode() -->
+  <!-- ko if: $data.addresses().length == 0 -->
+  <div class="col-md-12 hidden-xs hidden-sm">
+      	<button class="cc-button-primary pull-right" id="organization-address-add" data-bind="click:handleCreateOrEditOrganizationAddress.bind($data, true)">
+          <span data-bind="widgetLocaleText: 'newText'"></span>
+        </button>
+      </div>
+       <div data-bind="widgetLocaleText:'NoAccountAddressMessage' " />
+  <!-- /ko -->
+  <!-- ko if:addresses().length > 0 -->
+    <div class="col-md-5 hidden-xs hidden-sm pull-right">
+      	<button class="cc-button-primary pull-right" id="organization-address-add" data-bind="click:$data.handleCreateOrEditOrganizationAddress.bind($data, true)">
+          <span data-bind="widgetLocaleText: 'newText'"></span>
+        </button>
+      </div>
+  <div id="organization-address-container" data-bind='foreach: addresses'>
+
+  <address class="col-md-12 col-sm-12 col-xs-12">
+     <div class="row">
+      <div class="col-xs-12 col-sm-6 col-md-6 pull-right text-right">
+      	<button class="btn btn-default btn-sm iconButtons"
+                data-bind="attr: {id: 'CC-organization-address-select-default-billing-btn-' + $index()},
+                                 widgetLocaleText: {value:'selectDefaultBillingAddressBtnTitle', attr:'title'},
+                                 click: $parent.setDefaultBillingAddress.bind($parent, $data),
+                                 disabled:false,
+                                 style:{'background-color':   $parent.defaultBillingAddress === null ? '' : address.repositoryId === $parent.defaultBillingAddress.repositoryId ? 'dimgrey': ''}">
+          <i class="fa fa-credit-card" data-bind="style:{color:  $parent.defaultBillingAddress === null ? '' : address.repositoryId === $parent.defaultBillingAddress.repositoryId ? 'lightgrey': ''}"></i>
+        </button>
+        <button class="btn btn-default btn-sm btn-margin iconButtons"
+                data-bind="attr: {id: 'CC-organization-address-select-default-shipping-btn-' + $index()},
+                                 widgetLocaleText: {value:'selectDefaultShippingAddressBtnTitle', attr:'title'},
+                                 click: $parent.setDefaultShippingAddress.bind($parent, $data),
+                                 disabled:false,
+                                 style:{'background-color':  $parent.defaultShippingAddress === null ? '' : address.repositoryId === $parent.defaultShippingAddress.repositoryId ? 'dimgrey': ''}">
+          <i class="fa fa-truck" data-bind="style:{color:  $parent.defaultShippingAddress === null ? '' : address.repositoryId === $parent.defaultShippingAddress.repositoryId ? 'lightgrey': ''}"></i>
+        </button>
+        <button class="btn btn-default btn-sm btn-margin"
+                data-bind="attr: {id: 'CC-customerProfile-edit-addr-btn-' + $index()},
+                            widgetLocaleText: {value:'editOrganizationAddressBtnTitle', attr:'title'},
+                            click: $parent.handleCreateOrEditOrganizationAddress.bind($parent, false)">
+          <i class="fa fa-pencil"></i>
+          <span class="sr-only" data-bind="widgetLocaleText: 'screenReaderEditOrganizationAddressLabel'"></span>
+        </button>        
+        <button class="btn btn-default btn-sm btn-margin"
+                data-bind="attr: {id: 'CC-customerProfile-remove-addr-btn-' + $index()},
+                               click: $parent.removeOrganizationAddress.bind($parent, address),
+                               widgetLocaleText: {value:'removeOrganizationAddressBtnTitle', attr:'title'}">
+          <i class="fa fa-trash-o"></i>
+          <span class="sr-only" data-bind="widgetLocaleText: 'screenReaderRemoveOrganizationAddressLabel'"></span>
+        </button>
+      </div>
+      <div class="col-md-6 col-sm-6 col-xs-12">
+      <!-- ko if: $parent.defaultBillingAddress === null ? false:  address.repositoryId === $parent.defaultBillingAddress.repositoryId ? true: false -->
+      <span id="organizationDefaultBillingAddress" data-bind="widgetLocaleText: 'defaultBillingAddressLabel'"></span>
+      <br />
+      <!-- /ko -->
+      <!-- ko if: $parent.defaultShippingAddress === null ? false:  address.repositoryId === $parent.defaultShippingAddress.repositoryId ? true: false -->
+      <span id="organizationDefaultShippingAddress" data-bind="widgetLocaleText: 'defaultShippingAddressLabel'"></span>
+      <br />
+      <!-- /ko -->
+      <span class="address-field" data-bind="text: addressType"></span>
+      <br/>
+      <span class="address-field" data-bind="text: address.companyName"></span>
+      <br/>
+      <span class="address-field" data-bind="text: address.address1"></span>
+      <br/>
+      <!-- ko if: address.address2 -->
+        <span class="address-field" data-bind="text: address.address2"></span>
+        <br/>
+      <!-- /ko -->
+      <span class="address-field" data-bind="text: address.city"></span>, <span class="address-field" data-bind="text: address.state"></span>, <span class="address-field" data-bind="text: address.postalCode"></span>
+      <br/>
+      <span class="address-field" data-bind="text: address.country"></span>
+      <br/>
+      <span class="address-field" data-bind="text: address.phoneNumber"></span>
+      <br />
+       </div>
+      </div>
+    </address>
+
+   </div>
+   <!-- /ko -->
+   <div class="row">
+        <div id="CC-add-new-address-xs" class="visible-xs visible-sm">
+          <button id="cc-add-new-address-xs" class="cc-button-primary col-xs-12 col-sm-12" data-bind="attr: {title: $data.translate('addNewAddress')}, click: handleCreateOrEditOrganizationAddress.bind($data, true)">
+          <span data-bind="widgetLocaleText: 'addNewAddress'"></span>
+          </button>
+        </div>
+   </div>
+   
+  <!-- /ko -->
+    <!-- Modal -->
+  <div class="modal fade" id="cc-update-address-ModalContainer" role="dialog">
+    <div class="modal-dialog" id="cc-update-address-ModalContainer-modal-dialog">
+    <!-- Modal content-->
+      <div class="modal-content" id="cc-update-address-ModalContent">
+        <div class="modal-header cc-update-address-modal-heading cc-update-address-confirm-icon" id="CC-update-address-modal-header">
+          <button type="button" class="close" data-dismiss="modal" id="CC-update-address-modal-headerClose" aria-hidden="true">&times;</button>
+          <h4 data-bind="widgetLocaleText:'updateDuplicateAddressTitle'" id="CC-update-address-modal-headerText">Duplicate Nickname</h4>
+        </div>
+        <div class="modal-body cc-update-address-body-modal">
+          <p data-bind="widgetLocaleText:'updateDuplicateAddress'" align="center" id="CC-update-address-modal-bodyText">Duplicate Nickname</p>
+        </div>
+        <div class="modal-footer cc-update-address-modal-footer">
+          <button type="button" class="btn cc-button-primary"   data-dismiss="model"  id="CC-update-address-modal-update-button" data-bind="click: handleUpdateDuplicateOrganizationAddress"><span id="CC-update-address-modal-save" data-bind="widgetLocaleText: 'updateAddress'"></span></button>
+          <button type="button" class="btn cc-button-secondary" data-dismiss="model" id="CC-update-address-modal-no" data-bind="click: handleDuplicateOrganizationAddressDialogClose"><span id="CC-update-address-modal-discard-button" data-bind="widgetLocaleText: 'discard'"></span></button>
+        </div>
+      </div>
+  </div>
+  </div>
+  <!-- Cancel Modal -->
+  <div class="modal fade" id="cc-cancel-account-addresses-ModalContainer" tabindex="-1" role="alert" data-bind="modalTabbingContraint">
+    <div class="modal-dialog" id="cc-cancel-account-addresses-ModalContainer-modal-dialog">
+      <div class="modal-content" id="cc-cancel-account-addresses-ModalContent">
+        <div class="modal-header cc-cancel-account-addresses-modal-heading cc-cancel-account-addresses-confirm-icon" id="CC-cancel-account-addresses-modal-header">
+          <button type="button" class="close" data-dismiss="modal" id="CC-cancel-account-addresses-modal-headerClose" aria-hidden="true">&times;</button>
+          <h4 data-bind="widgetLocaleText:'updateCancelModalTitle'" id="CC-cancel-account-addresses-modal-headerText"></h4>
+        </div>
+        <div class="modal-body cc-cancel-account-addresses-body-modal">
+          <p data-bind="widgetLocaleText:'updateCancelModalMessage'" align="center" id="CC-cancel-account-addresses-modal-bodyText"></p>
+        </div>
+        <div class="modal-footer cc-cancel-account-addresses-modal-footer">
+          <button class="btn cc-button-secondary" id="CC-cancel-account-addresses-modal-cancel" data-bind="click: handleModalCancelUpdateDiscard">
+            <span id="CC-cancel-account-addresses-modal-discard" data-bind="widgetLocaleText:'updateCancelModalClose'"></span>
+          </button>
+          <button class="btn cc-button-primary" id="CC-customerProfile-modal-submit"  data-bind="click: handleModalUpdate">
+            <span id="CC-cancel-account-addresses-modal-save" data-bind="widgetLocaleText:'updateCancelModalSave'"></span>
+          </button>
+        </div> 
+      </div>
+    </div>
+  </div>
+  <!-- ko if:isEditMode() -->
+  <div id="edit-organization-address" class="row"
+       data-bind="template: { name: templateAbsoluteUrl('/templates/manageAccountAddresses.template') , templateUrl: ''}">
+  </div>
+  <!-- /ko -->
+</div>
+<!-- /ko -->

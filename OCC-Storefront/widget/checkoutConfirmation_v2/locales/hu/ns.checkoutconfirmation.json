@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Rendelés megerősítése", 
+    "orderDoesNotExist": "A rendelés nem létezik.", 
+    "thankyouMsg": "Köszönjük a rendelést. (Rendelés időpontja: __orderDate__ , __orderTime__.)", 
+    "processingMsg": "Rendelése feldolgozás alatt áll.",
+    "pendingMsg": "Köszönjük, megkaptuk a rendelési igénylését, és az fizetésre vár. A fizetés jóváhagyását követően feldolgozzuk a rendelést.",
+    "orderNumberMsg": "A rendelés száma: __orderNumber__.", 
+    "emailMsg": "A(z) __emailAddress__ címre visszaigazoló e-mailt küldtünk az alábbi rendelés adataival.", 
+    "yourOrderText": "Az Ön rendelése", 
+    "itemText": "Cikk", 
+    "quantityText": "Mennyiség", 
+    "itemTotalText": "Cikkek összesen", 
+    "shippingAddressAndMethodText": "Szállítási cím és mód", 
+    "shipToText": "Szállítási cím:", 
+    "shippingMethodText": "Szállítási mód:", 
+    "paymentDetailsText": "Fizetési adatok", 
+    "cardTypeText": "Kártyatípus:", 
+    "cardNumberText": "Kártyaszám:", 
+    "billingAddressText": "Számlázási cím:",
+    "loginSuccessText": "Felhasználói fiókja létrejött. Köszönjük a regisztrációt.",
+    "loginFailureText": "Hiba: Rendelését feldolgoztuk, de hiba történt felhasználói fiókjának létrehozása közben. Próbálkozzon újra.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

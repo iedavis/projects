@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Dodawanie do listy życzeń",
+    "spaceSelectionText": "Wybór listy życzeń",
+    "spaceCommentText": "Wprowadzanie komentarza...",
+    "spaceNameText": "Nazwa",
+    "buttonSpaceAdd": "Dodaj",
+    "buttonSpaceCancel": "Anuluj",
+    "mySpacesGroupText": "Moje listy życzeń",
+    "joinedSpacesGroupText": "Listy życzeń, do których dołączono",
+    "createNewSpaceOptText": "Nowa lista życzeń...",
+    "addToSpaceSuccessMsg" : "Powodzenie - produkt __socialproduct__ został dodany do obszaru __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Ta pozycja była już na liście życzeń. Data jej dodania została zaktualizowana.",
+    "addToSpaceProductViewWishListMsg" : "  Widok listy życzeń __wishlistname__",
+    "spaceAddProductError" : "Błąd podczas próby publikacji produktu na liście życzeń. Należy spróbować odświeżyć stronę.",
+    "uniqueNameMsg": "Nazwa listy życzeń musi być unikatowa.",
+    "emptyNameMsg": "Nazwa nie może być pusta",
+    "privacySettingsLabel": "Ustawienia prywatności",
+    "privacySettingsDescription": "Zaproszenie znajomych do prywatnej listy życzeń spowoduje zmianę ustawień prywatności na \"grupowe\". Wysłanie prywatnej lub grupowej listy życzeń w wiadomości e-mail lub udostępnienie w sieci społecznościowych spowoduje zmianę ustawień listy na \"udostępnione\".",
+    "privacySharedLabel": "Każda osoba, która otrzyma łącze, może wyświetlić te listę. Tylko użytkownik i osoby przez niego zaproszone mogą wyświetlać i komentować tę listę i dodawać do niej pozycje.",
+    "privacyGroupLabel": "Tylko użytkownik i osoby przez niego zaproszone mogą wyświetlać i komentować tę listę i dodawać do niej pozycje.",
+    "privacyPrivateLabel": "Tylko użytkownik może wyświetlać tę listę i dodawać do niej pozycje.",
+    "spaceAccessPrivateIconTxt" : "Prywatne",
+    "spaceAccessSharedIconTxt" : "Udostępnione",
+    "spaceAccessGroupIconTxt" : "Grupowe",
+    "spaceCreateMaxSpacesMsg" : "Podczas tworzenia listy życzeń wystąpił problem. Przekroczono limit liczby list życzeń. Proszę skasować istniejącą listę życzeń, aby umożliwić utworzenie nowej.",
+    "productAddMaxProductsMsg" : "Podczas dodawania produktu do listy życzeń wystąpił problem. Przekroczono limit liczby wpisów na liście życzeń. Proszę skasować istniejący produkt z docelowej listy życzeń, aby umożliwić dodanie nowego."
+  }
+}

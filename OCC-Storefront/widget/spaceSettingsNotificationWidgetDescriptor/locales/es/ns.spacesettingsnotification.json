@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Configuración de notificación de correo electrónico",
+    "spaceSettingsNotificationIntroText" : "Deseo recibir:",
+    "spaceSettingsCommentNotificationTxt" : "Notificaciones de comentarios y productos",
+    "spaceSettingsNewMemberNotificationTxt" : "Notificaciones de nuevo miembro",
+    "spaceSettingsSaveTxt" : "Guardar",
+    "spaceSettingsCancelTxt" : "Cancelar",
+    "spaceSettingsSaveErrorTxt" : "Se produjo un problema al guardar los cambios de configuración de notificación.",
+    "spaceSettingsSaveSuccessTxt" : "La configuración de notificación se ha actualizado y guardado.",
+    "spaceSettingsOnText" : "Sí",
+    "spaceSettingsOffText" : "No",
+    "spaceSettingsNotificationEnableHelpText" : "Seleccione \"Quiero recibir actualizaciones por correo electrónico\" en la página \"Mi cuenta\" para activar las notificaciones de lista de deseos."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Universal Variable",
+  "javascript": "universalVariable",
+  "imports": ["user", "product", "category", "cart"],
+  "global": true,
+  "globalEnabled": true,
+  "editableTemplate": false
+}

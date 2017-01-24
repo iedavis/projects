@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Kassa",
+    "defaultAddressLabel": "Oletusosoite",
+    "billingAddressText" : "Laskutusosoite",
+    "noAddressesText" : "Osoitteita ei tallennettu.",
+    "firstNameText": "Etunimi",
+    "lastNameText": "Sukunimi",
+    "shippingAddressText": "Lähetysosoite",
+    "checkoutErrorMsg": "Varmista, että olet täyttänyt kaikki pakolliset kentät ja korjannut virheelliset kohdat.",
+    "firstNameRequired": "Etunimi on pakollinen tieto. ",
+    "lastNameRequired": "Sukunimi on pakollinen tieto. ",
+    "unsupportedShippingAddressText": "Lähetys tähän osoitteeseen ei ole mahdollinen.",
+    "invalidBillingAddressText": "Lähetysosoitettasi ei voi käyttää laskutusosoitteena. Syötä laskutusosoite.",
+    "invalidPreviousAddress": "Lähetys aiemmin käytettyyn osoitteeseen ei enää ole mahdollinen."
+  }
+}

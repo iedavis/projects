@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Prilikom obrade plaćanja na pristupniku došlo je do pogreške. Pokušajte ponovo.",
+    "paymentDeclinedMsg": "Plaćanje je odbijeno. Pokušajte ponovo.",
+    "paymentExpiredMsg": "Plaćanje je isteklo. Pokušajte ponovo.",
+    "paymentErrorMsg": "Prilikom plaćanja došlo je do pogreške. Pokušajte ponovo.",
+    "payByCashText": "Gotovinsko plaćanje",
+    "invoicePaymentMsg": "Zatraži račun",
+    "purchaseOrderNumberMsg":"Broj narudžbenice"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Kundvagnsöversikt",
+    "quantityText": "Kvantitet: ",
+    "colorText": "Färg:",
+    "sizeText": "Storlek: ",
+    "instockText": "I lager",
+    "outofstockText": "Ej i lager",
+    "estimiatedShippingText": "Beräknad leverans: ",
+    "buttonEditCartSummary": "Redigera",
+    "editCartText": "Redigera kundvagn",
+    "seeAllProducts": "Se alla produkter",
+    "showAll": "Visa alla",
+    "cartSummaryItemLimitText": "Visar de __noOfItems__ första artiklarna i kundvagnen"
+  }
+}

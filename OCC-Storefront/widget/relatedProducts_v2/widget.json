@@ -1,0 +1,21 @@
+{
+  "config": {
+    "displayNameOfRelatedProducts": true,
+    "displayPriceOfRelatedProducts": true,
+    "numberOfRelatedProducts": "4"
+  },
+  "defaultLayout": "relatedProducts_v2_lyt1",
+  "global": false,
+  "globalEnabled": true,
+  "i18nresources": "relatedProducts",
+  "imports": ["product"],
+  "javascript": "related-products",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Related Products Widget",
+  "pageTypes": ["product"],
+  "source": 100,
+  "version": 2,
+  "widgetFamily": "relatedProducts",
+  "widgetType": "relatedProducts"
+}

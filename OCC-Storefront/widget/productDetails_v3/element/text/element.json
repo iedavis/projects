@@ -1,0 +1,180 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [
+    "textBox",
+    "fontPicker"
+  ],
+  "global": false,
+  "inline": true,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "text",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ข้อความที่ป้อน"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Texto informado"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "输入的文本"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Введений текст"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Въведен текст"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Sisestatud tekst"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Ievadītais teksts"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Įvestas tekstas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Registrert tekst"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Text introdus"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Texte entré"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "入力済テキスト"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Vnešeno besedilo"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Введенный текст"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Uneseni tekst"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Girilen Metin"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Wprowadzony tekst"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "輸入的文字"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "입력된 텍스트"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Zadaný text"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Beírt szöveg"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Κείμενο εισαγ."
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Indtastet tekst"
+    },
+    {
+      "description": "Element for holding static text",
+      "language": "en",
+      "title": "Entered Text"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Унети текст"
+    },
+    {
+      "description": "[PX][Element for holding static text ä]",
+      "language": "de",
+      "title": "Eingegebener Text"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Texto introducido"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Texte entré"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Testo inserito"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Ingevoerde tekst"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Angiven text"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Introduzir Texto"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Syötetty teksti"
+    }
+  ],
+  "type": "dynamicFragment",
+  "version": 3
+}

@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "102": "(102) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "104": "(104) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "110": "(110) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "150": "(150) Susisiekiant su kredito kortelę išdavusiu banku kilo techninių problemų. Bandykite dar kartą arba naudokite kitą kortelę.",
+    "151": "(151) Kilo techninių problemų. Šiek tiek palaukite ir bandykite dar kartą.",
+    "152": "(152) Kilo techninių problemų. Šiek tiek palaukite ir bandykite dar kartą.",
+    "200": "(200) Pateiktas atsiskaitymo adresas neatitinka nurodytojo kredito kortelės informacijoje. Patikrinkite adresą ir bandykite dar kartą.",
+    "201": "(201) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "202": "(202) Patikrinkite kortelės galiojimo pabaigos datą ir bandykite dar kartą.",
+    "203": "(203) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "204": "(204) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "205": "(205) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "207": "(207) Susisiekiant su kredito kortelę išdavusiu banku kilo techninių problemų. Bandykite dar kartą arba naudokite kitą kortelę.",
+    "208": "(208) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "209": "(209) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "210": "(210) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "211": "(211) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "221": "(221) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "230": "(230) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "231": "(231) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "232": "(232) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "233": "(233) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "234": "(234) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "520": "(520) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "1000": "(1000) Kredito kortelė atmesta, naudokite kitą kortelę.",
+    "476": "(476) Kortelės naudoti neleista. Naudokite kitą kortelę.",
+    "paymentErrorText":"Kilo techninių problemų. Šiek tiek palaukite ir bandykite dar kartą.",
+    "processingText": "Apdorojama, palaukite. Nespustelėkite atnaujinimo ar grįžimo atgal mygtuko, nes operacija gali būti sutrikdyta arba nutraukta."
+  }
+}

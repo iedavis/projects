@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Укажіть, чи дозволено очікування для сповіщень, не пов'язаних із помилками.",
+    "notificationsTimeoutEnabledTextLabel": "Увімкнуто очікування",
+    "notificationsTimeoutHelpText": "Задайте час очікування для сповіщень, не пов'язаних із помилками (у секундах).",
+    "notificationsTimeoutTextLabel": "Час очікування (у секундах)",
+    "notificationsFixedHelpText": "Укажіть, чи потрібно зафіксувати розташування віджета сповіщень вгорі сторінки.",
+    "notificationsFixedTextLabel": "Зафіксовано"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Το καλάθι σας είναι κενό.",
+    "buttonContinueShopping": "Συνέχιση αγορών",
+    "cartHeader" : "Το καλάθι αγορών σας",
+    "itemHeaderItem": "Είδος",    
+    "itemHeaderQuantity": "Ποσότητα",
+    "itemQuantity": "__productName__ Ποσότητα",
+    "itemHeaderItemTotal": "Σύνολο είδους",
+    "totalTableSubTotal": "Μερικό σύνολο:",
+    "includingTaxText": "(με φόρο)",
+    "totalTableTotal": "Σύνολο:",
+    "buttonUpdateQuantity": "Ενημέρωση",
+    "buttonRemoveItem": "Αφαίρεση",
+    "instockText": "Σε απόθεμα",
+    "outofstockText": "Εξάντληση αποθέματος",
+    "totalTableSummary": "Σύνολα καλαθιού αγορών."
+  }
+}

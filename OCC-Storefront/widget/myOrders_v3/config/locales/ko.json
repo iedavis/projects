@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "스케줄링된 주문 ID 포함?",
+	"includeScheduledHelpText" : "주문 기록 테이블에 스케줄링된 주문 ID를 포함하려면 선택하십시오."
+  }
+}

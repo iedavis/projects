@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Welkom __userdisplayname__",
+    "invitationAlreadyAccepted" : "De uitnodiging is al geaccepteerd.",
+    "spaceNotFound" : "De verlanglijst die u wilt openen, is niet gevonden.",
+    "invitationExpiredError" : "Uw uitnodiging is verlopen. Neem contact op met de eigenaar van de verlanglijst als u lid wilt worden. Hij of zij moet u daarvoor opnieuw uitnodigen.",
+    "memberJoinError" : "Er is een fout opgetreden met de uitnodiging.",
+    "pleaseWaitProcessingMsg" : "Uw uitnodiging wordt verwerkt. Een ogenblik geduld."
+  }
+}

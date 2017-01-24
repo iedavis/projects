@@ -1,0 +1,184 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["spaceSettingsHeaderWidgetInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["spaceSettingsNotificationWidgetInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "swmSettings",
+  "isLayoutDisplayable": true,
+  "displayName": "Wish List Profile Layout",
+  "translations": [
+    {
+      "name": "โปรไฟล์ Wish List ของผู้ซื้อ",
+      "language": "th"
+    },
+    {
+      "name": "Perfil Lista Desejos do Comprador",
+      "language": "pt_BR"
+    },
+    {
+      "name": "购物者收藏列表配置文件",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Профіль списку бажань покупця",
+      "language": "uk"
+    },
+    {
+      "name": "Профил на списък с жел. на клиент",
+      "language": "bg"
+    },
+    {
+      "name": "Ostja sooviloendi profiil",
+      "language": "et"
+    },
+    {
+      "name": "Pircēja vēlmju saraksta profils",
+      "language": "lv"
+    },
+    {
+      "name": "Pirkėjo pageidavimų sąrašo profilis",
+      "language": "lt"
+    },
+    {
+      "name": "Ønskelisteprofil for kjøper",
+      "language": "no"
+    },
+    {
+      "name": "Profil listă de dorinţe cumpărător",
+      "language": "ro"
+    },
+    {
+      "name": "Profil liste de souhaits acheteur",
+      "language": "fr_CA"
+    },
+    {
+      "name": "顧客ウィッシュ・リスト・プロファイル",
+      "language": "ja"
+    },
+    {
+      "name": "Profil seznama želja nakupovalca",
+      "language": "sl"
+    },
+    {
+      "name": "Профиль списка желаний покупателя",
+      "language": "ru"
+    },
+    {
+      "name": "Profil kupčevog popisa želja",
+      "language": "hr"
+    },
+    {
+      "name": "Alışverişçi İstek Listesi Profili",
+      "language": "tr"
+    },
+    {
+      "name": "Profil listy życzeń kupującego",
+      "language": "pl"
+    },
+    {
+      "name": "購物者欲購清單設定檔",
+      "language": "zh_TW"
+    },
+    {
+      "name": "구매자 희망 목록 프로파일",
+      "language": "ko"
+    },
+    {
+      "name": "Profil seznamu přání kupujícího",
+      "language": "cs"
+    },
+    {
+      "name": "Vásárlói kívánságlista profilja",
+      "language": "hu"
+    },
+    {
+      "name": "Προφίλ λίστας επιθυμιών αγοραστή",
+      "language": "el"
+    },
+    {
+      "name": "Profil til indkøbers ønskeliste",
+      "language": "da"
+    },
+    {
+      "name": "Shopper Wish List Profile",
+      "language": "en"
+    },
+    {
+      "name": "Купац - профил листе жеља",
+      "language": "sr"
+    },
+    {
+      "name": "Wunschzettelprofil für Käufer",
+      "language": "de"
+    },
+    {
+      "name": "ملف تعريف قائمة رغبات المتسوق",
+      "language": "ar"
+    },
+    {
+      "name": "Perfil lista de deseos de comprador",
+      "language": "es"
+    },
+    {
+      "name": "Profil liste de souhaits acheteur",
+      "language": "fr"
+    },
+    {
+      "name": "Profilo el. desiderata acquirente",
+      "language": "it"
+    },
+    {
+      "name": "Profiel verlanglijst klant",
+      "language": "nl"
+    },
+    {
+      "name": "Profil för kundens önskelista",
+      "language": "sv"
+    },
+    {
+      "name": "Perfil Lista Preferências Comprador",
+      "language": "pt"
+    },
+    {
+      "name": "Asiakkaan toivomuslistan profiili",
+      "language": "fi"
+    }
+  ]
+}

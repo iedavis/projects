@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Bem-vindo __userdisplayname__.",
+    "invitationAlreadyAccepted" : "O convite já foi aceite.",
+    "spaceNotFound" : "A Lista de Preferências à qual está a tentar obter acesso não foi encontrada.",
+    "invitationExpiredError" : "O seu convite expirou! Contacte o proprietário da Lista de Preferências à qual pretende aderir e solicite que lhe reenvie o convite.",
+    "memberJoinError" : "Ocorrência de erro com o convite.",
+    "pleaseWaitProcessingMsg" : "Aguarde enquanto o convite é processado"
+  }
+}

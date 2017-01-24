@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "オーダー要約",
+    "subtotalText": "小計: ",
+    "shippingOptionsText": "出荷オプション",
+    "salesTaxText": "売上税: ",
+    "orderTotalText": "オーダー合計: ",
+    "placeOrderText": "オーダーの確定",
+    "scheduleOrderText": "スケジュール・オーダー",
+    "noShippingText": "出荷なし",
+    "shippingText": "出荷: __displayName__",    
+    "applicableTaxesText": "精算時に適用される税金が計算されます。",
+    "paymentOptionsText": "支払オプション",
+    "checkoutText": "精算",
+    "noShippingSelectedText": "出荷方法が選択されていません。",
+    "shippingAddressRequired": "出荷先住所を入力してください",
+    "noShippingMethodsText": "宛先住所に使用できる出荷方法がありません。",
+    "noShippingMethodsForAddressText": "選択した住所に使用可能な出荷方法がありません",
+    "checkoutErrorMsg": "すべての必須フィールドを入力し、無効なエントリをすべて修正したことを確認してください。",
+    "rePricingText":"価格再設定",
+    "removeLinkText":"削除",
+    "paymentMessage": "次に表示される画面は、カード発行会社による支払カード検証となる可能性があります。",
+    "includingTaxText": "(内税)",
+    "totalExcludingTaxText": "合計(外税): ",
+    "paymentMethodNotAvilable": "(この支払オプションはスケジュール済オーダーに使用できません。)",
+    "selectShippingMethodText": "出荷方法の選択"
+  }
+}

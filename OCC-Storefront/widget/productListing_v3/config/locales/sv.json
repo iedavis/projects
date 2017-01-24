@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Markera om du vill använda formatbaserad lista",
+    "shouldUseStyleBasedTextLabel": "Använd formatbaslista",
+    "listTypeHelpText": "Välj om widgetinstansen är av typen produktlista eller sökresultatlista.",
+    "listTypeTextLabel": "Listtyp",
+    "productLabel" : "Produkt",
+    "searchLabel" : "Sök",
+    "productListingFieldsRequiredHelpText": "Ange en lista med fält som ska inkluderas i svaret separerade med komman. Fältinställningen gäller produktlistor enbart via kategorinavigering, gäller inte sökresultat.",
+    "productListingFieldsRequiredLabel": "Fält",
+    "productsPerPageRequiredHelpText": "Ange antalet produkter som ska visas på en sida.",
+    "productsPerPageRequiredLabel": "Produkter per sida",
+    "blockSizeRequiredHelpText": "Ange det antal produkter som ska laddas per begäran. Inställningen av blockstorlek gäller produktlistor enbart via kategorinavigering, gäller inte sökresultat.",
+    "blockSizeRequiredLabel": "Blockstorlek"
+  }
+}

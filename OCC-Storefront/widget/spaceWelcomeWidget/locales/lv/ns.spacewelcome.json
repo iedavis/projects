@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Sāciet iepirkties kopā jau šodien!",
+    "welcomePageLoginText": "Pieteikties",
+    "welcomePageCreateAccountText": "Izveidot kontu",
+    "welcomePageTitle": "Esiet sveicināts vēlmju sarakstos!",
+    "welcomePageSubtitle": "Pievienojieties vēlmju sarakstiem bez maksas un dalieties priekā!",
+    "welcomePageBulletText1": "Saglabājiet un kārtojiet produktus, kas jūs interesē, un saņemiet atsauksmes par tiem.",
+    "welcomePageBulletText2": "Kopīgojiet savus vēlmju sarakstus ar radiem un draugiem un pieņemiet lēmumus par pirkumiem kopā.",
+    "welcomePageBulletText3": "Izmantojiet vēlmju sarakstus, lai uzzinātu un apspriestu, ko dāvināt. Jūs vairs nekad nenopirksit nepiemērotu dāvanu!",
+    "welcomePageOrText": "vai"
+  }
+}

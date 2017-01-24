@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "ページが見つかりません",
+    "error404" : "エラー404: ",
+    "pageNotFoundText" : "入力した住所が間違っているか、ページが更新または削除済です。",
+    "lnkHome" : "ホーム",
+    "lnkBack" : "戻る"            
+  }
+}

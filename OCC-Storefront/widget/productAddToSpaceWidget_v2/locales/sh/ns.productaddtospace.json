@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Dodaj na listu želja",
+    "spaceSelectionText": "Izaberite listu želja",
+    "spaceCommentText": "Unesite komentar...",
+    "spaceNameText": "Ime",
+    "buttonSpaceAdd": "Dodaj",
+    "buttonSpaceCancel": "Otkaži",
+    "mySpacesGroupText": "Moje liste želja",
+    "joinedSpacesGroupText": "Liste želja kojima sam pridružen/a",
+    "createNewSpaceOptText": "Nova lista želja...",
+    "addToSpaceSuccessMsg" : "Uspelo je! Proizvod __socialproduct__ je dodat u __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Ovaj artikal već postoji na listi želja. Ažurirali smo datum dodavanja.",
+    "addToSpaceProductViewWishListMsg" : "  Prikaži __wishlistname__",
+    "spaceAddProductError" : "Došlo je do greške prilikom pokušaja objavljivanja proizvoda na listi želja. Pokušajte da osvežite stranicu.",
+    "uniqueNameMsg": "Ime liste želja mora da bude jedinstveno.",
+    "emptyNameMsg": "Ime ne sme da bude prazno.",
+    "privacySettingsLabel": "Podešavanja privatnosti",
+    "privacySettingsDescription": "Ako pozovete prijatelje u privatnu listu želja, podešavanje privatnosti će se promeniti na grupno. Ako pošaljete privatnu ili grupnu listu želja e-poštom ili je podelite u nekoj društvenoj mreži, ona postaje deljena.",
+    "privacySharedLabel": "Svako sa vezom može da vidi ovu listu. Samo vi i osobe koje pozovete možete da vidite ovu listu, da ostavljate komentare i da dodajete stavke na nju.",
+    "privacyGroupLabel": "Samo vi i osobe koje pozovete možete da vidite ovu listu, da ostavljate komentare i da dodajete stavke na nju.",
+    "privacyPrivateLabel": "Samo vi možete da vidite ovu listu i da dodajete stavke na nju.",
+    "spaceAccessPrivateIconTxt" : "Privatno",
+    "spaceAccessSharedIconTxt" : "Deljeno",
+    "spaceAccessGroupIconTxt" : "Grupno",
+    "spaceCreateMaxSpacesMsg" : "Došlo je do problema sa kreiranjem liste želja. Prekoračili ste ograničenje za broj lista želja. Izbrišite neku postojeću listu želja da biste mogli da kreirate novu.",
+    "productAddMaxProductsMsg" : "Došlo je do problema sa dodavanjem proizvoda na listu želja. Prekoračili ste ograničenje za broj objava na listi želja. Izbrišite neki postojeći proizvod sa odredišne liste želja da biste mogli da dodate novi."
+  }
+}

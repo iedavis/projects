@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Orderoverzicht", 
+    "orderDoesNotExist": "Order bestaat niet.", 
+    "subTotalText": "Subtotaal:", 
+    "salesTaxText": "Omzetbelasting:", 
+    "orderTotalText": "Ordertotaal:", 
+    "continueShoppingText": "Doorgaan met winkelen",
+    "delimiter": ":",
+    "includingTaxText": "(inclusief belasting)",
+    "totalExcludingTaxText": "Totaal (exclusief belasting): "
+  }
+}

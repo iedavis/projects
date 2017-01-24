@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Košík je prázdný.",
+    "buttonContinueShopping": "Pokračovat v nakupování",
+    "cartHeader" : "Váš nákupní košík",
+    "itemHeaderItem": "Položka",    
+    "itemHeaderQuantity": "Množství",
+    "itemQuantity": "Množství __productName__",
+    "itemHeaderItemTotal": "Položka celkem",
+    "totalTableSubTotal": "Mezisoučet:",
+    "includingTaxText": "(včetně daně)",
+    "totalTableTotal": "Celkem:",
+    "buttonUpdateQuantity": "Aktualizovat",
+    "buttonRemoveItem": "Odebrat",
+    "instockText": "Skladem",
+    "outofstockText": "Není na skladě",
+    "totalTableSummary": "Součtové položky nákupního košíku"
+  }
+}

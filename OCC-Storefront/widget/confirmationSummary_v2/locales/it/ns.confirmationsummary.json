@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Riepilogo ordine", 
+    "orderDoesNotExist": "L'ordine non esiste.", 
+    "subTotalText": "Totale parziale:", 
+    "salesTaxText": "Imposta sulle vendite:", 
+    "orderTotalText": "Totale ordine:", 
+    "continueShoppingText": "Continua acquisti",
+    "delimiter": ":",
+    "includingTaxText": "(imposta inclusa)",
+    "totalExcludingTaxText": "Totale (imposta esclusa):"
+  }
+}

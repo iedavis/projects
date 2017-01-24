@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Задайте дали е разрешено време на изчакване за известията, които не са за грешки.",
+    "notificationsTimeoutEnabledTextLabel": "Времето на изчакване е разрешено",
+    "notificationsTimeoutHelpText": "Задайте времето на изчакване за известия, които не са за грешки (в секунди).",
+    "notificationsTimeoutTextLabel": "Време на изчакване (в секунди)",
+    "notificationsFixedHelpText": "Задайте дали изпълнимият модул за известия да бъде фиксиран в горната част на страницата.",
+    "notificationsFixedTextLabel": "Фиксиран"
+  }
+}

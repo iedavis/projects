@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Comece a fazer as suas compras em conjunto hoje!",
+    "welcomePageLoginText": "Entrar em Sessão",
+    "welcomePageCreateAccountText": "Criar Conta",
+    "welcomePageTitle": "Bem-vindo às Listas de Preferências!",
+    "welcomePageSubtitle": "Adira às Listas de Preferências gratuitamente e desfrute da diversão!",
+    "welcomePageBulletText1": "Grave, organize e obtenha feedback de produtos em que esteja interessado.",
+    "welcomePageBulletText2": "Partilhe as suas listas de preferências com família e amigos e decida sobre as suas compras em conjunto.",
+    "welcomePageBulletText3": "Utilize as listas de preferências para descobrir e trocar opiniões sobre presentes. Não volte a comprar o presente errado!",
+    "welcomePageOrText": "ou"
+  }
+}

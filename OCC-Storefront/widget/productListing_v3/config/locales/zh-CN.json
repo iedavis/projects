@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "选中将使用基于样式的列表。",
+    "shouldUseStyleBasedTextLabel": "使用基于样式的列表",
+    "listTypeHelpText": "选择小部件实例是产品列表还是搜索结果列表类型。",
+    "listTypeTextLabel": "列表类型",
+    "productLabel" : "产品",
+    "searchLabel" : "搜索",
+    "productListingFieldsRequiredHelpText": "输入要包含在响应中的一列字段，用逗号分隔。该字段设置只应用于通过类别导航显示的产品列表，不应用于搜索结果。",
+    "productListingFieldsRequiredLabel": "字段",
+    "productsPerPageRequiredHelpText": "输入每页显示的产品数。",
+    "productsPerPageRequiredLabel": "每页的产品数",
+    "blockSizeRequiredHelpText": "输入针对每个请求加载的产品数。块大小设置只应用于通过类别导航显示的产品列表，不应用于搜索结果。",
+    "blockSizeRequiredLabel": "块大小"
+  }
+}

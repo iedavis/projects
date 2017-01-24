@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Weergaveattributen",
+    "numberOfRelatedProductsHelpText": "Voer het aantal gerelateerde producten in dat moet worden weergegeven in de carrousel.",
+    "numberOfRelatedProductsTextLabel": "Aantal gerelateerde producten",
+    "displayNameOfRelatedProductsTextLabel": "Productnaam",
+    "displayPriceOfRelatedProductsTextLabel": "Prijs"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "resources" : {
+    "profileUrlLabel": "URL",
+    "profileUrlHelpText": "URL target for posting the 'User' payload"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Inkludere ID for planlagt ordre?",
+	"includeScheduledHelpText" : "Velg denne for å inkludere ID for planlagt ordre i tabellen Ordrehistorikk"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Előző képek",
+    "nextImageText" : "Következő képek",
+    "onSaleText": "Akció",
+    "salePriceText": "Akciós ár",
+    "listPriceText": "Listaár",
+    "relatedProductsText": "Kapcsolódó termékek"
+  }
+}

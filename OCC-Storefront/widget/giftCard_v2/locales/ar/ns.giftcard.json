@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "دفع ببطاقة الهدايا",
+    "giftCardNumberText": "رقم بطاقة الهدايا",
+    "giftCardPinText": "رقم التعريف الشخصي لبطاقة الهدايا",
+    "giftCardApplyText": "تطبيق بطاقة الهدايا", 
+    "giftCardApplyingText": "تطبيق بطاقة الهدايا", 
+    "displayGiftCardDetailsText" : "دفع ببطاقة الهدايا",
+    "duplicateGiftcardErrMsg":"بطاقة الهدايا مطبقة بالفعل."
+  }
+}

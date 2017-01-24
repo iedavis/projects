@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Teie otsingule „__searchterm__“ vastavaid tooteid ei leitud.",
+    "titleText": "Otsi",
+    "searchFailedText": "Otsingut ei saa praegu teha."
+  }
+}

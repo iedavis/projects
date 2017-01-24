@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Hesabım",
+    "orderHistoryText" : "Sipariş Tarihçesi",
+    "backToMyAccount" : "<< Hesabıma Geri Dön",
+    "historyHeaderOrderDate": "Sipariş Tarihi",    
+    "historyHeaderOrderNumber": "Sipariş Numarası",
+    "historyHeaderOrderStatus": "Sipariş Statüsü",
+    "historyHeaderOrderTotal": "Sipariş Toplamı",
+    "historyHeaderOrderDetails": "Sipariş Detayları",
+    "listingHeaderScheduledOrderId": "Çizelge No",
+    "orderDetails": "Detaylar"
+  }
+}

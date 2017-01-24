@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Ostukorv on tühi.",
+    "buttonContinueShopping": "Jätka ostmist",
+    "cartHeader" : "Teie ostukorv",
+    "itemHeaderItem": "Kaup",    
+    "itemHeaderQuantity": "Kogus",
+    "itemQuantity": "Toote __productName__ kogus",
+    "itemHeaderItemTotal": "Kauba kogusumma",
+    "totalTableSubTotal": "Vahesumma:",
+    "includingTaxText": "(koos maksudega)",
+    "totalTableTotal": "Kokku:",
+    "buttonUpdateQuantity": "Värskenda",
+    "buttonRemoveItem": "Eemalda",
+    "instockText": "Laos",
+    "outofstockText": "Läbi müüdud",
+    "totalTableSummary": "Ostukorvi kogusummad."
+  }
+}

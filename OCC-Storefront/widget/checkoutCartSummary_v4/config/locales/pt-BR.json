@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Informe o número máximo de itens que você deseja exibir no Resumo do Carrinho.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Itens máximos no resumo do carrinho"
+  }
+}

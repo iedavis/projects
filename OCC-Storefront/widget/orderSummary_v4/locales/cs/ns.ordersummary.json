@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Objednávka - shrnutí",
+    "subtotalText": "Mezisoučet:",
+    "discountText": "Slevy*: ",
+    "shippingOptionsText": "Volby dopravy",
+    "changeText": "změnit",
+    "salesTaxText": "Daň z prodeje:",
+    "orderTotalText": "Celkem za objednávku:",
+    "placeOrderText": "Zadat objednávku",
+    "noShippingText": "Bez dopravy",
+    "applicableTaxesText": "Příslušné daně budou vypočítány při přechodu k pokladně.",
+    "paymentOptionsText": "Volby pro platby",
+    "checkoutText": "Přejít k pokladně",
+    "noShippingSelectedText": "Nebyl vybrán způsob dopravy.",
+    "shippingAddressRequired":"Zadejte dodací adresu. ",
+    "shippingText": "Doprava: __displayName__ ",
+    "noShippingMethodsText": "Nejsou k dispozici žádné způsoby dopravy",
+    "checkoutErrorMsg": "Zkontrolujte, zda jste vyplnili všechna povinná pole a opravili všechny neplatné hodnoty.",
+    "removeLinkText": "odebrat",
+    "rePricingText":"Přecenění",
+    "totalExcludingTaxText": "Celkem (bez daně): ",
+    "includingTaxText": "(včetně daně)"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["cartShippingDetails"],
+  "tag": "cart-shipping-address",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ที่อยู่ที่รับสินค้า"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Endereço de entrega"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "收货地址"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Адреса поставки"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Адрес за доставка"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Saatmisaadress"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Nosūtīšanas adrese"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Siuntimo adresas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Forsendelsesadresse"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Adresă de expediere"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Adresse d'expédition"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "出荷先住所"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Naslov za pošiljanje"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Адрес получателя товара"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Adresa otpreme"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Sevkiyat Adresi"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Adres wysyłki"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "出貨地址"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "배송 주소"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Dodací adresa"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Szállítási cím"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Διεύθυνση αποστολής"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Forsendelsesadresse"
+    },
+    {
+      "description": "Shipping Address",
+      "language": "en",
+      "title": "Shipping Address"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Адреса за испоруку"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Versandadresse"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Dirección de envío"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Adresse de livraison"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Indirizzo spedizione"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Bestemmingsadres"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Leveransadress"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Morada para Expedição"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Lähetysosoite"
+    }
+  ],
+  "type": "fragment",
+  "version": 6
+}

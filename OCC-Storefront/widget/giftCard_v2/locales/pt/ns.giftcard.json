@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Pagar com Cartão Oferta",
+    "giftCardNumberText": "Número do Cartão Oferta",
+    "giftCardPinText": "PIN do Cartão Oferta",
+    "giftCardApplyText": "Aplicar Cartão Oferta", 
+    "giftCardApplyingText": "Aplicar Cartão Oferta", 
+    "displayGiftCardDetailsText" : "Pagar com Cartão Oferta",
+    "duplicateGiftcardErrMsg":"Cartão oferta já aplicado."
+  }
+}

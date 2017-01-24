@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "checkoutRegistration",
+  "imports": ["order"],
+  "javascript": "checkoutRegistration",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Login - Checkout",
+  "pageTypes": ["checkout"],
+  "source": 100,
+  "version": 2,
+  "widgetFamily": "checkoutRegistration",
+  "widgetType": "checkoutRegistration"
+}

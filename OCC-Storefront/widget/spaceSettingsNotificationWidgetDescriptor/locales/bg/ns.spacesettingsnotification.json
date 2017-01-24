@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Настройки за имейл известия",
+    "spaceSettingsNotificationIntroText" : "Бих желал да получавам:",
+    "spaceSettingsCommentNotificationTxt" : "Известия за коментари и продукти",
+    "spaceSettingsNewMemberNotificationTxt" : "Известия за нови членове",
+    "spaceSettingsSaveTxt" : "Запази",
+    "spaceSettingsCancelTxt" : "Откажи",
+    "spaceSettingsSaveErrorTxt" : "Възникна проблем при записване на промените ви по настройките за известяване.",
+    "spaceSettingsSaveSuccessTxt" : "Вашите настройки за известяване бяха актуализирани и записани.",
+    "spaceSettingsOnText" : "Да",
+    "spaceSettingsOffText" : "Не",
+    "spaceSettingsNotificationEnableHelpText" : "Изберете \"Искам да получавам актуализации на имейл\" в страницата на \"Моя акаунт\", за да позволите известия за списъка с желани артикули."
+  }
+}

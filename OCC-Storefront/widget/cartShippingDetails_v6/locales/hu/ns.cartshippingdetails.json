@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Szállítási költség és adó számítása (választható)",
+    "cartShippingErrorMsg": "Győződjön meg arról, hogy minden szállítással kapcsolatos mezőt kitöltött és javított minden érvénytelen bejegyzést.",
+    "countryText": "Ország",
+    "stateText": "Állam",
+    "zipCodeText": "Irányítószám",
+    "countryRequired": "Az ország megadása kötelező.",
+    "stateRequired": "Az állam megadása kötelező.",
+    "zipCodeRequired": "Az irányítószám megadása kötelező.",
+    "zipCodeInvalid": "Érvénytelen bejegyzés. Adjon meg érvényes irányítószámot.",
+    "stateRegionText": "Állam/régió",
+    "noShippingSelectedText": "Nincs megadva szállítási mód.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Nincsenek elérhető szállítási módok a rendeltetési címhez.",
+    "noShippingMethodsForAddressText": "Nem sikerült beolvasni a megadott szállítási címhez tartozó szállítási módszereket.",
+    "fetchingShippingMethodsText": "A címhez tartozó szállítási módszerek beolvasása",
+    "invalidShippingAddress": "Érvénytelen szállítási cím van megadva.",
+    "invalidShippingMethod": "Érvénytelen szállítási mód van megadva.",
+    "pricingError" : "Az szállítási és az adóköltség nem számítható ki. Ellenőrizze szállítási címet.",
+    "invalidPreviousAddress": "Az Ön által korábban használt szállítási címre már nem szállítunk.",
+    "shippingMethodNoLongerAvailable": "A korábban kiválasztott szállítási mód már nem érhető el. A rendelés leadása előtt ellenőrizze a kiválasztott szállítási módot."
+  }
+}

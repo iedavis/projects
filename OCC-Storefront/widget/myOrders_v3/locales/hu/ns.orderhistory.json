@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Saját fiók",
+    "orderHistoryText" : "Rendelési előzmények",
+    "backToMyAccount" : "<< Vissza a saját fiókhoz",
+    "historyHeaderOrderDate": "Rendelés dátuma",    
+    "historyHeaderOrderNumber": "Rendelés száma",
+    "historyHeaderOrderStatus": "Rendelés állapota",
+    "historyHeaderOrderTotal": "Rendelés összege",
+    "historyHeaderOrderDetails": "Rendelés adatai",
+    "listingHeaderScheduledOrderId": "Ütemezés azonosítója",
+    "orderDetails": "Adatok"
+  }
+}

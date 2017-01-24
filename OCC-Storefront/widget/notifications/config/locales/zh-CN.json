@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "设置是否对非错误通知应用超时。",
+    "notificationsTimeoutEnabledTextLabel": "启用超时",
+    "notificationsTimeoutHelpText": "设置非错误通知的超时时间（秒）。",
+    "notificationsTimeoutTextLabel": "超时（秒）",
+    "notificationsFixedHelpText": "设置是否应当将通知小部件固定到页面顶部。",
+    "notificationsFixedTextLabel": "固定"
+  }
+}

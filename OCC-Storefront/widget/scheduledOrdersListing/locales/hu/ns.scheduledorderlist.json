@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Ütemezett rendelések",
+    "backToMyAccount" : "<< Vissza a saját fiókhoz",
+    "scheduledOrderName" : "Név",
+    "frequency": "Gyakoriság",    
+    "scheduledOrderId": "Azonosító",
+    "scheduledOrderStatus": "Állapot",
+    "nextShipDate": "Következő rendelés",
+    "lastScheduledRun": "Utolsó rendelés",
+    "scheduledOrderDetails": "Rendelés adatai",
+    "orderDetails": "Részletek",
+    "action": "Művelet",
+    "createdDate":"Létrehozás dátuma",
+    "editOrder": "Szerkesztés",
+    "deleteOrder": "Törlés",
+    "deleteSuccessMsg":"Sikeresen törölve",
+    "myAccount" : "Saját fiók"
+  }
+}

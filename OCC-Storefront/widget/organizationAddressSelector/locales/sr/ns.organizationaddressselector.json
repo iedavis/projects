@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Завршетак",
+    "defaultAddressLabel": "Подразумевана адреса",
+    "billingAddressText" : "Адреса фактурисања",
+    "noAddressesText" : "Ниједна адреса није сачувана.",
+    "firstNameText": "Име",
+    "lastNameText": "Презиме",
+    "shippingAddressText": "Адреса за испоруку",
+    "checkoutErrorMsg": "Уверите се да сте попунили сва обавезна поља и да сте исправили све неважеће уносе.",
+    "firstNameRequired": "Име је обавезно. ",
+    "lastNameRequired": "Презиме је обавезно. ",
+    "unsupportedShippingAddressText": "Испорука није доступна за ову адресу.",
+    "invalidBillingAddressText": "Адреса испоруке не може да се користи као адреса фактурисања. Унесите адресу фактурисања.",
+    "invalidPreviousAddress": "Више не испоручујемо артикле на адресу за испоруку коју сте претходно користили."
+  }
+}

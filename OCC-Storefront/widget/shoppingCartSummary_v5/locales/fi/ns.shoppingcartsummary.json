@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Ostoskorisi on tyhjä.",
+    "buttonContinueShopping": "Jatka ostoksia",
+    "cartHeader" : "Ostoskorisi",
+    "itemHeaderItem": "Nimike",    
+    "itemHeaderQuantity": "Määrä",
+    "itemQuantity": "Tuotteen __productName__ määrä",
+    "itemHeaderItemTotal": "Nimikkeet yhteensä",
+    "totalTableSubTotal": "Välisumma:",
+    "includingTaxText": "(sisältää veron)",
+    "totalTableTotal": "Yhteensä:",
+    "buttonUpdateQuantity": "Päivitä",
+    "buttonRemoveItem": "Poista",
+    "instockText": "Varastossa",
+    "outofstockText": "Loppunut varastosta",
+    "totalTableSummary": "Ostoskori yhteensä."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "รวม ID ใบสั่งที่วางกำหนดการหรือไม่",
+	"includeScheduledHelpText" : "เลือกเพื่อรวม ID ใบสั่งที่วางกำหนดการในตารางประวัติใบสั่ง"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Kredittkortet er avslått. Bruk et annet kort.",
+    "102": "(102) Kredittkortet er avslått. Bruk et annet kort.",
+    "104": "(104) Kredittkortet er avslått. Bruk et annet kort.",
+    "110": "(110) Kredittkortet er avslått. Bruk et annet kort.",
+    "150": "(150) Det oppstod et teknisk problem da vi prøvde å kontakte banken som har utstedt kredittkortet. Prøv på nytt, eller bruk et annet kort.",
+    "151": "(151) Det har oppstått et teknisk problem. Prøv på nytt om en liten stund.",
+    "152": "(152) Det har oppstått et teknisk problem. Prøv på nytt om en liten stund.",
+    "200": "(200) Den angitte faktureringsadressen samsvarer ikke med adressen som er registrert for kredittkortet. Kontroller adressen, og prøv på nytt.",
+    "201": "(201) Kredittkortet er avslått. Bruk et annet kort.",
+    "202": "(202) Kontroller utløpsdatoen for kortet, og prøv på nytt.",
+    "203": "(203) Kredittkortet er avslått. Bruk et annet kort.",
+    "204": "(204) Kredittkortet er avslått. Bruk et annet kort.",
+    "205": "(205) Kredittkortet er avslått. Bruk et annet kort.",
+    "207": "(207) Det oppstod et teknisk problem da vi prøvde å kontakte banken som har utstedt kredittkortet. Prøv på nytt, eller bruk et annet kort.",
+    "208": "(208) Kredittkortet er avslått. Bruk et annet kort.",
+    "209": "(209) Kredittkortet er avslått. Bruk et annet kort.",
+    "210": "(210) Kredittkortet er avslått. Bruk et annet kort.",
+    "211": "(211) Kredittkortet er avslått. Bruk et annet kort.",
+    "221": "(221) Kredittkortet er avslått. Bruk et annet kort.",
+    "230": "(230) Kredittkortet er avslått. Bruk et annet kort.",
+    "231": "(231) Kredittkortet er avslått. Bruk et annet kort.",
+    "232": "(232) Kredittkortet er avslått. Bruk et annet kort.",
+    "233": "(233) Kredittkortet er avslått. Bruk et annet kort.",
+    "234": "(234) Kredittkortet er avslått. Bruk et annet kort.",
+    "520": "(520) Kredittkortet er avslått. Bruk et annet kort.",
+    "1000": "(1000) Kredittkortet er avslått. Bruk et annet kort.",
+    "476": "(476) Kortet er ikke autentisert for bruk. Bruk et annet kort.",
+    "paymentErrorText":"Det har oppstått et teknisk problem. Prøv på nytt om en liten stund.",
+    "processingText": "Vent til behandlingen er ferdig. Du må ikke klikke på oppdater- eller tilbake-knappen ettersom transaksjonen da kan bli avbrutt eller avsluttet."
+  }
+}

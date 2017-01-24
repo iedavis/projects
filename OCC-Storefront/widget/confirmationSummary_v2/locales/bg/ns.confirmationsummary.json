@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Обща информация за поръчка", 
+    "orderDoesNotExist": "Поръчката не съществува.", 
+    "subTotalText": "Междинна обща сума:", 
+    "salesTaxText": "Данък върху продажбите:", 
+    "orderTotalText": "Обща сума на поръчката:", 
+    "continueShoppingText": "Продължаване на пазаруване",
+    "delimiter": ":",
+    "includingTaxText": "(с включен данък)",
+    "totalExcludingTaxText": "Общо (без данък): "
+  }
+}

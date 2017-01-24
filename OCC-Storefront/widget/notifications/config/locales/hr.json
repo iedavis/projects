@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Postavite je li dopušten istek obavijesti koje se ne odnose na pogreške.",
+    "notificationsTimeoutEnabledTextLabel": "Istek omogućen",
+    "notificationsTimeoutHelpText": "Postavite istek za obavijesti koje se ne odnose na pogreške (u sekundama).",
+    "notificationsTimeoutTextLabel": "Istek (u sekundama)",
+    "notificationsFixedHelpText": "Postavite treba li se widget za obavijesti fiksirati na vrhu stranice.",
+    "notificationsFixedTextLabel": "Fiksno"
+  }
+}

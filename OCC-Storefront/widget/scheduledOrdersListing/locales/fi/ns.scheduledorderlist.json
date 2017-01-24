@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Suunnitellut tilaukset",
+    "backToMyAccount" : "<< Takaisin omaan tiliin",
+    "scheduledOrderName" : "Nimi",
+    "frequency": "Toistuvuus",    
+    "scheduledOrderId": "Tunnus",
+    "scheduledOrderStatus": "Tila",
+    "nextShipDate": "Seuraava tilaus",
+    "lastScheduledRun": "Viimeinen tilaus",
+    "scheduledOrderDetails": "Tilauksen tiedot",
+    "orderDetails": "Tiedot",
+    "action": "Toiminto",
+    "createdDate":"Luontipvm",
+    "editOrder": "Muokkaa",
+    "deleteOrder": "Poista",
+    "deleteSuccessMsg":"Poisto onnistui",
+    "myAccount" : "Oma tili"
+  }
+}

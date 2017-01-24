@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Ordresammendrag", 
+    "orderDoesNotExist": "Ordren finnes ikke.", 
+    "subTotalText": "Delsum:", 
+    "salesTaxText": "Merverdiavgift:", 
+    "orderTotalText": "Ordresum:", 
+    "continueShoppingText": "Fortsett å handle",
+    "delimiter": ":",
+    "includingTaxText": "(inklusive avgift)",
+    "totalExcludingTaxText": "Sum (eksklusive avgift): "
+  }
+}

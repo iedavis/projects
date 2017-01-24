@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Pasūtījuma kopsavilkums",
+    "subtotalText": "Starpsumma:",
+    "shippingOptionsText": "Nosūtīšanas opcijas",
+    "salesTaxText": "Tirdzniecības nodoklis:",
+    "orderTotalText": "Pasūtījuma kopsumma:",
+    "placeOrderText": "Veikt pasūtījumu",
+    "scheduleOrderText": "Plānot pasūtījumu",
+    "noShippingText": "Sūtīšanas nav",
+    "shippingText": "Sūtīšana: __displayName__",    
+    "applicableTaxesText": "Piemērotie nodokļi tiks aprēķināti norēķinoties.",
+    "paymentOptionsText": "Maksāšanas opcijas",
+    "checkoutText": "Norēķināšanās",
+    "noShippingSelectedText": "Nav atlasīts sūtīšanas veids.",
+    "shippingAddressRequired": "Lūdzu, ievadiet nosūtīšanas adresi",
+    "noShippingMethodsText": "Jūsu galamērķa adresei nav pieejams neviens sūtīšanas veids.",
+    "noShippingMethodsForAddressText": "Atlasītajai adresei nav pieejami sūtīšanas veidi",
+    "checkoutErrorMsg": "Lūdzu, pārliecinieties, vai aizpildījāt visus obligātos laukus un izlabojāt visus nederīgos ierakstus.",
+    "rePricingText":"Pārcenošana",
+    "removeLinkText":"noņemt",
+    "paymentMessage": "Nākamais ekrāns, ko redzēsit, būs maksājumu kartes pārbaude ar jūsu kartes izdevēja starpniecību.",
+    "includingTaxText": "(ietverot nodokli)",
+    "totalExcludingTaxText": "Kopā (neietverot nodokli):",
+    "paymentMethodNotAvilable": "(Ieplānotiem pasūtījumiem šo maksāšanas veidu nevar izmantot.)",
+    "selectShippingMethodText": "Atlasīt sūtīšanas veidu"
+  }
+}

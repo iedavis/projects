@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "희망 목록에 추가",
+    "spaceSelectionText": "희망 목록 선택",
+    "spaceCommentText": "비고 입력...",
+    "spaceNameText": "이름",
+    "buttonSpaceAdd": "추가",
+    "buttonSpaceCancel": "취소",
+    "mySpacesGroupText": "내 희망 목록",
+    "joinedSpacesGroupText": "참가한 희망 목록",
+    "createNewSpaceOptText": "새 희망 목록...",
+    "addToSpaceSuccessMsg" : "성공했습니다. __socialproduct__ 이(가) __socialspacename__에 추가되었습니다.",
+    "addToSpaceProductUpdatedSuccessMsg" : "이 항목은 이미 희망 목록에 있습니다. 추가 일자가 업데이트되었습니다.",
+    "addToSpaceProductViewWishListMsg" : "__wishlistname__ 보기",
+    "spaceAddProductError" : "제품을 희망 목록에 게시하려고 시도하는 동안 오류가 발생했습니다. 페이지를 새로 고쳐 보십시오.",
+    "uniqueNameMsg": "희망 목록 이름은 고유해야 합니다.",
+    "emptyNameMsg": "이름은 비워 둘 수 없음",
+    "privacySettingsLabel": "개인 정보 설정",
+    "privacySettingsDescription": "비공개 희망 목록에 친구를 초대하면 개인 정보 설정이 그룹으로 변경됩니다. 비공개 또는 그룹 희망 목록을 전자메일로 보내거나 소셜 네트워크에서 공유하면 공유 목록으로 변경됩니다.",
+    "privacySharedLabel": "링크를 알고 있는 사용자는 이 목록을 볼 수 있습니다. 나와 내가 초대한 사용자만 보고 의견을 달고 이 목록에 추가할 수 있습니다.",
+    "privacyGroupLabel": "나와 내가 초대한 사용자만 보고 의견을 달고 이 목록에 추가할 수 있습니다.",
+    "privacyPrivateLabel": "나만 보고 이 목록에 추가할 수 있습니다.",
+    "spaceAccessPrivateIconTxt" : "비공개",
+    "spaceAccessSharedIconTxt" : "공유",
+    "spaceAccessGroupIconTxt" : "그룹",
+    "spaceCreateMaxSpacesMsg" : "희망 목록을 생성하는 동안 문제가 발생했습니다. 희망 목록 수의 한도를 초과했습니다. 새 희망 목록을 만들기 전에 기존 희망 목록을 삭제하십시오.",
+    "productAddMaxProductsMsg" : "희망 목록에 제품을 추가하는 동안 문제가 발생했습니다. 희망 목록에서 게시물 수의 한도를 초과했습니다. 새 제품을 추가하기 전에 대상 희망 목록에서 기존 제품을 삭제하십시오."
+  }
+}

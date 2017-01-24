@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "El. pašto pranešimų parametrai",
+    "spaceSettingsNotificationIntroText" : "Norėčiau gauti:",
+    "spaceSettingsCommentNotificationTxt" : "Pranešimus apie komentarus ir produktus",
+    "spaceSettingsNewMemberNotificationTxt" : "Pranešimus apie naujus narius",
+    "spaceSettingsSaveTxt" : "Įrašyti",
+    "spaceSettingsCancelTxt" : "Atšaukti",
+    "spaceSettingsSaveErrorTxt" : "Įrašant pranešimų parametrų pakeitimus iškilo problema.",
+    "spaceSettingsSaveSuccessTxt" : "Pranešimų parametrai atnaujinti ir įrašyti.",
+    "spaceSettingsOnText" : "Taip",
+    "spaceSettingsOffText" : "Ne",
+    "spaceSettingsNotificationEnableHelpText" : "Norėdami įjungti pageidavimų sąrašo pranešimus, puslapyje „Mano paskyra“ pasirinkite „Noriu gauti naujinimus el. paštu“."
+  }
+}

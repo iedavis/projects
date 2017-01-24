@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "الدفع",
+    "defaultAddressLabel": "العنوان الافتراضي",
+    "billingAddressText" : "عنوان الفوترة",
+    "noAddressesText" : "لم يتم حفظ أي عناوين.",
+    "firstNameText": "الاسم الأول",
+    "lastNameText": "اسم العائلة",
+    "shippingAddressText": "عنوان الشحن",
+    "checkoutErrorMsg": "الرجاء التأكد من إتمام ملء كل الحقول الإلزامية وتصحيح أية إدخالات غير صالحة.",
+    "firstNameRequired": "يجب إدخال الاسم الأول.",
+    "lastNameRequired": "يجب إدخال اسم العائلة.",
+    "unsupportedShippingAddressText": "الشحن غير متاح لهذا العنوان.",
+    "invalidBillingAddressText": "لا يمكن استخدام عنوان الشحن الخاص بك كعنوان فوترة. الرجاء إدخال عنوان الفوترة.",
+    "invalidPreviousAddress": "لم نعد نُجري أي عملية شحن باستخدام عنوان الشحن الخاص بك المُستخدم مسبقًا."
+  }
+}

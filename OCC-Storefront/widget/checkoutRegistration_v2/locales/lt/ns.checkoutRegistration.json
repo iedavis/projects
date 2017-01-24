@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Atsiskaitymas",
+    "emailAddressText" : "El. pašto adresas",
+    "firstNameText" : "Vardas",
+    "lastNameText" : "Pavardė",
+    "passwordText" : "Slaptažodis",
+    "confirmPasswordText" : "Patvirtinkite slaptažodį",
+    "checkoutAsGuestText" : "Atsiskaityti kaip svečiui",
+    "loginToAccountText" : "Prisijungti prie paskyros",
+    "rememberMeText" : "Noriu sukurti paskyrą.",
+    "marketingMailsText" : "Noriu gauti naujinius el. paštu.",
+    "checkoutErrorMsg" : "Įsitikinkite, kad užpildėte visus privalomus laukus ir ištaisėte visus netinkamus įrašus.",
+    "buttonCancel": "Atšaukti",
+    "buttonLogin": "Prisijungimas",
+    "checkoutOption": "Pasirinkite atsiskaitymo parinktį.",
+    "buttonLogout": "Atsijungti",
+    "welcomeMessage": "Sveiki sugrįžę!",
+    "registrationMessageText":"Sukūrę paskyrą galėsite apsipirkti sparčiau, stebėti dabartinio užsakymo eigą ir anksčiau atliktų užsakymų būseną.",
+    "userSessionExpiredErrorMsg" : "Jūsų atsiskaitymo seansas nebegalioja, nes buvo neaktyvus. Pradėkite atsiskaityti iš naujo."
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Tellimuse kinnitus", 
+    "orderDoesNotExist": "Tellimust pole olemas.", 
+    "thankyouMsg": "Täname teid tellimuse eest __orderDate__ kell __orderTime__.", 
+    "processingMsg": "Tellimus on töötlemisel.",
+    "pendingMsg": "Suur tänu. Teie tellimusetaotlus on vastu võetud ja makse on ootel. Kui makse on kinnitatud, siis teie tellimus töödeldakse.",
+    "orderNumberMsg": "Teie tellimuse number on __orderNumber__.", 
+    "emailMsg": "Allpool oleva tellimuse kinnitus saadeti aadressile __emailAddress__.", 
+    "yourOrderText": "Teie tellimus", 
+    "itemText": "Kaup", 
+    "quantityText": "Kogus", 
+    "itemTotalText": "Kauba kogusumma", 
+    "shippingAddressAndMethodText": "Saatmisaadress ja -viis", 
+    "shipToText": "Saatmisaadress:", 
+    "shippingMethodText": "Saatmisviis:", 
+    "paymentDetailsText": "Makse üksikasjad", 
+    "cardTypeText": "Kaardi tüüp:", 
+    "cardNumberText": "Kaardi number:", 
+    "billingAddressText": "Arveldusaadress:",
+    "loginSuccessText": "Teie konto on loodud. Täname registreerumast!",
+    "loginFailureText": "Tõrge. Teie tellimus on töödeldud, kuid teie konto loomisel tekkis tõrge. Proovige uuesti.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

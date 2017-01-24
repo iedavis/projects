@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-configure",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ปุ่มปรับแต่ง"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Botão Personalizar"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "\u201c自定义\u201d按钮"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Кнопка кастомізації"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Бутон за персонализ."
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Nupp Kohanda"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Poga Pielāgot"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Tinkinimo mygtukas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Knappen Tilpass"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Butonul Personalizare"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Bouton Personnaliser"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "「カスタマイズ」ボタン"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Gumb za prilagoditev"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Кнопка настройки"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Gumb Prilagodi"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Özelleştir Düğmesi"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Przycisk \"Dostosuj\""
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "自訂按鈕"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "사용자정의 단추"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Tlačítko Přizpůsobit"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Testreszabás gomb"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Κουμπί \"Προσαρμογή\""
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Tilpas (knap)"
+    },
+    {
+      "description": "Customize Button",
+      "language": "en",
+      "title": "Customize Button"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Прилагођавање дугмета"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Schaltfläche \"Anpassen\""
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Botón Personalizar"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Bouton Personnaliser"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Pulsante Personalizza"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Knop Aanpassen"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Knappen Anpassa"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Botão Personalizar"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Räätälöintipainike"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

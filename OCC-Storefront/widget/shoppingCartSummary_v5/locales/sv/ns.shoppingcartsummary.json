@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Din kundvagn är tom.",
+    "buttonContinueShopping": "Fortsätt handla",
+    "cartHeader" : "Din kundvagn",
+    "itemHeaderItem": "Artikel",    
+    "itemHeaderQuantity": "Kvantitet",
+    "itemQuantity": "Kvantitet för __productName__",
+    "itemHeaderItemTotal": "Artikelsumma",
+    "totalTableSubTotal": "Delsumma:",
+    "includingTaxText": "(inklusive moms)",
+    "totalTableTotal": "Summa:",
+    "buttonUpdateQuantity": "Uppdatera",
+    "buttonRemoveItem": "Ta bort",
+    "instockText": "I lager",
+    "outofstockText": "Ej i lager",
+    "totalTableSummary": "Summor för kundvagn."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Promosyon veya sadakat kodu ekleyin",
+  "promoCode": "Promosyon Kodu Gir",
+  "promoCodeAriaLabelText": "Promosyon Kodu Gir",
+  "buttonApplyCodeText": "Kodu Uygula",
+  "buttonApplyingCodeText": "Kod Uygulanıyor",
+  "couponDetailsError": "Kupon detatylarınızla ilgili bir sorun bulundu.",
+  "promoCodeRequired": "Kupon kodu boş olamaz",
+  "duplicateCoupon": "Kod zaten uygulandı."
+  }
+}

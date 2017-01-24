@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Kas soovite kaasata ajastatud tellimuse ID?",
+	"includeScheduledHelpText" : "Valige see, ket kaasata ajastatud tellimuse ID tellimuste ajaloo tabelisse"
+  }
+}

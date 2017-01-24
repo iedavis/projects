@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Мій обліковий запис",
+    "orderHistoryText" : "Журнал замовлень",
+    "backToMyAccount" : "<< Повернутися до мого облікового запису",
+    "historyHeaderOrderDate": "Дата замовлення",    
+    "historyHeaderOrderNumber": "Номер замовлення",
+    "historyHeaderOrderStatus": "Стан замовлення",
+    "historyHeaderOrderTotal": "Загальна сума замовлення",
+    "historyHeaderOrderDetails": "Відомості про замовлення",
+    "listingHeaderScheduledOrderId": "Ідентифікатор плану",
+    "orderDetails": "Докладні відомості"
+  }
+}

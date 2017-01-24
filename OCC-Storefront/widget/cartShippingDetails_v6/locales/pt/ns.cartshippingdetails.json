@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Calcular Expedição e Imposto (opcional)",
+    "cartShippingErrorMsg": "Certifique-se de que preencheu todos os campos de expedição e corrigiu todas as entradas inválidas.",
+    "countryText": "País",
+    "stateText": "Distrito",
+    "zipCodeText": "Código Postal",
+    "countryRequired": "O País é obrigatório. ",
+    "stateRequired": "O Distrito é obrigatório. ",
+    "zipCodeRequired": "O Código Postal é obrigatório. ",
+    "zipCodeInvalid": "Entrada inválida. Introduza um código postal válido.",
+    "stateRegionText": "Distrito/Região",
+    "noShippingSelectedText": "Nenhum Método de Expedição Selecionado.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Não existem métodos de expedição disponíveis para a morada de destino.",
+    "noShippingMethodsForAddressText": "Falha na obtenção de métodos de expedição para a morada para expedição introduzida",
+    "fetchingShippingMethodsText": "A obter métodos de expedição para a morada",
+    "invalidShippingAddress": "Morada para expedição especificada inválida.",
+    "invalidShippingMethod": "Método de expedição inválido especificado.",
+    "pricingError" : "Incapaz de calcular os custos do imposto e de expedição. Verifique a morada para expedição.",
+    "invalidPreviousAddress": "Deixámos de expedir para a morada para expedição que utilizou anteriormente.",
+    "shippingMethodNoLongerAvailable": "O método de expedição anteriormente selecionado já não está disponível. Verifique o método de expedição antes de efetuar a encomenda."
+  }
+}

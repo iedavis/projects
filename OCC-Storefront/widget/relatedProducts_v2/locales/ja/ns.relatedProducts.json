@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "前のイメージ",
+    "nextImageText" : "次のイメージ",
+    "onSaleText": "セール",
+    "salePriceText": "セール価格",
+    "listPriceText": "定価",
+    "relatedProductsText": "関連製品"
+  }
+}

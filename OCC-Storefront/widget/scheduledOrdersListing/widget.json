@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "scheduledorderlist",
+  "imports": ["scheduledOrder"],
+  "javascript": "scheduled-order-list",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Scheduled Orders Listing",
+  "pageTypes": ["profile"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "scheduledOrderList",
+  "widgetType": "scheduledOrderList"
+}

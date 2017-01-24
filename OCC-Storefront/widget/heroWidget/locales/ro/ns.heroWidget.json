@@ -1,0 +1,7 @@
+{
+  "resources": {
+	"heroWidget": "Hero",
+	"previousBannerText": "Bannerul anterior",
+	"nextBannerText": "Bannerul următor"
+  }
+}

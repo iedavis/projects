@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Checkout",
+    "emailAddressText" : "Indirizzo e-mail",
+    "firstNameText" : "Nome",
+    "lastNameText" : "Cognome",
+    "passwordText" : "Password",
+    "confirmPasswordText" : "Conferma password",
+    "checkoutAsGuestText" : "Checkout ospite",
+    "loginToAccountText" : "Accesso all'account",
+    "rememberMeText" : "Desidero creare un account.",
+    "marketingMailsText" : "Desidero ricevere gli aggiornamenti via e-mail.",
+    "checkoutErrorMsg" : "Assicurarsi di aver completato tutti i campi obbligatori e correggere eventuali inserimenti non validi.",
+    "buttonCancel": "Annulla",
+    "buttonLogin": "Accesso",
+    "checkoutOption": "Scegli l'opzione di checkout.",
+    "buttonLogout": "Disconnessione",
+    "welcomeMessage": "Bentornato/a",
+    "registrationMessageText":"La creazione di un account consente di effettuare acquisti più rapidamente, tenersi aggiornati sull'avanzamento dell'ordine corrente e verificare lo stato degli ordini precedenti.",
+    "userSessionExpiredErrorMsg" : "Sessione di checkout scaduta per inattività. Riavviare il checkout."
+  }
+}

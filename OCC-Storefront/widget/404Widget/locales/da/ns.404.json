@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Side ikke fundet",
+    "error404" : "Fejl 404: ",
+    "pageNotFoundText" : "Du kan have indtastet adressen forkert, eller siden er opdateret eller slettet.",
+    "lnkHome" : "Startside",
+    "lnkBack" : "Tilbage"            
+  }
+}

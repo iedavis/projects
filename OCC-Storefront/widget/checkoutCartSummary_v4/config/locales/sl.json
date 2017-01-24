@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Vnesite največje število artiklov, ki jih želite prikazati v povzetku vozička.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Največje število artiklov v povzetku vozička"
+  }
+}

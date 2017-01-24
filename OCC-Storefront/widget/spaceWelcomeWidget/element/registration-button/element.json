@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": true,
+  "supportedWidgetType": ["spaceWelcomeWidget"],
+  "tag": "registration-button",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ปุ่มการรีจิสเตอร์"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Botão Registro"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "\u201c注册\u201d按钮"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Кнопка реєстрації"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Бутон за регистрация"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Registreerimisnupp"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Poga Reģistrācija"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Mygtukas Registracija"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Registreringsknapp"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Butonul Înregistrare"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Bouton inscription"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "登録ボタン"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Gumb za registracijo"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Кнопка \"Регистрация\""
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Gumb za registraciju"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Kayıt Düğmesi"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Przycisk rejestracji"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "註冊按鈕"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "등록 단추"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Tlačítko pro registraci"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Regisztráció gomb"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Κουμπί εγγραφής"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Registreringsknap"
+    },
+    {
+      "description": "Displays a Registration button",
+      "language": "en",
+      "title": "Registration Button"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Дугме за регистровање"
+    },
+    {
+      "description": "[DE][Displays a Registration button ä]",
+      "language": "de",
+      "title": "Registrierungsschaltfläche"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Botón de registro"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Bouton Enregistrement"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Pulsante Registrazione"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Registratieknop"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Registreringsknapp"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Botão de Registo"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Rekisteröintipainike"
+    }
+  ],
+  "type": "subFragment",
+  "version": 1
+}

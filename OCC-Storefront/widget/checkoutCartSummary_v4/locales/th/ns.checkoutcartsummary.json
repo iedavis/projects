@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "สรุปรถเข็น",
+    "quantityText": "ปริมาณ: ",
+    "colorText": "สี: ",
+    "sizeText": "ขนาด: ",
+    "instockText": "มีในสต็อค",
+    "outofstockText": "หมดสต็อค",
+    "estimiatedShippingText": "การจัดส่งสินค้าที่ประมาณการ: ",
+    "buttonEditCartSummary": "แก้ไข",
+    "editCartText": "แก้ไขรถเข็น",
+    "seeAllProducts": "ดูผลิตภัณฑ์ทั้งหมด",
+    "showAll": "แสดงทั้งหมด",
+    "cartSummaryItemLimitText": "กำลังแสดงสินค้าในรถเข็น __noOfItems__ รายการแรก"
+  }
+}

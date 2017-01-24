@@ -1,0 +1,179 @@
+{
+  "defaultPage": false,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["returnsWebContentInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "article",
+  "isLayoutDisplayable": true,
+  "pageAddress": "returns",
+  "displayName": "Returns Layout",
+  "translations": [
+    {
+      "name": "สินค้าส่งคืน",
+      "language": "th"
+    },
+    {
+      "name": "Devoluções",
+      "language": "pt_BR"
+    },
+    {
+      "name": "退货",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Повернення",
+      "language": "uk"
+    },
+    {
+      "name": "Връщане",
+      "language": "bg"
+    },
+    {
+      "name": "Tagastused",
+      "language": "et"
+    },
+    {
+      "name": "Atgriešanas",
+      "language": "lv"
+    },
+    {
+      "name": "Grąžinimai",
+      "language": "lt"
+    },
+    {
+      "name": "Returer",
+      "language": "no"
+    },
+    {
+      "name": "Returnări",
+      "language": "ro"
+    },
+    {
+      "name": "Retours",
+      "language": "fr_CA"
+    },
+    {
+      "name": "返品",
+      "language": "ja"
+    },
+    {
+      "name": "Vračila",
+      "language": "sl"
+    },
+    {
+      "name": "Возвраты",
+      "language": "ru"
+    },
+    {
+      "name": "Povrati",
+      "language": "hr"
+    },
+    {
+      "name": "İadeler",
+      "language": "tr"
+    },
+    {
+      "name": "Zwroty",
+      "language": "pl"
+    },
+    {
+      "name": "退貨",
+      "language": "zh_TW"
+    },
+    {
+      "name": "반환",
+      "language": "ko"
+    },
+    {
+      "name": "Vráceno",
+      "language": "cs"
+    },
+    {
+      "name": "Visszáruk",
+      "language": "hu"
+    },
+    {
+      "name": "Επιστροφές",
+      "language": "el"
+    },
+    {
+      "name": "Returvarer",
+      "language": "da"
+    },
+    {
+      "name": "Returns",
+      "language": "en"
+    },
+    {
+      "name": "Повраћаји",
+      "language": "sr"
+    },
+    {
+      "name": "Retouren",
+      "language": "de"
+    },
+    {
+      "name": "المرتجعات",
+      "language": "ar"
+    },
+    {
+      "name": "Devoluciones",
+      "language": "es"
+    },
+    {
+      "name": "Retours",
+      "language": "fr"
+    },
+    {
+      "name": "Restituzioni",
+      "language": "it"
+    },
+    {
+      "name": "Retouren",
+      "language": "nl"
+    },
+    {
+      "name": "Returer",
+      "language": "sv"
+    },
+    {
+      "name": "Devoluções",
+      "language": "pt"
+    },
+    {
+      "name": "Palautukset",
+      "language": "fi"
+    }
+  ],
+  "layoutViewports": "xs,sm,md,lg"
+}

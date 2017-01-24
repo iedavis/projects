@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Encomendas Programadas",
+    "backToMyAccount" : "<< Regressar à Minha Conta",
+    "scheduledOrderName" : "Nome",
+    "frequency": "Frequência",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Estado",
+    "nextShipDate": "Encomenda Seguinte",
+    "lastScheduledRun": "Última Encomenda",
+    "scheduledOrderDetails": "Detalhes da Encomenda",
+    "orderDetails": "Detalhes",
+    "action": "Ação",
+    "createdDate":"Data de Criação",
+    "editOrder": "Editar",
+    "deleteOrder": "Apagar",
+    "deleteSuccessMsg":"Apagado com êxito",
+    "myAccount" : "A Minha Conta"
+  }
+}

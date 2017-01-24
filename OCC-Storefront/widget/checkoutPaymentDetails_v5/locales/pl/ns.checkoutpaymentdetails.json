@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Szczegóły płatności",
+  "paymentMethod": "Sposób płatności",
+  "paypalText": "Bezpieczniejszy i łatwiejszy sposób zapłaty.", 
+  "paymentDetailsError": "Proszę upewnić się, że wypełniono wszystkie obowiązkowe pola i poprawiono ewentualne nieprawidłowe wpisy.",
+  "paymentMethodNotAvilable": "(Tej opcji płatności nie można używać w przypadku zaplanowanych zamówień.)",
+  
+  "nameOnCardLabel": "Nazwisko na karcie",
+  "nameOnCardPlaceholder": "Nazwisko na karcie",
+  "nameOnCardRequired": "Pole \"Nazwisko na karcie\" jest obowiązkowe.",
+  "nameOnCardInvalid": "Nazwisko na karcie jest nieprawidłowe.",
+  
+  "cardTypeLabel": "Typ karty",
+  "cardTypePlaceholder": "Typ karty",
+  "cardTypeRequired": "Pole \"Typ karty\" jest obowiązkowe.",
+  "cardTypeInvalid": "Typ karty jest nieprawidłowy.",
+  
+  "cardNumberLabel": "Numer karty",
+  "cardNumberPlaceholder": "Numer karty",
+  "cardNumberRequired": "Pole \"Numer karty\" jest obowiązkowe.",
+  "cardNumberMaxLength":"Nieprawidłowy wpis. Proszę nie przekraczać limitu __maxLength__ znaków.",
+  "cardNumberInvalid": "Błędny numer karty, proszę spróbować ponownie.",
+  
+  "cardCVVLabel": "Kod CVV",
+  "cardCVVPlaceholder": "Kod CVV",
+  "cardCVVRequired": "Pole \"Kod CVV\" jest obowiązkowe.",
+  "cardCVVInvalid": "Kod CVV jest nieprawidłowy.",
+  "cardCVVWhatsThis": "Co to jest?",
+  "cardCVVPopupTitle": "Kod CVV",
+  "cardCVVPopupText": "Ostatnie 3 cyfry w polu podpisu na odwrocie karty.",
+  "cardCVVNumberInvalid": "Nieprawidłowy wpis. Proszę wprowadzić tylko liczby.",
+  "cardCVVNumberMaxLength": "Nieprawidłowy wpis. Proszę nie przekraczać limitu 4 znaków.",
+  "cardCVVNumberMinLength": "Nieprawidłowy wpis. Proszę wprowadzić co najmniej 3 znaki.",
+  
+  "endMonthLabel": "Data ważności (miesiąc)",
+  "endMonthPlaceholder": "Data ważności (miesiąc)",
+  "endMonthRequired": "Miesiąc ważności karty jest obowiązkowy.",
+  "endMonthInvalid": "Nieprawidłowy miesiąc/rok ważności, proszę spróbować ponownie.",
+  
+  "endYearLabel": "Data ważności (rok)",
+  "endYearPlaceholder": "Data ważności (rok)",
+  "endYearRequired": "Rok ważności karty jest obowiązkowy.",
+  "endYearInvalid": "Nieprawidłowy miesiąc/rok ważności, proszę spróbować ponownie.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

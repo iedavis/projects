@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Valitse tämä, jos haluat käyttää tyylipohjaista listausta.",
+    "shouldUseStyleBasedTextLabel": "Käytä tyylipohjaista listausta",
+    "listTypeHelpText": "Valitse, onko widget-instanssin tyyppi Tuotelista vai Hakutuloslista.",
+    "listTypeTextLabel": "Listatyyppi",
+    "productLabel" : "Tuote",
+    "searchLabel" : "Haku",
+    "productListingFieldsRequiredHelpText": "Anna luettelo vastaukseen sisällytettävistä kentistä pilkuin erotettuina. Kenttien asetus koskee vain luokan navigoinnin avulla saatuja tuotetietoja. Asetus ei koske hakutuloksia.",
+    "productListingFieldsRequiredLabel": "Kentät",
+    "productsPerPageRequiredHelpText": "Syötä sivulla näytettävien tuotteiden määrä.",
+    "productsPerPageRequiredLabel": "Tuotteita sivulla",
+    "blockSizeRequiredHelpText": "Anna pyyntöä kohden ladattavien tuotteiden määrä. Lohkon koon asetus koskee vain luokan navigoinnin avulla saatuja tuotetietoja. Asetus ei koske hakutuloksia.",
+    "blockSizeRequiredLabel": "Lohkon koko"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Megjelenítendő jellemzők",
+    "numberOfRelatedProductsHelpText": "Adja meg a forgótárban megjelenítendő kapcsolódó termékek számát.",
+    "numberOfRelatedProductsTextLabel": "Kapcsolódó termékek száma",
+    "displayNameOfRelatedProductsTextLabel": "Termék neve",
+    "displayPriceOfRelatedProductsTextLabel": "Ár"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "102": "(102) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "104": "(104) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "110": "(110) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "150": "(150) Krediitkaardi väljastanud pangaga ühendust võttes ilmnes tehniline tõrge. Proovige uuesti või kasutage mõnda muud kaarti.",
+    "151": "(151) Ilmnes tehniline tõrge. Palun proovige mõne aja pärast uuesti.",
+    "152": "(152) Ilmnes tehniline tõrge. Palun proovige mõne aja pärast uuesti.",
+    "200": "(200) Sisestatud arveldusaadress ei ühti meie süsteemis teie krediitkaardiandmetes oleva aadressiga. Kontrollige aadressi ja proovige uuesti.",
+    "201": "(201) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "202": "(202) Kontrollige kaardi aegumiskuupäeva ja proovige uuesti.",
+    "203": "(203) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "204": "(204) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "205": "(205) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "207": "(207) Krediitkaardi väljastanud pangaga ühendust võttes ilmnes tehniline tõrge. Proovige uuesti või kasutage mõnda muud kaarti.",
+    "208": "(208) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "209": "(209) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "210": "(210) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "211": "(211) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "221": "(221) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "230": "(230) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "231": "(231) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "232": "(232) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "233": "(233) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "234": "(234) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "520": "(520) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "1000": "(1000) Teie krediitkaart on tagasi lükatud, palun kasutage mõnda muud kaarti.",
+    "476": "(476) Kaart pole kasutamiseks autenditud, kasutage mõnda muud kaarti.",
+    "paymentErrorText":"Ilmnes tehniline tõrge. Palun proovige mõne aja pärast uuesti.",
+    "processingText": "Töötlemine on pooleli, palun oodake. Ärge klõpsake nuppu Värskenda ega Tagasi, kuna siis võidakse teie tehing katkestada või lõpetada."
+  }
+}

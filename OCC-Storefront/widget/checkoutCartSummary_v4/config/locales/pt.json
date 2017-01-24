@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Introduza o número máximo de artigos que pretende apresentar no Resumo do Carrinho.",
+    "checkoutCartSummaryItemsToDisplayLabel": "N.º Máximo de Artigos no resumo do carrinho"
+  }
+}

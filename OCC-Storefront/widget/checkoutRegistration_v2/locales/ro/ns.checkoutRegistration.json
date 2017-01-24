@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Achiziţie",
+    "emailAddressText" : "Adresă de e-mail",
+    "firstNameText" : "Prenume",
+    "lastNameText" : "Nume",
+    "passwordText" : "Parolă",
+    "confirmPasswordText" : "Confirmare parolă",
+    "checkoutAsGuestText" : "Achiziţie ca vizitator",
+    "loginToAccountText" : "Conectaţi-vă la contul dvs.",
+    "rememberMeText" : "Doresc să creez un cont.",
+    "marketingMailsText" : "Doresc să primesc actualizări prin e-mail.",
+    "checkoutErrorMsg" : "Asiguraţi-vă că aţi completat toate câmpurile obligatorii şi aţi corectat toate intrările nevalide.",
+    "buttonCancel": "Anulare",
+    "buttonLogin": "Conectare",
+    "checkoutOption": "Alegeţi opţiunea dvs. pt. achiziţie.",
+    "buttonLogout": "Deconectare",
+    "welcomeMessage": "Bine aţi revenit!",
+    "registrationMessageText":"Crearea unui cont înseamnă că puteţi să faceţi cumpărături mai rapid, să fiţi în permanenţă la curent cu starea comenzii dvs. curente şi să verificaţi stările comenzilor anterioare.",
+    "userSessionExpiredErrorMsg" : "Sesiunea dvs. de achiziţie a expirat din cauza inactivităţii. Reîncepeţi achiziţia."
+  }
+}

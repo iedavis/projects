@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Podesite da li je dozvoljen istek vremena za obaveštenja koja se ne tiču grešaka.",
+    "notificationsTimeoutEnabledTextLabel": "Istek vremena je omogućen",
+    "notificationsTimeoutHelpText": "Podesite istek vremena za obaveštenja koja se ne tiču grešaka (u sekundama).",
+    "notificationsTimeoutTextLabel": "Istek vremena (u sek.)",
+    "notificationsFixedHelpText": "Podesite da li vidžet za obaveštenja treba da bude fiksiran na vrhu stranice.",
+    "notificationsFixedTextLabel": "Fiksno"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Auf den Wunschzettel",
+    "spaceSelectionText": "Wunschzettel auswählen",
+    "spaceCommentText": "Kommentar eingeben...",
+    "spaceNameText": "Name",
+    "buttonSpaceAdd": "Hinzufügen",
+    "buttonSpaceCancel": "Abbrechen",
+    "mySpacesGroupText": "Meine Wunschzettel",
+    "joinedSpacesGroupText": "Zu Wunschzetteln beigetreten",
+    "createNewSpaceOptText": "Neuer Wunschzettel...",
+    "addToSpaceSuccessMsg" : "Erfolgreich: __socialproduct__ wurde __socialspacename__ hinzugefügt.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Dieser Artikel befand sich bereits auf dem Wunschzettel. Das Datum der Hinzufügung wurde aktualisiert.",
+    "addToSpaceProductViewWishListMsg" : "__wishlistname__ anzeigen",
+    "spaceAddProductError" : "Beim Hinzufügen des Produkts zum Wunschzettel ist ein Fehler aufgetreten. Aktualisieren Sie die Seite.",
+    "uniqueNameMsg": "Der Name des Wunschzettels muss eindeutig sein.",
+    "emptyNameMsg": "Name darf nicht leer sein",
+    "privacySettingsLabel": "Datenschutzeinstellungen",
+    "privacySettingsDescription": "Wenn Sie Freunde zu einem privaten Wunschzettel einladen, wird Ihre Datenschutzeinstellung in \"Gruppe\" geändert. Wenn Sie einen Wunschzettel vom Typ \"Privat\" oder \"Gruppe\" per E-Mail versenden oder ihn in einem sozialen Netzwerk teilen, wird daraus ein geteilter Wunschzettel.",
+    "privacySharedLabel": "Jeder mit dem Link kann diesen Wunschzettel anzeigen. Nur Sie und die von Ihnen eingeladenen Personen können diesen Wunschzettel anzeigen und kommentieren und diesem Wunschzettel Elemente hinzufügen.",
+    "privacyGroupLabel": "Nur Sie und die von Ihnen eingeladenen Personen können diesen Wunschzettel anzeigen und kommentieren und diesem Wunschzettel Elemente hinzufügen.",
+    "privacyPrivateLabel": "Nur Sie können diesen Wunschzettel anzeigen und diesem Wunschzettel Elemente hinzufügen.",
+    "spaceAccessPrivateIconTxt" : "Privat",
+    "spaceAccessSharedIconTxt" : "Geteilt",
+    "spaceAccessGroupIconTxt" : "Gruppe",
+    "spaceCreateMaxSpacesMsg" : "Problem beim Erstellen von Wunschzettel. Sie haben den Grenzwert für die Anzahl an Wunschzetteln überschritten. Löschen Sie einen vorhandenen Wunschzettel, bevor Sie einen neuen erstellen.",
+    "productAddMaxProductsMsg" : "Problem beim Hinzufügen von Produkt zu Wunschzettel. Sie haben den Grenzwert für die Anzahl an Posts in einem Wunschzettel überschritten. Löschen Sie ein vorhandenes Produkt aus dem Zielwunschzettel, bevor Sie ein neues hinzufügen."
+  }
+}

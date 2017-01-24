@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Aggiungi a elenco dei desiderata",
+    "spaceSelectionText": "Seleziona un elenco dei desiderata",
+    "spaceCommentText": "Immetti un commento...",
+    "spaceNameText": "Nome",
+    "buttonSpaceAdd": "Aggiungi",
+    "buttonSpaceCancel": "Annulla",
+    "mySpacesGroupText": "Elenchi dei desiderata personali",
+    "joinedSpacesGroupText": "Elenchi dei desiderata con adesioni",
+    "createNewSpaceOptText": "Nuovo elenco dei desiderata...",
+    "addToSpaceSuccessMsg" : "Aggiunta di __socialproduct__ a __socialspacename__ riuscita.",
+    "addToSpaceProductUpdatedSuccessMsg" : "L'articolo è già presente nell'elenco dei desiderata. La data di aggiunta è stata aggiornata di conseguenza.",
+    "addToSpaceProductViewWishListMsg" : "  Visualizza __wishlistname__",
+    "spaceAddProductError" : "Errore durante il tentativo di pubblicazione di un prodotto nell'elenco dei desiderata. Provare ad aggiornare la pagina.",
+    "uniqueNameMsg": "Il nome dell'elenco dei desiderata deve essere univoco.",
+    "emptyNameMsg": "Il nome non deve essere vuoto",
+    "privacySettingsLabel": "Impostazioni privacy",
+    "privacySettingsDescription": "Se si invitano amici a un elenco dei desiderata privato, l'impostazione della privacy diventerà Gruppo. Se si invia un elenco dei desiderata privato o di gruppo per e-mail o se lo si condivide su un social network, l'elenco diventerà un elenco condiviso. ",
+    "privacySharedLabel": "Chiunque abbia un collegamento può vedere questo elenco. Solo tu e le persone da te invitate potete vedere l'elenco e aggiungervi commenti e articoli.",
+    "privacyGroupLabel": "Solo tu e le persone da te invitate potete vedere l'elenco e aggiungervi commenti e articoli.",
+    "privacyPrivateLabel": "Solo tu puoi vedere l'elenco e aggiungervi commenti e articoli.",
+    "spaceAccessPrivateIconTxt" : "Privato",
+    "spaceAccessSharedIconTxt" : "Condiviso",
+    "spaceAccessGroupIconTxt" : "Gruppo",
+    "spaceCreateMaxSpacesMsg" : "Problema durante la creazione dell'elenco dei desiderata. È stato superato il limite valido per il numero di elenchi dei desiderata. Eliminare un elenco dei desiderata esistente prima di crearne uno nuovo.",
+    "productAddMaxProductsMsg" : "Problema durante l'aggiunta del prodotto all'elenco dei desiderata. È stato superato il limite valido per il numero voci in un elenco dei desiderata. Eliminare un prodotto esistente dall'elenco dei desiderata di destinazione prima di aggiungerne un nuovo."
+  }
+}

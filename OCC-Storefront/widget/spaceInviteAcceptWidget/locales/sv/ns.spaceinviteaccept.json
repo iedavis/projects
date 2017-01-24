@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Välkommen __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Inbjudan har redan accepterats.",
+    "spaceNotFound" : "Önskelistan som du försöker komma åt hittades inte.",
+    "invitationExpiredError" : "Din inbjudan har gått ut! Kontakta ägaren till den önskelista som du vill ansluta dig till och be honom/henne att bjuda in dig på nytt.",
+    "memberJoinError" : "Ett fel har inträffat med inbjudan.",
+    "pleaseWaitProcessingMsg" : "Vänta medan vi bearbetar din inbjudan"
+  }
+}

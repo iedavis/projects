@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2006-09-27T00:39:39.637797Z"
+   url="http://google-checkout-java14-sample-code.googlecode.com/svn/trunk/src/com/google/checkout/sample/protocol"
+   last-author="colinhc"
+   kind="dir"
+   uuid="8474a406-481d-0410-88fc-6705ad773e9c"
+   repos="http://google-checkout-java14-sample-code.googlecode.com/svn"
+   revision="13"/>
+<entry
+   committed-rev="4"
+   name="ProtocolException.java"
+   text-time="2006-11-23T21:31:26.953125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="8412e67eff4f022fe0d6b8d2a97b9eae"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:25.281250Z"/>
+<entry
+   committed-rev="4"
+   name="CheckoutCartBuilder.java"
+   text-time="2006-11-23T21:31:26.984375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="9f0abf768bbd95efde7f260d7e25cf32"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:25.296875Z"/>
+<entry
+   committed-rev="4"
+   name="CheckoutCartBuilderTest.java"
+   text-time="2006-11-23T21:31:27.000000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1888fa84f6f0dded5c8489896161d026"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:25.296875Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculationResultBuilder.java"
+   text-time="2006-11-23T21:31:27.015625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="113cf392a8267a102936265c73ed82bc"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:25.312500Z"/>
+<entry
+   committed-rev="4"
+   name="OrderTransactionBuilder.java"
+   text-time="2006-11-23T21:31:27.046875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="e2d965e8c99b79c922a94511777feeee"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:25.671875Z"/>
+<entry
+   committed-rev="4"
+   name="OrderTransactionBuilderTest.java"
+   text-time="2006-11-23T21:31:27.046875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a358dfddd3b231d3703e21c986df2db8"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:25.687500Z"/>
+<entry
+   committed-rev="4"
+   name="CallBackParser.java"
+   text-time="2006-11-23T21:31:27.062500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="39e00b85c22a2c39e157b7feb6ce46e6"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:25.968750Z"/>
+<entry
+   committed-rev="4"
+   name="CallBackParserTest.java"
+   text-time="2006-11-23T21:31:27.078125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="3027750e04e3e3123fff96566c264036"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:26.906250Z"/>
+<entry
+   committed-rev="4"
+   name="AllTests.java"
+   text-time="2006-11-23T21:31:27.078125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a53c7f09e8f3f37c5f24e7b537d8e66a"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:26.921875Z"/>
+<entry
+   committed-rev="4"
+   name="AbstractProtocolBuilder.java"
+   text-time="2006-11-23T21:31:27.093750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="9aace13b5f2a7f6a100b35740a5a81da"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:26.937500Z"/>
+</wc-entries>

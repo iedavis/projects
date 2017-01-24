@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Selecione para utilizar a listagem baseada no estilo.",
+    "shouldUseStyleBasedTextLabel": "Utilizar a Listagem da Base de Estilo",
+    "listTypeHelpText": "Selecione se a instância do widget é uma listagem de produtos ou tipo de lista de resultados da pesquisa.",
+    "listTypeTextLabel": "Tipo de Lista",
+    "productLabel" : "Produto",
+    "searchLabel" : "Pesquisa",
+    "productListingFieldsRequiredHelpText": "Introduza uma lista de campos a incluir na resposta, separados por vírgulas. A definição de campos aplica-se às listagens de produtos através da navegação por categoria apenas e não aos resultados da pesquisa.",
+    "productListingFieldsRequiredLabel": "Campos",
+    "productsPerPageRequiredHelpText": "Introduza o número de produtos a apresentar numa página.",
+    "productsPerPageRequiredLabel": "Produtos por página",
+    "blockSizeRequiredHelpText": "Introduza o número de produtos a carregar por pedido. A definição da dimensão do bloco aplica-se às listagens de produtos através da navegação por categoria apenas e não aos resultados da pesquisa.",
+    "blockSizeRequiredLabel": "Dimensão do Bloco"
+  }
+}

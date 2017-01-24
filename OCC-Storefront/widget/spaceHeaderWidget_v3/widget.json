@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "spaceheader",
+  "imports": ["space"],
+  "javascript": "space-header",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Wish List Header",
+  "pageTypes": ["swm"],
+  "source": 100,
+  "version": 3,
+  "widgetFamily": "spaceHeaderWidget",
+  "widgetType": "spaceHeaderWidget"
+}

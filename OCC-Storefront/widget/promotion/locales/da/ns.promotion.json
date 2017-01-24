@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Tilføj en promotion- eller loyalitetskode",
+  "promoCode": "Indtast promokode",
+  "promoCodeAriaLabelText": "Indtast promokode",
+  "buttonApplyCodeText": "Anvend kode",
+  "buttonApplyingCodeText": "Anvender kode",
+  "couponDetailsError": "Et problem er fundet med dine kupondetaljer.",
+  "promoCodeRequired": "Kuponkode kan ikke være tom",
+  "duplicateCoupon": "Kode allerede anvendt."
+  }
+}

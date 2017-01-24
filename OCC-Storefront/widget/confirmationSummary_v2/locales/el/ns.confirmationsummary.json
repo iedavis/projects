@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Σύνοψη παραγγελίας", 
+    "orderDoesNotExist": "Η παραγγελία δεν υπάρχει.", 
+    "subTotalText": "Μερικό σύνολο:", 
+    "salesTaxText": "Φόρος πωλήσεων:", 
+    "orderTotalText": "Σύνολο παραγγελίας:", 
+    "continueShoppingText": "Συνέχιση αγορών",
+    "delimiter": ":",
+    "includingTaxText": "(με φόρο)",
+    "totalExcludingTaxText": "Σύνολο (χωρίς φόρο): "
+  }
+}

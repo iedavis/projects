@@ -1,0 +1,178 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": ["fontPicker"],
+  "global": false,
+  "inline": true,
+  "previewText": "$xx.xx",
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-list-price",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ราคาตามบัญชี"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Preço da lista"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "价目表价格"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Ціна за прейск."
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Каталожна цена"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Hinnakirjahind"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Saraksta cena"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Kainoraštis"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Listepris"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Preţ de listă"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Prix catalogue"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "定価"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Cena po ceniku"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Цена прейск."
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Katal. cijena"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Liste Fiyatı"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Cena katalogowa"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "定價"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "표시 가격"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Ceníková cena"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Listaár"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Τιμή καταλόγου"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Listepris"
+    },
+    {
+      "description": "Product list price will be displayed here",
+      "language": "en",
+      "title": "List Price"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Цена из ценовн."
+    },
+    {
+      "description": "[PX][Product list price will be displayed here ä]",
+      "language": "de",
+      "title": "Listenpreis"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Precio de lista"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Prix catalogue"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Prezzo listino"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Catalogusprijs"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Listpris"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Preço de Lista"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Luettelohinta"
+    }
+  ],
+  "type": "subFragment",
+  "version": 3
+}

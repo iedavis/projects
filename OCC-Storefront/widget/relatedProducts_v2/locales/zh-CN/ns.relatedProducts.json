@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "前面的图像",
+    "nextImageText" : "后面的图像",
+    "onSaleText": "降价销售",
+    "salePriceText": "销售价格",
+    "listPriceText": "价目表价格",
+    "relatedProductsText": "相关产品"
+  }
+}

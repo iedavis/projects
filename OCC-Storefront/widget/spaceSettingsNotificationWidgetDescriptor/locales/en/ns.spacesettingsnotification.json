@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Email Notification Settings",
+    "spaceSettingsNotificationIntroText" : "I would like to receive:",
+    "spaceSettingsCommentNotificationTxt" : "Comment and product notifications",
+    "spaceSettingsNewMemberNotificationTxt" : "New member notifications",
+    "spaceSettingsSaveTxt" : "Save",
+    "spaceSettingsCancelTxt" : "Cancel",
+    "spaceSettingsSaveErrorTxt" : "There was a problem saving your notification settings changes.",
+    "spaceSettingsSaveSuccessTxt" : "Your notification settings have been updated and saved.",
+    "spaceSettingsOnText" : "Yes",
+    "spaceSettingsOffText" : "No",
+    "spaceSettingsNotificationEnableHelpText" : "Select \"I want to get email updates\" on \"My Account\" page to enable wish list notifications."
+  }
+}

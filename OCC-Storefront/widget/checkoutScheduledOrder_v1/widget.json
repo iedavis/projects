@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "checkoutscheduledorder",
+  "imports": ["order"],
+  "javascript": "checkout-scheduled-order",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Scheduled Order - Checkout",
+  "pageTypes": ["checkout"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "checkoutScheduledOrder",
+  "widgetType": "checkoutScheduledOrder"
+}

@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Вы искали \"__searchterm__\". Продукты не найдены.",
+    "titleText": "Поиск",
+    "searchFailedText": "В данный момент выполнение поиска невозможно."
+  }
+}

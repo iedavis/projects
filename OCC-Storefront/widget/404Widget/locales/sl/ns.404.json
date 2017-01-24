@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Strani ni bilo mogoče najti",
+    "error404" : "Napaka 404: ",
+    "pageNotFoundText" : "Morda ste vnesli nepravilen naslov ali pa je bila stran posodobljena ali izbrisana.",
+    "lnkHome" : "Domov",
+    "lnkBack" : "Nazaj"            
+  }
+}

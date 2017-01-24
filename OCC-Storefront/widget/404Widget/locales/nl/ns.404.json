@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Pagina niet gevonden",
+    "error404" : "Fout 404: ",
+    "pageNotFoundText" : "U hebt het adres mogelijk onjuist ingevoerd of de pagina is bijgewerkt of verwijderd.",
+    "lnkHome" : "Beginpagina",
+    "lnkBack" : "Terug"            
+  }
+}

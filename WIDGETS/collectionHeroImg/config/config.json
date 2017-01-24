@@ -1,0 +1,19 @@
+{
+    "widgetDescriptorName": "Collection Hero Image",
+    "properties": [
+        {
+            "id": "imgNamePattern",
+            "type": "stringType",
+            "name": "imgNamePattern",
+            "helpTextResourceId": "imgPatternHelpText",
+            "labelResourceId": "imgPatternLabel"
+        },
+        {
+            "id": "defaultImageName",
+            "type": "stringType",
+            "name": "defaultImageName",
+            "helpTextResourceId": "defaultImgNameHelpText",
+            "labelResourceId": "defaultImgNameLabel"
+        },
+    ]
+}

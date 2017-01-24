@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Lägg till en kampanj- eller lojalitetskod",
+  "promoCode": "Ange kampanjkod",
+  "promoCodeAriaLabelText": "Ange kampanjkod",
+  "buttonApplyCodeText": "Använd kod",
+  "buttonApplyingCodeText": "Använder kod",
+  "couponDetailsError": "Ett problem inträffade med kupongdetaljerna.",
+  "promoCodeRequired": "Kupongkod får inte vara tom",
+  "duplicateCoupon": "Koden har redan använts."
+  }
+}

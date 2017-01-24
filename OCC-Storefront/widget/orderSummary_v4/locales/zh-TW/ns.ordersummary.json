@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "訂單摘要",
+    "subtotalText": "小計：",
+    "discountText": "折扣*：",
+    "shippingOptionsText": "出貨選項",
+    "changeText": "變更",
+    "salesTaxText": "銷售稅：",
+    "orderTotalText": "訂單總計：",
+    "placeOrderText": "下單",
+    "noShippingText": "沒有出貨",
+    "applicableTaxesText": "結帳時會計算適用的稅額。",
+    "paymentOptionsText": "付款選項",
+    "checkoutText": "結帳",
+    "noShippingSelectedText": "未選取出貨方式。",
+    "shippingAddressRequired":"請輸入出貨地址",
+    "shippingText": "出貨：__displayName__",
+    "noShippingMethodsText": "沒有可用的出貨方式",
+    "checkoutErrorMsg": "請確認您已完成所有必要欄位，且已更正所有無效的項目。",
+    "removeLinkText": "移除",
+    "rePricingText":"重新訂價",
+    "totalExcludingTaxText": "總計 (不含稅)：",
+    "includingTaxText": "(含稅)"
+  }
+}

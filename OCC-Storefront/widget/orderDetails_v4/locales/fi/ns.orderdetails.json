@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Omat tilaukset",
+    "backToMyOrdersLink" : "<< Takaisin omiin tilauksiin",
+    "orderDetailsText": "Tilauksen tiedot",
+    "orderDateText": "Tilauksen päivämäärä:",
+    "orderNumberText": "Tilausnumero:",
+    "orderStatusText": "Tilauksen tila:",
+    "quoteExpiryText": "Tarjouksen vanheneminen:",
+    "scheduledOrderName": "Suunnitelman nimi:",
+    "shippingAddressAndMethodText": "Lähetysosoite ja -tapa", 
+    "shippingAddressText": "Lähetys:",
+    "noShippingAddressText" : "Lähetysosoitetta ei ole käytettävissä", 
+    "shippingMethodText": "Lähetystapa:",
+    "shippingText": "Vakiolähetys:",
+    "salesTaxText": "Alv:",
+    "orderTotalText": "Tilaus yhteensä:",
+    "includingTaxText": "(sisältää veron)",
+    "totalExcludingTaxText": "Yhteensä (ilman veroa): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Seurantanumerot:",
+    "trackingReferenceReaderText": "Rahdinkuljettajan __carrierName__ seurantaviite __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Suunniteltu tilaus luotu hinnaston __priceListGroup__ mukaan"
+  } 
+}

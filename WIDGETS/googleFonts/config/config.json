@@ -1,0 +1,110 @@
+{
+    "widgetDescriptorName": "googleFonts",
+    "properties": [
+        {
+        "id": "baseFontFamily",
+        "type": "stringType",
+        "name": "baseFontFamily",
+        "helpTextResourceId": "baseFontFamilyHelpText",
+        "labelResourceId": "baseFontFamilyLabel"
+        },
+        {
+        "id": "baseFontStyle",
+        "type": "stringType",
+        "name": "baseFontStyle",
+        "helpTextResourceId": "baseFontStyleHelpText",
+        "labelResourceId": "baseFontStyleLabel"
+        },
+        {
+        "id": "baseFontCharSets",
+        "type": "stringType",
+        "name": "baseFontCharSets",
+        "helpTextResourceId": "baseFontCharSetsHelpText",
+        "labelResourceId": "baseFontCharSetsLabel"
+        },
+        {
+        "id": "h1FontFamily",
+        "type": "stringType",
+        "name": "h1FontFamily",
+        "helpTextResourceId": "h1FontFamilyHelpText",
+        "labelResourceId": "h1FontFamilyLabel"
+        },
+        {
+        "id": "h1FontStyle",
+        "type": "stringType",
+        "name": "h1FontStyle",
+        "helpTextResourceId": "h1FontStyleHelpText",
+        "labelResourceId": "h1FontStyleLabel"
+        },
+        {
+        "id": "h1FontCharSets",
+        "type": "stringType",
+        "name": "h1FontCharSets",
+        "helpTextResourceId": "h1FontCharSetsHelpText",
+        "labelResourceId": "h1FontCharSetsLabel"
+        },
+        {
+        "id": "h2FontFamily",
+        "type": "stringType",
+        "name": "h2FontFamily",
+        "helpTextResourceId": "h2FontFamilyHelpText",
+        "labelResourceId": "h2FontFamilyLabel"
+        },
+        {
+        "id": "h2FontStyle",
+        "type": "stringType",
+        "name": "h2FontStyle",
+        "helpTextResourceId": "h2FontStyleHelpText",
+        "labelResourceId": "h2FontStyleLabel"
+        },
+        {
+        "id": "h2FontCharSets",
+        "type": "stringType",
+        "name": "h2FontCharSets",
+        "helpTextResourceId": "h2FontCharSetsHelpText",
+        "labelResourceId": "h2FontCharSetsLabel"
+        },
+        {
+        "id": "h3FontFamily",
+        "type": "stringType",
+        "name": "h3FontFamily",
+        "helpTextResourceId": "h3FontFamilyHelpText",
+        "labelResourceId": "h3FontFamilyLabel"
+        },
+        {
+        "id": "h3FontStyle",
+        "type": "stringType",
+        "name": "h3FontStyle",
+        "helpTextResourceId": "h3FontStyleHelpText",
+        "labelResourceId": "h3FontStyleLabel"
+        },
+        {
+        "id": "h3FontCharSets",
+        "type": "stringType",
+        "name": "h3FontCharSets",
+        "helpTextResourceId": "h3FontCharSetsHelpText",
+        "labelResourceId": "h3FontCharSetsLabel"
+        },
+        {
+        "id": "pFontFamily",
+        "type": "stringType",
+        "name": "pFontFamily",
+        "helpTextResourceId": "pFontFamilyHelpText",
+        "labelResourceId": "pFontFamilyLabel"
+        },
+        {
+        "id": "pFontStyle",
+        "type": "stringType",
+        "name": "pFontStyle",
+        "helpTextResourceId": "pFontStyleHelpText",
+        "labelResourceId": "pFontStyleLabel"
+        },
+        {
+        "id": "pFontCharSets",
+        "type": "stringType",
+        "name": "pFontCharSets",
+        "helpTextResourceId": "pFontCharSetsHelpText",
+        "labelResourceId": "pFontCharSetsLabel"
+        }
+    ]
+}

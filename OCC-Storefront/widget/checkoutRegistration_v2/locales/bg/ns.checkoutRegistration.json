@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Каса",
+    "emailAddressText" : "Имейл адрес",
+    "firstNameText" : "Собствено име",
+    "lastNameText" : "Фамилно име",
+    "passwordText" : "Парола",
+    "confirmPasswordText" : "Потвърдете паролата",
+    "checkoutAsGuestText" : "Пазаруване като гост",
+    "loginToAccountText" : "Влизане във вашия акаунт",
+    "rememberMeText" : "Искам да създам акаунт.",
+    "marketingMailsText" : "Искам да получавам имейл актуализации.",
+    "checkoutErrorMsg" : "Моля, уверете се, че сте попълнили всички задължителни полета и сте поправили всички невалидни данни.",
+    "buttonCancel": "Откажи",
+    "buttonLogin": "Влизане",
+    "checkoutOption": "Изберете своята опция за финализиране.",
+    "buttonLogout": "Излизане",
+    "welcomeMessage": "Добре дошли отново!",
+    "registrationMessageText":"Създавайки акаунт, вие ще можете да пазарувате по-бързо, да сте в течение с напредъка на текущата ви поръчка и да проверявате състоянието на предишните си поръчки.",
+    "userSessionExpiredErrorMsg" : "Вашата сесия за финализиране е изтекла поради неактивност. Моля, рестартирайте финализирането."
+  }
+}

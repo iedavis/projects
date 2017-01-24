@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Информация за плащане",
+  "paymentMethod": "Метод на плащане",
+  "paypalText": "По-безопасния и лесен начин за плащане.", 
+  "paymentDetailsError": "Моля, уверете се, че сте попълнили всички задължителни полета и сте поправили всички невалидни данни.",
+  "paymentMethodNotAvilable": "(Тази опция за плащане не може да се използва за планирани поръчки.)",
+  
+  "nameOnCardLabel": "Име върху карта",
+  "nameOnCardPlaceholder": "Име върху карта",
+  "nameOnCardRequired": "Името върху карта е задължително.",
+  "nameOnCardInvalid": "Името върху карта е невалидно.",
+  
+  "cardTypeLabel": "Тип на карта",
+  "cardTypePlaceholder": "Тип на карта",
+  "cardTypeRequired": "Типът на карта е задължителен.",
+  "cardTypeInvalid": "Типът на карта е невалиден.",
+  
+  "cardNumberLabel": "Номер на карта",
+  "cardNumberPlaceholder": "Номер на карта",
+  "cardNumberRequired": "Номерът на карта е задължителен.",
+  "cardNumberMaxLength":"Невалидни данни. Моля, не надвишавайте максималното количество от __maxLength__ символа.",
+  "cardNumberInvalid": "Невалиден номер на карта, опитайте отново.",
+  
+  "cardCVVLabel": "CVV код",
+  "cardCVVPlaceholder": "CVV код",
+  "cardCVVRequired": "CVV кодът е задължителен.",
+  "cardCVVInvalid": "CVV кодът е невалиден.",
+  "cardCVVWhatsThis": "Какво е това?",
+  "cardCVVPopupTitle": "CVV код",
+  "cardCVVPopupText": "Последните 3 числа, които се намират на лентата с подпис на вашата карта.",
+  "cardCVVNumberInvalid": "Невалидни данни, въведете само цифри.",
+  "cardCVVNumberMaxLength": "Невалидни данни. Моля, не надвишавайте максимално позволените 4 символа.",
+  "cardCVVNumberMinLength": "Невалидни данни. Моля, въведете поне 3 символа.",
+  
+  "endMonthLabel": "Изтича на (месец)",
+  "endMonthPlaceholder": "Изтича на (месец)",
+  "endMonthRequired": "Месецът на изтичане на картата е задължителен.",
+  "endMonthInvalid": "Невалидни данни за година/месец на изтичане на картата, опитайте отново.",
+  
+  "endYearLabel": "Изтича на (година)",
+  "endYearPlaceholder": "Изтича на (година)",
+  "endYearRequired": "Годината на изтичане на картата е задължителна.",
+  "endYearInvalid": "Невалидни данни за година/месец на изтичане на картата, опитайте отново.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

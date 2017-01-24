@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "إجمالي الطلب",
+    "subtotalText": "الإجمالي الفرعي: ",
+    "shippingOptionsText": "خيارات الشحن",
+    "salesTaxText": "ضريبة المبيعات: ",
+    "orderTotalText": "إجمالي الطلب:",
+    "placeOrderText": "تقديم الطلب",
+    "scheduleOrderText": "جدولة الطلب",
+    "noShippingText": "لا يوجد شحن",
+    "shippingText": "الشحن: __displayName__",    
+    "applicableTaxesText": "سيتم احتساب الضرائب السارية عند الدفع.",
+    "paymentOptionsText": "خيارات الدفع",
+    "checkoutText": "الدفع",
+    "noShippingSelectedText": "لم يتم تحديد أي طريقة شحن.",
+    "shippingAddressRequired": "الرجاء إدخال عنوان الشحن",
+    "noShippingMethodsText": "لا توجد طرق شحن متاحة لعنوان الوجهة الخاص بك.",
+    "noShippingMethodsForAddressText": "لا توجد طرق شحن متاحة للعنوان المحدد",
+    "checkoutErrorMsg": "الرجاء التأكد من إتمام ملء كل الحقول الإلزامية وتصحيح أية إدخالات غير صالحة.",
+    "rePricingText":"إعادة التسعير",
+    "removeLinkText":"إزالة",
+    "paymentMessage": "يمكن أن تكون الشاشة التالية هي شاشة التحقق من بطاقة الدفع من خلال جهة إصدار البطاقة الخاصة بك.",
+    "includingTaxText": "(متضمن الضريبة)",
+    "totalExcludingTaxText": "الإجمالي (بدون الضريبة):",
+    "paymentMethodNotAvilable": "(لا يمكن استخدام خيار الدفع هذا للطلبات المجدولة.)",
+    "selectShippingMethodText": "حدد طريقة الشحن"
+  }
+}

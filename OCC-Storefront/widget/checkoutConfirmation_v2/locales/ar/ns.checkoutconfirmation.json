@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "تأكيد الطلب", 
+    "orderDoesNotExist": "الطلب غير موجود.", 
+    "thankyouMsg": "شكرًا لك على طلبك بتاريخ __orderDate__ الساعة __orderTime__.", 
+    "processingMsg": "تتم الآن معالجة هذا الطلب.",
+    "pendingMsg": "شكرًا لك، تم استلام طلب الأمر الخاص بك وبانتظار الدفع. بمجرد اعتماد الدفع، ستتم معالجة الطلب.",
+    "orderNumberMsg": "رقم الطلب الخاص بك هو __orderNumber__.", 
+    "emailMsg": "تم إرسال البريد الإلكتروني لتأكيد الطلب إلى __emailAddress__ يوضح بالتفاصيل الطلب أدناه.", 
+    "yourOrderText": "الطلب الخاص بك", 
+    "itemText": "الصنف", 
+    "quantityText": "الكمية", 
+    "itemTotalText": "إجمالي الأصناف", 
+    "shippingAddressAndMethodText": "طريقة وعنوان الشحن", 
+    "shipToText": "شحن إلى:", 
+    "shippingMethodText": "طريقة الشحن:", 
+    "paymentDetailsText": "تفاصيل الدفع", 
+    "cardTypeText": "نوع البطاقة:", 
+    "cardNumberText": "رقم البطاقة:", 
+    "billingAddressText": "عنوان الفوترة:",
+    "loginSuccessText": "تم تكوين الحساب الخاص بك. شكرًا على التسجيل.",
+    "loginFailureText": "خطأ: تمت معالجة الطلب الخاص بك، ولكن توجد مشكلة في تكوين الحساب الخاص بك. الرجاء المحاولة مرة أخرى.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

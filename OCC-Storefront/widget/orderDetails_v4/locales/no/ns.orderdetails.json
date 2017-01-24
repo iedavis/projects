@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Mine ordrer",
+    "backToMyOrdersLink" : "<< Tilbake til mine ordrer",
+    "orderDetailsText": "Ordredetaljer",
+    "orderDateText": "Ordredato:",
+    "orderNumberText": "Ordrenummer:",
+    "orderStatusText": "Ordrestatus:",
+    "quoteExpiryText": "Utløp av tilbud:",
+    "scheduledOrderName": "Plannavn:",
+    "shippingAddressAndMethodText": "Forsendelsesadresse og -måte", 
+    "shippingAddressText": "Send til:",
+    "noShippingAddressText" : "Ingen tilgjengelig forsendelsesadresse", 
+    "shippingMethodText": "Forsendelsesmåte:",
+    "shippingText": "Standardforsendelse:",
+    "salesTaxText": "Merverdiavgift:",
+    "orderTotalText": "Ordresum:",
+    "includingTaxText": "(inklusive avgift)",
+    "totalExcludingTaxText": "Sum (eksklusive avgift): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Sporingsnumre:",
+    "trackingReferenceReaderText": "Sporingsreferanse __trackingReference__ for __carrierName__",
+    "scheduledOrderPriceListGroupText": "Planlagt ordre opprettet i henhold til prislisten __priceListGroup__"
+  } 
+}

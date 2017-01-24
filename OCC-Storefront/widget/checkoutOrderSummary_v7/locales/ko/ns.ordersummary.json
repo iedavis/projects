@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "주문 요약",
+    "subtotalText": "소계: ",
+    "shippingOptionsText": "배송 옵션",
+    "salesTaxText": "판매세: ",
+    "orderTotalText": "주문 합계: ",
+    "placeOrderText": "주문 생성",
+    "scheduleOrderText": "스케줄 주문",
+    "noShippingText": "배송 없음",
+    "shippingText": "배송: __displayName__",    
+    "applicableTaxesText": "체크아웃 시 해당 세금이 계산됩니다.",
+    "paymentOptionsText": "결제 옵션",
+    "checkoutText": "체크아웃",
+    "noShippingSelectedText": "선택한 배송 방법이 없습니다.",
+    "shippingAddressRequired": "배송 주소를 입력하십시오.",
+    "noShippingMethodsText": "대상 주소에 사용 가능한 배송 방법이 없습니다.",
+    "noShippingMethodsForAddressText": "선택한 주소에 사용 가능한 배송 방법이 없음",
+    "checkoutErrorMsg": "모든 필수 필드에 내용을 입력하고 부적합한 항목을 수정했는지 확인하십시오.",
+    "rePricingText":"가격재산정",
+    "removeLinkText":"제거",
+    "paymentMessage": "나타나는 다음 화면은 카드 발행자를 통한 결제 카드 검증일 수 있습니다.",
+    "includingTaxText": "(세금 포함)",
+    "totalExcludingTaxText": "합계(세금 제외): ",
+    "paymentMethodNotAvilable": "(이 결제 옵션은 스케줄링된 주문에 사용할 수 없습니다.)",
+    "selectShippingMethodText": "배송 방법 선택"
+  }
+}

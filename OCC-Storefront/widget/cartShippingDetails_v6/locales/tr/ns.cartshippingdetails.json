@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Sevkiyat ve Vergiyi Hesapla (isteğe bağlı)",
+    "cartShippingErrorMsg": "Lütfen sevkiyat alanlarının tümünü doldurduğunuzdan ve varsa geçersiz girişleri düzelttiğinizden emin olun.",
+    "countryText": "Ülke",
+    "stateText": "Eyalet",
+    "zipCodeText": "Posta Kodu",
+    "countryRequired": "Ülke zorunludur",
+    "stateRequired": "Eyalet zorunludur. ",
+    "zipCodeRequired": "Posta kodunun girilmesi zorunludur. ",
+    "zipCodeInvalid": "Geçersiz giriş. Lütfen geçerli bir posta kodu girin.",
+    "stateRegionText": "Eyalet/Bölge",
+    "noShippingSelectedText": "Sevkiyat Yöntemi Seçilmedi.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Hedef adresiniz için kullanılabilir sevkiyat yöntemleri bulunmuyor.",
+    "noShippingMethodsForAddressText": "Girilen sevkiyat adresi için sevkiyat yöntemleri Alınamadı",
+    "fetchingShippingMethodsText": "Adres için sevkiyat yöntemleri getiriliyor",
+    "invalidShippingAddress": "Geçersiz sevkiyat adresi belirtildi.",
+    "invalidShippingMethod": "Geçersiz sevkiyat yöntemi belirtildi.",
+    "pricingError" : "Sevkiyat ve vergi maliyetleri hesaplanamadı. Lütfen sevkiyat adresinizi kontrol edin.",
+    "invalidPreviousAddress": "Önceden kullanılan sevkiyat adresinize artık sevkiyat yapmıyoruz.",
+    "shippingMethodNoLongerAvailable": "Önceden seçilen sevkiyat yöntemi artık kullanılamıyor. Lütfen siparişinizi vermeden önce sevkiyat yöntemini kontrol edin."
+  }
+}

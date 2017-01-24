@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Kuvatavad atribuudid",
+    "numberOfRelatedProductsHelpText": "Sisestage karussellis kuvatavate seotud toodete arv",
+    "numberOfRelatedProductsTextLabel": "Seostatud toodete arv",
+    "displayNameOfRelatedProductsTextLabel": "Toote nimi",
+    "displayPriceOfRelatedProductsTextLabel": "Hind"
+  }
+}

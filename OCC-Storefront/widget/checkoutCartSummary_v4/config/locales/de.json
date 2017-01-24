@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Geben Sie die maximale Anzahl an Artikeln ein, die in der Warenkorbübersicht angezeigt werden sollen.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Maximale Anzahl Artikel in Warenkorbübersicht"
+  }
+}

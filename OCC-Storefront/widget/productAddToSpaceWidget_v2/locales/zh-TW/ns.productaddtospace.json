@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "新增至欲購清單",
+    "spaceSelectionText": "選取欲購清單",
+    "spaceCommentText": "輸入附註...",
+    "spaceNameText": "名稱",
+    "buttonSpaceAdd": "新增",
+    "buttonSpaceCancel": "取消",
+    "mySpacesGroupText": "我的欲購清單",
+    "joinedSpacesGroupText": "加入的欲購清單",
+    "createNewSpaceOptText": "新欲購清單...",
+    "addToSpaceSuccessMsg" : "成功！__socialproduct__ 已新增至 __socialspacename__。",
+    "addToSpaceProductUpdatedSuccessMsg" : "此項目已在欲購清單中。我們已更新「新增日期」。",
+    "addToSpaceProductViewWishListMsg" : "  檢視 __wishlistname__",
+    "spaceAddProductError" : "嘗試張貼產品至欲購清單時發生錯誤。請嘗試重新整理您的頁面。",
+    "uniqueNameMsg": "欲購清單名稱必須是唯一的。",
+    "emptyNameMsg": "名稱不得空白",
+    "privacySettingsLabel": "隱私權設定值",
+    "privacySettingsDescription": "邀請朋友加入「私人」欲購清單會將您的隱私權設定值變更為「群組」。透過電子郵件傳送私人或群組欲購清單，或在社交網路上加以分享，則會使其成為共用清單。",
+    "privacySharedLabel": "具有連結的任何人都可以查看此清單。只有您與您邀請的人員才可以查看、加上附註及新增至此清單。",
+    "privacyGroupLabel": "只有您與您邀請的人員才可以查看、加上附註及新增至此清單。",
+    "privacyPrivateLabel": "只有您才可以查看與新增至此清單。",
+    "spaceAccessPrivateIconTxt" : "私人",
+    "spaceAccessSharedIconTxt" : "共用",
+    "spaceAccessGroupIconTxt" : "群組",
+    "spaceCreateMaxSpacesMsg" : "建立欲購清單時發生問題。您已超過欲購清單數的限制。請先刪除現有欲購清單，再建立新的欲購清單。",
+    "productAddMaxProductsMsg" : "將產品新增至欲購清單時發生問題。您已超過欲購清單中貼文數的限制。請先從目的地欲購清單中刪除現有產品，再新增產品。"
+  }
+}

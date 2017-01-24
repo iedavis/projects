@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Makse üksikasjad",
+  "paymentMethod": "Makseviis",
+  "paypalText": "See on turvalisem ja lihtsam viis maksmiseks.", 
+  "paymentDetailsError": "Kontrollige, kas kõik kohustuslikud väljad on täidetud ja sobimatud kirjed parandatud.",
+  "paymentMethodNotAvilable": "(Seda makseviisi ei saa ajastatud tellimuste korral kasutada.)",
+  
+  "nameOnCardLabel": "Kaardiomaniku nimi",
+  "nameOnCardPlaceholder": "Kaardiomaniku nimi",
+  "nameOnCardRequired": "Kaardiomaniku nimi on kohustuslik.",
+  "nameOnCardInvalid": "Kaardiomaniku nimi on vale.",
+  
+  "cardTypeLabel": "Kaardi tüüp",
+  "cardTypePlaceholder": "Kaardi tüüp",
+  "cardTypeRequired": "Kaardi tüüp on kohustuslik.",
+  "cardTypeInvalid": "Kaardi tüüp on vale.",
+  
+  "cardNumberLabel": "Kaardi number",
+  "cardNumberPlaceholder": "Kaardi number",
+  "cardNumberRequired": "Kaardi number on kohustuslik.",
+  "cardNumberMaxLength":"Sobimatu kirje. Lubatud on kuni __maxLength__ märki.",
+  "cardNumberInvalid": "Sobimatu kaardinumber, proovige uuesti.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV on kohustuslik.",
+  "cardCVVInvalid": "CVV on sobimatu.",
+  "cardCVVWhatsThis": "Mis see on?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Viimased 3 numbrit teie kaardi allkirjaribal.",
+  "cardCVVNumberInvalid": "Sobimatu kirje. Sisestage ainult numbrid.",
+  "cardCVVNumberMaxLength": "Sobimatu kirje. Lubatud on kuni 4 märki.",
+  "cardCVVNumberMinLength": "Sobimatu kirje. Sisestage vähemalt 3 märki.",
+  
+  "endMonthLabel": "Kehtiv kuni (kuu)",
+  "endMonthPlaceholder": "Kehtiv kuni (kuu)",
+  "endMonthRequired": "Kaardi aegumise kuu on kohustuslik.",
+  "endMonthInvalid": "Sobimatu aegumiskuu või -aasta, proovige uuesti.",
+  
+  "endYearLabel": "Aegub (aasta)",
+  "endYearPlaceholder": "Aegub (aasta)",
+  "endYearRequired": "Kaardi kehtivuse lõpu aasta on kohustuslik.",
+  "endYearInvalid": "Sobimatu aegumiskuu või -aasta, proovige uuesti.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

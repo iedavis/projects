@@ -1,0 +1,31 @@
+{
+  "config": {
+    "blockSize": "60",
+    "fields": "",
+    "gridWidth": "4",
+    "listType": "product",
+    "productsPerPage": "12",
+    "shouldUseStyleBased": false
+  },
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "productlisting",
+  "imports": [
+    "category",
+    "categoryId",
+    "dimensionId",
+    "productTypes"
+  ],
+  "javascript": "product-listing",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Product Listing",
+  "pageTypes": [
+    "category",
+    "searchResults"
+  ],
+  "source": 100,
+  "version": 3,
+  "widgetFamily": "productListing",
+  "widgetType": "productListing"
+}

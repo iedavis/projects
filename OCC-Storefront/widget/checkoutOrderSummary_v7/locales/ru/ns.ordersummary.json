@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Сводка заказа",
+    "subtotalText": "Промежуточный итог: ",
+    "shippingOptionsText": "Параметры доставки",
+    "salesTaxText": "Налог с продаж: ",
+    "orderTotalText": "Итого по заказу: ",
+    "placeOrderText": "Размещение заказа",
+    "scheduleOrderText": "Планирование заказа",
+    "noShippingText": "Без доставки",
+    "shippingText": "Доставка: __displayName__",    
+    "applicableTaxesText": "Расчет применимых налогов производится при оформлении покупки.",
+    "paymentOptionsText": "Параметры платежа",
+    "checkoutText": "Извлечь",
+    "noShippingSelectedText": "Не выбран метод доставки.",
+    "shippingAddressRequired": "Введите адрес получателя товара",
+    "noShippingMethodsText": "Для вашего адреса назначения нет доступных методов доставки.",
+    "noShippingMethodsForAddressText": "Для выбранного адреса методы доставки отсутствуют",
+    "checkoutErrorMsg": "Убедитесь, что все обязательные поля заполнены и введенные недопустимые значения исправлены.",
+    "rePricingText":"Повторное определение цены",
+    "removeLinkText":"Удалить",
+    "paymentMessage": "На следующем экране будет показана возможная проверка платежной карты эмитентом.",
+    "includingTaxText": "(включая налог)",
+    "totalExcludingTaxText": "Итог (искл. налог): ",
+    "paymentMethodNotAvilable": "(Этот вариант оплаты не может использоваться для запланированных заказов.)",
+    "selectShippingMethodText": "Выбор метода отгрузки"
+  }
+}

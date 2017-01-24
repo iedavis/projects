@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "歡迎 __userdisplayname__。",
+    "invitationAlreadyAccepted" : "已接受邀請。",
+    "spaceNotFound" : "找不到您正嘗試存取的欲購清單。",
+    "invitationExpiredError" : "您的邀請已到期！請聯絡您要加入之欲購清單的擁有者，並要求對方重新邀請您。",
+    "memberJoinError" : "邀請時發生錯誤。",
+    "pleaseWaitProcessingMsg" : "請稍候，我們正在處理您的邀請"
+  }
+}

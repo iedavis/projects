@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Сводка заказа", 
+    "orderDoesNotExist": "Заказ не существует.", 
+    "subTotalText": "Промежуточный итог:", 
+    "salesTaxText": "Налог с продаж:", 
+    "orderTotalText": "Итого по заказу:", 
+    "continueShoppingText": "Продолжить покупки",
+    "delimiter": ":",
+    "includingTaxText": "(включая налог)",
+    "totalExcludingTaxText": "Итог (искл. налог): "
+  }
+}

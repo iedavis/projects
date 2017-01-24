@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Tilauksen vahvistus", 
+    "orderDoesNotExist": "Tilausta ei ole.", 
+    "thankyouMsg": "Kiitos tilauksestasi __orderDate__ klo __orderTime__.", 
+    "processingMsg": "Tätä tilausta käsitellään.",
+    "pendingMsg": "Kiitos. Tilauspyyntösi on vastaanotettu, ja maksu odottaa. Kun maksu on hyväksytty, käsittelemme tilauksen.",
+    "orderNumberMsg": "Tilausnumerosi on __orderNumber__.", 
+    "emailMsg": "Osoitteeseen __emailAddress__ on lähetetty tilausvahvistus, jossa on eritelty alla oleva tilaus.", 
+    "yourOrderText": "Tilauksesi", 
+    "itemText": "Nimike", 
+    "quantityText": "Määrä", 
+    "itemTotalText": "Nimikkeet yhteensä", 
+    "shippingAddressAndMethodText": "Lähetysosoite ja -tapa", 
+    "shipToText": "Lähetys:", 
+    "shippingMethodText": "Lähetystapa:", 
+    "paymentDetailsText": "Maksutiedot", 
+    "cardTypeText": "Korttityyppi:", 
+    "cardNumberText": "Kortin numero:", 
+    "billingAddressText": "Laskutusosoite:",
+    "loginSuccessText": "Tilisi on luotu. Kiitos rekisteröitymisestä.",
+    "loginFailureText": "Virhe: Tilauksesi on käsitelty, mutta tilisi luonnissa oli ongelma. Yritä uudelleen.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

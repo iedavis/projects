@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Ошибка при обработке платежа в шлюзе. Повторите попытку.",
+    "paymentDeclinedMsg": "Платеж отклонен. Повторите попытку.",
+    "paymentExpiredMsg": "Платеж просрочен. Повторите попытку.",
+    "paymentErrorMsg": "Ошибка при обработке платежа. Повторите попытку.",
+    "payByCashText": "Платеж наличными",
+    "invoicePaymentMsg": "Запрос счета-фактуры",
+    "purchaseOrderNumberMsg":"Номер заказа на приобретение"
+  }
+}

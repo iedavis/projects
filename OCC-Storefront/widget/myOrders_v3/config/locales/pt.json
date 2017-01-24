@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Incluir ID da Encomenda Programada?",
+	"includeScheduledHelpText" : "Selecionar para Incluir a ID da Encomenda Programada na tabela do Histórico de Encomendas"
+  }
+}

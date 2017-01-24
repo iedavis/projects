@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Daha Az Sonuç...",
+    "seeMoreText" : "Diğerleri...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Daraltma Ölçütü",
+    "clearAllRefinementsText" : "Tüm Kapsam Daraltma Ölçütlerini Temizle",
+    "guidedNavigationHeader" : "Kılavuzlu Gezinme Başlığı",
+    "doneText" : "Bitti",
+    "expandText" : "Genişlet",
+    "collapseText" : "Daralt",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Yer paylaşımlı kılavuzlu gezinme yüklendi"
+  }
+}

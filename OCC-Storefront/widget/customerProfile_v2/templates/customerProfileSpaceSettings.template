@@ -1,0 +1,10 @@
+<div id="CC-customerProfile-spaceSettings">
+  <div class="h2" data-bind="widgetLocaleText:'myWishListText'"></div>
+  
+  <hr/>
+  
+  <div class="row col-md-12">
+    <a href="#" data-bind="widgetLocaleText:'wishListSettingsText', ccLink: 'wishlist_settings'"></a>
+  </div>
+  
+</div>

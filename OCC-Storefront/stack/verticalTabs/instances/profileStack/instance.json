@@ -1,0 +1,52 @@
+{
+  "height": 300,
+  "name": "My Account Stack",
+  "regions": [
+    {
+      "id": "profileRegion",
+      "name": "Profile",
+      "widgets": ["customerProfileInst_v2"],
+      "width": 12
+    },
+    {
+      "id": "re200004",
+      "name": "My Orders",
+      "widgets": ["wi100008"],
+      "width": 12
+    },
+    {
+      "id": "schduledOrdersRegion",
+      "name": "My Scheduled Orders",
+      "widgets": ["schduledOrdersListingInst"],
+      "width": 12
+    },
+    {
+      "id": "accountContactsRegion",
+      "name": "Account Contacts",
+      "widgets": ["accountContactsInst"],
+      "width": 12
+    },
+    {
+      "id": "accountAddressesRegion",
+      "name": "Account Addresses",
+      "widgets": ["accountAddressesInst"],
+      "width": 12
+    },
+    {
+      "id": "re200001",
+      "name": "My Details",
+      "widgets": ["wi100010"],
+      "width": 12
+    }
+  ],
+  "stackType": "verticalTabs",
+  "styleSettings": {
+    "@activeTabBackgroundColor": "#195D8E",
+    "@activeTabTextColor": "#FFF",
+    "@tabBackgroundColor": "#FFF",
+    "@tabTextColor": "#555",
+    "@tabTitleAlignment": "center"
+  },
+  "usingCodeView": true,
+  "width": 12
+}

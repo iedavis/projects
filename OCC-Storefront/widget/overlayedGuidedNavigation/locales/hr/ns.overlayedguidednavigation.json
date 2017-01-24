@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Prikaži manje...",
+    "seeMoreText" : "Prikaži više...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Suzi po",
+    "clearAllRefinementsText" : "Očisti sva sužavanja",
+    "guidedNavigationHeader" : "Zaglavlje vođene navigacije",
+    "doneText" : "Gotovo",
+    "expandText" : "Proširi",
+    "collapseText" : "Sažmi",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Učitan je sloj vođene navigacije"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Czy uwzględnić ID zaplanowanego zamówienia?",
+	"includeScheduledHelpText" : "Wybór spowoduje uwzględnianie ID zaplanowanego zamówienia w tabeli historii zamówień"
+  }
+}

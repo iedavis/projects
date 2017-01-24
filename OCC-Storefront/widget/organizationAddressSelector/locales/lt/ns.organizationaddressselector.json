@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Atsiskaitymas",
+    "defaultAddressLabel": "Numatytasis adresas",
+    "billingAddressText" : "Sąskaitų išrašymo adresas",
+    "noAddressesText" : "Įrašytų adresų nėra.",
+    "firstNameText": "Vardas",
+    "lastNameText": "Pavardė",
+    "shippingAddressText": "Siuntimo adresas",
+    "checkoutErrorMsg": "Įsitikinkite, kad užpildėte visus privalomus laukus ir ištaisėte visus netinkamus įrašus.",
+    "firstNameRequired": "Lauką „Vardas“ užpildyti būtina.",
+    "lastNameRequired": "Lauką „Pavardė“ užpildyti būtina.",
+    "unsupportedShippingAddressText": "Pristatyti šiuo adresu negalima.",
+    "invalidBillingAddressText": "Siuntimo adresas negali būti naudojamas kaip atsiskaitymo adresas. Įveskite atsiskaitymo adresą.",
+    "invalidPreviousAddress": "Nebesiunčiame jūsų anksčiau nurodytu siuntimo adresu."
+  }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2006-09-27T00:39:39.637797Z"
+   url="http://google-checkout-java14-sample-code.googlecode.com/svn/trunk/src/com/google/checkout/sample/util"
+   last-author="colinhc"
+   kind="dir"
+   uuid="8474a406-481d-0410-88fc-6705ad773e9c"
+   repos="http://google-checkout-java14-sample-code.googlecode.com/svn"
+   revision="13"/>
+<entry
+   committed-rev="4"
+   name="StringUtil.java"
+   text-time="2006-11-23T21:31:28.640625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="82de0bc986eddddcf400a0897307e2a0"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:28.625000Z"/>
+</wc-entries>

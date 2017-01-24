@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Se færre ...",
+    "seeMoreText" : "Se flere ...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Begrens etter",
+    "clearAllRefinementsText" : "Nullstill alle begrensninger",
+    "guidedNavigationHeader" : "Topptekst for veiledet navigering",
+    "doneText" : "Ferdig",
+    "expandText" : "Utvid",
+    "collapseText" : "Trekk sammen",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Veiledet navigering med overlegg er lastet"
+  }
+}

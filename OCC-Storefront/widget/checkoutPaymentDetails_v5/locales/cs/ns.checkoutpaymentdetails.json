@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Podrobnosti platby",
+  "paymentMethod": "Způsob platby",
+  "paypalText": "Bezpečnější a jednodušší způsob platby.", 
+  "paymentDetailsError": "Zkontrolujte, zda jste vyplnili všechna povinná pole a opravili všechny neplatné hodnoty.",
+  "paymentMethodNotAvilable": "(Tuto volbu platby nelze použít u plánovaných objednávek.)",
+  
+  "nameOnCardLabel": "Jméno na kartě",
+  "nameOnCardPlaceholder": "Jméno na kartě",
+  "nameOnCardRequired": "Jméno na kartě je povinný údaj.",
+  "nameOnCardInvalid": "Jméno na kartě je neplatné.",
+  
+  "cardTypeLabel": "Typ karty",
+  "cardTypePlaceholder": "Typ karty",
+  "cardTypeRequired": "Typ karty je povinný údaj.",
+  "cardTypeInvalid": "Typ karty je neplatný.",
+  
+  "cardNumberLabel": "Číslo karty",
+  "cardNumberPlaceholder": "Číslo karty",
+  "cardNumberRequired": "Číslo karty je povinný údaj.",
+  "cardNumberMaxLength":"Neplatné zadání. Nepřekračujte maximální počet znaků: __maxLength__.",
+  "cardNumberInvalid": "Neplatné číslo karty. Zkuste to znovu.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "Číslo CVV je povinný údaj.",
+  "cardCVVInvalid": "Číslo CVV je neplatné.",
+  "cardCVVWhatsThis": "Co je to?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Poslední tři číslice na kartě na řádce pro podpis.",
+  "cardCVVNumberInvalid": "Neplatné zadání. Zadejte pouze čísla.",
+  "cardCVVNumberMaxLength": "Neplatné zadání. Nepřekračujte maximální počet čtyř povolených znaků.",
+  "cardCVVNumberMinLength": "Neplatné zadání. Zadejte alespoň tři znaky.",
+  
+  "endMonthLabel": "Platnost vyprší (měsíc)",
+  "endMonthPlaceholder": "Platnost vyprší (měsíc)",
+  "endMonthRequired": "Zadání měsíce vypršení platnosti karty je povinné.",
+  "endMonthInvalid": "Neplatný měsíc/rok vypršení platnosti. Zadejte je znovu.",
+  
+  "endYearLabel": "Platnost vyprší (rok)",
+  "endYearPlaceholder": "Platnost vyprší (rok)",
+  "endYearRequired": "Zadání roku vypršení platnosti karty je povinné.",
+  "endYearInvalid": "Neplatný měsíc/rok vypršení platnosti. Zadejte je znovu.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

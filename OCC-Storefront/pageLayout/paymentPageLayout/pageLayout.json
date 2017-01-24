@@ -1,0 +1,151 @@
+{
+  "defaultPage": true,
+  "regions": [{
+    "width": 12,
+    "type": "body",
+    "widgets": ["cyberSourcePaymentAuthorizationInst"],
+    "structure": "flat",
+    "height": 0
+  }],
+  "pageType": "payment",
+  "isLayoutDisplayable": true,
+  "displayName": "Payer Authentication Layout",
+  "translations": [
+    {
+      "name": "ประเภทเพจการชำระเงิน",
+      "language": "th"
+    },
+    {
+      "name": "tipo página pagamento",
+      "language": "pt_BR"
+    },
+    {
+      "name": "付款页面类型",
+      "language": "zh_CN"
+    },
+    {
+      "name": "тип сторінки платежу",
+      "language": "uk"
+    },
+    {
+      "name": "тип на стр. за плащане",
+      "language": "bg"
+    },
+    {
+      "name": "makse lehe tüüp",
+      "language": "et"
+    },
+    {
+      "name": "Maksājuma lapas veids",
+      "language": "lv"
+    },
+    {
+      "name": "mokėjimo puslapio tipas",
+      "language": "lt"
+    },
+    {
+      "name": "betalingssidetype",
+      "language": "no"
+    },
+    {
+      "name": "tip pagină plată",
+      "language": "ro"
+    },
+    {
+      "name": "type de page de paiement",
+      "language": "fr_CA"
+    },
+    {
+      "name": "支払ページ・タイプ",
+      "language": "ja"
+    },
+    {
+      "name": "tip strani za plačilo",
+      "language": "sl"
+    },
+    {
+      "name": "тип страницы платежа",
+      "language": "ru"
+    },
+    {
+      "name": "vrsta stranice plaćanja",
+      "language": "hr"
+    },
+    {
+      "name": "ödeme sayfası tipi",
+      "language": "tr"
+    },
+    {
+      "name": "typ strony płatności",
+      "language": "pl"
+    },
+    {
+      "name": "付款頁面型態",
+      "language": "zh_TW"
+    },
+    {
+      "name": "결제 페이지 유형",
+      "language": "ko"
+    },
+    {
+      "name": "typ stránky platby",
+      "language": "cs"
+    },
+    {
+      "name": "fizetési oldal típusa",
+      "language": "hu"
+    },
+    {
+      "name": "τύπος σελίδας πληρωμής",
+      "language": "el"
+    },
+    {
+      "name": "betalingssidetype",
+      "language": "da"
+    },
+    {
+      "name": "payment page type",
+      "language": "en"
+    },
+    {
+      "name": "страница са типом плаћања",
+      "language": "sr"
+    },
+    {
+      "name": "Zahlungsseitentyp",
+      "language": "de"
+    },
+    {
+      "name": "نوع صفحة الدفع",
+      "language": "ar"
+    },
+    {
+      "name": "tipo de página de pagos",
+      "language": "es"
+    },
+    {
+      "name": "type de page de règlement",
+      "language": "fr"
+    },
+    {
+      "name": "tipo pagina pagamento",
+      "language": "it"
+    },
+    {
+      "name": "type betalingspagina",
+      "language": "nl"
+    },
+    {
+      "name": "typ av betalningssida",
+      "language": "sv"
+    },
+    {
+      "name": "tipo de página pagamento",
+      "language": "pt"
+    },
+    {
+      "name": "maksusivun tyyppi",
+      "language": "fi"
+    }
+  ]
+}

@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-add-to-cart",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ปุ่มเพิ่มในรถเข็น"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Adicionar a botão Carrinho"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "添加到购物车按钮"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Кнопка \"Додати до кошика\""
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Бутон \"Доб. към колич.\""
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Nupp \u201eLisa ostukorvi\u201c"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Poga Pievienot grozam"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Mygtukas Įdėti į krepšelį"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Knappen Legg i handlekurv"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Buton Adăugare la coş"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Bouton Ajouter au panier"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "「カートに追加」ボタン"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Gumb \"Dodaj v voziček\""
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Кнопка доб. в корзину"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Gumb Dodaj u košaricu"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Alışveriş Sptn Ekle Dğms"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Przycisk Dodaj do koszyka"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "新增至購物車按鈕"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "카트에 추가 단추"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Tlačítko Přidat do košíku"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Kosárba gomb"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Κουμπί Προσθήκη στο καλάθι"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Tilføj til vogn-knap"
+    },
+    {
+      "description": "Add to cart button",
+      "language": "en",
+      "title": "Add to Cart Button"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Дугме \"Додај у корпу\""
+    },
+    {
+      "description": "[PX][Add to cart button ä]",
+      "language": "de",
+      "title": "In den Warenkorb"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Botón Agregar al carro"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Bouton Ajouter au panier"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Puls. Aggiungi al carrello"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Toevoegen aan winkelwagen"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Lägg till i kundvagn-knapp"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Botão Acresc. ao Carrinho"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Lisää ostoskoriin -painike"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

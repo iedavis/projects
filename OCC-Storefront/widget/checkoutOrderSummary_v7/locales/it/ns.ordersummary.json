@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Riepilogo ordine",
+    "subtotalText": "Totale parziale:",
+    "shippingOptionsText": "Opzioni di spedizione",
+    "salesTaxText": "Imposta sulle vendite:",
+    "orderTotalText": "Totale ordine:",
+    "placeOrderText": "Crea ordine",
+    "scheduleOrderText": "Schedula ordine",
+    "noShippingText": "Nessuna spedizione",
+    "shippingText": "Spedizione: __displayName__",    
+    "applicableTaxesText": "Le imposte applicabili verranno calcolate al momento del checkout.",
+    "paymentOptionsText": "Opzioni di pagamento",
+    "checkoutText": "Checkout",
+    "noShippingSelectedText": "Nessun metodo di spedizione selezionato.",
+    "shippingAddressRequired": "Inserire un indirizzo di spedizione",
+    "noShippingMethodsText": "Nessun metodo di spedizione disponibile per l'indirizzo di destinazione.",
+    "noShippingMethodsForAddressText": "Nessun metodo di spedizione disponibile per l'indirizzo selezionato",
+    "checkoutErrorMsg": "Assicurarsi di aver completato tutti i campi obbligatori e correggere eventuali inserimenti non validi.",
+    "rePricingText":"Nuova determinazione prezzi",
+    "removeLinkText":"rimuovi",
+    "paymentMessage": "La prossima schermata visualizzata potrebbe essere la verifica della carta di pagamento tramite l'emittente della carta stessa.",
+    "includingTaxText": "(imposta inclusa)",
+    "totalExcludingTaxText": "Totale (imposta esclusa):",
+    "paymentMethodNotAvilable": "(Questa opzione di pagamento non può essere utilizzata per gli ordini schedulati.)",
+    "selectShippingMethodText": "Seleziona metodo di spedizione"
+  }
+}

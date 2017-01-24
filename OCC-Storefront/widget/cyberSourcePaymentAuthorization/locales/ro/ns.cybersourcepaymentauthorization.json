@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "102": "(102) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "104": "(104) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "110": "(110) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "150": "(150) A survenit o problemă tehnică la contactarea băncii emitente a cardului dvs. de credit. Încercaţi din nou sau utilizaţi un alt card.",
+    "151": "(151) A survenit o problemă tehnică. Încercaţi din nou peste puţin timp.",
+    "152": "(152) A survenit o problemă tehnică. Încercaţi din nou peste puţin timp.",
+    "200": "(200) Adresa de facturare furnizată nu corespunde adresei pt. cardul dvs. de credit. Verificaţi adresa şi încercaţi din nou.",
+    "201": "(201) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "202": "(202) Verificaţi data de expirare a cardului şi încercaţi din nou.",
+    "203": "(203) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "204": "(204) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "205": "(205) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "207": "(207) A survenit o problemă tehnică la contactarea băncii emitente a cardului dvs. de credit. Încercaţi din nou sau utilizaţi un alt card.",
+    "208": "(208) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "209": "(209) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "210": "(210) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "211": "(211) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "221": "(221) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "230": "(230) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "231": "(231) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "232": "(232) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "233": "(233) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "234": "(234) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "520": "(520) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "1000": "(1000) Cardul dvs. de credit a fost respins, utilizaţi un alt card.",
+    "476": "(476) Card neautentificat pt. utilizare, utilizaţi un alt card.",
+    "paymentErrorText":"A survenit o problemă tehnică. Încercaţi din nou peste puţin timp.",
+    "processingText": "Se procesează, aşteptaţi. Nu faceţi clic pe butoanele Reîmprospătare sau Înapoi, tranzacţia dvs. ar putea fi întreruptă sau încheiată."
+  }
+}

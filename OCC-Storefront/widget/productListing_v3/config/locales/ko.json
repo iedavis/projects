@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "스타일 기준 목록을 사용하려면 선택합니다.",
+    "shouldUseStyleBasedTextLabel": "스타일 기준 목록 사용",
+    "listTypeHelpText": "위젯 인스턴스가 제품 목록인지 아니면 검색 결과 목록 유형인지 선택합니다.",
+    "listTypeTextLabel": "목록 유형",
+    "productLabel" : "제품",
+    "searchLabel" : "검색",
+    "productListingFieldsRequiredHelpText": "응답에 포함할 쉼표로 구분된 필드 목록을 입력합니다. 필드 설정은 검색 결과가 아닌 범주 탐색을 통해서만 제품 목록에 적용됩니다.",
+    "productListingFieldsRequiredLabel": "필드",
+    "productsPerPageRequiredHelpText": "페이지에 표시할 제품 수를 입력합니다.",
+    "productsPerPageRequiredLabel": "페이지당 제품 수",
+    "blockSizeRequiredHelpText": "요청당 로드할 제품 수를 입력합니다. 블록 크기 설정은 검색 결과가 아닌 범주 탐색을 통해서만 제품 목록에 적용됩니다.",
+    "blockSizeRequiredLabel": "블록 크기"
+  }
+}

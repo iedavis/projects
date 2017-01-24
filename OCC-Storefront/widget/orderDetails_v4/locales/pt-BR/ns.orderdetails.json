@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Meus Pedidos",
+    "backToMyOrdersLink" : "<< Voltar para Meus Pedidos",
+    "orderDetailsText": "Detalhes do Pedido",
+    "orderDateText": "Data do Pedido:",
+    "orderNumberText": "Número do Pedido:",
+    "orderStatusText": "Status do Pedido:",
+    "quoteExpiryText": "Vencimento da Cotação:",
+    "scheduledOrderName": "Nome da Programação:",
+    "shippingAddressAndMethodText": "Endereço e Método de Remessa", 
+    "shippingAddressText": "Remeter para:",
+    "noShippingAddressText" : "Nenhum Endereço de Remessa Disponível", 
+    "shippingMethodText": "Método de Remessa:",
+    "shippingText": "Remessa Padrão:",
+    "salesTaxText": "Imposto sobre Vendas:",
+    "orderTotalText": "Total do Pedido:",
+    "includingTaxText": "(com imposto)",
+    "totalExcludingTaxText": "Total (sem imposto):",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Números para Rastreamento:",
+    "trackingReferenceReaderText": "__carrierName__ Referência para rastreamento __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Pedido programado criado de acordo com a lista de preços '__priceListGroup__'"
+  } 
+}

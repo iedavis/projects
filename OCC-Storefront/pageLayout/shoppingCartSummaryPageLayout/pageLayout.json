@@ -1,0 +1,184 @@
+{
+  "defaultPage": false,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 9,
+      "type": "body",
+      "widgets": ["shoppingCartSummaryInst_v5"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 3,
+      "type": "body",
+      "widgets": ["orderSummaryInst_v4"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "cart",
+  "isLayoutDisplayable": true,
+  "displayName": "Cart Layout",
+  "translations": [
+    {
+      "name": "รถเข็น",
+      "language": "th"
+    },
+    {
+      "name": "Carrinho",
+      "language": "pt_BR"
+    },
+    {
+      "name": "购物车",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Кошик",
+      "language": "uk"
+    },
+    {
+      "name": "Количка",
+      "language": "bg"
+    },
+    {
+      "name": "Ostukorv",
+      "language": "et"
+    },
+    {
+      "name": "Grozs",
+      "language": "lv"
+    },
+    {
+      "name": "Krepš.",
+      "language": "lt"
+    },
+    {
+      "name": "Kurv",
+      "language": "no"
+    },
+    {
+      "name": "Coş",
+      "language": "ro"
+    },
+    {
+      "name": "Panier",
+      "language": "fr_CA"
+    },
+    {
+      "name": "カート",
+      "language": "ja"
+    },
+    {
+      "name": "Voziček",
+      "language": "sl"
+    },
+    {
+      "name": "Корзина",
+      "language": "ru"
+    },
+    {
+      "name": "Košarica",
+      "language": "hr"
+    },
+    {
+      "name": "Alşv Spt",
+      "language": "tr"
+    },
+    {
+      "name": "Koszyk",
+      "language": "pl"
+    },
+    {
+      "name": "購物車",
+      "language": "zh_TW"
+    },
+    {
+      "name": "카트",
+      "language": "ko"
+    },
+    {
+      "name": "Košík",
+      "language": "cs"
+    },
+    {
+      "name": "Kosár",
+      "language": "hu"
+    },
+    {
+      "name": "Καλάθι",
+      "language": "el"
+    },
+    {
+      "name": "Vogn",
+      "language": "da"
+    },
+    {
+      "name": "Cart",
+      "language": "en"
+    },
+    {
+      "name": "Корпа",
+      "language": "sr"
+    },
+    {
+      "name": "Korb",
+      "language": "de"
+    },
+    {
+      "name": "العربة",
+      "language": "ar"
+    },
+    {
+      "name": "Carro",
+      "language": "es"
+    },
+    {
+      "name": "Panier",
+      "language": "fr"
+    },
+    {
+      "name": "Carrello",
+      "language": "it"
+    },
+    {
+      "name": "Wagen",
+      "language": "nl"
+    },
+    {
+      "name": "Kundvagn",
+      "language": "sv"
+    },
+    {
+      "name": "Carrinho",
+      "language": "pt"
+    },
+    {
+      "name": "Kori",
+      "language": "fi"
+    }
+  ]
+}

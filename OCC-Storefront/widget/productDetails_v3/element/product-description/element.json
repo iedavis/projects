@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-description",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "คำอธิบาย"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Descrição"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "描述"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Опис"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Описание"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Kirjeldus"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Apraksts"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Aprašas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Beskrivelse"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Descriere"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Description"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "摘要"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Opis"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Описание"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Opis"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Açıklama"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Opis"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "描述"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "설명"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Popis"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Leírás"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Περιγραφή"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Beskrivelse"
+    },
+    {
+      "description": "Product description will be displayed here",
+      "language": "en",
+      "title": "Description"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Опис"
+    },
+    {
+      "description": "[PX][Product description will be displayed here ä]",
+      "language": "de",
+      "title": "Beschreibung"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Descripción"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Description"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Descrizione"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Beschrijving"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Beskrivning"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Descrição"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Kuvaus"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

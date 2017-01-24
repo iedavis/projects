@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "wishlistcanvas",
+  "imports": [],
+  "javascript": "wishlist-canvas",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Wish List Canvas",
+  "pageTypes": ["swm"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "wishListCanvasWidget",
+  "widgetType": "wishListCanvasWidget"
+}

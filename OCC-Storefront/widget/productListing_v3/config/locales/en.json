@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Check to use style based listing.",
+    "shouldUseStyleBasedTextLabel": "Use Style Base Listing",
+    "listTypeHelpText": "Select whether the widget instance is a product listing or search results list type.",
+    "listTypeTextLabel": "List Type",
+    "productLabel" : "Product",
+    "searchLabel" : "Search",
+    "productListingFieldsRequiredHelpText": "Enter a list of fields to be included in the response, separated by commas. The fields setting applies to product listings through category navigation only and not to search results.",
+    "productListingFieldsRequiredLabel": "Fields",
+    "productsPerPageRequiredHelpText": "Enter the number of products to display on a page.",
+    "productsPerPageRequiredLabel": "Products per page",
+    "blockSizeRequiredHelpText": "Enter the number of products to load per request. The block size setting applies to product listings through category navigation only and not to search results.",
+    "blockSizeRequiredLabel": "Block Size"
+  }
+}

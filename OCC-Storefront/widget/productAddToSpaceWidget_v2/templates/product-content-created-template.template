@@ -1,0 +1,4 @@
+<span data-bind="widgetLocaleText: {value:'addToSpaceSuccessMsg', attr:'innerText', params: {socialproduct: successMessageProductName(), socialspacename: successMessageSpaceName()}}"></span>
+<a data-bind="ccLink: successMessageSpaceIdLink">
+  <span data-bind="widgetLocaleText: {value:'addToSpaceProductViewWishListMsg', attr:'innerText', params: {wishlistname: successMessageSpaceName()}}"></span>
+</a>

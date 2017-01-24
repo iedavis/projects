@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Uw winkelwagen is leeg.",
+    "buttonContinueShopping": "Doorgaan met winkelen",
+    "cartHeader" : "Uw winkelwagen",
+    "itemHeaderItem": "Artikel",    
+    "itemHeaderQuantity": "Hoeveelheid",
+    "itemQuantity": "Hoeveelheid __productName__",
+    "itemHeaderItemTotal": "Totaal artikel",
+    "totalTableSubTotal": "Subtotaal:",
+    "includingTaxText": "(inclusief belasting)",
+    "totalTableTotal": "Totaal:",
+    "buttonUpdateQuantity": "Bijwerken",
+    "buttonRemoveItem": "Verwijderen",
+    "instockText": "Op voorraad",
+    "outofstockText": "Niet op voorraad",
+    "totalTableSummary": "Totaal winkelwagen"
+  }
+}

@@ -1,0 +1,11 @@
+
+<div id="dyn-prop">
+    <br/>
+    <br/>
+<b>Cost Center:</b> &nbsp;&nbsp;  <input type="text" name="costcenter" id="CC-dyn-prop-costcenter" data-bind="value: Costcenter" disabled><br/><br/>
+
+<b>Phone Number:</b> &nbsp;<input type="text" name="PhoneNumber" id="CC-dyn-prop-phone" data-bind="value: PhoneNumber" ><br/><br/>
+
+<b>Work Location:</b> &nbsp;<input type="text" name="WorkLocation" id="CC-dyn-prop-location" data-bind="value: WorkLocation" ><br/><br/>
+
+</div>

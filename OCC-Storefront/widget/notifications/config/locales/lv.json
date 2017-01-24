@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Iestatiet, vai atļauts ar kļūdām nesaistītu paziņojumu taimauts.",
+    "notificationsTimeoutEnabledTextLabel": "Taimauts iespējots",
+    "notificationsTimeoutHelpText": "Iestatiet ar kļūdām nesaistītu paziņojumu taimautu (sekundēs).",
+    "notificationsTimeoutTextLabel": "Taimauts (sekundēs)",
+    "notificationsFixedHelpText": "Iestaties, vai paziņojumu logrīkam jābūt fiksētam lapas augšā.",
+    "notificationsFixedTextLabel": "Fiksēts"
+  }
+}

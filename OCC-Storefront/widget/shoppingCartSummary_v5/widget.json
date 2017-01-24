@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "shoppingcartsummary",
+  "imports": [],
+  "javascript": "shopping-cart-summary",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Shopping Cart",
+  "pageTypes": ["cart"],
+  "source": 100,
+  "version": 5,
+  "widgetFamily": "shoppingCartSummary",
+  "widgetType": "shoppingCartSummary"
+}

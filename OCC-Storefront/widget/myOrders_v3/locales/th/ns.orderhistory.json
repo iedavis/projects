@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "บัญชีของฉัน",
+    "orderHistoryText" : "ประวัติใบสั่ง",
+    "backToMyAccount" : "<< กลับไปที่บัญชีของฉัน",
+    "historyHeaderOrderDate": "วันที่ในใบสั่ง",    
+    "historyHeaderOrderNumber": "เลขที่ใบสั่ง",
+    "historyHeaderOrderStatus": "สถานะใบสั่ง",
+    "historyHeaderOrderTotal": "ยอดรวมในใบสั่ง",
+    "historyHeaderOrderDetails": "รายละเอียดใบสั่ง",
+    "listingHeaderScheduledOrderId": "ID กำหนดการ",
+    "orderDetails": "รายละเอียด"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Ödeme ağ geçidi işlenirken hata oluştu. Lütfen tekrar deneyin.",
+    "paymentDeclinedMsg": "Ödeme Reddedildi. Lütfen tekrar deneyin.",
+    "paymentExpiredMsg": "Ödemenin Süresi Doldu. Lütfen tekrar deneyin.",
+    "paymentErrorMsg": "Ödeme işlenirken hata oluştu. Lütfen tekrar deneyin.",
+    "payByCashText": "Nakit olarak öde",
+    "invoicePaymentMsg": "Fatura iste",
+    "purchaseOrderNumberMsg":"Satınalma Siparişi Numarası"
+  }
+}

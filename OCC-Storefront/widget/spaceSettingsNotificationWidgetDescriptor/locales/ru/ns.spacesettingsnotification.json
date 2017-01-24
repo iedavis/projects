@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Настройки уведомления по электронной почте",
+    "spaceSettingsNotificationIntroText" : "Мне хотелось бы получить:",
+    "spaceSettingsCommentNotificationTxt" : "Уведомления о комментариях и продуктах",
+    "spaceSettingsNewMemberNotificationTxt" : "Уведомления о новых участниках",
+    "spaceSettingsSaveTxt" : "Сохранить",
+    "spaceSettingsCancelTxt" : "Отмена",
+    "spaceSettingsSaveErrorTxt" : "Ошибка при сохранении изменений настроек уведомления.",
+    "spaceSettingsSaveSuccessTxt" : "Настройки уведомления обновлены и сохранены.",
+    "spaceSettingsOnText" : "Да",
+    "spaceSettingsOffText" : "Нет",
+    "spaceSettingsNotificationEnableHelpText" : "Выберите \"Я хочу получать обновления по электронной почте\" на странице \"Моя учетная запись\", чтобы включить уведомления о списке желаний."
+  }
+}

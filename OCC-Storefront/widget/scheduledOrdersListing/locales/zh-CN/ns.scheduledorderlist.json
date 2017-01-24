@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "计划订单",
+    "backToMyAccount" : "<<返回到我的账户",
+    "scheduledOrderName" : "名称",
+    "frequency": "频率",    
+    "scheduledOrderId": "标识",
+    "scheduledOrderStatus": "状态",
+    "nextShipDate": "下次发货日期",
+    "lastScheduledRun": "上次订购日期",
+    "scheduledOrderDetails": "订单详细信息",
+    "orderDetails": "详细信息",
+    "action": "操作",
+    "createdDate":"创建日期",
+    "editOrder": "编辑",
+    "deleteOrder": "删除",
+    "deleteSuccessMsg":"已成功删除",
+    "myAccount" : "我的账户"
+  }
+}

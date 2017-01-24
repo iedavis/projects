@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Détails du règlement",
+  "paymentMethod": "Mode de règlement",
+  "paypalText": "Le moyen le plus simple et le plus sûr pour régler.", 
+  "paymentDetailsError": "Assurez-vous que vous avez renseigné tous les champs obligatoires et corrigé les entrées non valides.",
+  "paymentMethodNotAvilable": "(Cette option de règlement ne peut pas être utilisée pour les commandes planifiées.)",
+  
+  "nameOnCardLabel": "Titulaire de la carte",
+  "nameOnCardPlaceholder": "Titulaire de la carte",
+  "nameOnCardRequired": "Le nom figurant sur la carte est obligatoire.",
+  "nameOnCardInvalid": "Le nom figurant sur la carte n'est pas valide.",
+  
+  "cardTypeLabel": "Type de carte",
+  "cardTypePlaceholder": "Type de carte",
+  "cardTypeRequired": "Le type de carte est obligatoire.",
+  "cardTypeInvalid": "Le type de carte n'est pas valide.",
+  
+  "cardNumberLabel": "Numéro de carte",
+  "cardNumberPlaceholder": "Numéro de carte",
+  "cardNumberRequired": "Le numéro de carte est obligatoire.",
+  "cardNumberMaxLength":"Entrée non valide. Ne dépassez pas les __maxLength__ caractères.",
+  "cardNumberInvalid": "Numéro de carte non valide. Réessayez.",
+  
+  "cardCVVLabel": "Code vérif.",
+  "cardCVVPlaceholder": "Code vérif.",
+  "cardCVVRequired": "Le code de vérification est obligatoire.",
+  "cardCVVInvalid": "Le code de vérification n'est pas valide.",
+  "cardCVVWhatsThis": "Qu'est-ce que c'est ?",
+  "cardCVVPopupTitle": "Code vérif.",
+  "cardCVVPopupText": "Les 3 derniers chiffres figurant dans la zone de signature de votre carte.",
+  "cardCVVNumberInvalid": "Entrée non valide. Entrez uniquement des nombres.",
+  "cardCVVNumberMaxLength": "Entrée non valide. Ne dépassez pas les 4 caractères maximum autorisés.",
+  "cardCVVNumberMinLength": "Entrée non valide. Entrez au moins 3 caractères.",
+  
+  "endMonthLabel": "Expiration (mois)",
+  "endMonthPlaceholder": "Expiration (mois)",
+  "endMonthRequired": "Le mois d'expiration de la carte est obligatoire.",
+  "endMonthInvalid": "Mois/année d'expiration non valide, réessayez.",
+  
+  "endYearLabel": "Expiration (année)",
+  "endYearPlaceholder": "Expiration (année)",
+  "endYearRequired": "L'année d'expiration de la carte est obligatoire.",
+  "endYearInvalid": "Mois/année d'expiration non valide, réessayez.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

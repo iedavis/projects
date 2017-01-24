@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Sažetak narudžbe", 
+    "orderDoesNotExist": "Narudžba ne postoji.", 
+    "subTotalText": "Podzbroj:", 
+    "salesTaxText": "Porez na promet:", 
+    "orderTotalText": "Ukupan iznos narudžbe:", 
+    "continueShoppingText": "Nastavi kupovati",
+    "delimiter": ":",
+    "includingTaxText": "(porez uključen)",
+    "totalExcludingTaxText": "Ukupno (porez nije uključen):"
+  }
+}

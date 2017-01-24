@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Afişare atribute",
+    "numberOfRelatedProductsHelpText": "Introduceţi numărul de produse corelate de afişat în carusel",
+    "numberOfRelatedProductsTextLabel": "Nr. de produse corelate",
+    "displayNameOfRelatedProductsTextLabel": "Nume produs",
+    "displayPriceOfRelatedProductsTextLabel": "Preţ"
+  }
+}

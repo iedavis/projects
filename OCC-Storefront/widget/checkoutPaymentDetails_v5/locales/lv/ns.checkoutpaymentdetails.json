@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Informācija par maksājumu",
+  "paymentMethod": "Maksāšanas veids",
+  "paypalText": "Drošākais un vienkāršākais maksāšanas veids.", 
+  "paymentDetailsError": "Lūdzu, pārliecinieties, vai aizpildījāt visus obligātos laukus un izlabojāt visus nederīgos ierakstus.",
+  "paymentMethodNotAvilable": "(Ieplānotiem pasūtījumiem šo maksāšanas veidu nevar izmantot.)",
+  
+  "nameOnCardLabel": "Vārds uz kartes",
+  "nameOnCardPlaceholder": "Vārds uz kartes",
+  "nameOnCardRequired": "Vārds uz kartes ir obligāts.",
+  "nameOnCardInvalid": "Vārds uz kartes nav derīgs.",
+  
+  "cardTypeLabel": "Kartes tips",
+  "cardTypePlaceholder": "Kartes tips",
+  "cardTypeRequired": "Kartes tips ir obligāts.",
+  "cardTypeInvalid": "Kartes tips nav derīgs.",
+  
+  "cardNumberLabel": "Kartes numurs",
+  "cardNumberPlaceholder": "Kartes numurs",
+  "cardNumberRequired": "Kartes numurs ir obligāts.",
+  "cardNumberMaxLength":"Nederīgs ieraksts. Lūdzu, nepārsniedziet atļauto __maxLength__ rakstzīmju maksimumu.",
+  "cardNumberInvalid": "Nederīgs kartes numurs. Lūdzu, mēģiniet vēlreiz.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV ir obligāts.",
+  "cardCVVInvalid": "CVV nav derīgs.",
+  "cardCVVWhatsThis": "Kas tas ir?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Pēdējie 3 cipari uz jūsu kartes paraksta joslas.",
+  "cardCVVNumberInvalid": "Nederīgs ieraksts. Lūdzu, ievadiet tikai ciparus.",
+  "cardCVVNumberMaxLength": "Nederīgs ieraksts. Lūdzu, nepārsniedziet atļauto 4 rakstzīmju maksimumu.",
+  "cardCVVNumberMinLength": "Nederīgs ieraksts. Lūdzu, ievadiet vismaz 3 rakstzīmes.",
+  
+  "endMonthLabel": "Derīguma termiņš (mēnesis)",
+  "endMonthPlaceholder": "Derīguma termiņš (mēnesis)",
+  "endMonthRequired": "Kartes derīguma termiņa mēnesis ir obligāts.",
+  "endMonthInvalid": "Nederīgs derīguma termiņa mēnesis/gads. Lūdzu, mēģiniet vēlreiz.",
+  
+  "endYearLabel": "Derīguma termiņš (gads)",
+  "endYearPlaceholder": "Derīguma termiņš (gads)",
+  "endYearRequired": "Kartes derīguma termiņa gads ir obligāts.",
+  "endYearInvalid": "Nederīgs derīguma termiņa mēnesis/gads. Lūdzu, mēģiniet vēlreiz.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

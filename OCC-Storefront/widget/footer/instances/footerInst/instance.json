@@ -1,0 +1,15 @@
+{
+  "config": {"requiredLinks": [
+    "home",
+    "aboutUs",
+    "returns",
+    "shipping",
+    "contactUs",
+    "privacy",
+    "wishlist"
+  ]},
+  "id": "footerInst",
+  "name": "Footer Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

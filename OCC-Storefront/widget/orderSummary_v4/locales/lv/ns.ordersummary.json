@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Pasūtījuma kopsavilkums",
+    "subtotalText": "Starpsumma:",
+    "discountText": "Atlaide(s)*:",
+    "shippingOptionsText": "Nosūtīšanas opcijas",
+    "changeText": "Mainīt",
+    "salesTaxText": "Tirdzniecības nodoklis:",
+    "orderTotalText": "Pasūtījuma kopsumma:",
+    "placeOrderText": "Veikt pasūtījumu",
+    "noShippingText": "Sūtīšanas nav",
+    "applicableTaxesText": "Piemērotie nodokļi tiks aprēķināti norēķinoties.",
+    "paymentOptionsText": "Maksāšanas opcijas",
+    "checkoutText": "Norēķināšanās",
+    "noShippingSelectedText": "Nav atlasīts sūtīšanas veids.",
+    "shippingAddressRequired":"Lūdzu, ievadiet nosūtīšanas adresi",
+    "shippingText": "Sūtīšana: __displayName__",
+    "noShippingMethodsText": "Nav pieejams neviens sūtīšanas veids",
+    "checkoutErrorMsg": "Lūdzu, pārliecinieties, vai aizpildījāt visus obligātos laukus un izlabojāt visus nederīgos ierakstus.",
+    "removeLinkText": "noņemt",
+    "rePricingText":"Pārcenošana",
+    "totalExcludingTaxText": "Kopā (neietverot nodokli):",
+    "includingTaxText": "(ietverot nodokli)"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Beregn frakt og avgift (valgfritt)",
+    "cartShippingErrorMsg": "Kontroller at du har fylt ut alle forsendelsesfelt og korrigert eventuelle ugyldige registreringer.",
+    "countryText": "Land",
+    "stateText": "Delstat",
+    "zipCodeText": "Postnummer",
+    "countryRequired": "Land er obligatorisk. ",
+    "stateRequired": "Delstat er obligatorisk. ",
+    "zipCodeRequired": "Postnummer er obligatorisk. ",
+    "zipCodeInvalid": "Ugyldig registrering. Angi et gyldig postnummer.",
+    "stateRegionText": "Delstat/region",
+    "noShippingSelectedText": "Det er ikke valgt forsendelsesmåte.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Ingen forsendelsesmåter er tilgjengelige for måladressen.",
+    "noShippingMethodsForAddressText": "Kan ikke hente forsendelsesmåter for den angitte forsendelsesadressen",
+    "fetchingShippingMethodsText": "Henter forsendelsesmåter for adresse",
+    "invalidShippingAddress": "Ugyldig forsendelsesadresse er angitt.",
+    "invalidShippingMethod": "Ugyldig forsendelsesmåte er angitt.",
+    "pricingError" : "Kan ikke beregne frakt- og avgiftskostnader. Kontroller forsendelsesadressen.",
+    "invalidPreviousAddress": "Vi leverer ikke lenger til forsendelsesadressen du har brukt tidligere.",
+    "shippingMethodNoLongerAvailable": "Den tidligere valgte forsendelsesmåten er ikke lenger tilgjengelig. Kontroller forsendelsesmåten før du plasserer ordren."
+  }
+}

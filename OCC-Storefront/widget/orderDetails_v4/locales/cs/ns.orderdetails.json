@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Moje objednávky",
+    "backToMyOrdersLink" : "Zpět na Moje objednávky",
+    "orderDetailsText": "Detaily objednávky",
+    "orderDateText": "Datum objednávky:",
+    "orderNumberText": "Číslo objednávky:",
+    "orderStatusText": "Stav objednávky:",
+    "quoteExpiryText": "Konec platnosti cenové nabídky:",
+    "scheduledOrderName": "Název plánu:",
+    "shippingAddressAndMethodText": "Dodací adresa a způsob dopravy", 
+    "shippingAddressText": "Místo určení:",
+    "noShippingAddressText" : "Dodací adresa není k dispozici", 
+    "shippingMethodText": "Způsob dopravy:",
+    "shippingText": "Standardní doprava:",
+    "salesTaxText": "Daň z prodeje:",
+    "orderTotalText": "Celkem za objednávku:",
+    "includingTaxText": "(včetně daně)",
+    "totalExcludingTaxText": "Celkem (bez daně): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Čísla sledování:",
+    "trackingReferenceReaderText": "__carrierName__ - odkaz na sledování __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Plánovaná objednávka byla vytvořena podle ceníku '__priceListGroup__'"
+  } 
+}

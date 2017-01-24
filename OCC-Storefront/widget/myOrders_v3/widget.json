@@ -1,0 +1,16 @@
+{
+  "config": {"includeScheduledInformation": false},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "orderhistory",
+  "imports": [],
+  "javascript": "my-orders",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "my ordera",
+  "pageTypes": ["profile"],
+  "source": 101,
+  "version": 3,
+  "widgetFamily": "myOrders",
+  "widgetType": "myOrders"
+}

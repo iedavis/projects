@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Mi cuenta",
+    "orderHistoryText" : "Historial de órdenes",
+    "backToMyAccount" : "<< Volver a Mi cuenta",
+    "historyHeaderOrderDate": "Fecha de orden",    
+    "historyHeaderOrderNumber": "Número de orden",
+    "historyHeaderOrderStatus": "Estado de orden",
+    "historyHeaderOrderTotal": "Total de orden",
+    "historyHeaderOrderDetails": "Detalles de orden",
+    "listingHeaderScheduledOrderId": "ID de programa",
+    "orderDetails": "Detalles"
+  }
+}

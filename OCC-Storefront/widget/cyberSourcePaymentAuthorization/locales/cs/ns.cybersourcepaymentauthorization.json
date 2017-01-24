@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "102": "(102) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "104": "(104) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "110": "(110) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "150": "(150) Při navazování komunikace s vydavatelem vaší kreditní karty došlo k technickému problému. Zkuste to znovu nebo použijte jinou kartu.",
+    "151": "(151) Došlo k technickým problémů. Zkuste to znovu později.",
+    "152": "(152) Došlo k technickým problémů. Zkuste to znovu později.",
+    "200": "(200) Zadaná fakturační adresa se neshoduje s adresou uloženou u vaší kreditní karty. Zkontrolujte adresu a zkuste to znovu.",
+    "201": "(201) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "202": "(202) Zkontrolujte datum exspirace karty a zkuste to znovu.",
+    "203": "(203) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "204": "(204) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "205": "(205) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "207": "(207) Při navazování komunikace s vydavatelem vaší kreditní karty došlo k technickému problému. Zkuste to znovu nebo použijte jinou kartu.",
+    "208": "(208) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "209": "(209) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "210": "(210) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "211": "(211) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "221": "(221) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "230": "(230) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "231": "(231) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "232": "(232) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "233": "(233) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "234": "(234) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "520": "(520) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "1000": "(1000) Kreditní karta byla zamítnuta. Zkuste použít jinou kartu.",
+    "476": "(476) Karta není ověřena pro použití. Zkuste použít jinou kartu.",
+    "paymentErrorText":"Došlo k technickým problémů. Zkuste to znovu později.",
+    "processingText": "Probíhá zpracování, čekejte prosím. Neklikejte na tlačítko pro aktualizaci nebo vrácení, jinak může být transakce přerušena či ukončena."
+  }
+}

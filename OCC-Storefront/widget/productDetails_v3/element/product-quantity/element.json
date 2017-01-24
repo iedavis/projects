@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-quantity",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ปริมาณผลิตภัณฑ์"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Quantidade do Produto"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "产品数量"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Кількість продуктів"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Количество от продукт"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Toote kogus"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Produktu skaits"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Produkto kokybė"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Produktmengde"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Cantitate produs"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Quantité de produit"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "製品数量"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Količina izdelka"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Количество товара"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Količina proizvoda"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Ürün Miktarı"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Ilość produktu"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "產品數量"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "제품 수량"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Množství produktu"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Termékmennyiség"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Ποσότητα προϊόντων"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Produktmængde"
+    },
+    {
+      "description": "Set the quantity of items to add to the shopping cart.",
+      "language": "en",
+      "title": "Product Quantity"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Количина производа"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Produktmenge"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Cantidad del producto"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Quantité de produit"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Quantità prodotto"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Producthoeveelheid"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Produktkvantitet"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Quantidade do Produto"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Tuotteen määrä"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

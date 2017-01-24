@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Mes commandes",
+    "backToMyOrdersLink" : "<< Retour à mes commandes",
+    "orderDetailsText": "Détails de la commande",
+    "orderDateText": "Date de commande :",
+    "orderNumberText": "Numéro de commande :",
+    "orderStatusText": "Statut de commande :",
+    "quoteExpiryText": "Expiration du devis :",
+    "scheduledOrderName": "Nom du programme :",
+    "shippingAddressAndMethodText": "Adresse et mode d'expédition", 
+    "shippingAddressText": "Destinataire :",
+    "noShippingAddressText" : "Aucune adresse d'expédition n'est disponible", 
+    "shippingMethodText": "Mode d'expédition :",
+    "shippingText": "Expédition standard :",
+    "salesTaxText": "Taxe de vente :",
+    "orderTotalText": "Total de la commande :",
+    "includingTaxText": "(taxes incluses)",
+    "totalExcludingTaxText": "Total (taxes exclues) : ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Numéros de suivi :",
+    "trackingReferenceReaderText": "Numéro de suivi de __carrierName__ : __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Commande programmée créée selon la liste de prix '__priceListGroup__'"
+  } 
+}

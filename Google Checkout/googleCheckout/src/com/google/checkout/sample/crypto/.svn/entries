@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2006-09-27T00:39:39.637797Z"
+   url="http://google-checkout-java14-sample-code.googlecode.com/svn/trunk/src/com/google/checkout/sample/crypto"
+   last-author="colinhc"
+   kind="dir"
+   uuid="8474a406-481d-0410-88fc-6705ad773e9c"
+   repos="http://google-checkout-java14-sample-code.googlecode.com/svn"
+   revision="13"/>
+<entry
+   committed-rev="4"
+   name="CryptUtil.java"
+   text-time="2006-11-23T21:31:13.500000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="174bc5677ad52de92ff2307d8cf301fb"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:13.015625Z"/>
+<entry
+   committed-rev="4"
+   name="CryptUtilTest.java"
+   text-time="2006-11-23T21:31:13.515625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="16c79ba5eb410b9255b0f0b88aaab011"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:13.468750Z"/>
+<entry
+   committed-rev="4"
+   name="Base64Coder.java"
+   text-time="2006-11-23T21:31:13.531250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="8948e4d869417f25fc45d55195888498"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:31:13.484375Z"/>
+</wc-entries>

@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Dodajte promotivnu šifru ili šifru lojalnosti",
+  "promoCode": "Unesite promotivnu šifru",
+  "promoCodeAriaLabelText": "Unesite promotivnu šifru",
+  "buttonApplyCodeText": "Primeni šifru",
+  "buttonApplyingCodeText": "Primenjivanje šifre",
+  "couponDetailsError": "Došlo je do problema u vezi sa detaljima o vašem kuponu.",
+  "promoCodeRequired": "Šifra kupona ne može da bude prazna.",
+  "duplicateCoupon": "Šifra je već primenjena."
+  }
+}

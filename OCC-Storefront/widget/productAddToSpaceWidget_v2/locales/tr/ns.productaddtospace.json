@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "İstek listesine ekle",
+    "spaceSelectionText": "İstek listesi seçin",
+    "spaceCommentText": "Açıklama girin...",
+    "spaceNameText": "Adı",
+    "buttonSpaceAdd": "Ekle",
+    "buttonSpaceCancel": "İptal",
+    "mySpacesGroupText": "İstek listelerim",
+    "joinedSpacesGroupText": "Katılınan istek listeleri",
+    "createNewSpaceOptText": "Yeni istek listesi...",
+    "addToSpaceSuccessMsg" : "Tebrikler! __socialproduct__ ürünün eklendiği alan: __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Bu kalem zaten istek listesindeydi. Eklenen Tarihi güncelledik.",
+    "addToSpaceProductViewWishListMsg" : "  __wishlistname__ istek listesini görüntüle",
+    "spaceAddProductError" : "İstek listesine bir ürün göndermeye çalışırken hata oluştu. Sayfanızı yenilemeyi deneyin.",
+    "uniqueNameMsg": "İstek listesi adı benzersiz olmalıdır.",
+    "emptyNameMsg": "Ad boş olamaz.",
+    "privacySettingsLabel": "Gizlilik Ayarları",
+    "privacySettingsDescription": "Özel istek listesine arkadaşlarınızı davet ettiğinizde, gizlilik ayarınız Grup olarak değişir. Özel veya Grup istek listesini e-postayla göndermek veya bir sosyal ağda paylaşmak, bunu paylaşılan bir liste haline getirir.",
+    "privacySharedLabel": "Bağlantıya sahip olan herkes bu listeyi görebilir. Sadece siz ve davet ettiğiniz kişiler bu listeyi görebilir, listeye ekleme ve yorum yapabilir.",
+    "privacyGroupLabel": "Sadece siz ve davet ettiğiniz kişiler bu listeyi görebilir, ekleyebilir ve listede yorum yapabilir.",
+    "privacyPrivateLabel": "Bu listeyi sadece siz görebilir ve listeye ekleme yapabilirsiniz.",
+    "spaceAccessPrivateIconTxt" : "Özel",
+    "spaceAccessSharedIconTxt" : "Paylaşılan",
+    "spaceAccessGroupIconTxt" : "Grup",
+    "spaceCreateMaxSpacesMsg" : "İstek listesi oluşturulurken sorun oluştu. İstek listesi sayısı için sınırı aştınız. Lütfen yeni bir tane oluşturma öncesinde mevcut bir istek listesini silin.",
+    "productAddMaxProductsMsg" : "İstek listesine ürün eklerken sorun oluştu. İstek listesindeki gönderi sayısı için sınırı aştınız. Lütfen yeni bir tane ekleme öncesinde hedef istek listesinden mevcut bir ürünü silin."
+  }
+}

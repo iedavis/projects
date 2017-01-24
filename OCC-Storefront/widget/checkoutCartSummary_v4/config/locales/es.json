@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Introduzca el número máximo de elementos que desea mostrar en el resumen de carro.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Máximo de elementos en resumen de carro"
+  }
+}

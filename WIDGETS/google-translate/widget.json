@@ -1,0 +1,9 @@
+{
+  "name": "Google Translate",
+  "availableToAllPages": true,
+  "javascript": "google-translate",
+  "imports": [],
+  "editableTemplate": false,
+  "config": {
+  }
+}

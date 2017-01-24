@@ -1,0 +1,170 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "signup",
+  "isLayoutDisplayable": false,
+  "displayName": "Home",
+  "translations": [
+    {
+      "name": "ลงทะเบียน",
+      "language": "th"
+    },
+    {
+      "name": "Inscrever-se",
+      "language": "pt_BR"
+    },
+    {
+      "name": "注册",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Реєстрація",
+      "language": "uk"
+    },
+    {
+      "name": "Записване",
+      "language": "bg"
+    },
+    {
+      "name": "Registreeru",
+      "language": "et"
+    },
+    {
+      "name": "Reģistrēties",
+      "language": "lv"
+    },
+    {
+      "name": "Prisireg.",
+      "language": "lt"
+    },
+    {
+      "name": "Registrering",
+      "language": "no"
+    },
+    {
+      "name": "Înregistrare",
+      "language": "ro"
+    },
+    {
+      "name": "S'inscrire",
+      "language": "fr_CA"
+    },
+    {
+      "name": "サイン・アップ",
+      "language": "ja"
+    },
+    {
+      "name": "Vpis",
+      "language": "sl"
+    },
+    {
+      "name": "Подписка",
+      "language": "ru"
+    },
+    {
+      "name": "Registracija",
+      "language": "hr"
+    },
+    {
+      "name": "Kaydol",
+      "language": "tr"
+    },
+    {
+      "name": "Rejestracja",
+      "language": "pl"
+    },
+    {
+      "name": "註冊",
+      "language": "zh_TW"
+    },
+    {
+      "name": "등록",
+      "language": "ko"
+    },
+    {
+      "name": "Přihlášení",
+      "language": "cs"
+    },
+    {
+      "name": "Feliratkozás",
+      "language": "hu"
+    },
+    {
+      "name": "Εγγραφή",
+      "language": "el"
+    },
+    {
+      "name": "Tilmeld dig",
+      "language": "da"
+    },
+    {
+      "name": "Sign up",
+      "language": "en"
+    },
+    {
+      "name": "Регистровање",
+      "language": "sr"
+    },
+    {
+      "name": "Registrieren",
+      "language": "de"
+    },
+    {
+      "name": "تسجيل الدخول",
+      "language": "ar"
+    },
+    {
+      "name": "Registrarse",
+      "language": "es"
+    },
+    {
+      "name": "S'inscrire",
+      "language": "fr"
+    },
+    {
+      "name": "Iscrizione",
+      "language": "it"
+    },
+    {
+      "name": "Aanmelden",
+      "language": "nl"
+    },
+    {
+      "name": "Skapa konto",
+      "language": "sv"
+    },
+    {
+      "name": "Inscrever-se",
+      "language": "pt"
+    },
+    {
+      "name": "Rekisteröidy",
+      "language": "fi"
+    }
+  ]
+}

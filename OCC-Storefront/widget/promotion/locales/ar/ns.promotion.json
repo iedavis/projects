@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "إضافة رمز برنامج الولاء أو العرض الترويجي",
+  "promoCode": "أدخل رمز العرض الترويجي",
+  "promoCodeAriaLabelText": "أدخل رمز العرض الترويجي",
+  "buttonApplyCodeText": "تطبيق الرمز",
+  "buttonApplyingCodeText": "تطبيق الرمز",
+  "couponDetailsError": "تم العثور على مشكلة في تفاصيل الكوبون الخاص بك.",
+  "promoCodeRequired": "لا يمكن أن يكون رمز الكوبون فارغًا",
+  "duplicateCoupon": "الرمز مطبق بالفعل."
+  }
+}

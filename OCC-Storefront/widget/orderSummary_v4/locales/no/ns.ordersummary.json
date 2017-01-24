@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Ordresammendrag",
+    "subtotalText": "Delsum: ",
+    "discountText": "Rabatt(er)*: ",
+    "shippingOptionsText": "Forsendelsesvalg",
+    "changeText": "endre",
+    "salesTaxText": "Merverdiavgift: ",
+    "orderTotalText": "Ordresum: ",
+    "placeOrderText": "Plasser ordre",
+    "noShippingText": "Ingen forsendelse",
+    "applicableTaxesText": "Aktuelle avgifter beregnes i kassen.",
+    "paymentOptionsText": "Betalingsvalg",
+    "checkoutText": "Til kassen",
+    "noShippingSelectedText": "Det er ikke valgt forsendelsesmåte.",
+    "shippingAddressRequired":"Angi en forsendelsesadresse ",
+    "shippingText": "Frakt: __displayName__ ",
+    "noShippingMethodsText": "Ingen tilgjengelige forsendelsesmåter",
+    "checkoutErrorMsg": "Kontroller at du har fylt ut alle obligatoriske felt og korrigert eventuelle ugyldige registreringer.",
+    "removeLinkText": "fjern",
+    "rePricingText":"Ny prising",
+    "totalExcludingTaxText": "Sum (eksklusive avgift): ",
+    "includingTaxText": "(inklusive avgift)"
+  }
+}

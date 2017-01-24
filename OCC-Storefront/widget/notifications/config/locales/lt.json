@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Nustatykite, ar ne klaidų pranešimams taikomas skirtasis laikas.",
+    "notificationsTimeoutEnabledTextLabel": "Įgalinti skirtąjį laiką",
+    "notificationsTimeoutHelpText": "Nustatykite ne klaidų pranešimams taikomą skirtąjį laiką (sekundėmis).",
+    "notificationsTimeoutTextLabel": "Skirtasis laikas (sekundėmis)",
+    "notificationsFixedHelpText": "Nustatykite, ar pranešimų valdiklis turi būti puslapio viršuje.",
+    "notificationsFixedTextLabel": "Pataisyta"
+  }
+}

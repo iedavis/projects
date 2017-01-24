@@ -1,0 +1,26 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Your cart is empty.",
+    "buttonContinueShopping": "Continue Shopping",
+    "cartHeader" : "Your Shopping Cart",
+    "itemHeaderItem": "Item",    
+    "itemHeaderQuantity": "Quantity",
+    "itemQuantity": "__productName__ Quantity",
+    "itemHeaderItemPrice": "Price",
+    "itemHeaderItemTotal": "Item Total",
+    "totalTableSubTotal": "Sub-Total:",
+    "includingTaxText": "(including tax)",
+    "totalTableTotal": "Total:",
+    "buttonUpdateQuantity": "Update",
+    "buttonRemoveItem": "Remove",
+    "instockText": "In stock",
+    "outofstockText": "Out of stock",
+    "totalTableSummary": "Shopping cart totals.",
+    "placeHolderSelect": "Select Free Gift",
+    "changeButton": "Change",
+    "gwpItemNotAvailable": "Promotion free gift is not available at this time.",
+    "buttonReconfigure" : "Edit",
+    "reconfigureText" : "Reconfigure",
+    "atTheRateText" : "@"
+  }
+}

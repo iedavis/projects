@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Jūs meklējāt '__searchterm__'. Nav atrasts neviens produkts.",
+    "titleText": "Meklēt",
+    "searchFailedText": "Šobrīd jūsu meklēšanu veikt nav iespējams."
+  }
+}

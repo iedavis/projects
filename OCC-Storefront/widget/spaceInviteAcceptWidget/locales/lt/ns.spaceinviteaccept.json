@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Sveiki, __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Kvietimas jau priimtas.",
+    "spaceNotFound" : "Pageidavimų sąrašas, kurį bandote pasiekti, nerastas.",
+    "invitationExpiredError" : "Jūsų pakvietimo galiojimo laikas baigėsi! Susisiekite su pageidavimų sąrašo, prie kurio norite prisijungti, savininku ir paprašykite, kad jus pakviestų iš naujo.",
+    "memberJoinError" : "Įvyko su kvietimu susijusi klaida.",
+    "pleaseWaitProcessingMsg" : "Luktelėkite, kol apdorosime jūsų kvietimą."
+  }
+}

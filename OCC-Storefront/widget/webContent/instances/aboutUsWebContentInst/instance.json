@@ -1,0 +1,7 @@
+{
+  "config": {"sourceMedia": "aboutUsStaticContent"},
+  "id": "aboutUsWebContentInst",
+  "name": "About Us Web Content Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

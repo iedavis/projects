@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Visningsattribut",
+    "numberOfRelatedProductsHelpText": "Ange det antal relaterade produkter som ska visas i snurran",
+    "numberOfRelatedProductsTextLabel": "Antal relaterade produkter",
+    "displayNameOfRelatedProductsTextLabel": "Produkt",
+    "displayPriceOfRelatedProductsTextLabel": "Pris"
+  }
+}

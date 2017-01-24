@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Планові замовлення",
+    "backToMyAccount" : "<< Повернутися до мого облікового запису",
+    "scheduledOrderName" : "Ім'я",
+    "frequency": "Частота",    
+    "scheduledOrderId": "Ідентифікатор",
+    "scheduledOrderStatus": "Стан",
+    "nextShipDate": "Наступне замовлення",
+    "lastScheduledRun": "Останнє замовлення",
+    "scheduledOrderDetails": "Відомості про замовлення",
+    "orderDetails": "Докладні відомості",
+    "action": "Дія",
+    "createdDate":"Дата створення",
+    "editOrder": "Змінити",
+    "deleteOrder": "Видалити",
+    "deleteSuccessMsg":"Успішно видалено",
+    "myAccount" : "Мій обліковий запис"
+  }
+}

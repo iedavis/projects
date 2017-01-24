@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Платете с ваучера за подарък",
+    "giftCardNumberText": "Номер на ваучер за подарък",
+    "giftCardPinText": "ПИН код на ваучер за подарък",
+    "giftCardApplyText": "Приложете ваучер за подарък", 
+    "giftCardApplyingText": "Прилагане ваучер за подарък", 
+    "displayGiftCardDetailsText" : "Платете с ваучера за подарък",
+    "duplicateGiftcardErrMsg":"Ваучерът за подарък е вече приложен."
+  }
+}

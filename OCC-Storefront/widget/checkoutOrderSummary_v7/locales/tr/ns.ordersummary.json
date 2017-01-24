@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Sipariş Özeti",
+    "subtotalText": "Alt Toplam: ",
+    "shippingOptionsText": "Sevkiyat Seçenekleri",
+    "salesTaxText": "Satış Vergisi:",
+    "orderTotalText": "Sipariş Toplamı: ",
+    "placeOrderText": "Sipariş Ver",
+    "scheduleOrderText": "Siparişi Çizelgele",
+    "noShippingText": "Sevkiyat Yok",
+    "shippingText": "Sevkiyat: __displayName__",    
+    "applicableTaxesText": "Uygulanacak vergiler çıkışta hesaplanacak.",
+    "paymentOptionsText": "Ödeme Seçenekleri",
+    "checkoutText": "Teslim alma",
+    "noShippingSelectedText": "Sevkiyat Yöntemi Seçilmedi.",
+    "shippingAddressRequired": "Lütfen uygun bir sevkiyat adresi girin",
+    "noShippingMethodsText": "Hedef adresiniz için kullanılabilir sevkiyat yöntemleri bulunmuyor.",
+    "noShippingMethodsForAddressText": "Seçilen adresi için kullanılabilir sevkiyat yöntemi yok",
+    "checkoutErrorMsg": "Lütfen zorunlu alanların tümünü doldurduğunuzdan ve varsa geçersiz girişleri düzelttiğinizden emin olun.",
+    "rePricingText":"Yeniden Fiyatlandırma",
+    "removeLinkText":"kaldır",
+    "paymentMessage": "Bir sonraki ekranda, kartınızı çıkaran şirket üzerinden yapılan ödeme kartı doğrulamasını görebilirsiniz.",
+    "includingTaxText": "(vergi dahil)",
+    "totalExcludingTaxText": "Toplam (vergi hariç): ",
+    "paymentMethodNotAvilable": "(Bu ödeme seçeneği çizelgelenen siparişler için kullanılamaz.)",
+    "selectShippingMethodText": "Sevkiyat yöntemi seçin"
+  }
+}

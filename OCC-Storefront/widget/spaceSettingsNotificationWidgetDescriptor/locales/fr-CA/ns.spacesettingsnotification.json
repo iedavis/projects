@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Paramètres d'avis par courriel",
+    "spaceSettingsNotificationIntroText" : "Je voudrais recevoir :",
+    "spaceSettingsCommentNotificationTxt" : "Avis de commentaires et de produits",
+    "spaceSettingsNewMemberNotificationTxt" : "Avis de nouveau membre",
+    "spaceSettingsSaveTxt" : "Enregistrer",
+    "spaceSettingsCancelTxt" : "Annuler",
+    "spaceSettingsSaveErrorTxt" : "Un problème est survenu lors de l'enregistrement des modifications apportées à vos paramètres d'avis.",
+    "spaceSettingsSaveSuccessTxt" : "Vos paramètres d'avis ont été mis à jour et enregistrés.",
+    "spaceSettingsOnText" : "Oui",
+    "spaceSettingsOffText" : "Non",
+    "spaceSettingsNotificationEnableHelpText" : "Sélectionnez \"Je souhaite être informé par courriel\" dans la page \"Mon compte\" pour activer les avis de liste de souhaits."
+  }
+}

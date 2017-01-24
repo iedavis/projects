@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-image-carousel",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ตัวเลือกภาพสำรอง"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Alternar seletor de imagem"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "替代图像选择器"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Вибір іншого зображення"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Алтернативен селектор на изобр."
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Alternatiivpildi valija"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Alternatīvā attēla atlasītājs"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Alternatyvus vaizdo išrinkiklis"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Velger for alternativt bilde"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Selector imagine alternativă"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Sélecteur d'autre image"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "代替イメージ・セレクタ"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Alternativni selektor slik"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Выбор альтернативного изображения"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Alternativni izbornik slika"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Alternatif Resim Seçici"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Selektor obrazu zamiennego"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "替代影像選取器"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "대체 이미지 선택기"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Výběr alternativního obrázku"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Alternatív kép kiválasztása"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Επιλογέας εναλλακτικής εικόνας"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Alternativ billedvælger"
+    },
+    {
+      "description": "Product image will be presented here",
+      "language": "en",
+      "title": "Alternate Image Selector"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Бирач алтернативне слике"
+    },
+    {
+      "description": "[PX][Product image carouselwill be presented here ä]",
+      "language": "de",
+      "title": "Alternatives Bild auswählen"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Selector de imágenes alternativas"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Sélecteur d'autre image"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Selettore immagine alternativa"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Alternatieve afbeeldingsselectie"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Väljare för alternativ bild"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Seletor de Imagens Alternativas"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Vaihtoehtoisen kuvan valitsin"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

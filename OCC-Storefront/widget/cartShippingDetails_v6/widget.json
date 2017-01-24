@@ -1,0 +1,23 @@
+{
+  "config": {},
+  "defaultLayout": "cartShippingDetailsDefaultLayout",
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "cartshippingdetails",
+  "imports": [
+    "order",
+    "shippingCountriesPriceListGroup",
+    "shippingCountries",
+    "defaultShippingCountry",
+    "shippingmethods"
+  ],
+  "javascript": "cart-shipping-details",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Cart Shipping",
+  "pageTypes": ["cart"],
+  "source": 100,
+  "version": 6,
+  "widgetFamily": "cartShippingDetails",
+  "widgetType": "cartShippingDetails"
+}

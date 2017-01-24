@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Includere l'ID dell'ordine schedulato?",
+	"includeScheduledHelpText" : "Selezionare per includere l'ID dell'ordine schedulato nella tabella della cronologia dell'ordine."
+  }
+}

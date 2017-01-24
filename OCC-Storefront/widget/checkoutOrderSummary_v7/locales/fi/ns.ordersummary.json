@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Tilausyhteenveto",
+    "subtotalText": "Välisumma: ",
+    "shippingOptionsText": "Lähetysvalinnat",
+    "salesTaxText": "Alv: ",
+    "orderTotalText": "Tilaus yhteensä: ",
+    "placeOrderText": "Tee tilaus",
+    "scheduleOrderText": "Tilaussuunnittelu",
+    "noShippingText": "Ei lähetystä",
+    "shippingText": "Lähetys: __displayName__",    
+    "applicableTaxesText": "Sovellettavat verot lasketaan kassalla.",
+    "paymentOptionsText": "Maksuvaihtoehdot",
+    "checkoutText": "Kassa",
+    "noShippingSelectedText": "Lähetystapaa ei ole valittu.",
+    "shippingAddressRequired": "Kirjoita lähetysosoite.",
+    "noShippingMethodsText": "Lähetystapoja ei ole käytettävissä kohdeosoitetta varten.",
+    "noShippingMethodsForAddressText": "Lähetystapoja ei ole käytettävissä valittua osoitetta varten",
+    "checkoutErrorMsg": "Varmista, että olet täyttänyt kaikki pakolliset kentät ja korjannut virheelliset kohdat.",
+    "rePricingText":"Uudelleenhinnoittelu",
+    "removeLinkText":"poisto",
+    "paymentMessage": "Seuraava näkyviin tuleva näyttö saattaa olla maksukortin tarkistus kortin myöntäjän kautta.",
+    "includingTaxText": "(sisältää veron)",
+    "totalExcludingTaxText": "Yhteensä (ilman veroa): ",
+    "paymentMethodNotAvilable": "(Tätä maksutapaa ei voi käyttää suunnitelluille tilauksille.)",
+    "selectShippingMethodText": "Valitse lähetystapa"
+  }
+}

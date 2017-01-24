@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "您的購物車是空的。",
+    "buttonContinueShopping": "繼續購物",
+    "cartHeader" : "您的購物車",
+    "itemHeaderItem": "項目",    
+    "itemHeaderQuantity": "數量",
+    "itemQuantity": "__productName__ 數量",
+    "itemHeaderItemTotal": "項目總計",
+    "totalTableSubTotal": "小計：",
+    "includingTaxText": "(含稅)",
+    "totalTableTotal": "總計：",
+    "buttonUpdateQuantity": "更新",
+    "buttonRemoveItem": "移除",
+    "instockText": "有貨",
+    "outofstockText": "缺貨",
+    "totalTableSummary": "購物車總計。"
+  }
+}

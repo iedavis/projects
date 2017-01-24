@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Alışveriş Sepeti Özetinde görüntülemek istediğiniz kalemlerin maksimum sayısını girin.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Alışveriş sepeti özetindeki maksimum kalem sayısı"
+  }
+}

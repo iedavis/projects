@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "A Minha Conta",
+    "orderHistoryText" : "Histórico de Encomendas",
+    "backToMyAccount" : "<< Regressar à Minha Conta",
+    "historyHeaderOrderDate": "Data da Encomenda",    
+    "historyHeaderOrderNumber": "Número da Encomenda",
+    "historyHeaderOrderStatus": "Estado da Encomenda",
+    "historyHeaderOrderTotal": "Total da Encomenda",
+    "historyHeaderOrderDetails": "Detalhes da Encomenda",
+    "listingHeaderScheduledOrderId": "ID da Programação",
+    "orderDetails": "Detalhes"
+  }
+}

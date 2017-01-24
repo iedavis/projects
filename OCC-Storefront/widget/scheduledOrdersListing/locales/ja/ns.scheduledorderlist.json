@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "スケジュール済オーダー",
+    "backToMyAccount" : "<< 自分のアカウントに戻る",
+    "scheduledOrderName" : "名前",
+    "frequency": "頻度",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "ステータス",
+    "nextShipDate": "次のオーダー",
+    "lastScheduledRun": "最終オーダー",
+    "scheduledOrderDetails": "オーダー詳細",
+    "orderDetails": "詳細",
+    "action": "処理",
+    "createdDate":"作成日",
+    "editOrder": "編集",
+    "deleteOrder": "削除",
+    "deleteSuccessMsg":"正常に削除されました",
+    "myAccount" : "自分のアカウント"
+  }
+}

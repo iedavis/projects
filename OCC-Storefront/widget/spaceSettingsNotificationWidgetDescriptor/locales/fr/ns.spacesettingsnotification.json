@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Paramètres de notification par courriel",
+    "spaceSettingsNotificationIntroText" : "Je voudrais recevoir :",
+    "spaceSettingsCommentNotificationTxt" : "Notifications de commentaires et de produits",
+    "spaceSettingsNewMemberNotificationTxt" : "Notifications de nouveau membre",
+    "spaceSettingsSaveTxt" : "Sauvegarder",
+    "spaceSettingsCancelTxt" : "Annuler",
+    "spaceSettingsSaveErrorTxt" : "Un problème s'est produit lors de l'enregistrement des modifications apportées à vos paramètres de notification.",
+    "spaceSettingsSaveSuccessTxt" : "Vos paramètres de notification ont été mis à jour et sauvegardés.",
+    "spaceSettingsOnText" : "Oui",
+    "spaceSettingsOffText" : "Non",
+    "spaceSettingsNotificationEnableHelpText" : "Sélectionnez \"Je souhaite être informé par courriel\" sur la page \"Mon compte\" pour activer les notifications de liste de souhaits."
+  }
+}

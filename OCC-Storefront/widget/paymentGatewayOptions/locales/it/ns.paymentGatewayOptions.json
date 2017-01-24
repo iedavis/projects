@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Errore durante l'elaborazione del pagamento nel gateway. Riprovare.",
+    "paymentDeclinedMsg": "Il pagamento è stato rifiutato. Riprovare.",
+    "paymentExpiredMsg": "Il pagamento è scaduto. Riprovare.",
+    "paymentErrorMsg": "Errore durante l'elaborazione del pagamento. Riprovare.",
+    "payByCashText": "Paga in contanti",
+    "invoicePaymentMsg": "Richiesta di fattura",
+    "purchaseOrderNumberMsg":"Numero ordine di acquisto"
+  }
+}

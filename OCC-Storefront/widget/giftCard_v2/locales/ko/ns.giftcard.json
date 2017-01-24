@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "기프트 카드로 결제",
+    "giftCardNumberText": "기프트 카드 번호",
+    "giftCardPinText": "기프트 카드 PIN",
+    "giftCardApplyText": "기프트 카드 적용", 
+    "giftCardApplyingText": "기프트 카드 적용 중", 
+    "displayGiftCardDetailsText" : "기프트 카드로 결제",
+    "duplicateGiftcardErrMsg":"기프트 카드가 이미 적용되었습니다."
+  }
+}

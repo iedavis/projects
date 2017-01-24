@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Näytä vähemmän...",
+    "seeMoreText" : "Näytä enemmän...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Tarkennusperuste",
+    "clearAllRefinementsText" : "Poista kaikki tarkennukset",
+    "guidedNavigationHeader" : "Ohjatun navigoinnin otsikko",
+    "doneText" : "Valmis",
+    "expandText" : "Laajenna",
+    "collapseText" : "Tiivistä",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Päällä oleva ohjattu navigointi on ladattu"
+  }
+}

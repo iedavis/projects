@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Ankstesni vaizdai",
+    "nextImageText" : "Kiti vaizdai",
+    "onSaleText": "Išpardavimas",
+    "salePriceText": "Pardavimo kaina",
+    "listPriceText": "Kainoraštis",
+    "relatedProductsText": "Susiję produktai"
+  }
+}

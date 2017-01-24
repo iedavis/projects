@@ -1,0 +1,178 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": true,
+  "previewText": "<br>",
+  "supportedWidgetType": ["productDetails"],
+  "tag": "line-break",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ขึ้นบรรทัดใหม่"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Quebra de linha"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "换行符"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Розрив рядка"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Нов ред"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Reapiir"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Rindas pārtr."
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Eilutės lūžis"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Linjeskift"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Sfârşit linie"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Saut de ligne"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "改行"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Prelom vrstice"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Конец строки"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Prijelom retka"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Satır Başı"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Podział linii"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "分行"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "줄 바꿈"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Konec řádku"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Sortörés"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Αλλαγή γραμμής"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Linjeskift"
+    },
+    {
+      "description": "Line Break",
+      "language": "en",
+      "title": "Line Break"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Прелом реда"
+    },
+    {
+      "description": "[PX][Line Break ä]",
+      "language": "de",
+      "title": "Zeilenumbruch"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Salto de línea"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Saut de ligne"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Interruz. riga"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Regeleinde"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Radbrytning"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Quebra de Linha"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Rivinvaihto"
+    }
+  ],
+  "type": "staticFragment",
+  "version": 3
+}

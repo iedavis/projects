@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "カート要約",
+    "quantityText": "数量: ",
+    "colorText": "色: ",
+    "sizeText": "サイズ: ",
+    "instockText": "在庫あり",
+    "outofstockText": "在庫切れ",
+    "estimiatedShippingText": "見積出荷: ",
+    "buttonEditCartSummary": "編集",
+    "editCartText": "カートの編集",
+    "seeAllProducts": "すべての製品の表示",
+    "showAll": "すべて表示",
+    "cartSummaryItemLimitText": "最初の__noOfItems__個のカート品目を表示しています"
+  }
+}

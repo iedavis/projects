@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Bestellbestätigung", 
+    "orderDoesNotExist": "Bestellung ist nicht vorhanden.", 
+    "thankyouMsg": "Vielen Dank für Ihre Bestellung am __orderDate__ um __orderTime__.", 
+    "processingMsg": "Diese Bestellung wird nun verarbeitet.",
+    "pendingMsg": "Vielen Dank. Ihre Bestellanforderung ist eingegangen, und die Zahlung ist ausstehend. Sobald die Zahlung genehmigt wurde, wird Ihre Bestellung verarbeitet.",
+    "orderNumberMsg": "Ihre Bestellnummer lautet __orderNumber__.", 
+    "emailMsg": "Eine Bestellbestätigungs-E-Mail mit den Details zur nachstehenden Bestellung wurde an __emailAddress__ gesendet.", 
+    "yourOrderText": "Ihre Bestellung", 
+    "itemText": "Artikel", 
+    "quantityText": "Menge", 
+    "itemTotalText": "Artikel gesamt", 
+    "shippingAddressAndMethodText": "Versandadresse und -art", 
+    "shipToText": "Versand an:", 
+    "shippingMethodText": "Versandart:", 
+    "paymentDetailsText": "Zahlungsdetails", 
+    "cardTypeText": "Kartentyp:", 
+    "cardNumberText": "Kartennummer:", 
+    "billingAddressText": "Rechnungsadresse:",
+    "loginSuccessText": "Ihr Account wurde erstellt. Vielen Dank für die Registrierung.",
+    "loginFailureText": "Fehler: Ihre Bestellung wurde verarbeitet, es gab jedoch ein Problem beim Erstellen Ihres Accounts. Versuchen Sie es erneut.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

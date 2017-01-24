@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Ordreopsummering",
+    "subtotalText": "Subtotal: ",
+    "shippingOptionsText": "Forsendelsesindstillinger",
+    "salesTaxText": "Omsætningsafgift:",
+    "orderTotalText": "Ordretotal:",
+    "placeOrderText": "Afgiv ordre",
+    "scheduleOrderText": "Tidsplanordre",
+    "noShippingText": "Ingen forsendelse",
+    "shippingText": "Forsendelse: __displayName__",    
+    "applicableTaxesText": "Gældende afgifter vil blive beregnet ved udtjekning.",
+    "paymentOptionsText": "Betalingsindstillinger",
+    "checkoutText": "Tjek-ud",
+    "noShippingSelectedText": "Ingen forsendelsesmetode valgt.",
+    "shippingAddressRequired": "Indtast en forsendelsesadresse",
+    "noShippingMethodsText": "Der er ingen forsendelsesmetoder tilgængelige til din destinationsadresse.",
+    "noShippingMethodsForAddressText": "Ingen forsendelsesmetoder er tilgængelige til den valgte adresse",
+    "checkoutErrorMsg": "Sørg for, at du har udfyldt alle obligatoriske felter og rettet evt. ugyldige indtastninger.",
+    "rePricingText":"Genprissætning",
+    "removeLinkText":"fjern",
+    "paymentMessage": "Det næste skærmbillede, som du ser, kan være verificering af betalingskort via kortudstederen.",
+    "includingTaxText": "(inklusiv afgift)",
+    "totalExcludingTaxText": "Total (eksklusiv afgift): ",
+    "paymentMethodNotAvilable": "(Denne betalingsindstilling kan ikke anvendes til tidsplanlagte ordrer).",
+    "selectShippingMethodText": "Vælg forsendelsesmetode"
+  }
+}

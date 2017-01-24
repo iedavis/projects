@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "배송 및 세금 계산(선택 사항)",
+    "cartShippingErrorMsg": "모든 배송 필드에 내용을 입력하고 부적합한 항목을 수정했는지 확인하십시오.",
+    "countryText": "국가",
+    "stateText": "시/도",
+    "zipCodeText": "우편 번호",
+    "countryRequired": "국가는 필수입니다. ",
+    "stateRequired": "시/도는 필수입니다. ",
+    "zipCodeRequired": "우편 번호는 필수입니다. ",
+    "zipCodeInvalid": "부적합한 입력입니다. 적합한 우편 번호를 입력하십시오.",
+    "stateRegionText": "시/도/지역",
+    "noShippingSelectedText": "선택한 배송 방법이 없습니다.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "대상 주소에 사용 가능한 배송 방법이 없습니다.",
+    "noShippingMethodsForAddressText": "입력한 배송 주소에 대한 배송 방법을 검색하지 못함",
+    "fetchingShippingMethodsText": "주소에 대한 배송 방법 가져오는 중",
+    "invalidShippingAddress": "부적합한 배송 주소가 지정되었습니다.",
+    "invalidShippingMethod": "부적합한 배송 방법이 지정되었습니다.",
+    "pricingError" : "배송 및 세금 비용을 계산할 수 없습니다. 배송 주소를 확인하십시오.",
+    "invalidPreviousAddress": "이전에 사용된 배송 주소로 더 이상 배송하지 않습니다.",
+    "shippingMethodNoLongerAvailable": "이전에 선택한 배송 방법은 더 이상 사용할 수 없습니다. 주문을 생성하기 전에 배송 방법을 확인하십시오."
+  }
+}

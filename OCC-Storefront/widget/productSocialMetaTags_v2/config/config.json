@@ -1,0 +1,13 @@
+{
+  "widgetDescriptorName": "productSocialMetaTags",
+  "properties": [
+    {
+      "id": "twitterHandle",
+      "type": "stringType",
+      "name": "twitterHandle",
+      "helpTextResourceId": "twitterHandleHelpText",
+      "labelResourceId": "twitterHandleLabel",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Σύνοψη καλαθιού",
+    "quantityText": "Ποσότητα: ",
+    "colorText": "Χρώμα: ",
+    "sizeText": "Μέγεθος: ",
+    "instockText": "Σε απόθεμα",
+    "outofstockText": "Εξάντληση αποθέματος",
+    "estimiatedShippingText": "Εκτιμώμενη αποστολή: ",
+    "buttonEditCartSummary": "Επεξεργασία",
+    "editCartText": "Επεξεργασία καλαθιού",
+    "seeAllProducts": "Προβολή όλων των προϊόντων",
+    "showAll": "Εμφάνιση όλων",
+    "cartSummaryItemLimitText": "Εμφάνιση αρχικών __noOfItems__ ειδών καλαθιού"
+  }
+}

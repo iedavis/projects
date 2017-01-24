@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Verzending en belasting berekenen (optioneel)",
+    "cartShippingErrorMsg": "Controleer of u alle velden voor verzending hebt ingevuld en eventuele ongeldige invoer hebt gecorrigeerd.",
+    "countryText": "Land",
+    "stateText": "Staat",
+    "zipCodeText": "Postcode",
+    "countryRequired": "Land is verplicht. ",
+    "stateRequired": "Staat is verplicht. ",
+    "zipCodeRequired": "Postcode is verplicht. ",
+    "zipCodeInvalid": "De invoer is ongeldig. Voer een geldige postcode in.",
+    "stateRegionText": "Staat/Regio",
+    "noShippingSelectedText": "Geen verzendmethode geselecteerd",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Er zijn geen verzendmethoden beschikbaar voor uw bestemmingsadres.",
+    "noShippingMethodsForAddressText": "Het ophalen van verzendmethoden voor het ingevoerde bestemmingsadres is mislukt.",
+    "fetchingShippingMethodsText": "De verzendmethoden voor het adres worden opgehaald.",
+    "invalidShippingAddress": "Ongeldig bestemmingsadres opgegeven",
+    "invalidShippingMethod": "Ongeldige verzendmethode opgegeven",
+    "pricingError" : "Verzend- en belastingkosten kunnen niet worden berekend. Controleer uw bestemmingsadres.",
+    "invalidPreviousAddress": "We verzenden niet meer naar uw eerder gebruikte bestemmingsadres.",
+    "shippingMethodNoLongerAvailable": "De eerder geselecteerde verzendmethode is niet meer beschikbaar. Controleer de verzendmethode voordat u uw order plaatst."
+  }
+}

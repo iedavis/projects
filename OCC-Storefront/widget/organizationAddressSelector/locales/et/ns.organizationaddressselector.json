@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Siirdu maksma",
+    "defaultAddressLabel": "Vaikeaadress",
+    "billingAddressText" : "Arveldusaadress",
+    "noAddressesText" : "Salvestatud aadresse pole.",
+    "firstNameText": "Eesnimi",
+    "lastNameText": "Perekonnanimi",
+    "shippingAddressText": "Saatmisaadress",
+    "checkoutErrorMsg": "Kontrollige, kas kõik kohustuslikud väljad on täidetud ja sobimatud kirjed parandatud.",
+    "firstNameRequired": "Eesnimi on kohustuslik. ",
+    "lastNameRequired": "Perekonnanimi on kohustuslik. ",
+    "unsupportedShippingAddressText": "Sellele aadressile ei saa saata.",
+    "invalidBillingAddressText": "Teie saatmisaadressi ei saa arveldusaadressina kasutada. Sisestage arveldusaadress.",
+    "invalidPreviousAddress": "Me ei saada enam teie varem määratud saatmisaadressile."
+  }
+}

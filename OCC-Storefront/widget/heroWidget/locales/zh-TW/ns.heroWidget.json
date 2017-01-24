@@ -1,0 +1,7 @@
+{
+  "resources": {
+	"heroWidget": "Hero",
+	"previousBannerText": "上一個橫幅標題",
+	"nextBannerText": "下一個橫幅標題"
+  }
+}

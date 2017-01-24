@@ -1,0 +1,146 @@
+<div class="container-fluid">
+<form class="form-horizontal">
+  <fieldset id="address-form">
+
+    <!-- Text input-->
+    <div class="form-group">
+      <div class="col-md-4">
+        <input id="orgAddressType" type="text" class="form-control input-md" data-bind="validatableValue: addressType, widgetLocaleText: {value : 'nickNamePlaceHolderText', attr : 'placeholder'}, attr: {title: $data.translate('nickNameText')}">
+      </div>
+      <div class="col-md-4">
+        <span class="text-danger" data-bind="validationMessage: addressType" role="alert"></span>
+      </div>
+    </div>
+
+    <!-- Select Basic -->
+    <div class="form-group">
+      <div class="col-md-4">
+        <span class="text-danger visible-xs" id="org-address-country-error"
+              data-bind="validationMessage: country" role="alert"></span>
+        <div class="control">
+          <select aria-required="true" class="form-control col-md-12"
+                  name="sCountry" id="org-address-country"
+                  data-bind="attr: {title: $data.translate('countryText')}, optionsValue: 'countryCode',
+                             options: countriesList(), optionsText: 'displayName', value: country, optionsCaption: $data.translate('countryText'),
+                             validatableTarget: country, validationElement: country">
+          </select>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <span class="text-danger hidden-xs" id="org-address-country-error"
+              data-bind="validationMessage: country" role="alert"></span>
+      </div>
+    </div>
+
+    <!-- Text input-->
+    <div class="form-group">
+      <div class="col-md-4">
+        <input id="orgCompanyName" name="companyName" type="text" class="form-control input-md" data-bind="validatableValue: companyName, widgetLocaleText: {value : 'companyNameText', attr : 'placeholder'}, attr: {title: $data.translate('companyNameText')}">
+      </div>
+      <div class="col-md-4">
+        <span class="text-danger" data-bind="validationMessage: companyName" role="alert"></span>
+      </div>
+    </div>
+    
+    <!-- Text input-->
+    <div class="form-group">
+      <div class="col-md-4">
+        <input id="orgAddressAddress1" name="address1" type="text" class="form-control input-md" data-bind="validatableValue: address1, widgetLocaleText: {value : 'address1Text', attr : 'placeholder'}, attr: {title: $data.translate('address1Text')}">
+      </div>
+      <div class="col-md-4">
+        <span class="text-danger" data-bind="validationMessage: address1" role="alert"></span>
+      </div>
+    </div>
+
+    <!-- Text input-->
+    <div class="form-group">
+      <div class="col-md-4">
+        <input id="orgAddressAddress2" name="address2" type="text" class="form-control input-md" data-bind="value: address2, widgetLocaleText: {value : 'address2Text', attr : 'placeholder'}, attr: {title: $data.translate('address2Text')}">
+      </div>
+    </div>
+
+    <!-- Text input-->
+    <div class="form-group">
+      <div class="col-md-2 col-xs-6 col-sm-6">
+        <input id="orgAddressCity" name="city" type="text" class="form-control input-md" data-bind="validatableValue: city,widgetLocaleText: {value : 'cityText', attr : 'placeholder'}, attr: {title: $data.translate('cityText')}">
+      </div>
+      <div class="col-md-2 col-xs-6 col-sm-6">
+      <span class="text-danger visible-xs" id="org-address-state-error"
+              data-bind="validationMessage: state" role="alert"></span>
+        <div class="control">
+          <select aria-required="true" class="form-control col-md-12"
+                  name="state" id="org-address-state"
+                  data-bind="enable: stateList().length, attr: {title: $data.translate('stateText')}, optionsValue: 'abbreviation',
+                             options: stateList(), optionsText: 'displayName', optionsCaption: $data.translate('stateText'),
+                             value: state,
+                             validatableTarget: state, validationElement: state">
+          </select>
+        </div>
+      </div>
+      <div class="col-md-6 col-xs-6 col-sm-6">
+        <span class="text-danger" data-bind="validationMessage: city" role="alert"></span>
+      </div>
+      <div class="col-md-6 col-xs-6 col-sm-6">
+        <span class="text-danger hidden-xs" id="org-address-state-error"
+              data-bind="validationMessage: state" role="alert"></span>
+      </div>
+
+      
+    </div>
+
+
+    <!-- Text input-->
+    <div class="form-group">
+      <div class="col-md-2 col-xs-6 col-sm-6">
+        <input id="orgAddressPostalCode" name="postalCode" type="text" class="form-control input-md" data-bind="validatableValue: postalCode, widgetLocaleText: {value : 'postalCodeText', attr : 'placeholder'}, attr: {title: $data.translate('postalCodeNameText')}">
+      </div>
+      <div class="col-md-2 col-xs-6 col-sm-6">
+        <input id="orgAddressPhoneNumber" name="phone" type="text" class="form-control input-md" data-bind="validatableValue: phoneNumber, widgetLocaleText: {value : 'phoneNumberText', attr : 'placeholder'}, attr: {title: $data.translate('phoneNumberNameText')}">
+      </div>
+      <div class="col-md-6 col-xs-6 col-sm-6">
+        <span class="text-danger" data-bind="validationMessage: postalCode" role="alert"></span></div>
+      <div class="col-md-6 col-xs-6 col-sm-6">
+        <span class="text-danger" data-bind="validationMessage: phoneNumber" role="alert"></span></div>
+    </div>
+
+    <!-- Multiple Checkboxes -->
+    <div class="form-group">
+      <div class="col-md-4">
+        <div class="checkbox">
+          <input type="checkbox" name="defaultShippingAddress" id="orgDefaultShippingAddress" data-bind="checked: isDefaultShippingAddress, attr: {title: $data.translate('selectDefaultShippingAddressBtnTitle')}">
+          <label for="orgDefaultShippingAddress" data-bind="attr: {title: $data.translate('selectDefaultShippingAddressBtnTitle')}, widgetLocaleText:'selectDefaultShippingAddressBtnTitle'"></label>
+        </div>
+        <div class="checkbox">
+          <input type="checkbox" name="defaultBillingAddress" id="orgDefaultBillingAddress" data-bind="checked: isDefaultBillingAddress, attr: {title: $data.translate('selectDefaultBillingAddressBtnTitle')}">
+          <label for="orgDefaultBillingAddress" data-bind="attr: {title: $data.translate('selectDefaultBillingAddressBtnTitle')}, widgetLocaleText:'selectDefaultBillingAddressBtnTitle'"></label>
+        </div>
+      </div>
+    </div>
+  </fieldset>
+  <div id="organization-address-save-cancel-control" class="hidden-xs hidden-sm">
+    <button class="cc-button-primary col-sm-2 col-xs-12 pull-right" id="organization-address-save" data-bind="click: handleUpdateOrganizationAddress">
+      <span data-bind="widgetLocaleText: 'buttonSave'"></span>
+    </button>
+    <button class="cc-button-secondary col-sm-2 col-xs-12 pull-right" id="organization-address-cancel" data-bind="click: handleCancelUpdateOrganizationAddress">
+      <span data-bind="widgetLocaleText: 'buttonCancel'"></span>
+    </button>
+  </div>
+  
+  <div class="row">
+        <div id="CC-cancel-button-xs" class="visible-xs visible-sm">
+          <button id="cc-cancel-button-xs" class="cc-button-secondary col-xs-12 col-sm-12" data-bind="click: handleCancelUpdateOrganizationAddress">
+          <span data-bind="widgetLocaleText: 'buttonCancel'"></span>
+          </button>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div id="CC-save-button-xs" class="visible-xs visible-sm">
+          <button id="cc-save-button-xs" class="cc-button-primary col-xs-12 col-sm-12" data-bind="click: handleUpdateOrganizationAddress">
+          <span data-bind="widgetLocaleText: 'buttonSave'"></span>
+          </button>
+        </div>
+     </div>
+  
+</form>
+</div>

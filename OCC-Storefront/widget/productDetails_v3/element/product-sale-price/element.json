@@ -1,0 +1,178 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": ["fontPicker"],
+  "global": false,
+  "inline": true,
+  "previewText": "$xx.xx",
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-sale-price",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ราคาขาย"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Preço de venda"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "销售价格"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Ціна продажу"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Продажна цена"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Soodusmüügihind"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Pārdošanas cena"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Pardavimo kaina"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Salgspris"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Preţ de vânzare"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Prix de solde"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "セール価格"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Razprod. cena"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Цена со скидкой"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Prodajna cijena"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Satış Fiyatı"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Cena wyprzedaży"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "售價"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "세일 가격"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Prodejní cena"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Akciós ár"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Τιμή πώλησης"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Salgspris"
+    },
+    {
+      "description": "Product sale price will be displayed here",
+      "language": "en",
+      "title": "Sale Price"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Продајна цена"
+    },
+    {
+      "description": "[PX][Product sale price will be displayed here ä]",
+      "language": "de",
+      "title": "Verkaufspreis"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Precio de venta"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Prix de vente"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Prezzo vendita"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Verkoopprijs"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Försäljn.pris"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Preço de Venda"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Alennushinta"
+    }
+  ],
+  "type": "subFragment",
+  "version": 3
+}

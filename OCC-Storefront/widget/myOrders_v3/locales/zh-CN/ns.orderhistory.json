@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "我的账户",
+    "orderHistoryText" : "订单历史记录",
+    "backToMyAccount" : "<<返回到我的账户",
+    "historyHeaderOrderDate": "订单日期",    
+    "historyHeaderOrderNumber": "订单编号",
+    "historyHeaderOrderStatus": "订单状态",
+    "historyHeaderOrderTotal": "订单合计",
+    "historyHeaderOrderDetails": "订单详细信息",
+    "listingHeaderScheduledOrderId": "计划标识",
+    "orderDetails": "详细信息"
+  }
+}

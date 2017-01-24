@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "エラー以外の通知のタイムアウトを許可するかどうかを設定します。",
+    "notificationsTimeoutEnabledTextLabel": "タイムアウト有効",
+    "notificationsTimeoutHelpText": "エラー以外の通知のタイムアウト(秒)を設定します。",
+    "notificationsTimeoutTextLabel": "タイムアウト(秒)",
+    "notificationsFixedHelpText": "通知ウィジェットをページの上部に固定するかどうかを設定します。",
+    "notificationsFixedTextLabel": "固定"
+  }
+}

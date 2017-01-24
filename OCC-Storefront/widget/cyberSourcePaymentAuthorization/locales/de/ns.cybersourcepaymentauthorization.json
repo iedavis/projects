@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "102": "(102) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "104": "(104) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "110": "(110) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "150": "(150) Beim Kontaktieren der Bank, die Ihre Kreditkarte ausgestellt hat, ist ein technisches Problem aufgetreten. Versuchen Sie es erneut, oder verwenden Sie eine andere Karte.",
+    "151": "(151) Es ist ein technisches Problem aufgetreten. Versuchen Sie es in Kürze erneut.",
+    "152": "(152) Es ist ein technisches Problem aufgetreten. Versuchen Sie es in Kürze erneut.",
+    "200": "(200) Die von Ihnen angegebene Rechnungsadresse stimmt nicht mit der für Ihre Kreditkarte hinterlegten Adresse überein. Prüfen Sie die Adresse, und versuchen sie es erneut.",
+    "201": "(201) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "202": "(202) Prüfen Sie das Ablaufdatum Ihrer Kreditkarte, und versuchen Sie es erneut.",
+    "203": "(203) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "204": "(204) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "205": "(205) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "207": "(207) Beim Kontaktieren der Bank, die Ihre Kreditkarte ausgestellt hat, ist ein technisches Problem aufgetreten. Versuchen Sie es erneut, oder verwenden Sie eine andere Karte.",
+    "208": "(208) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "209": "(209) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "210": "(210) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "211": "(211) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "221": "(221) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "230": "(230) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "231": "(231) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "232": "(232) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "233": "(233) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "234": "(234) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "520": "(520) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "1000": "(1000) Ihre Kreditkarte wurde abgelehnt. Verwenden Sie eine andere Karte.",
+    "476": "(476) Karte wurde für die Verwendung nicht authentifiziert. Verwenden Sie eine andere Karte.",
+    "paymentErrorText":"Es ist ein technisches Problem aufgetreten. Versuchen Sie es in Kürze erneut.",
+    "processingText": "In Verarbeitung, bitte warten. Klicken Sie nicht auf die Schaltfläche \"Aktualisieren\" oder \"Zurück\", da Ihre Transaktion sonst möglicherweise unterbrochen oder beendet wird."
+  }
+}

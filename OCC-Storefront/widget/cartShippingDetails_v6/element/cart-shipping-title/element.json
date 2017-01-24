@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["cartShippingDetails"],
+  "tag": "cart-shipping-title",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ชื่อการจัดส่งสินค้า"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Título de Entrega"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "配送标题"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Заголовок поставки"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Заглавие на доставка"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Pealkiri Saatmine"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Nosūt. virsraksts"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Siuntimo pavadinimas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Forsendelsestittel"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Titlu expediere"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Titre de l'expédition"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "出荷タイトル"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Naziv pošiljanja"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Заголовок доставки"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Naslov otpreme"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Sevkiyat Başlığı"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Tytuł wysyłki"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "出貨標題"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "배송 제목"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Dodávka - nadpis"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Szállítási cím"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Τίτλος αποστολής"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Forsendelsestitel"
+    },
+    {
+      "description": "Shipping Title",
+      "language": "en",
+      "title": "Shipping Title"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Наслов испоруке"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Versandtitel"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Título de envío"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Titre de l'expédition"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Titolo spedizione"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Titel verzending"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Lev.adress, titel"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Título da Expedição"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Lähetysotsikko"
+    }
+  ],
+  "type": "fragment",
+  "version": 6
+}

@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Til kassen",
+    "emailAddressText" : "E-postadresse",
+    "firstNameText" : "Fornavn",
+    "lastNameText" : "Etternavn",
+    "passwordText" : "Passord",
+    "confirmPasswordText" : "Bekreft passord",
+    "checkoutAsGuestText" : "Betal som gjest",
+    "loginToAccountText" : "Logg på kontoen din",
+    "rememberMeText" : "Jeg ønsker å opprette en konto.",
+    "marketingMailsText" : "Jeg ønsker oppdateringer på e-post.",
+    "checkoutErrorMsg" : "Kontroller at du har fylt ut alle obligatoriske felt og korrigert eventuelle ugyldige registreringer.",
+    "buttonCancel": "Avbryt",
+    "buttonLogin": "Logg på",
+    "checkoutOption": "Angi et betalingsvalg.",
+    "buttonLogout": "Logg av",
+    "welcomeMessage": "Velkommen tilbake!",
+    "registrationMessageText":"Hvis du oppretter en konto, kan du handle raskere, følge med på fremdriften til den gjeldende ordren og sjekke statusen for tidligere ordrer.",
+    "userSessionExpiredErrorMsg" : "Utsjekkingsøkten er utløpt på grunn av inaktivitet. Start utsjekking på nytt."
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Entrez le nombre maximum d'articles à afficher dans le récapitulatif du panier.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Nombre maximum d'articles dans le récapitulatif du panier"
+  }
+}

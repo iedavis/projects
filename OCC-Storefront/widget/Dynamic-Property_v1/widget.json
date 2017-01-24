@@ -1,0 +1,15 @@
+{
+  "availableToAllPages": true,
+  "config": {},
+  "global": false,
+  "globalEnabled": true,
+  "imports": [],
+  "javascript": "dynamicProperty-widget",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Dynamic Property Widget",
+  "source": 101,
+  "version": 1,
+  "widgetFamily": "Dynamic-Property",
+  "widgetType": "Dynamic-Property"
+}

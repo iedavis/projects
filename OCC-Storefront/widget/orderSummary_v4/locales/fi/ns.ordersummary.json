@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Tilausyhteenveto",
+    "subtotalText": "Välisumma: ",
+    "discountText": "Alennukset*: ",
+    "shippingOptionsText": "Lähetysvalinnat",
+    "changeText": "muuta",
+    "salesTaxText": "Alv: ",
+    "orderTotalText": "Tilaus yhteensä: ",
+    "placeOrderText": "Tee tilaus",
+    "noShippingText": "Ei lähetystä",
+    "applicableTaxesText": "Sovellettavat verot lasketaan kassalla.",
+    "paymentOptionsText": "Maksuvaihtoehdot",
+    "checkoutText": "Kassa",
+    "noShippingSelectedText": "Lähetystapaa ei ole valittu.",
+    "shippingAddressRequired":"Kirjoita lähetysosoite ",
+    "shippingText": "Lähetys: __displayName__ ",
+    "noShippingMethodsText": "Lähetystapoja ei ole käytettävissä",
+    "checkoutErrorMsg": "Varmista, että olet täyttänyt kaikki pakolliset kentät ja korjannut virheelliset kohdat.",
+    "removeLinkText": "poisto",
+    "rePricingText":"Uudelleenhinnoittelu",
+    "totalExcludingTaxText": "Yhteensä (ilman veroa): ",
+    "includingTaxText": "(sisältää veron)"
+  }
+}

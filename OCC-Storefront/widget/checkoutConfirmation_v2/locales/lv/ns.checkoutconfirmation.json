@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Pasūtījuma apstiprinājums", 
+    "orderDoesNotExist": "Pasūtījums nepastāv.", 
+    "thankyouMsg": "Pateicamies par jūsu pasūtījumu __orderDate__ plkst. __orderTime__.", 
+    "processingMsg": "Šis pasūtījums šobrīd tiek apstrādāts.",
+    "pendingMsg": "Paldies! Jūsu pasūtījuma pieprasījums ir saņemts un maksājums gaida apstiprināšanu. Tiklīdz maksājums tiks apstiprināts, pasūtījums tiks apstrādāts.",
+    "orderNumberMsg": "Jūsu pasūtījuma numurs ir __orderNumber__.", 
+    "emailMsg": "Uz __emailAddress__ nosūtīts pasūtījumu apstiprinošs e-pasta ziņojums ar tālāk minētā pasūtījuma datiem.", 
+    "yourOrderText": "Jūsu pasūtījums", 
+    "itemText": "Prece", 
+    "quantityText": "Daudzums", 
+    "itemTotalText": "Preces kopā", 
+    "shippingAddressAndMethodText": "Nosūtīšanas adrese un veids", 
+    "shipToText": "Sūtīt uz:", 
+    "shippingMethodText": "Sūtīšanas veids:", 
+    "paymentDetailsText": "Informācija par maksājumu", 
+    "cardTypeText": "Kartes tips:", 
+    "cardNumberText": "Kartes numurs:", 
+    "billingAddressText": "Norēķinu adrese:",
+    "loginSuccessText": "Jūsu konts ir izveidots. Paldies par reģistrēšanos!",
+    "loginFailureText": "Kļūda! Jūsu pasūtījums ir apstrādāts, bet radās problēma, izveidojot jūsu kontu. Lūdzu, mēģiniet vēlreiz.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

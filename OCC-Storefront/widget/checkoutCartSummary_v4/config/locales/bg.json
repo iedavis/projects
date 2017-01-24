@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Въведете максималния брой артикули, които искате да се показват в обобщената количка.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Максимален брой артикули в обобщена количка"
+  }
+}

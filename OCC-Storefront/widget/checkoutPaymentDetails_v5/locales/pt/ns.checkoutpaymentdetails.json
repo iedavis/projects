@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Detalhes do Pagamento",
+  "paymentMethod": "Método de Pagamento",
+  "paypalText": "A maneira mais segura e fácil para pagar.", 
+  "paymentDetailsError": "Certifique-se de que preencheu todos os campos obrigatórios e corrigiu quaisquer entradas inválidas.",
+  "paymentMethodNotAvilable": "(Esta opção de pagamento não pode ser utilizada para encomendas programadas.)",
+  
+  "nameOnCardLabel": "Nome no Cartão",
+  "nameOnCardPlaceholder": "Nome no Cartão",
+  "nameOnCardRequired": "O Nome no Cartão é obrigatório.",
+  "nameOnCardInvalid": "O Nome no Cartão é inválido.",
+  
+  "cardTypeLabel": "Tipo de Cartão",
+  "cardTypePlaceholder": "Tipo de Cartão",
+  "cardTypeRequired": "O Tipo de Cartão é obrigatório.",
+  "cardTypeInvalid": "O Tipo de Cartão é inválido.",
+  
+  "cardNumberLabel": "Número do Cartão",
+  "cardNumberPlaceholder": "Número do Cartão",
+  "cardNumberRequired": "O Número do Cartão é obrigatório.",
+  "cardNumberMaxLength":"Entrada inválida. Não exceda o máximo de __maxLength__ caracteres permitidos.",
+  "cardNumberInvalid": "Número do cartão inválido, tente novamente.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "O CVV é obrigatório.",
+  "cardCVVInvalid": "O CVV é inválido.",
+  "cardCVVWhatsThis": "O que é isto?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Os últimos 3 dígitos encontrados na faixa da assinatura do seu cartão.",
+  "cardCVVNumberInvalid": "Entrada inválida, introduza apenas números.",
+  "cardCVVNumberMaxLength": "Entrada inválida. Não exceda o máximo de 4 caracteres permitidos.",
+  "cardCVVNumberMinLength": "Entrada inválida. Introduza um mínimo de 3 caracteres.",
+  
+  "endMonthLabel": "Expiração (Mês)",
+  "endMonthPlaceholder": "Expiração (Mês)",
+  "endMonthRequired": "O mês de expiração do cartão é obrigatório.",
+  "endMonthInvalid": "Mês/ano de expiração inválidos, tente novamente.",
+  
+  "endYearLabel": "Expiração (Ano)",
+  "endYearPlaceholder": "Expiração (Ano)",
+  "endYearRequired": "O ano de expiração do cartão é obrigatório.",
+  "endYearInvalid": "Mês/ano de expiração inválidos, tente novamente.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

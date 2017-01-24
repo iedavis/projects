@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Puslapis nerastas",
+    "error404" : "Klaida Nr. 404:",
+    "pageNotFoundText" : "Gali būti, kad neteisingai įvedėte adresą arba puslapis buvo atnaujintas ar panaikintas.",
+    "lnkHome" : "Pagrindinis",
+    "lnkBack" : "Atgal"            
+  }
+}

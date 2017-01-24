@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Skatīt mazāk...",
+    "seeMoreText" : "Skatīt vairāk...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Precizēt pēc",
+    "clearAllRefinementsText" : "Notīrīt visus precizējumus",
+    "guidedNavigationHeader" : "Vadītās navigācijas galvene",
+    "doneText" : "Gatavs",
+    "expandText" : "Izvērst",
+    "collapseText" : "Sakļaut",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Ielādēta pārklātā vadītā navigācija"
+  }
+}

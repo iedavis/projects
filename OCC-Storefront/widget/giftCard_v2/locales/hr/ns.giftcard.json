@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Plati darovnom karticom",
+    "giftCardNumberText": "Broj darovne kartice",
+    "giftCardPinText": "PIN darovne kartice",
+    "giftCardApplyText": "Primijeni darovnu karticu", 
+    "giftCardApplyingText": "Primjenjuje se darovna kartica", 
+    "displayGiftCardDetailsText" : "Plati darovnom karticom",
+    "duplicateGiftcardErrMsg":"Darovna kartica već je primijenjena."
+  }
+}

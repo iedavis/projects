@@ -1,0 +1,22 @@
+{
+  "config": {
+    "maxDimensionCount": "10",
+    "maxRefinementCount": "10"
+  },
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "overlayedguidednavigation",
+  "imports": [],
+  "javascript": "overlayed-guided-navigation",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Overlayed Guided Navigation",
+  "pageTypes": [
+    "category",
+    "searchResults"
+  ],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "overlayedGuidedNavigation",
+  "widgetType": "overlayedGuidedNavigation"
+}

@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "自分のアカウント",
+    "orderHistoryText" : "オーダー履歴",
+    "backToMyAccount" : "<< 自分のアカウントに戻る",
+    "historyHeaderOrderDate": "オーダー日",    
+    "historyHeaderOrderNumber": "オーダー番号",
+    "historyHeaderOrderStatus": "オーダー・ステータス",
+    "historyHeaderOrderTotal": "オーダー合計",
+    "historyHeaderOrderDetails": "オーダー詳細",
+    "listingHeaderScheduledOrderId": "スケジュールID",
+    "orderDetails": "詳細"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Pojedinosti plaćanja",
+  "paymentMethod": "Način plaćanja",
+  "paypalText": "Sigurniji, jednostavniji način plaćanja.", 
+  "paymentDetailsError": "Provjerite jeste li ispunili sva obavezna polja te jeste li ispravili sve pogrešne unose.",
+  "paymentMethodNotAvilable": "(Ova opcija plaćanja ne može se koristiti za planirane narudžbe.)",
+  
+  "nameOnCardLabel": "Ime na kartici",
+  "nameOnCardPlaceholder": "Ime na kartici",
+  "nameOnCardRequired": "Ime na kartici je obavezno.",
+  "nameOnCardInvalid": "Ime na kartici nije valjano.",
+  
+  "cardTypeLabel": "Vrsta kartice",
+  "cardTypePlaceholder": "Vrsta kartice",
+  "cardTypeRequired": "Vrsta kartice je obavezna.",
+  "cardTypeInvalid": "Vrsta kartice nije valjana.",
+  
+  "cardNumberLabel": "Broj kartice",
+  "cardNumberPlaceholder": "Broj kartice",
+  "cardNumberRequired": "Broj kartice je obavezan.",
+  "cardNumberMaxLength":"Unos nije valjan. Nemojte prekoračiti maksimalan broj znakova: __maxLength__",
+  "cardNumberInvalid": "Broj kartice nije valjan; pokušajte ponovo.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV je obavezan.",
+  "cardCVVInvalid": "CVV nije valjan.",
+  "cardCVVWhatsThis": "Što je ovo?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Zadnje 3 znamenke kontrolnog broja kartice.",
+  "cardCVVNumberInvalid": "Unos nije valjan; unesite isključivo brojeve.",
+  "cardCVVNumberMaxLength": "Unos nije valjan. Unos ne smije prekoračivati 4 znaka.",
+  "cardCVVNumberMinLength": "Unos nije valjan. Unesite najmanje 3 znaka.",
+  
+  "endMonthLabel": "Istječe (mjesec)",
+  "endMonthPlaceholder": "Istječe (mjesec)",
+  "endMonthRequired": "Mjesec isteka kartice je obavezan.",
+  "endMonthInvalid": "Mjesec/godina isteka nije valjana, pokušajte ponovo.",
+  
+  "endYearLabel": "Istječe (godina)",
+  "endYearPlaceholder": "Istječe (godina)",
+  "endYearRequired": "Godina isteka kartice je obavezna.",
+  "endYearInvalid": "Mjesec/godina isteka nije valjana, pokušajte ponovo.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

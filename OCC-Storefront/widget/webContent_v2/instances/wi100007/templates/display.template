@@ -1,0 +1,39 @@
+<!-- ko setContextVariable: {name: 'elementConfig', value: {"100001": {
+  "border": {
+    "borderColor": "#000000",
+    "borderWidth": 0
+  },
+  "horizontalAlignment": {"horizontalAlignment": "center"},
+  "id": "100001",
+  "image": {
+    "altText": "promotion",
+    "altTextId": "100001",
+    "isProductImage": false,
+    "src": "/file/v7149310979533958767/general/homepageimage.png",
+    "titleText": "promotion",
+    "titleTextId": "100002",
+    "zoomEnabled": false
+  },
+  "padding": {
+    "paddingBottom": "0",
+    "paddingLeft": "0",
+    "paddingRight": "0",
+    "paddingTop": "0"
+  }
+}}} --><!-- /ko -->
+
+<!-- oc layout: panels -->
+  <div class="row">
+
+    <div class="oc-panel col-md-12" data-oc-id="panel-0-0">
+
+      <!-- oc section: image -->
+<span data-bind="element: 'image',id: '100001'"></span>
+
+      <!-- /oc -->
+
+    </div>
+
+
+  </div>
+  <!-- /oc -->

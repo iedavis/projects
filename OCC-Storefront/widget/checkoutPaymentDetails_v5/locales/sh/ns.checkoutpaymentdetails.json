@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Detalji o plaćanju",
+  "paymentMethod": "Način plaćanja",
+  "paypalText": "Bezbedniji i jednostavniji način plaćanja.", 
+  "paymentDetailsError": "Uverite se da ste popunili sva obavezna polja i da ste ispravili sve nevažeće unose.",
+  "paymentMethodNotAvilable": "(Ova opcija plaćanja ne može da se koristi za planirane narudžbine.)",
+  
+  "nameOnCardLabel": "Ime na kartici",
+  "nameOnCardPlaceholder": "Ime na kartici",
+  "nameOnCardRequired": "Ime na kartici je obavezno.",
+  "nameOnCardInvalid": "Ime na kartici je nevažeće.",
+  
+  "cardTypeLabel": "Tip kartice",
+  "cardTypePlaceholder": "Tip kartice",
+  "cardTypeRequired": "Tip kartice je obavezan.",
+  "cardTypeInvalid": "Tip kartice je nevažeći.",
+  
+  "cardNumberLabel": "Broj kartice",
+  "cardNumberPlaceholder": "Broj kartice",
+  "cardNumberRequired": "Broj kartice je obavezan.",
+  "cardNumberMaxLength":"Nevažeći unos. Ne prekoračujte maksimalni broj znakova, koji iznosi __maxLength__.",
+  "cardNumberInvalid": "Broj kartice je nevažeći, pokušajte ponovo.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV je obavezan.",
+  "cardCVVInvalid": "CVV je nevažeći.",
+  "cardCVVWhatsThis": "Šta je ovo?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Poslednje 3 cifre koje se nalaze na traci za potpis na kartici.",
+  "cardCVVNumberInvalid": "Unos nije važeći, dozvoljen je samo unos brojeva.",
+  "cardCVVNumberMaxLength": "Unos nije važeći. Ne prekoračujte maksimalni broj znakova, koji iznosi 4.",
+  "cardCVVNumberMinLength": "Unos nije važeći. Unesite najmanje 3 znaka.",
+  
+  "endMonthLabel": "Ističe (mesec)",
+  "endMonthPlaceholder": "Ističe (mesec)",
+  "endMonthRequired": "Mesec isteka kartice je obavezan.",
+  "endMonthInvalid": "Mesec/godina isteka su nevažeći, pokušajte ponovo.",
+  
+  "endYearLabel": "Ističe (godina)",
+  "endYearPlaceholder": "Ističe (godina)",
+  "endYearRequired": "Godina isteka kartice je obavezna.",
+  "endYearInvalid": "Mesec/godina isteka su nevažeći, pokušajte ponovo.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

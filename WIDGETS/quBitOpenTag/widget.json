@@ -1,0 +1,8 @@
+{
+  "name": "QuBit OpenTag",
+  "imports": [],
+  "global": true,
+  "globalEnabled": true,
+  "editableTemplate": false,
+  "config": {"openTagScript": "//d3c3cq33003psk.cloudfront.net/opentag-71157-528403.js"}
+}

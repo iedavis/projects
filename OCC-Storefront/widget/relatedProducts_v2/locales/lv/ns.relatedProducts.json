@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Iepriekšējie attēli",
+    "nextImageText" : "Nākamie attēli",
+    "onSaleText": "Pārdošana",
+    "salePriceText": "Pārdošanas cena",
+    "listPriceText": "Saraksta cena",
+    "relatedProductsText": "Saistītie produkti"
+  }
+}

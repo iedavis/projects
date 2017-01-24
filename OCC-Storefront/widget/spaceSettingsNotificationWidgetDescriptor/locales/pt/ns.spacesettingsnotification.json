@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Definições de Notificação de Correio Eletrónico",
+    "spaceSettingsNotificationIntroText" : "Gostaria de receber:",
+    "spaceSettingsCommentNotificationTxt" : "Notificações de produtos e comentários",
+    "spaceSettingsNewMemberNotificationTxt" : "Notificações de novos membros",
+    "spaceSettingsSaveTxt" : "Gravar",
+    "spaceSettingsCancelTxt" : "Cancelar",
+    "spaceSettingsSaveErrorTxt" : "Ocorrência de problema na gravação das alterações das definições de notificação.",
+    "spaceSettingsSaveSuccessTxt" : "As definições de notificação foram atualizadas e gravadas.",
+    "spaceSettingsOnText" : "Sim",
+    "spaceSettingsOffText" : "Não",
+    "spaceSettingsNotificationEnableHelpText" : "Selecione \"Quero obter atualizações por correio eletrónico\" na página \"A Minha Conta\" para ativar as notificações da lista de preferências."
+  }
+}

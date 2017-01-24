@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Resumen de orden", 
+    "orderDoesNotExist": "La orden no existe.", 
+    "subTotalText": "Subtotal:", 
+    "salesTaxText": "Impuesto sobre ventas:", 
+    "orderTotalText": "Total de órdenes:", 
+    "continueShoppingText": "Continuar compra",
+    "delimiter": ":",
+    "includingTaxText": "(impuesto incluido)",
+    "totalExcludingTaxText": "Total (impuesto excluido): "
+  }
+}

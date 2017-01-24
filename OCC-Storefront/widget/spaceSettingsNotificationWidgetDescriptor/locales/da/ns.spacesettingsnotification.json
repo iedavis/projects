@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Indstillinger for e-mailunderretning",
+    "spaceSettingsNotificationIntroText" : "Jeg vil gerne modtage:",
+    "spaceSettingsCommentNotificationTxt" : "Kommentar- og produktunderretninger",
+    "spaceSettingsNewMemberNotificationTxt" : "Nye medlemsunderretninger",
+    "spaceSettingsSaveTxt" : "Gem",
+    "spaceSettingsCancelTxt" : "Annuller",
+    "spaceSettingsSaveErrorTxt" : "Der var et problem med at gemme dine ændringer af underretningsindstillinger.",
+    "spaceSettingsSaveSuccessTxt" : "Dine underretningsindstillinger er opdateret og gemt.",
+    "spaceSettingsOnText" : "Ja",
+    "spaceSettingsOffText" : "Nej",
+    "spaceSettingsNotificationEnableHelpText" : "Vælg \"Jeg vil modtage e-mailopdateringer\" på siden \"Min konto\" for at aktivere underretninger om ønskeliste."
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "102": "(102) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "104": "(104) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "110": "(110) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "150": "(150) Ett tekniskt problem inträffade när den utfärdande banken för kreditkortet kontaktades. Försök igen eller använd ett annat kort.",
+    "151": "(151) Ett tekniskt problem inträffade. Försök igen om en liten stund.",
+    "152": "(152) Ett tekniskt problem inträffade. Försök igen om en liten stund.",
+    "200": "(200) Fakturaadressen som du har angett matchar inte adressen som registrerats för kreditkortet. Kontrollera adressen och försök igen.",
+    "201": "(201) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "202": "(202) Kontrollera kortets sista giltighetsdatum och försök igen.",
+    "203": "(203) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "204": "(204) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "205": "(205) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "207": "(207) Ett tekniskt problem inträffade när den utfärdande banken för kreditkortet kontaktades. Försök igen eller använd ett annat kort.",
+    "208": "(208) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "209": "(209) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "210": "(210) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "211": "(211) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "221": "(221) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "230": "(230) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "231": "(231) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "232": "(232) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "233": "(233) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "234": "(234) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "520": "(520) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "1000": "(1000) Ditt kreditkort har avslagits. Använd ett annat kort.",
+    "476": "(476) Kortet har inte autentiserats för användning. Använd ett annat kort.",
+    "paymentErrorText":"Ett tekniskt problem inträffade. Försök igen om en liten stund.",
+    "processingText": "Bearbetar, vänta. Klicka inte på knappen Förnya eller Bakåt eftersom transaktionen då kan avbrytas eller avslutas."
+  }
+}

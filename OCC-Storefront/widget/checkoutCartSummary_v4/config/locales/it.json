@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Inserire il numero massimo di articoli da visualizzare nel Riepilogo carrello.",
+    "checkoutCartSummaryItemsToDisplayLabel": "N. massimo articoli in Riepilogo carrello"
+  }
+}

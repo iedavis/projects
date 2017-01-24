@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Indtast det maksimale antal varer, som du vil vise i opsummeringen af vogn.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Maks. varer i opsummering af vogn"
+  }
+}

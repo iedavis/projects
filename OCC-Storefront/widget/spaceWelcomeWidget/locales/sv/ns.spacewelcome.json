@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Börja handla tillsammans!",
+    "welcomePageLoginText": "Logga in",
+    "welcomePageCreateAccountText": "Skapa konto",
+    "welcomePageTitle": "Välkommen till Önskelistor!",
+    "welcomePageSubtitle": "Anslut dig till Önskelistor utan kostnad, och ta del av det roliga!",
+    "welcomePageBulletText1": "Spara, organisera och få information om produkter som intresserar dig.",
+    "welcomePageBulletText2": "Dela dina önskelistor med familj och vänner och bestäm tillsammans vad ni ska handla.",
+    "welcomePageBulletText3": "Använd önskelistor för att hitta och diskutera bra presenter. Köp aldrig mer fel present!",
+    "welcomePageOrText": "eller"
+  }
+}

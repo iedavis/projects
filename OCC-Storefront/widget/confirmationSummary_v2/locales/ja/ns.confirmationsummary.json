@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "オーダー要約", 
+    "orderDoesNotExist": "オーダーが存在しません。", 
+    "subTotalText": "小計:", 
+    "salesTaxText": "売上税:", 
+    "orderTotalText": "オーダー合計:", 
+    "continueShoppingText": "ショッピングを続ける",
+    "delimiter": ":",
+    "includingTaxText": "(内税)",
+    "totalExcludingTaxText": "合計(外税): "
+  }
+}

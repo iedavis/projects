@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Ρυθμίσεις ειδοποιήσεων ηλεκτρονικού ταχυδρομείου",
+    "spaceSettingsNotificationIntroText" : "Θέλω να λαμβάνω:",
+    "spaceSettingsCommentNotificationTxt" : "Σχόλια και ειδοποιήσεις προϊόντων",
+    "spaceSettingsNewMemberNotificationTxt" : "ειδοποιήσεις νέων μελών",
+    "spaceSettingsSaveTxt" : "Αποθήκευση",
+    "spaceSettingsCancelTxt" : "Άκυρο",
+    "spaceSettingsSaveErrorTxt" : "Παρουσιάστηκε ένα πρόβλημα με την αποθήκευση των αλλαγών για τις ρυθμίσεις ειδοποιήσεων.",
+    "spaceSettingsSaveSuccessTxt" : "Οι ρυθμίσεις ειδοποιήσεων ενημερώθηκαν και αποθηκεύτηκαν.",
+    "spaceSettingsOnText" : "Ναι",
+    "spaceSettingsOffText" : "Όχι",
+    "spaceSettingsNotificationEnableHelpText" : "Επιλέξτε \"Θέλω να λαμβάνω ενημερώσεις ηλεκτρονικού ταχυδρομείου\" στη σελίδα \"Ο λογαριασμός μου\" για την ενεργοποίηση των ειδοποιήσεων λίστας επιθυμιών."
+  }
+}

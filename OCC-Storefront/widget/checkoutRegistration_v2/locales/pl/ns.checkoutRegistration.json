@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Kasa",
+    "emailAddressText" : "Adres e-mail",
+    "firstNameText" : "Imię",
+    "lastNameText" : "Nazwisko",
+    "passwordText" : "Hasło",
+    "confirmPasswordText" : "Potwierdzenie hasła",
+    "checkoutAsGuestText" : "Kasa - gość",
+    "loginToAccountText" : "Logowanie na konto użytkownika",
+    "rememberMeText" : "Chcę utworzyć konto",
+    "marketingMailsText" : "Chcę otrzymywać powiadomienia pocztą e-mail.",
+    "checkoutErrorMsg" : "Proszę upewnić się, że wypełniono wszystkie obowiązkowe pola i poprawiono ewentualne nieprawidłowe wpisy.",
+    "buttonCancel": "Anuluj",
+    "buttonLogin": "Zaloguj",
+    "checkoutOption": "Wybór opcji kasy.",
+    "buttonLogout": "Wyloguj",
+    "welcomeMessage": "Zapraszamy",
+    "registrationMessageText":"Utworzenie konta umożliwia szybsze zakupy, śledzenie postępu bieżącego zamówienia i sprawdzanie statusu poprzednich zamówień.",
+    "userSessionExpiredErrorMsg" : "Sesja kasy wygasła z powodu braku aktywności. Proszę ponownie uruchomić kasę."
+  }
+}

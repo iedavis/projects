@@ -1,0 +1,19 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "orderdetails",
+  "imports": [
+    "orderDetails",
+    "shippingCountries"
+  ],
+  "javascript": "order-details",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Order Details",
+  "pageTypes": ["orderDetails"],
+  "source": 100,
+  "version": 4,
+  "widgetFamily": "orderDetails",
+  "widgetType": "orderDetails"
+}

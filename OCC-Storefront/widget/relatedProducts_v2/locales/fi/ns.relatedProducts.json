@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Edelliset kuvat",
+    "nextImageText" : "Seuraavat kuvat",
+    "onSaleText": "Alennusmyynti",
+    "salePriceText": "Alennushinta",
+    "listPriceText": "Listahinta",
+    "relatedProductsText": "Liittyvät tuotteet"
+  }
+}

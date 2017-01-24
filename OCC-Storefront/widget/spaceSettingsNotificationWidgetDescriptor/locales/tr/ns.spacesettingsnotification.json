@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "E-posta Bildirim Ayarları",
+    "spaceSettingsNotificationIntroText" : "Bunları almak istiyorum:",
+    "spaceSettingsCommentNotificationTxt" : "Açıklama ve ürün bildirimleri",
+    "spaceSettingsNewMemberNotificationTxt" : "Yeni üye bildirimleri",
+    "spaceSettingsSaveTxt" : "Kaydet",
+    "spaceSettingsCancelTxt" : "İptal",
+    "spaceSettingsSaveErrorTxt" : "Bildirim ayarları değişiklikleriniz kaydedilirken bir sorun oluştu.",
+    "spaceSettingsSaveSuccessTxt" : "Bildirim ayarlarınız güncellendi ve kaydedildi.",
+    "spaceSettingsOnText" : "Evet",
+    "spaceSettingsOffText" : "Hayır",
+    "spaceSettingsNotificationEnableHelpText" : "İstek listesi bildirimlerini etkinleştirmek için \"Hesabım\" sayfasında \"E-posta güncellemeleri almak istiyorum\" seçeneğini belirleyin."
+  }
+}

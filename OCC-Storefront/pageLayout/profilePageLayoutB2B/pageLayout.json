@@ -1,0 +1,130 @@
+{
+  "defaultPage": false,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "id": "profileStack",
+      "type": "body",
+      "widgets": [],
+      "structure": "stack",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "profile",
+  "isLayoutDisplayable": true,
+  "displayName": "Profile Layout for B2B",
+  "translations": [
+    {
+      "name": "Мой профиль",
+      "language": "ru"
+    },
+    {
+      "name": "โปรไฟล์ของฉัน",
+      "language": "th"
+    },
+    {
+      "name": "Meu perfil",
+      "language": "pt_BR"
+    },
+    {
+      "name": "Profilim",
+      "language": "tr"
+    },
+    {
+      "name": "Mój profil",
+      "language": "pl"
+    },
+    {
+      "name": "我的配置文件",
+      "language": "zh_CN"
+    },
+    {
+      "name": "我的設定檔",
+      "language": "zh_TW"
+    },
+    {
+      "name": "내 프로파일",
+      "language": "ko"
+    },
+    {
+      "name": "Můj profil",
+      "language": "cs"
+    },
+    {
+      "name": "Saját profil",
+      "language": "hu"
+    },
+    {
+      "name": "Το προφίλ μου",
+      "language": "el"
+    },
+    {
+      "name": "Min profil",
+      "language": "da"
+    },
+    {
+      "name": "My Profile",
+      "language": "en"
+    },
+    {
+      "name": "Mein Profil",
+      "language": "de"
+    },
+    {
+      "name": "Mi perfil",
+      "language": "es"
+    },
+    {
+      "name": "Mon profil",
+      "language": "fr"
+    },
+    {
+      "name": "Profilo pers.",
+      "language": "it"
+    },
+    {
+      "name": "Mijn profiel",
+      "language": "nl"
+    },
+    {
+      "name": "Min profil",
+      "language": "sv"
+    },
+    {
+      "name": "Perfil Pessoal",
+      "language": "pt"
+    },
+    {
+      "name": "Oma profiili",
+      "language": "fi"
+    },
+    {
+      "name": "自分のプロファイル",
+      "language": "ja"
+    }
+  ]
+}

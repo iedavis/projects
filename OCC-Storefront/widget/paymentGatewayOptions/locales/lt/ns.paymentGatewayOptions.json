@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Šliuzui apdorojant mokėjimą įvyko klaida. Bandykite dar kartą.",
+    "paymentDeclinedMsg": "Mokėjimas atmestas. Bandykite dar kartą.",
+    "paymentExpiredMsg": "Mokėjimo galiojimo laikas pasibaigė. Bandykite dar kartą.",
+    "paymentErrorMsg": "Apdorojant mokėjimą įvyko klaida. Bandykite dar kartą.",
+    "payByCashText": "Mokėti grynaisiais",
+    "invoicePaymentMsg": "Pateikti sąskaitos užklausą",
+    "purchaseOrderNumberMsg":"Pirkimo užsakymo numeris"
+  }
+}

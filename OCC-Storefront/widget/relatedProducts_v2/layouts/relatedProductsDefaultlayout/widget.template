@@ -1,0 +1,16 @@
+<!-- ko if: relatedProductGroups() && (relatedProductGroups().length > 0) -->
+<div class="templateRegion" id="cc-relatedProducts" data-oc-id="cc-relatedProducts">
+<!-- oc layout: panels -->
+<div class="row">
+  <div class="oc-panel panel-1 col-md-12" data-oc-id="panel-1">
+       <!-- oc section: related-products-name -->
+        <h3 data-bind="element: 'related-products-name'"></h3>
+      <!-- /oc -->
+      <!-- oc section: related-products-carousel -->
+        <div data-bind="element: 'related-products-carousel', visible: relatedProdsloaded()"></div>
+      <!-- /oc -->
+  </div>
+  </div>
+  <!-- /oc -->
+</div>
+<!-- /ko -->

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Overzicht wagen",
+    "quantityText": "Hoeveelheid: ",
+    "colorText": "Kleur: ",
+    "sizeText": "Grootte: ",
+    "instockText": "Op voorraad",
+    "outofstockText": "Niet op voorraad",
+    "estimiatedShippingText": "Geschatte verzending: ",
+    "buttonEditCartSummary": "Bewerken",
+    "editCartText": "Winkelwagen bewerken",
+    "seeAllProducts": "Alle producten bekijken",
+    "showAll": "Alles tonen",
+    "cartSummaryItemLimitText": "Eerste __noOfItems__ artikelen in winkelwagen tonen"
+  }
+}

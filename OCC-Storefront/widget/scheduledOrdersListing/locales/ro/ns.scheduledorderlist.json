@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Comenzi programate",
+    "backToMyAccount" : "<< Înapoi la contul propriu",
+    "scheduledOrderName" : "Nume",
+    "frequency": "Frecvenţă",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Stare",
+    "nextShipDate": "Următoarea comandă",
+    "lastScheduledRun": "Ultima comandă",
+    "scheduledOrderDetails": "Detalii comandă",
+    "orderDetails": "Detalii",
+    "action": "Acţiune",
+    "createdDate":"Data creării",
+    "editOrder": "Editare",
+    "deleteOrder": "Ştergere",
+    "deleteSuccessMsg":"Ştergere reuşită",
+    "myAccount" : "Cont propriu"
+  }
+}

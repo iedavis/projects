@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Εμφάνιση λιγότερων...",
+    "seeMoreText" : "Εμφάνιση περισσότερων...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Περιορισμός κατά",
+    "clearAllRefinementsText" : "Απαλοιφή όλων των περιορισμών",
+    "guidedNavigationHeader" : "Κεφαλίδα κατευθυνόμενης πλοήγησης",
+    "doneText" : "Ολοκληρώθηκε",
+    "expandText" : "Ανάπτυξη",
+    "collapseText" : "Σύμπτυξη",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Φορτώθηκε επικαλυπτόμενη καθοδηγούμενη πλοήγηση"
+  }
+}

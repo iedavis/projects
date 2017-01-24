@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Attēlojuma atribūti",
+    "numberOfRelatedProductsHelpText": "Ievadiet saistīto produktu skaitu, kas jāparāda karuselī",
+    "numberOfRelatedProductsTextLabel": "Saistīto produktu skaits",
+    "displayNameOfRelatedProductsTextLabel": "Produkta nosaukums",
+    "displayPriceOfRelatedProductsTextLabel": "Cena"
+  }
+}

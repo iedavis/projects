@@ -1,0 +1,19 @@
+{
+    "widgetDescriptorName": "MetaLocator",
+    "properties": [
+        {
+            "id": "metaLocatorId",
+            "type": "stringType",
+            "name": "metaLocatorId",
+            "labelResourceId": "metaLocatorIdLabel",
+            "helpTextResourceId": "metaLocatorIdHelpText"
+        },
+        {
+            "id": "frameHeight",
+            "type": "stringType",
+            "name": "frameHeight",
+            "labelResourceId": "frameHeightLabel",
+            "helpTextResourceId": "frameHeightHelpText"
+        }
+    ]
+}

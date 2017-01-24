@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Adicione um código de promoção ou de fidelidade",
+  "promoCode": "Inserir Código da Promoção",
+  "promoCodeAriaLabelText": "Inserir Código da Promoção",
+  "buttonApplyCodeText": "Aplicar Código",
+  "buttonApplyingCodeText": "Aplicando Código",
+  "couponDetailsError": "Foi encontrado um problema nos detalhes do seu cupom.",
+  "promoCodeRequired": "O código do cupom não pode estar vazio",
+  "duplicateCoupon": "Código já aplicado."
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Suplanuoti užsakymai",
+    "backToMyAccount" : "<< Atgal į paskyrą",
+    "scheduledOrderName" : "Pavadinimas",
+    "frequency": "Dažnis",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Būsena",
+    "nextShipDate": "Kitas užsakymas",
+    "lastScheduledRun": "Paskutinis užsakymas",
+    "scheduledOrderDetails": "Užsakymo išsami informacija",
+    "orderDetails": "Išsami informacija",
+    "action": "Veiksmas",
+    "createdDate":"Sukūrimo data",
+    "editOrder": "Redaguoti",
+    "deleteOrder": "Naikinti",
+    "deleteSuccessMsg":"Sėkmingai panaikinta",
+    "myAccount" : "Mano paskyra"
+  }
+}

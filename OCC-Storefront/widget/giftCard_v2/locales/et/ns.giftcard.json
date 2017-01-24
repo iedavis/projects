@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Maksa kinkekaardiga",
+    "giftCardNumberText": "Kinkekaardi number",
+    "giftCardPinText": "Kinkekaardi PIN-kood",
+    "giftCardApplyText": "Rakenda kinkekaart", 
+    "giftCardApplyingText": "Kinkekaardi rakendamine", 
+    "displayGiftCardDetailsText" : "Maksa kinkekaardiga",
+    "duplicateGiftcardErrMsg":"Kinkekaarti on juba kasutatud."
+  }
+}

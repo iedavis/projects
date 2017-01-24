@@ -1,0 +1,8 @@
+{
+  "config": {},
+  "id": "wi100010",
+  "name": "new custom prop widget",
+  "templatePath": "/templates/display-wi100010.template",
+  "usingCodeView": true,
+  "usingLessCodeView": false
+}

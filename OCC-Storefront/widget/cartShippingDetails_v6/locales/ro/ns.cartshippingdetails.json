@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Calculare costuri de expediere şi taxe (opţional)",
+    "cartShippingErrorMsg": "Asiguraţi-vă că aţi completat toate câmpurile de expediere şi aţi corectat toate intrările nevalide.",
+    "countryText": "Ţară",
+    "stateText": "Stat",
+    "zipCodeText": "Cod poştal",
+    "countryRequired": "Ţara este obligatorie.",
+    "stateRequired": "Statul este obligatoriu.",
+    "zipCodeRequired": "Codul poştal este obligatoriu.",
+    "zipCodeInvalid": "Intrare nevalidă. Introduceţi un cod poştal valid.",
+    "stateRegionText": "Stat/Regiune",
+    "noShippingSelectedText": "Nu a fost selectată nicio metodă de expediere.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Nu există nicio metodă de expediere disponibilă pt. adresa destinaţie.",
+    "noShippingMethodsForAddressText": "Eşec la preluarea metodelor de expediere pt. adresa de expediere introdusă",
+    "fetchingShippingMethodsText": "Se preiau metodele de expediere pt. adresă",
+    "invalidShippingAddress": "Adresa de expediere specificată nu este validă.",
+    "invalidShippingMethod": "Metoda de expediere specificată nu este validă.",
+    "pricingError" : "Nu au putut fi calculate costurile de expediere şi taxele. Verificaţi adresa de expediere.",
+    "invalidPreviousAddress": "Nu mai expediem către adresa dvs. de expediere utilizată anterior.",
+    "shippingMethodNoLongerAvailable": "Metoda de expediere selectată anterior nu mai este disponibilă. Verificaţi metoda de expediere pt. a plasa comanda."
+  }
+}

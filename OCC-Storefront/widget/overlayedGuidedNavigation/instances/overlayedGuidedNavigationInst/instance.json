@@ -1,0 +1,10 @@
+{
+  "config": {
+    "maxDimensionCount": "10",
+    "maxRefinementCount": "10"
+  },
+  "id": "overlayedGuidedNavigationInst",
+  "name": "Overlayed Guided Navigation Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

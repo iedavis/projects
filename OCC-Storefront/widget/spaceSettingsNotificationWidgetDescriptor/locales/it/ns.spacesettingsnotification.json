@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Impostazioni notifica e-mail",
+    "spaceSettingsNotificationIntroText" : "Si desidera ricevere:",
+    "spaceSettingsCommentNotificationTxt" : "Notifiche commenti e prodotti",
+    "spaceSettingsNewMemberNotificationTxt" : "Notifiche di nuovi membri",
+    "spaceSettingsSaveTxt" : "Salva",
+    "spaceSettingsCancelTxt" : "Annulla",
+    "spaceSettingsSaveErrorTxt" : "Problema durante il salvataggio delle modifiche alle impostazioni di notifica.",
+    "spaceSettingsSaveSuccessTxt" : "Le impostazioni di notifica sono state aggiornate e salvate.",
+    "spaceSettingsOnText" : "Sì",
+    "spaceSettingsOffText" : "No",
+    "spaceSettingsNotificationEnableHelpText" : "Seleziona \"Desidero ricevere gli aggiornamenti via e-mail\" nella pagina \"Account personale\" per abilitare le notifiche per l'elenco dei desiderata."
+  }
+}

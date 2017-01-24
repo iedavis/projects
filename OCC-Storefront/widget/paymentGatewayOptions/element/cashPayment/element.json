@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["paymentGatewayOptions"],
+  "tag": "cashPayment",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "การชำระด้วยเงินสด"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Pagamento à vista"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "现金付款"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Готівковий платіж"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": " Плащане в брой"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Sularahamakse"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Sk. naudas maks."
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Mok. grynaisiais"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Kontantbetaling"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Plată în numerar"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Paiement espèces"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "現金支払"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Gotovinsko plačilo"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": " Платеж наличными"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Plaćanje gotovinom"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Nakit Ödeme"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Płatność gotówkowa"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "現金付款"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "현금 결제"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Platba v hotovosti"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Készpénzkifizetés"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Πληρωμή με μετρητά"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Kontantbetaling"
+    },
+    {
+      "description": "Cash Payment",
+      "language": "en",
+      "title": "Cash Payment"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Готовинско плаћање"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Barzahlung"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Pago en efectivo"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Règlement espèces"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Pagamento contanti"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Contante betaling"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Kontantbetalning"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Pagto. Numerário"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Käteismaksu"
+    }
+  ],
+  "type": "fragment",
+  "version": 2
+}

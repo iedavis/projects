@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Потврда наруџбине", 
+    "orderDoesNotExist": "Наруџбина не постоји.", 
+    "thankyouMsg": "Хвала вам за наруџбину послату __orderDate__ у __orderTime__.", 
+    "processingMsg": "Наруџбина се обрађује.",
+    "pendingMsg": "Хвала вам, примили смо ваш захтев за наруџбину, а уплата је на чекању. чим се уплата одобри, обрадићемо наруџбину.",
+    "orderNumberMsg": "Ваш број наруџбине је __orderNumber__.", 
+    "emailMsg": "Е-порука са потврдом наруџбине која садржи детаље наруџбине послата је на е-адресу __emailAddress__.", 
+    "yourOrderText": "Ваша наруџбина", 
+    "itemText": "Артикал", 
+    "quantityText": "Количина", 
+    "itemTotalText": "Укупно за артикал", 
+    "shippingAddressAndMethodText": "Адреса и начин испоруке", 
+    "shipToText": "Отпремити на:", 
+    "shippingMethodText": "Начин испоруке:", 
+    "paymentDetailsText": "Детаљи о плаћању", 
+    "cardTypeText": "Тип картице:", 
+    "cardNumberText": "Број картице:", 
+    "billingAddressText": "Адреса фактурисања:",
+    "loginSuccessText": "Налог је креиран. Хвала вам на регистрацији.",
+    "loginFailureText": "Грешка: Наруџбина је обрађена, али је дошло до проблема приликом креирања налога. Покушајте поново.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

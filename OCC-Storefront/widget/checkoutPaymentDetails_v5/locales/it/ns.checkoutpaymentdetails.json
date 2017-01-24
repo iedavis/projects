@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Dettagli pagamento",
+  "paymentMethod": "Metodo di pagamento",
+  "paypalText": "Il modo più facile e sicuro per pagare.", 
+  "paymentDetailsError": "Assicurarsi di aver completato tutti i campi obbligatori e correggere eventuali inserimenti non validi.",
+  "paymentMethodNotAvilable": "(Questa opzione di pagamento non può essere utilizzata per gli ordini schedulati.)",
+  
+  "nameOnCardLabel": "Nome sulla carta",
+  "nameOnCardPlaceholder": "Nome sulla carta",
+  "nameOnCardRequired": "Il nome sulla carta è obbligatorio.",
+  "nameOnCardInvalid": "Il nome sulla carta non è valido.",
+  
+  "cardTypeLabel": "Tipo di carta",
+  "cardTypePlaceholder": "Tipo di carta",
+  "cardTypeRequired": "Il tipo di carta è obbligatorio.",
+  "cardTypeInvalid": "Il tipo di carta non è valido.",
+  
+  "cardNumberLabel": "Numero carta",
+  "cardNumberPlaceholder": "Numero carta",
+  "cardNumberRequired": "Il numero di carta è obbligatorio.",
+  "cardNumberMaxLength":"Inserimento non valido. Non superare il valore massimo di __maxLength__ caratteri.",
+  "cardNumberInvalid": "Numero di carta non valido. Riprovare.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV obbligatorio.",
+  "cardCVVInvalid": "CVV non valido.",
+  "cardCVVWhatsThis": "Descrizione",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Le ultime 3 cifre nello spazio per la firma sulla carta.",
+  "cardCVVNumberInvalid": "Inserimento non valido. Inserire solo numeri.",
+  "cardCVVNumberMaxLength": "Inserimento non valido. Non superare il valore massimo di 4 caratteri consentiti.",
+  "cardCVVNumberMinLength": "Inserimento non valido. Specificare almeno 3 caratteri.",
+  
+  "endMonthLabel": "Scadenza (mese)",
+  "endMonthPlaceholder": "Scadenza (mese)",
+  "endMonthRequired": "Il mese di scadenza della carta è obbligatorio.",
+  "endMonthInvalid": "Mese/anno di scadenza non valido. Riprovare.",
+  
+  "endYearLabel": "Scadenza (anno)",
+  "endYearPlaceholder": "Scadenza (anno)",
+  "endYearRequired": "L'anno di scadenza della carta è obbligatorio.",
+  "endYearInvalid": "Mese/anno di scadenza non valido. Riprovare.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

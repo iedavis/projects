@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Betalingsdetaljer",
+  "paymentMethod": "Betalingsmetode",
+  "paypalText": "Den mere sikre og lettere måde at betale på.", 
+  "paymentDetailsError": "Sørg for, at du har udfyldt alle obligatoriske felter og rettet evt. ugyldige indtastninger.",
+  "paymentMethodNotAvilable": "(Denne betalingsindstilling kan ikke anvendes til tidsplanlagte ordrer).",
+  
+  "nameOnCardLabel": "Navn på kort",
+  "nameOnCardPlaceholder": "Navn på kort",
+  "nameOnCardRequired": "Navn på kort er obligatorisk.",
+  "nameOnCardInvalid": "Navn på kort er ugyldigt.",
+  
+  "cardTypeLabel": "Korttype",
+  "cardTypePlaceholder": "Korttype",
+  "cardTypeRequired": "Korttype er obligatorisk.",
+  "cardTypeInvalid": "Korttype er ugyldig.",
+  
+  "cardNumberLabel": "Kortnr.",
+  "cardNumberPlaceholder": "Kortnr.",
+  "cardNumberRequired": "Kortnummer er obligatorisk.",
+  "cardNumberMaxLength":"Ugyldig indtastning. Overskrid ikke maksimum på __maxLength__ tegn.",
+  "cardNumberInvalid": "Ugyldigt kortnummer. Prøv igen.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV er obligatorisk.",
+  "cardCVVInvalid": "CVV er ugyldig.",
+  "cardCVVWhatsThis": "Hvad er dette?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "De sidste 3 cifre på kortets signaturstrip.",
+  "cardCVVNumberInvalid": "Ugyldig indtastning. Indtast kun tal.",
+  "cardCVVNumberMaxLength": "Ugyldig indtastning. Overskrid ikke maksimum på 4 tilladte tegn.",
+  "cardCVVNumberMinLength": "Ugyldig indtastning. Indtast mindst 3 tegn.",
+  
+  "endMonthLabel": "Udløber (måned)",
+  "endMonthPlaceholder": "Udløber (måned)",
+  "endMonthRequired": "Kort udløber måned er obligatorisk.",
+  "endMonthInvalid": "Ugyldig udløber måned/år. Prøv igen.",
+  
+  "endYearLabel": "Udløber (år)",
+  "endYearPlaceholder": "Udløber (år)",
+  "endYearRequired": "Kort udløber år er obligatorisk.",
+  "endYearInvalid": "Ugyldig udløber måned/år. Prøv igen.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

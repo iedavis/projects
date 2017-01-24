@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Marker for at anvende typografibaseret liste.",
+    "shouldUseStyleBasedTextLabel": "Brug typografibasisliste",
+    "listTypeHelpText": "Vælg, om widgetinstansen er en produktliste eller listetype med søgeresultater.",
+    "listTypeTextLabel": "Listetype",
+    "productLabel" : "Produkt",
+    "searchLabel" : "Søgning",
+    "productListingFieldsRequiredHelpText": "Indtast en liste over felter, der skal medtages i responsen, adskilt af kommaer. Indstillingen af felter gælder kun for produktlister gennem kategorinavigation og ikke for søgeresultater.",
+    "productListingFieldsRequiredLabel": "Felter",
+    "productsPerPageRequiredHelpText": "Indtast det antal produkter, der skal vises på en side.",
+    "productsPerPageRequiredLabel": "Produkter pr. side",
+    "blockSizeRequiredHelpText": "Indtast det antal produkter, der skal indlæses pr. anmodning. Indstillingen af blokstørrelsen gælder kun for produktlister gennem kategorinavigation og ikke for søgeresultater.",
+    "blockSizeRequiredLabel": "Blokstørrelse"
+  }
+}

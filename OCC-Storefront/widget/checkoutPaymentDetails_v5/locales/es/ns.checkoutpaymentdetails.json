@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Detalles de pago",
+  "paymentMethod": "Método de pago",
+  "paypalText": "El método de pago más seguro y sencillo.", 
+  "paymentDetailsError": "Asegúrese de que ha completado todos los campos obligatorios y que ha corregido las entradas no válidas.",
+  "paymentMethodNotAvilable": "(Esta opción de pago no se puede utilizar para órdenes programadas.)",
+  
+  "nameOnCardLabel": "Titular de tarjeta",
+  "nameOnCardPlaceholder": "Titular de tarjeta",
+  "nameOnCardRequired": "El titular de la tarjeta es obligatorio.",
+  "nameOnCardInvalid": "El titular de la tarjeta no es válido.",
+  
+  "cardTypeLabel": "Tipo de tarjeta",
+  "cardTypePlaceholder": "Tipo de tarjeta",
+  "cardTypeRequired": "El tipo de tarjeta es obligatorio.",
+  "cardTypeInvalid": "El tipo de tarjeta no es válido.",
+  
+  "cardNumberLabel": "Número de tarjeta",
+  "cardNumberPlaceholder": "Número de tarjeta",
+  "cardNumberRequired": "El número de tarjeta es obligatorio.",
+  "cardNumberMaxLength":"Entrada no válida. No exceda el máximo de __maxLength__ caracteres.",
+  "cardNumberInvalid": "El número de tarjeta no es válido. Vuelva a intentarlo.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "El CVV es obligatorio.",
+  "cardCVVInvalid": "El CVV no es válido.",
+  "cardCVVWhatsThis": "¿Qué es?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Los 3 últimos dígitos de la banda de la firma de la tarjeta.",
+  "cardCVVNumberInvalid": "Entrada no válida. Introduzca solo números.",
+  "cardCVVNumberMaxLength": "Entrada no válida. No exceda el máximo permitido de 4 caracteres.",
+  "cardCVVNumberMinLength": "Entrada no válida. Introduzca un mínimo de 3 caracteres.",
+  
+  "endMonthLabel": "Caducidad (mes)",
+  "endMonthPlaceholder": "Caducidad (mes)",
+  "endMonthRequired": "El mes de caducidad de la tarjeta es obligatorio.",
+  "endMonthInvalid": "El mes/año de caducidad no son válidos. Vuelva a intentarlo.",
+  
+  "endYearLabel": "Caducidad (año)",
+  "endYearPlaceholder": "Caducidad (año)",
+  "endYearRequired": "El año de caducidad de la tarjeta es obligatorio.",
+  "endYearInvalid": "El mes/año de caducidad no son válidos. Vuelva a intentarlo.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

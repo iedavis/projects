@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "الصور السابقة",
+    "nextImageText" : "الصور التالية",
+    "onSaleText": "البيع",
+    "salePriceText": "سعر البيع",
+    "listPriceText": "السعر بالقائمة",
+    "relatedProductsText": "المنتجات المرتبطة"
+  }
+}

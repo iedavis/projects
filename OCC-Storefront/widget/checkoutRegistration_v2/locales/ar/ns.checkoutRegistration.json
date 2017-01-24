@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "الدفع",
+    "emailAddressText" : "عنوان البريد الإلكتروني",
+    "firstNameText" : "الاسم الأول",
+    "lastNameText" : "اسم العائلة",
+    "passwordText" : "كلمة السر",
+    "confirmPasswordText" : "تأكيد كلمة السر",
+    "checkoutAsGuestText" : "دفع كزائر",
+    "loginToAccountText" : "تسجيل الدخول إلى حسابك",
+    "rememberMeText" : "أريد تكوين حساب.",
+    "marketingMailsText" : "أريد الحصول على التحديثات بالبريد الإلكتروني.",
+    "checkoutErrorMsg" : "الرجاء التأكد من إتمام ملء كل الحقول الإلزامية وتصحيح أية إدخالات غير صالحة.",
+    "buttonCancel": "إلغاء",
+    "buttonLogin": "تسجيل الدخول",
+    "checkoutOption": "تحديد خيار الدفع الخاص بك.",
+    "buttonLogout": "تسجيل الخروج",
+    "welcomeMessage": "مرحبًا بك مرة أخرى!",
+    "registrationMessageText":"يتيح لك تكوين حساب إمكانية التسوق بصورة أسرع ومواكبة تقدم الطلب الحالي الخاص بك وكذلك التحقق من مواقف الطلبات السابقة.",
+    "userSessionExpiredErrorMsg" : "انتهت صلاحية جلسة الدفع الخاصة بك نظرًا لعدم القيام بأي نشاط. الرجاء إعادة تشغيل خيار الدفع."
+  }
+}

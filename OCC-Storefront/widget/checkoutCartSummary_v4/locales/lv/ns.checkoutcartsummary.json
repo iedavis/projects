@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Groza kopsavilkums",
+    "quantityText": "Daudzums:",
+    "colorText": "Krāsa:",
+    "sizeText": "Lielums:",
+    "instockText": "Ir krājumā",
+    "outofstockText": "Nav krājumā",
+    "estimiatedShippingText": "Aprēķinātā sūtīšana:",
+    "buttonEditCartSummary": "Rediģēt",
+    "editCartText": "Rediģēt grozu",
+    "seeAllProducts": "Skatīt visus produktus",
+    "showAll": "Rādīt visu",
+    "cartSummaryItemLimitText": "Rāda sākotnējos __noOfItems__ groza vienumus"
+  }
+}

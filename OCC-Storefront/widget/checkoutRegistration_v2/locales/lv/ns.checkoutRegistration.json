@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Norēķināšanās",
+    "emailAddressText" : "E-pasta adrese",
+    "firstNameText" : "Vārds",
+    "lastNameText" : "Uzvārds",
+    "passwordText" : "Parole",
+    "confirmPasswordText" : "Apstiprināt paroli",
+    "checkoutAsGuestText" : "Norēķināties viesa statusā",
+    "loginToAccountText" : "Pieteikties savā kontā",
+    "rememberMeText" : "Vēlos izveidot kontu.",
+    "marketingMailsText" : "Vēlos saņemt atjauninājumus e-pastā.",
+    "checkoutErrorMsg" : "Lūdzu, pārliecinieties, vai aizpildījāt visus obligātos laukus un izlabojāt visus nederīgos ierakstus.",
+    "buttonCancel": "Atcelt",
+    "buttonLogin": "Pieteikties",
+    "checkoutOption": "Izvēlieties savu norēķināšanās opciju.",
+    "buttonLogout": "Atteikties",
+    "welcomeMessage": "Esiet sveicināts vēlreiz!",
+    "registrationMessageText":"Izveidojot kontu, jūs varēsiet iepirkties ātrāk, sekot sava pašreizējā pasūtījuma apstrādes gaitai un pārbaudīt iepriekšējo pasūtījumu statusu.  ",
+    "userSessionExpiredErrorMsg" : "Jūsu norēķināšanās sesijai neaktivitātes dēļ ir beidzies derīgums. Lūdzu, sāciet norēķināšanos vēlreiz."
+  }
+}

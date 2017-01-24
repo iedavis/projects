@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "显示属性",
+    "numberOfRelatedProductsHelpText": "输入要显示在转盘中的相关产品数",
+    "numberOfRelatedProductsTextLabel": "相关产品的数量",
+    "displayNameOfRelatedProductsTextLabel": "产品名称",
+    "displayPriceOfRelatedProductsTextLabel": "价格"
+  }
+}

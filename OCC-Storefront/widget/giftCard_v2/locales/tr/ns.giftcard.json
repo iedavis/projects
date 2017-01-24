@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Hediye Kartıyla Öde",
+    "giftCardNumberText": "Hediye Kartı Numarası",
+    "giftCardPinText": "Hediye Kartı PIN'i",
+    "giftCardApplyText": "Hediye Kartını Uygula", 
+    "giftCardApplyingText": "Hediye Kartı Uygulanıyor", 
+    "displayGiftCardDetailsText" : "Hediye Kartıyla Öde",
+    "duplicateGiftcardErrMsg":"Hediye kartı zaten uygulandı."
+  }
+}

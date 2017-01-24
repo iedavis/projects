@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Adjon hozzá egy promóciós vagy hűségkódot.",
+  "promoCode": "Adja meg a promóció kódját.",
+  "promoCodeAriaLabelText": "Adja meg a promóció kódját.",
+  "buttonApplyCodeText": "Kód alkalmazása",
+  "buttonApplyingCodeText": "Kód alkalmazása",
+  "couponDetailsError": "Probléma merült fel a kupon adataival.",
+  "promoCodeRequired": "A kupon kódja nem lehet üres.",
+  "duplicateCoupon": "A kódot már alkalmazták."
+  }
+}

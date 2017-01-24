@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Voer het maximum aantal artikelen in dat u wilt weergeven in het Overzicht wagen.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Maximum aantal artikelen in Overzicht wagen"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Laske lähetyskulut ja vero (valinnainen)",
+    "cartShippingErrorMsg": "Varmista, että olet täyttänyt kaikki lähetyksen kentät ja korjannut mahdolliset virheelliset kohdat.",
+    "countryText": "Maa",
+    "stateText": "Osavaltio",
+    "zipCodeText": "Postinumero",
+    "countryRequired": "Maa on pakollinen tieto. ",
+    "stateRequired": "Osavaltio on pakollinen tieto. ",
+    "zipCodeRequired": "Postinumero on pakollinen tieto. ",
+    "zipCodeInvalid": "Virheellinen syöte. Syötä kelvollinen postinumero.",
+    "stateRegionText": "Osavaltio/alue",
+    "noShippingSelectedText": "Lähetystapaa ei ole valittu.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Lähetystapoja ei ole käytettävissä kohdeosoitetta varten.",
+    "noShippingMethodsForAddressText": "Lähetystapojen nouto syötettyä lähetysosoitetta varten epäonnistui",
+    "fetchingShippingMethodsText": "Noudetaan lähetystapoja osoitteelle",
+    "invalidShippingAddress": "Määritetty virheellinen lähetysosoite.",
+    "invalidShippingMethod": "Määritetty virheellinen lähetystapa.",
+    "pricingError" : "Lähetyskuluja ja veroa ei voi laskea. Tarkista lähetysosoitteesi.",
+    "invalidPreviousAddress": "Lähetys aiemmin käytettyyn osoitteeseen ei enää ole mahdollinen.",
+    "shippingMethodNoLongerAvailable": "Aiemmin valittu lähetystapa ei ole enää käytettävissä. Tarkista lähetystapa, ennen kuin teet tilauksen."
+  }
+}

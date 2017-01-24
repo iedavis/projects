@@ -1,0 +1,15 @@
+<!-- ko if: initialized() && $data.hasOwnProperty('cashPayment') -->
+<!-- ko if: cashPayment.isCashPaymentEnabled() && !order().isPaypalVerified() -->
+  <div id="CC-paymentGatewayOptions-cashPayment-checkboxField" class="row col-sm-12">
+      <div class=" checkbox">
+        <label for="CC-paymentGatewayOptions-cashPayment"> <input
+          type="checkbox" name="payByCash"
+          data-bind="checked: order().isCashPayment, 
+          disable: cart().items().length == 0 || cart().giftCards().length > 0"
+          id="CC-paymentGatewayOptions-cashPayment" class="checkbox">
+          <span data-bind="widgetLocaleText:'payByCashText'"></span>
+        </label>
+      </div>
+  </div>
+<!-- /ko -->
+<!-- /ko -->

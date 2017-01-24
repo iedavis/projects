@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "การตั้งค่าการแจ้งทางอีเมล์",
+    "spaceSettingsNotificationIntroText" : "ฉันต้องการรับ:",
+    "spaceSettingsCommentNotificationTxt" : "การแจ้งความเห็นและผลิตภัณฑ์",
+    "spaceSettingsNewMemberNotificationTxt" : "การแจ้งสมาชิกใหม่",
+    "spaceSettingsSaveTxt" : "บันทึก",
+    "spaceSettingsCancelTxt" : "ยกเลิก",
+    "spaceSettingsSaveErrorTxt" : "มีปัญหาในการบันทึกการเปลี่ยนแปลงการตั้งค่าการแจ้งของคุณ",
+    "spaceSettingsSaveSuccessTxt" : "อัปเดตและบันทึกการตั้งค่าการแจ้งของคุณแล้ว",
+    "spaceSettingsOnText" : "ใช่",
+    "spaceSettingsOffText" : "ไม่",
+    "spaceSettingsNotificationEnableHelpText" : "เลือก \"ฉันต้องการรับข้อมูลอัปเดตทางอีเมล์\" บนเพจ \"บัญชีของฉัน\" เพื่อเปิดใช้การแจ้งลิสต์สิ่งที่ต้องการ"
+  }
+}

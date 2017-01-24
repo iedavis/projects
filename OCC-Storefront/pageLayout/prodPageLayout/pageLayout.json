@@ -1,0 +1,192 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "productSocialMetaTagsInst_v2",
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["productDetailsInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["relatedProductsInst_v2"],
+      "structure": "flat",
+      "height": 100
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["productAddToSpaceWidgetInst_v2"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "product",
+  "isLayoutDisplayable": true,
+  "displayName": "Product Layout",
+  "translations": [
+    {
+      "name": "ผลิตภัณฑ์",
+      "language": "th"
+    },
+    {
+      "name": "Produto",
+      "language": "pt_BR"
+    },
+    {
+      "name": "产品",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Продукт",
+      "language": "uk"
+    },
+    {
+      "name": "Продукт",
+      "language": "bg"
+    },
+    {
+      "name": "Toode",
+      "language": "et"
+    },
+    {
+      "name": "Produkts",
+      "language": "lv"
+    },
+    {
+      "name": "Produktas",
+      "language": "lt"
+    },
+    {
+      "name": "Produkt",
+      "language": "no"
+    },
+    {
+      "name": "Produs",
+      "language": "ro"
+    },
+    {
+      "name": "Produit",
+      "language": "fr_CA"
+    },
+    {
+      "name": "製品",
+      "language": "ja"
+    },
+    {
+      "name": "Izdelek",
+      "language": "sl"
+    },
+    {
+      "name": "Продукт",
+      "language": "ru"
+    },
+    {
+      "name": "Proizvod",
+      "language": "hr"
+    },
+    {
+      "name": "Ürün",
+      "language": "tr"
+    },
+    {
+      "name": "Produkt",
+      "language": "pl"
+    },
+    {
+      "name": "產品",
+      "language": "zh_TW"
+    },
+    {
+      "name": "제품",
+      "language": "ko"
+    },
+    {
+      "name": "Produkt",
+      "language": "cs"
+    },
+    {
+      "name": "Termék",
+      "language": "hu"
+    },
+    {
+      "name": "Προϊόν",
+      "language": "el"
+    },
+    {
+      "name": "Produkt",
+      "language": "da"
+    },
+    {
+      "name": "Product",
+      "language": "en"
+    },
+    {
+      "name": "Производ",
+      "language": "sr"
+    },
+    {
+      "name": "Produkt",
+      "language": "de"
+    },
+    {
+      "name": "المنتج",
+      "language": "ar"
+    },
+    {
+      "name": "Producto",
+      "language": "es"
+    },
+    {
+      "name": "Produit",
+      "language": "fr"
+    },
+    {
+      "name": "Prodotto",
+      "language": "it"
+    },
+    {
+      "name": "Product",
+      "language": "nl"
+    },
+    {
+      "name": "Produkt",
+      "language": "sv"
+    },
+    {
+      "name": "Produto",
+      "language": "pt"
+    },
+    {
+      "name": "Tuote",
+      "language": "fi"
+    }
+  ]
+}

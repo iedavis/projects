@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Set whether the timeout on non-error notifications is allowed.",
+    "notificationsTimeoutEnabledTextLabel": "Timeout Enabled",
+    "notificationsTimeoutHelpText": "Set the timeout of non-error notifications (in secs).",
+    "notificationsTimeoutTextLabel": "Timeout(in secs)",
+    "notificationsFixedHelpText": "Set whether notification widget should be fixed to the top of the page.",
+    "notificationsFixedTextLabel": "Fixed"
+  }
+}

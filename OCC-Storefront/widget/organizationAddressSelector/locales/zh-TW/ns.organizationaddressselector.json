@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "結帳",
+    "defaultAddressLabel": "預設地址",
+    "billingAddressText" : "帳單地址",
+    "noAddressesText" : "未儲存任何地址。",
+    "firstNameText": "名字",
+    "lastNameText": "姓氏",
+    "shippingAddressText": "出貨地址",
+    "checkoutErrorMsg": "請確認您已完成所有必要欄位，且已更正所有無效的項目。",
+    "firstNameRequired": "「名字」為必填。",
+    "lastNameRequired": "「姓氏」為必填。",
+    "unsupportedShippingAddressText": "無法出貨至此地址。",
+    "invalidBillingAddressText": "您的出貨地址無法作為帳單地址。請輸入帳單地址。",
+    "invalidPreviousAddress": "我們不再出貨至您先前使用的出貨地址。"
+  }
+}

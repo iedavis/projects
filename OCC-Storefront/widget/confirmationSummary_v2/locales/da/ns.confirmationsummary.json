@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Ordreopsummering", 
+    "orderDoesNotExist": "Ordre findes ikke.", 
+    "subTotalText": "Subtotal:", 
+    "salesTaxText": "Omsætningsafgift:", 
+    "orderTotalText": "Ordretotal:", 
+    "continueShoppingText": "Fortsæt shopping",
+    "delimiter": ":",
+    "includingTaxText": "(inklusiv afgift)",
+    "totalExcludingTaxText": "Total (eksklusiv afgift): "
+  }
+}

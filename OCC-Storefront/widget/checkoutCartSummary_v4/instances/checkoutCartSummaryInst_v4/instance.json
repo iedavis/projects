@@ -1,0 +1,10 @@
+{
+  "config": {
+    "giftItemImageURL": "/img/GWP_GiftWithPurchase.jpg",
+    "noOfItemsToDisplay": "5"
+  },
+  "id": "checkoutCartSummaryInst_v4",
+  "name": "Cart Summary Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": true
+}

@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Lehte ei leitud",
+    "error404" : "Tõrge 404. ",
+    "pageNotFoundText" : "Võimalik, et olete sisestanud vale aadressi või leht on värskendatud või kustutatud.",
+    "lnkHome" : "Avaleht",
+    "lnkBack" : "Tagasi"            
+  }
+}

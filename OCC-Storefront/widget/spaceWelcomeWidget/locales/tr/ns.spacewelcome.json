@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Bugün beraber alışveriş yapmaya başlayın!",
+    "welcomePageLoginText": "Oturum Aç",
+    "welcomePageCreateAccountText": "Hesap Oluştur",
+    "welcomePageTitle": "İstek Listeleri'ne Hoş Geldiniz!",
+    "welcomePageSubtitle": "İstek Listeleri'ne ücretsiz katılın ve eğlenceyi paylaşın!",
+    "welcomePageBulletText1": "İlgilendiğiniz ürünleri kaydedin, organize edin ve geribildirim alın.",
+    "welcomePageBulletText2": "İstek listelerini ailenizle ve arkadaşlarınızla paylaşın ve alışveriş kararlarını beraber verin.",
+    "welcomePageBulletText3": "Hediyeleri keşfetmek ve üzerinde birlikte düşünmek için istek listelerini kullanın. Bir daha asla yanlış hediye almayın!",
+    "welcomePageOrText": "veya"
+  }
+}

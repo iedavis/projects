@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Du sökte efter __searchterm__. Inga produkter hittades.",
+    "titleText": "Sök",
+    "searchFailedText": "Sökningen kan inte utföras för tillfället."
+  }
+}

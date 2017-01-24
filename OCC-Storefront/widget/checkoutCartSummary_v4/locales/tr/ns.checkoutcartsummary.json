@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Alşvrş Spt Özeti",
+    "quantityText": "Miktar:",
+    "colorText": "Renk: ",
+    "sizeText": "Boyut:",
+    "instockText": "Stokta",
+    "outofstockText": "Stok Dışı",
+    "estimiatedShippingText": "Tahmini Sevkiyat: ",
+    "buttonEditCartSummary": "Düzenle",
+    "editCartText": "Sepeti Düzenle",
+    "seeAllProducts": "Tüm Ürünleri Göster",
+    "showAll": "Tümünü Göster",
+    "cartSummaryItemLimitText": "Alışveriş sepetindeki ilk __noOfItems__ öğe gösteriliyor"
+  }
+}

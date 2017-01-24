@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "เพิ่มรหัสการส่งเสริมการขายหรือโปรแกรมตอบแทนลูกค้า",
+  "promoCode": "ป้อนรหัสการส่งเสริมการขาย",
+  "promoCodeAriaLabelText": "ป้อนรหัสการส่งเสริมการขาย",
+  "buttonApplyCodeText": "ใช้รหัส",
+  "buttonApplyingCodeText": "กำลังใช้รหัส",
+  "couponDetailsError": "พบปัญหาเกี่ยวกับรายละเอียดคูปองของคุณ",
+  "promoCodeRequired": "รหัสคูปองต้องไม่ว่างเปล่า",
+  "duplicateCoupon": "มีการใช้รหัสแล้ว"
+  }
+}

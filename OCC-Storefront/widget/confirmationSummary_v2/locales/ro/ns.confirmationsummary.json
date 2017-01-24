@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Sumar comandă", 
+    "orderDoesNotExist": "Comanda nu există.", 
+    "subTotalText": "Subtotal:", 
+    "salesTaxText": "Taxă pe vânzări:", 
+    "orderTotalText": "Total comandă:", 
+    "continueShoppingText": "Continuare cumpărături",
+    "delimiter": ":",
+    "includingTaxText": "(inclusiv taxe)",
+    "totalExcludingTaxText": "Total (Exclusiv taxe): "
+  }
+}

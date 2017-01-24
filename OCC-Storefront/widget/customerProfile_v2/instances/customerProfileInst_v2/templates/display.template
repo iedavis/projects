@@ -1,0 +1,13 @@
+<!-- ko if: (user().loggedIn() || user().isUserSessionExpired()) -->
+<div id="CC-customerAccount">
+  <h2 data-bind="widgetLocaleText:'myAccountText'" id="CC-customerAccount-title"></h2>
+  <br/>
+  <div id="CC-customerAccount-details">
+    <div class="row">
+    </div>
+    <div id="CC-customerProfile-profileDetails-section" class="row cc-customerProfile-profile-details" 
+        data-bind="template: { name: templateAbsoluteUrl('/templates/customerProfileDetails.template') , templateUrl: ''}">
+    </div>
+  </div>
+</div>
+<!-- /ko -->

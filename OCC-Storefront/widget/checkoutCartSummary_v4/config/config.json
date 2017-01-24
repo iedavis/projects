@@ -1,0 +1,14 @@
+{
+  "widgetDescriptorName": "checkoutCartSummary",
+  "properties": [
+    {
+      "id": "noOfItemsToDisplay",
+      "type": "stringType",
+      "name": "noOfItemsToDisplay",
+      "helpTextResourceId": "checkoutCartSummaryItemsToDisplayHelpText",
+      "labelResourceId": "checkoutCartSummaryItemsToDisplayLabel",
+      "defaultValue": "5",
+      "required": true
+    }
+  ]
+}

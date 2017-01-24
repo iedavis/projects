@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Nastavte, zda je povolen časový limit u oznámení netýkajících se chyb.",
+    "notificationsTimeoutEnabledTextLabel": "Časový limit povolen",
+    "notificationsTimeoutHelpText": "Nastavte časový limit u oznámení netýkajících se chyb (v sekundách).",
+    "notificationsTimeoutTextLabel": "Časový limit (v sekundách)",
+    "notificationsFixedHelpText": "Nastavte, zda má být doplněk pro oznámení pevně umístěn v horní části stránky.",
+    "notificationsFixedTextLabel": "Pevné"
+  }
+}

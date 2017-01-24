@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Pasūtījuma kopsavilkums", 
+    "orderDoesNotExist": "Pasūtījums nepastāv.", 
+    "subTotalText": "Starpsumma:", 
+    "salesTaxText": "Tirdzniecības nodoklis:", 
+    "orderTotalText": "Pasūtījuma kopsumma:", 
+    "continueShoppingText": "Turpināt iepirkšanos",
+    "delimiter": ":",
+    "includingTaxText": "(ietverot nodokli)",
+    "totalExcludingTaxText": "Kopā (neietverot nodokli):"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "cybersourcepaymentauthorization",
+  "imports": [
+    "order",
+    "payment",
+    "paymentauthorization"
+  ],
+  "javascript": "cybersource-payment-authorization",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "CyberSource Payment Authorization",
+  "pageTypes": ["payment"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "cyberSourcePaymentAuthorization",
+  "widgetType": "cyberSourcePaymentAuthorization"
+}

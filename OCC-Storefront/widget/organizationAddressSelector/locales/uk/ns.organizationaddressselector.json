@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Оформити",
+    "defaultAddressLabel": "Стандартна адреса",
+    "billingAddressText" : "Адреса для виставлення рахунків",
+    "noAddressesText" : "Адреси не збережено.",
+    "firstNameText": "Ім'я",
+    "lastNameText": "Прізвище",
+    "shippingAddressText": "Адреса поставки",
+    "checkoutErrorMsg": "Переконайтеся, що заповнено всі обов'язкові поля та виправлено будь-які неправильні записи.",
+    "firstNameRequired": "Необхідно обов'язково вказати ім'я. ",
+    "lastNameRequired": "Необхідно обов'язково вказати прізвище. ",
+    "unsupportedShippingAddressText": "Доставка на цю адресу недоступна.",
+    "invalidBillingAddressText": "Адресу доставки не можна використовувати як адресу для виставлення рахунків. Введіть адресу для виставлення рахунків.",
+    "invalidPreviousAddress": "Ми більше не доставляємо товари на адресу, яку ви вказували для доставки раніше."
+  }
+}

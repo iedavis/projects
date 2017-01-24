@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "スケジュール済オーダーIDを含めますか?",
+	"includeScheduledHelpText" : "オーダー履歴表にスケジュール済オーダーIDを含める場合は選択します"
+  }
+}

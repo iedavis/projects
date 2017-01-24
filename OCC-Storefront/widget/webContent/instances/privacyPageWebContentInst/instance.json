@@ -1,0 +1,7 @@
+{
+  "config": {"sourceMedia": "privacyPageStaticContent"},
+  "id": "privacyPageWebContentInst",
+  "name": "Privacy Web Content Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

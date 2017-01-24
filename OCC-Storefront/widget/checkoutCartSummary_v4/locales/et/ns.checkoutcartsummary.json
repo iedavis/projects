@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Ostukorvi kokkuvõte",
+    "quantityText": "Kogus: ",
+    "colorText": "Värv: ",
+    "sizeText": "Suurus: ",
+    "instockText": "Laos",
+    "outofstockText": "Läbi müüdud",
+    "estimiatedShippingText": "Eeldatav saaatmine: ",
+    "buttonEditCartSummary": "Redigeeri",
+    "editCartText": "Muuda ostukorvi",
+    "seeAllProducts": "Kuva kõik tooted",
+    "showAll": "Kuva kõik",
+    "cartSummaryItemLimitText": "Kuvatakse algsed __noOfItems__ üksust ostukorvis"
+  }
+}

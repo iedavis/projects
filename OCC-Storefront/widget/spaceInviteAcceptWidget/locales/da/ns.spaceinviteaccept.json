@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Velkommen __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Invitationen er allerede accepteret.",
+    "spaceNotFound" : "Den ønskeliste, som du forsøger at få adgang til, blev ikke fundet.",
+    "invitationExpiredError" : "Din invitation er udløbet! Kontakt ejeren af den ønskeliste, som du vil deltage i, og anmod om at blive inviteret.",
+    "memberJoinError" : "Der opstod en fejl med invitationen.",
+    "pleaseWaitProcessingMsg" : "Vent, mens invitationen behandles"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Registo de Saída",
+    "defaultAddressLabel": "Morada por Omissão",
+    "billingAddressText" : "Morada para Faturação",
+    "noAddressesText" : "Nenhuma morada gravada.",
+    "firstNameText": "Nome Próprio",
+    "lastNameText": "Apelido",
+    "shippingAddressText": "Morada para Expedição",
+    "checkoutErrorMsg": "Certifique-se de que preencheu todos os campos obrigatórios e corrigiu todas as entradas inválidas.",
+    "firstNameRequired": "O Nome Próprio é obrigatório. ",
+    "lastNameRequired": "O Apelido é obrigatório. ",
+    "unsupportedShippingAddressText": "Expedição não disponível para esta morada.",
+    "invalidBillingAddressText": "A sua morada para expedição não pode ser utilizada como morada para faturação. Introduza uma morada para faturação.",
+    "invalidPreviousAddress": "Deixámos de expedir para a morada para expedição que utilizou anteriormente."
+  }
+}

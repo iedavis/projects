@@ -1,0 +1,179 @@
+{
+  "defaultPage": false,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["aboutUsWebContentInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "article",
+  "isLayoutDisplayable": true,
+  "pageAddress": "aboutUs",
+  "displayName": "About Us Layout",
+  "translations": [
+    {
+      "name": "เกี่ยวกับเรา",
+      "language": "th"
+    },
+    {
+      "name": "Sobre nós",
+      "language": "pt_BR"
+    },
+    {
+      "name": "关于我们",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Про компанію",
+      "language": "uk"
+    },
+    {
+      "name": "За нас",
+      "language": "bg"
+    },
+    {
+      "name": "Meie",
+      "language": "et"
+    },
+    {
+      "name": "Par mums",
+      "language": "lv"
+    },
+    {
+      "name": "Apie mus",
+      "language": "lt"
+    },
+    {
+      "name": "Om oss",
+      "language": "no"
+    },
+    {
+      "name": "Despre noi",
+      "language": "ro"
+    },
+    {
+      "name": "Société",
+      "language": "fr_CA"
+    },
+    {
+      "name": "弊社について",
+      "language": "ja"
+    },
+    {
+      "name": "O nas",
+      "language": "sl"
+    },
+    {
+      "name": "О нас",
+      "language": "ru"
+    },
+    {
+      "name": "Više o nama",
+      "language": "hr"
+    },
+    {
+      "name": "Hakkımızda",
+      "language": "tr"
+    },
+    {
+      "name": "Informacje",
+      "language": "pl"
+    },
+    {
+      "name": "關於我們",
+      "language": "zh_TW"
+    },
+    {
+      "name": "회사 소개",
+      "language": "ko"
+    },
+    {
+      "name": "O nás",
+      "language": "cs"
+    },
+    {
+      "name": "Ismertető",
+      "language": "hu"
+    },
+    {
+      "name": "Πληρ.για εμάς",
+      "language": "el"
+    },
+    {
+      "name": "Om os",
+      "language": "da"
+    },
+    {
+      "name": "About Us",
+      "language": "en"
+    },
+    {
+      "name": "О нама",
+      "language": "sr"
+    },
+    {
+      "name": "Über uns",
+      "language": "de"
+    },
+    {
+      "name": "معلومات عنا",
+      "language": "ar"
+    },
+    {
+      "name": "Nosotros",
+      "language": "es"
+    },
+    {
+      "name": "Nous",
+      "language": "fr"
+    },
+    {
+      "name": "Info su",
+      "language": "it"
+    },
+    {
+      "name": "Over ons",
+      "language": "nl"
+    },
+    {
+      "name": "Om oss",
+      "language": "sv"
+    },
+    {
+      "name": "Sobre Nós",
+      "language": "pt"
+    },
+    {
+      "name": "Tietoja",
+      "language": "fi"
+    }
+  ],
+  "layoutViewports": "xs,sm,md,lg"
+}

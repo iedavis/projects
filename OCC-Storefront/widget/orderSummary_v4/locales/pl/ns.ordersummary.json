@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Podsumowanie zamówienia",
+    "subtotalText": "Suma częściowa: ",
+    "discountText": "Rabaty*: ",
+    "shippingOptionsText": "Opcje wysyłki",
+    "changeText": "zmiana",
+    "salesTaxText": "Podatek od sprzedaży: ",
+    "orderTotalText": "Zamówienie łącznie: ",
+    "placeOrderText": "Składanie zamówienia",
+    "noShippingText": "Bez wysyłki",
+    "applicableTaxesText": "Mające zastosowanie podatki zostaną obliczone przy kasie.",
+    "paymentOptionsText": "Opcje płatności",
+    "checkoutText": "Kasa",
+    "noShippingSelectedText": "Nie wybrano sposobu wysyłki.",
+    "shippingAddressRequired":"Proszę wprowadzić adres wysyłki ",
+    "shippingText": "Wysyłka: __displayName__ ",
+    "noShippingMethodsText": "Brak dostępnych sposobów wysyłki",
+    "checkoutErrorMsg": "Proszę upewnić się, że wypełniono wszystkie obowiązkowe pola i poprawiono ewentualne nieprawidłowe wpisy.",
+    "removeLinkText": "usuń",
+    "rePricingText":"Ponowna wycena",
+    "totalExcludingTaxText": "Łącznie (z wykluczeniem podatku): ",
+    "includingTaxText": "(z uwzględnieniem podatku)"
+  }
+}

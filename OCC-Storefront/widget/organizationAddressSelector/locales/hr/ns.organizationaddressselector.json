@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Izvrši kupnju",
+    "defaultAddressLabel": "Zadana adresa",
+    "billingAddressText" : "Adresa za naplatu",
+    "noAddressesText" : "Nema spremljenih adresa.",
+    "firstNameText": "Ime",
+    "lastNameText": "Prezime",
+    "shippingAddressText": "Adresa za otpremu",
+    "checkoutErrorMsg": "Provjerite jeste li ispunili sva obavezna polja i ispravili sve unose koji nisu valjani.",
+    "firstNameRequired": "Ime je obavezno.",
+    "lastNameRequired": "Prezime je obavezno.",
+    "unsupportedShippingAddressText": "Otprema na ovu adresu nije dostupna.",
+    "invalidBillingAddressText": "Adresa za otpremu ne može se koristiti kao adresa za naplatu. Unesite adresu za naplatu.",
+    "invalidPreviousAddress": "Više ne otpremamo na adresu koju ste ranije upotrijebili za otpremu."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Pagar con tarjeta regalo",
+    "giftCardNumberText": "Número de tarjeta regalo",
+    "giftCardPinText": "PIN de tarjeta regalo",
+    "giftCardApplyText": "Aplicar tarjeta regalo", 
+    "giftCardApplyingText": "Aplicando tarjeta regalo", 
+    "displayGiftCardDetailsText" : "Pagar con tarjeta regalo",
+    "duplicateGiftcardErrMsg":"La tarjeta regalo ya se ha aplicado."
+  }
+}

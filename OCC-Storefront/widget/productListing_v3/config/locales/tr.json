@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Stil tabanlı listelemeyi kullanmak için işaretleyin.",
+    "shouldUseStyleBasedTextLabel": "Stil Temel Listeleme Kullan",
+    "listTypeHelpText": "Widget örneğinin bir ürün listesi veya arama sonuçları listesi tipi olduğunu seçin.",
+    "listTypeTextLabel": "Liste Tipi",
+    "productLabel" : "Ürün",
+    "searchLabel" : "Ara",
+    "productListingFieldsRequiredHelpText": "Yanıta dahil edilecek alanlar listesini virgülle ayrılmış olarak girin. Alanlar ayarı, sadece kategori gezinmesi aracılığıyla elde edilen ürün listeleri için geçerlidir ve arama sonuçları için geçerli değildir.",
+    "productListingFieldsRequiredLabel": "Alanlar",
+    "productsPerPageRequiredHelpText": "Bir sayfada görüntülenecek ürün sayısını girin.",
+    "productsPerPageRequiredLabel": "Sayfa başına ürün sayısı",
+    "blockSizeRequiredHelpText": "İstek başına yüklenecek ürün sayısını girin. Blok boyutu ayarı, sadece kategori gezinmesi aracılığıyla elde edilen ürün listeleri için geçerlidir ve arama sonuçları için geçerli değildir.",
+    "blockSizeRequiredLabel": "Blok Boyutu"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Includere ID comandă programată?",
+	"includeScheduledHelpText" : "Selectaţi pt. a include ID-ul comenzii programate în tabelul Istoric comenzi"
+  }
+}

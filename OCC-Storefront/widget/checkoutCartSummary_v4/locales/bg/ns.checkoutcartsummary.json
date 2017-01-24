@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Обща информация за количката",
+    "quantityText": "Количество: ",
+    "colorText": "Цвят: ",
+    "sizeText": "Размер: ",
+    "instockText": "В наличност",
+    "outofstockText": "Изчерпана наличност",
+    "estimiatedShippingText": "Очаквана доставка: ",
+    "buttonEditCartSummary": "Редакция",
+    "editCartText": "Промяна на количката",
+    "seeAllProducts": "Преглед на всички продукти",
+    "showAll": "Показване на всичко",
+    "cartSummaryItemLimitText": "Показват се първите __noOfItems__ артикула в количката"
+  }
+}

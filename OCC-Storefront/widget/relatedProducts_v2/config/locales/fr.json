@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Attributs d'affichage",
+    "numberOfRelatedProductsHelpText": "Entrez le nombre de produits associés à afficher dans le carrousel",
+    "numberOfRelatedProductsTextLabel": "Nombre de produits associés",
+    "displayNameOfRelatedProductsTextLabel": "Nom du produit",
+    "displayPriceOfRelatedProductsTextLabel": "Prix"
+  }
+}

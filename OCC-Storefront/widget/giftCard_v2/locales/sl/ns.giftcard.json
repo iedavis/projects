@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Plačilo z darilno kartico",
+    "giftCardNumberText": "Številka darilne kartice",
+    "giftCardPinText": "PIN darilne kartice",
+    "giftCardApplyText": "Uporaba darilne kartice", 
+    "giftCardApplyingText": "Uporaba darilne kartice", 
+    "displayGiftCardDetailsText" : "Plačilo z darilno kartico",
+    "duplicateGiftcardErrMsg":"Darilna kartica je bila že uporabljena."
+  }
+}

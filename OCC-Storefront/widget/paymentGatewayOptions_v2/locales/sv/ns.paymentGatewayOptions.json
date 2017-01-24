@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "Ett fel inträffade när betalningen bearbetades i nätslussen. Försök igen.",
+    "paymentDeclinedMsg": "Betalningen har avslagits. Försök igen.",
+    "paymentExpiredMsg": "Betalningen har gått ut. Försök igen.",
+    "paymentErrorMsg": "Ett fel inträffade när betalningen bearbetades. Försök igen.",
+    "payByCashText": "Betala med kontanter",
+    "invoicePaymentMsg": "Begär en faktura",
+    "purchaseOrderNumberMsg":"Inköpsordernr"
+  }
+}

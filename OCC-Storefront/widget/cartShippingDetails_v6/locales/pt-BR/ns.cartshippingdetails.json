@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Calcular entrega e imposto (opcional)",
+    "cartShippingErrorMsg": "Verifique se você preencheu todos os campos de entrega e corrigiu todas as entradas inválidas.",
+    "countryText": "País",
+    "stateText": "Estado",
+    "zipCodeText": "CEP/Código postal",
+    "countryRequired": "O país é obrigatório. ",
+    "stateRequired": "O estado é obrigatório. ",
+    "zipCodeRequired": "O CEP/Código postal é obrigatório.",
+    "zipCodeInvalid": "Entrada inválida. Informe um CEP/Código postal válido.",
+    "stateRegionText": "Estado/Região",
+    "noShippingSelectedText": "Nenhum método de entrega selecionado.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Não há métodos de entrega disponíveis para o seu endereço de destino.",
+    "noShippingMethodsForAddressText": "Falha ao recuperar os métodos de entrega do endereço de entrega informado",
+    "fetchingShippingMethodsText": "Buscando métodos de entrega do endereço",
+    "invalidShippingAddress": "Endereço de entrega inválido especificado.",
+    "invalidShippingMethod": "Método de entrega inválido especificado.",
+    "pricingError" : "Não é possível calcular os custos da entrega e dos impostos. Verifique seu endereço de entrega.",
+    "invalidPreviousAddress": "Não fazemos mais entregas no seu endereço de entrega usado anteriormente.",
+    "shippingMethodNoLongerAvailable": "O método de entrega selecionado anteriormente não está mais disponível. Verifique o método de entrega antes de fazer o seu pedido."
+  }
+}

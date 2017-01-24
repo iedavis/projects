@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["relatedProducts"],
+  "tag": "related-products-carousel",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "Carousel ของผลิตภัณฑ์ที่เกี่ยวข้อง"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Carrossel de Produtos Relacionados"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "相关产品转盘"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Карусель пов'язаних продуктів"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Въртележка на свързани продукти"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Seotud toodete karussell"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Saistīto produktu karuselis"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Susijusių produktų karuselė"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Karusell for relaterte produkter"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Carusel produse corelate"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Carrousel de produits connexes"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "関連製品カルーセル"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Vrtiljak s sorodnimi izdelki"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Карусель связанных продуктов"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Izlog srodnih proizvoda"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "İlgili Ürünler Döngüsü"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Karuzela powiązanych produktów"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "相關產品轉盤"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "관련 제품 슬라이드"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Karusel souvisejících produktů"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Kapcsolódó termékek - forgótár"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Περ. πλατφόρμα σχετικών προϊόντων"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Relaterede produkter (karrusel)"
+    },
+    {
+      "description": "Related Products Carousel",
+      "language": "en",
+      "title": "Related Products Carousel"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Рекламни пано сродних производа"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Karussell für zugehörige Produkte"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Carrusel de productos relacionados"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Carrousel de produits associés"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Girandola prodotti correlati"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Carrousel gerelateerde producten"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Snurra för relaterade produkter"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Carrossel de Produtos Relacionados"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Liittyvien tuotteiden karuselli"
+    }
+  ],
+  "type": "fragment",
+  "version": 2
+}

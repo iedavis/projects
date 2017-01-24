@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Ваша корзина пуста.",
+    "buttonContinueShopping": "Продолжить покупки",
+    "cartHeader" : "Ваша электронная корзина",
+    "itemHeaderItem": "Позиция",    
+    "itemHeaderQuantity": "Количество",
+    "itemQuantity": "Количество __productName__ ",
+    "itemHeaderItemTotal": "Итого по позиции",
+    "totalTableSubTotal": "Промежуточный итог:",
+    "includingTaxText": "(включая налог)",
+    "totalTableTotal": "Итого:",
+    "buttonUpdateQuantity": "Обновить",
+    "buttonRemoveItem": "Удалить",
+    "instockText": "На складе",
+    "outofstockText": "Нет в наличии",
+    "totalTableSummary": "Итоговая сумма для электронной корзины."
+  }
+}

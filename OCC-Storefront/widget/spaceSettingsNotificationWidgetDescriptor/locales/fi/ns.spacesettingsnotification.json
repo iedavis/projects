@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Sähköposti-ilmoitusten asetukset",
+    "spaceSettingsNotificationIntroText" : "Haluan vastaanottaa:",
+    "spaceSettingsCommentNotificationTxt" : "Kommentti ja tuoteilmoitukset",
+    "spaceSettingsNewMemberNotificationTxt" : "Ilmoitukset uusista jäsenistä",
+    "spaceSettingsSaveTxt" : "Tallenna",
+    "spaceSettingsCancelTxt" : "Peruuta",
+    "spaceSettingsSaveErrorTxt" : "Ongelma tallennettaessa ilmoitusasetustesi muutoksia.",
+    "spaceSettingsSaveSuccessTxt" : "Ilmoitusasetuksesi on päivitetty ja tallennettu.",
+    "spaceSettingsOnText" : "Kyllä",
+    "spaceSettingsOffText" : "Ei",
+    "spaceSettingsNotificationEnableHelpText" : "Ota toivomuslistailmoitukset käyttöön valitsemalla Oma tili -sivulla, että haluat saada sähköpostipäivityksiä."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "서로 협력하여 쇼핑을 지금 시작해 보십시오.",
+    "welcomePageLoginText": "로그인",
+    "welcomePageCreateAccountText": "계정 생성",
+    "welcomePageTitle": "희망 목록을 시작합니다.",
+    "welcomePageSubtitle": "무료로 희망 목록에 참가하여 즐겁게 공유하십시오.",
+    "welcomePageBulletText1": "관심 있는 제품을 저장 및 구성하고 피드백을 받으십시오.",
+    "welcomePageBulletText2": "희망 목록을 가족 및 친구와 공유하고 쇼핑 결정을 함께 내리십시오.",
+    "welcomePageBulletText3": "희망 목록을 사용하여 선물을 찾아보고 상의하십시오. 다시는 잘못된 선물을 구입하는 일이 없을 것입니다.",
+    "welcomePageOrText": "또는"
+  }
+}

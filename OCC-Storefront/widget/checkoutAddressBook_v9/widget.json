@@ -1,0 +1,23 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "checkoutaddressbook",
+  "imports": [
+    "order",
+    "shippingCountriesPriceListGroup",
+    "shippingCountries",
+    "billingCountries",
+    "defaultShippingCountry",
+    "defaultBillingCountry"
+  ],
+  "javascript": "checkout-address-book",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Customer Address Book",
+  "pageTypes": ["checkout"],
+  "source": 100,
+  "version": 9,
+  "widgetFamily": "checkoutAddressBook",
+  "widgetType": "checkoutAddressBook"
+}

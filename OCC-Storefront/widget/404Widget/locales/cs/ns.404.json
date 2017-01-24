@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Stránka nenalezena",
+    "error404" : "Chyba 404:",
+    "pageNotFoundText" : "Je možné, že jste zadali adresu nesprávně, případně byla stránka aktualizována nebo odstraněna.",
+    "lnkHome" : "Domovská stránka",
+    "lnkBack" : "Zpět"            
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "config": {},
+  "global": true,
+  "globalEnabled": true,
+  "imports": ["product"],
+  "javascript": "recsTracking",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Recommendations Tracking",
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "recommendationsTracking",
+  "widgetType": "recommendationsTracking"
+}

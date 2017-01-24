@@ -1,0 +1,7 @@
+{
+  "resources": {
+	"heroWidget": "Hero",
+	"previousBannerText": "Prejšnji trak",
+	"nextBannerText": "Naslednji trak"
+  }
+}

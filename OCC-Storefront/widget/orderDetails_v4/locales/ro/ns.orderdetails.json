@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Comenzi proprii",
+    "backToMyOrdersLink" : "<< Înapoi la comenzile proprii",
+    "orderDetailsText": "Detalii comandă",
+    "orderDateText": "Data comenzii:",
+    "orderNumberText": "Nr. comandă:",
+    "orderStatusText": "Stare comandă:",
+    "quoteExpiryText": "Expirare cotaţie:",
+    "scheduledOrderName": "Nume programare:",
+    "shippingAddressAndMethodText": "Adresă de expediere şi metodă", 
+    "shippingAddressText": "Expediere la:",
+    "noShippingAddressText" : "Nu este disponibilă nicio adresă de expediere", 
+    "shippingMethodText": "Metodă de expediere:",
+    "shippingText": "Expediere standard:",
+    "salesTaxText": "Taxă pe vânzări:",
+    "orderTotalText": "Total comandă:",
+    "includingTaxText": "(inclusiv taxe)",
+    "totalExcludingTaxText": "Total (Exclusiv taxe): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Numere de urmărire:",
+    "trackingReferenceReaderText": "__carrierName__ - Referinţă de urmărire __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Comanda programată a fost creată conform listei de preţuri '__priceListGroup__'"
+  } 
+}

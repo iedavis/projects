@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<merchant-calculation-results xmlns="http://checkout.google.com/schema/2">
+	<results>
+		<result address-id="329605995548351" shipping-name="Priority Ship">
+			<merchant-code-results>
+				<gift-certificate-result>
+					<calculated-amount currency="USD">89.00</calculated-amount>
+					<code>GC100</code>
+					<message>Gift Certificate</message>
+					<valid>true</valid>
+				</gift-certificate-result>
+			</merchant-code-results>
+			<shippable>true</shippable>
+			<shipping-rate currency="USD">15.00</shipping-rate>
+			<total-tax currency="USD">0.00</total-tax>
+		</result>
+		<result address-id="329605995548351" shipping-name="Free Ship">
+			<merchant-code-results>
+				<gift-certificate-result>
+					<calculated-amount currency="USD">79.00</calculated-amount>
+					<code>GC100</code>
+					<message>Gift Certificate</message>
+					<valid>true</valid>
+				</gift-certificate-result>
+			</merchant-code-results>
+			<shippable>true</shippable>
+			<shipping-rate currency="USD">5.00</shipping-rate>
+			<total-tax currency="USD">0.00</total-tax>
+		</result>
+	</results>
+</merchant-calculation-results>

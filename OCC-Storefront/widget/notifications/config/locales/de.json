@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Legen Sie fest, ob Timeouts für Benachrichtigungen, die nicht mit Fehlern in Zusammenhang stehen, zulässig sind.",
+    "notificationsTimeoutEnabledTextLabel": "Timeout aktiviert",
+    "notificationsTimeoutHelpText": "Legt den Timeout für Benachrichtigungen fest (in Sekunden), die nicht mit Fehlern in Zusammenhang stehen.",
+    "notificationsTimeoutTextLabel": "Timeout (in Sekunden)",
+    "notificationsFixedHelpText": "Legen Sie fest, ob das Benachrichtigungswidget oben auf der Seite fixiert werden soll.",
+    "notificationsFixedTextLabel": "Fixiert"
+  }
+}

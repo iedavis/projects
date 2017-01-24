@@ -1,0 +1,179 @@
+{
+  "defaultPage": false,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["contactUsWebContentInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "article",
+  "isLayoutDisplayable": true,
+  "pageAddress": "contactUs",
+  "displayName": "Contact Us Layout",
+  "translations": [
+    {
+      "name": "ติดต่อเรา",
+      "language": "th"
+    },
+    {
+      "name": "Contate-nos",
+      "language": "pt_BR"
+    },
+    {
+      "name": "联系我们",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Контакти",
+      "language": "uk"
+    },
+    {
+      "name": "Свърж. се с нас",
+      "language": "bg"
+    },
+    {
+      "name": "Kontaktteave",
+      "language": "et"
+    },
+    {
+      "name": "Kontaktinform.",
+      "language": "lv"
+    },
+    {
+      "name": "Susisiekite",
+      "language": "lt"
+    },
+    {
+      "name": "Kontakt oss",
+      "language": "no"
+    },
+    {
+      "name": "Contactaţi-ne",
+      "language": "ro"
+    },
+    {
+      "name": "Nous contacter",
+      "language": "fr_CA"
+    },
+    {
+      "name": "お問合せ",
+      "language": "ja"
+    },
+    {
+      "name": "Kontakt",
+      "language": "sl"
+    },
+    {
+      "name": "Контактная инф.",
+      "language": "ru"
+    },
+    {
+      "name": "Obratite nam se",
+      "language": "hr"
+    },
+    {
+      "name": "Bize Ulaşın",
+      "language": "tr"
+    },
+    {
+      "name": "Kontakt",
+      "language": "pl"
+    },
+    {
+      "name": "聯絡我們",
+      "language": "zh_TW"
+    },
+    {
+      "name": "연락처",
+      "language": "ko"
+    },
+    {
+      "name": "Kontaktujte nás",
+      "language": "cs"
+    },
+    {
+      "name": "Elérhetőségek",
+      "language": "hu"
+    },
+    {
+      "name": "Επικοινωνία",
+      "language": "el"
+    },
+    {
+      "name": "Kontakt os",
+      "language": "da"
+    },
+    {
+      "name": "Contact Us",
+      "language": "en"
+    },
+    {
+      "name": "Обратите нам се",
+      "language": "sr"
+    },
+    {
+      "name": "Kontakt",
+      "language": "de"
+    },
+    {
+      "name": "اتصل بنا",
+      "language": "ar"
+    },
+    {
+      "name": "Contacto",
+      "language": "es"
+    },
+    {
+      "name": "Nous contacter",
+      "language": "fr"
+    },
+    {
+      "name": "Contatti",
+      "language": "it"
+    },
+    {
+      "name": "Contact opnemen",
+      "language": "nl"
+    },
+    {
+      "name": "Kontakta oss",
+      "language": "sv"
+    },
+    {
+      "name": "Contacte-nos",
+      "language": "pt"
+    },
+    {
+      "name": "Yhteydenotto",
+      "language": "fi"
+    }
+  ],
+  "layoutViewports": "xs,sm,md,lg"
+}

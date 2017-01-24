@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "checkoutErrorMsg": "حدث خطأ أثناء معالجة الدفع من خلال العبّارة. الرجاء المحاولة مرة أخرى.",
+    "paymentDeclinedMsg": "تم رفض الدفع. الرجاء المحاولة مرة أخرى.",
+    "paymentExpiredMsg": "انتهت صلاحية الدفع. الرجاء المحاولة مرة أخرى.",
+    "paymentErrorMsg": "حدث خطأ أثناء معالجة الدفع. الرجاء المحاولة مرة أخرى.",
+    "payByCashText": "الدفع نقدًا",
+    "invoicePaymentMsg": "طلب فاتورة",
+    "purchaseOrderNumberMsg":"رقم أمر الشراء"
+  }
+}

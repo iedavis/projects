@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Schakel selectievakje in om lijst op basis van stijl te gebruiken.",
+    "shouldUseStyleBasedTextLabel": "Stijlbasislijst gebruiken",
+    "listTypeHelpText": "Geef aan of het soort van de widgetinstance Productlijst of Zoekresultatenlijst is.",
+    "listTypeTextLabel": "Type lijst",
+    "productLabel" : "Product",
+    "searchLabel" : "Zoeken",
+    "productListingFieldsRequiredHelpText": "Voer een reeks velden in, gescheiden door komma's, die in de reactie moeten worden opgenomen. De instelling voor velden geldt alleen voor productlijsten die via categorienavigatie worden weergegeven en niet voor zoekresultaten.",
+    "productListingFieldsRequiredLabel": "Velden",
+    "productsPerPageRequiredHelpText": "Voer het aantal producten in dat op een pagina moet worden weergegeven.",
+    "productsPerPageRequiredLabel": "Producten per pagina",
+    "blockSizeRequiredHelpText": "Voer het aantal producten in dat per aanvraag moet worden geladen. De instelling voor blokgrootte geldt alleen voor productlijsten die via categorienavigatie worden weergegeven en niet voor zoekresultaten.",
+    "blockSizeRequiredLabel": "Blokgrootte"
+  }
+}

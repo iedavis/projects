@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Dodajanje na seznam želja",
+    "spaceSelectionText": "Izbira seznama želja",
+    "spaceCommentText": "Vnos komentarja ...",
+    "spaceNameText": "Ime",
+    "buttonSpaceAdd": "Dodaj",
+    "buttonSpaceCancel": "Prekliči",
+    "mySpacesGroupText": "Moj seznam želja",
+    "joinedSpacesGroupText": "Pridruženi seznami želja",
+    "createNewSpaceOptText": "Nov seznam želja ...",
+    "addToSpaceSuccessMsg" : "Uspeh! __socialproduct__ je bil dodan v __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Ta artikel je že bil na seznamu želja. Posodobili smo datum dodajanja.",
+    "addToSpaceProductViewWishListMsg" : "  Ogled __wishlistname__",
+    "spaceAddProductError" : "Napaka pri poskusu objave izdelka na seznam želja. Poskusite osvežiti stran.",
+    "uniqueNameMsg": "Ime seznama želja mora biti enolično.",
+    "emptyNameMsg": "Ime ne sme biti prazno",
+    "privacySettingsLabel": "Nastavitve zasebnosti",
+    "privacySettingsDescription": "Če prijatelje povabite k zasebnemu seznamu želja, se bo vaša nastavitev zasebnosti spremenila v Skupina. Če zasebni ali skupinski seznam želja pošljete prek e-pošte ali ga daste v skupno rabo na družabnem omrežju, bo postal seznam v skupni rabi.",
+    "privacySharedLabel": "Ta seznam si lahko ogleda vsak s povezavo. Samo vi in ljudje, ki jih povabite, si lahko ogledate, komentirate in dodajate na seznam.",
+    "privacyGroupLabel": "Samo vi in ljudje, ki jih povabite, si lahko ogledate, komentirate in dodajate na seznam.",
+    "privacyPrivateLabel": "Samo vi si lahko ogledate in dodajate na ta seznam.",
+    "spaceAccessPrivateIconTxt" : "Zasebno",
+    "spaceAccessSharedIconTxt" : "Skupna raba",
+    "spaceAccessGroupIconTxt" : "Skupina",
+    "spaceCreateMaxSpacesMsg" : "Težava pri ustvarjanju seznama želja. Presegli ste omejitev za število seznamov želja. Pred ustvarjanjem novega izbrišite obstoječi seznam želja.",
+    "productAddMaxProductsMsg" : "Težava pri dodajanju izdelka na seznam želja. Presegli ste omejitev za število objav na seznamu želja. Pred dodajanjem novega izbrišite obstoječi izdelek s ciljnega seznama želja."
+  }
+}

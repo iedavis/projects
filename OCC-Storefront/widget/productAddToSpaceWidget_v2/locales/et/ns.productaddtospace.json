@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Lisa sooviloendisse",
+    "spaceSelectionText": "Vali sooviloend",
+    "spaceCommentText": "Sisestage kommentaar...",
+    "spaceNameText": "Nimi",
+    "buttonSpaceAdd": "Lisa",
+    "buttonSpaceCancel": "Loobu",
+    "mySpacesGroupText": "Minu sooviloendid",
+    "joinedSpacesGroupText": "Teie osalusega sooviloendid",
+    "createNewSpaceOptText": "Uus sooviloend...",
+    "addToSpaceSuccessMsg" : "__socialproduct__ lisati kohta __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "See üksus oli sooviloendis juba olemas. Värskendasime selle lisamise kuupäeva.",
+    "addToSpaceProductViewWishListMsg" : "  Kuva __wishlistname__",
+    "spaceAddProductError" : "Toote sooviloendisse lisamise katsel ilmnes tõrge. Proovige lehte värskendada.",
+    "uniqueNameMsg": "Sooviloendi nimi peab olema kordumatu.",
+    "emptyNameMsg": "Nimeväli ei tohi olla tühi.",
+    "privacySettingsLabel": "Privaatsussätted",
+    "privacySettingsDescription": "Kui kutsute privaatsesse sooviloendisse sõpru, seatakse teie privaatsussätteks Rühm. Kui saadate privaatse või rühma sooviloendi meilisõnumiga või jagate seda suhtlusvõrgus, muudetakse see jagatud loendiks.",
+    "privacySharedLabel": "Seda loendit näevad kõik, kellel on vastav link. Seda loendit saavad vaadata, kommenteerida ja sellesse saavad üksusi lisada ainult teie ja need, kelle olete kutsunud.",
+    "privacyGroupLabel": "Seda loendit saavad vaadata, kommenteerida ja sellesse saavad üksusi lisada ainult teie ja need, kelle olete kutsunud.",
+    "privacyPrivateLabel": "Ainult teie saate loendit vaadata ja sellesse üksusi lisada.",
+    "spaceAccessPrivateIconTxt" : "Privaatne",
+    "spaceAccessSharedIconTxt" : "Jagatud",
+    "spaceAccessGroupIconTxt" : "Rühm",
+    "spaceCreateMaxSpacesMsg" : "Sooviloendi loomisel ilmnes probleem. Sooviloendite limiit on ületatud. Enne uue sooviloendi loomist kustutage mõni olemasolev sooviloend.",
+    "productAddMaxProductsMsg" : "Toote sooviloendisse lisamisel ilmnes probleem. Sooviloendi postituste limiit on ületatud. Enne sooviloendisse uue toote lisamist kustutage sellest sooviloendist mõni olemasolev toode."
+  }
+}

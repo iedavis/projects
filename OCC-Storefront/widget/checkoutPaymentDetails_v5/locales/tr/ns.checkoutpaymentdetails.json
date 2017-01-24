@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Ödeme Detayları",
+  "paymentMethod": "Ödeme Yöntemi",
+  "paypalText": "Ödeme yapmanın daha güvenli ve daha kolay yolu.", 
+  "paymentDetailsError": "Lütfen zorunlu alanların tümünü doldurduğunuzdan ve varsa geçersiz girişleri düzelttiğinizden emin olun.",
+  "paymentMethodNotAvilable": "(Bu ödeme seçeneği çizelgelenen siparişler için kullanılamaz.)",
+  
+  "nameOnCardLabel": "Karttaki Ad",
+  "nameOnCardPlaceholder": "Karttaki Ad",
+  "nameOnCardRequired": "Kart üzerindeki Ad zorunludur.",
+  "nameOnCardInvalid": "Kart üzerindeki Ad geçersiz.",
+  
+  "cardTypeLabel": "Kart Tipi",
+  "cardTypePlaceholder": "Kart Tipi",
+  "cardTypeRequired": "Kart Tipi zorunludur.",
+  "cardTypeInvalid": "Kart Tipi geçersiz.",
+  
+  "cardNumberLabel": "Kart Numarası",
+  "cardNumberPlaceholder": "Kart Numarası",
+  "cardNumberRequired": "Kart Numarası zorunlu.",
+  "cardNumberMaxLength":"Geçersiz giriş. Lütfen __maxLength__ karakter sınırını aşmayın.",
+  "cardNumberInvalid": "Geçersiz kart numarası lütfen tekrar deneyin.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV zorunludur.",
+  "cardCVVInvalid": "CVV geçersiz.",
+  "cardCVVWhatsThis": "Bu nedir?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Kartınızın imza şeridinde bulunan son 3 rakam.",
+  "cardCVVNumberInvalid": "Geçersiz giriş. Lütfen sadece numara girin. ",
+  "cardCVVNumberMaxLength": "Geçersiz giriş. Lütfen izin verilen 4 karakter sınırını aşmayın.",
+  "cardCVVNumberMinLength": "Geçersiz giriş. Lütfen en az 3 karakter girin.",
+  
+  "endMonthLabel": "Geçerlilik Bitişi (Ay)",
+  "endMonthPlaceholder": "Geçerlilik Bitişi (Ay)",
+  "endMonthRequired": "Kart geçerlilik bitiş ayı zorunludur.",
+  "endMonthInvalid": "Geçersiz geçerlilik bitiş ayı/yılı, lütfen tekrar deneyin.",
+  
+  "endYearLabel": "Geçerlilik Bitişi (Yıl)",
+  "endYearPlaceholder": "Geçerlilik Bitişi (Yıl)",
+  "endYearRequired": "Kart geçerlilik bitiş yılı zorunludur.",
+  "endYearInvalid": "Geçersiz geçerlilik bitiş ayı/yılı, lütfen tekrar deneyin.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "您搜索了“__searchterm__”。但未找到产品。",
+    "titleText": "搜索",
+    "searchFailedText": "此时无法执行搜索。"
+  }
+}

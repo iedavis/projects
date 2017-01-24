@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Merk av hvis du vil bruke stilbasert oversikt.",
+    "shouldUseStyleBasedTextLabel": "Bruk stilbasisoversikt",
+    "listTypeHelpText": "Velg om småprogramforekomsten er en liste av typen produktoversikt eller søkeresultater.",
+    "listTypeTextLabel": "Listetype",
+    "productLabel" : "Produkt",
+    "searchLabel" : "Søk",
+    "productListingFieldsRequiredHelpText": "Angi en liste over felt som skal inkluderes i svaret, atskilt med komma. Innstillingen for feltene gjelder bare for produktoversikter gjennom kategorinavigering, og ikke for søkeresultater.",
+    "productListingFieldsRequiredLabel": "Felt",
+    "productsPerPageRequiredHelpText": "Angi antall produkter som skal vises på en side.",
+    "productsPerPageRequiredLabel": "Produkter per side",
+    "blockSizeRequiredHelpText": "Angi antall produkter som skal lastes per forespørsel. Innstillingen for blokkstørrelse gjelder bare for produktoversikter gjennom kategorinavigering, og ikke for søkeresultater.",
+    "blockSizeRequiredLabel": "Blokkstørrelse"
+  }
+}

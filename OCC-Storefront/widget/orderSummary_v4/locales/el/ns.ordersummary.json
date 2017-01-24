@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Σύνοψη παραγγελίας",
+    "subtotalText": "Μερικό σύνολο: ",
+    "discountText": "Εκπτώσεις*: ",
+    "shippingOptionsText": "Επιλογές αποστολής",
+    "changeText": "αλλαγή",
+    "salesTaxText": "Φόρος πωλήσεων: ",
+    "orderTotalText": "Σύνολο παραγγελίας: ",
+    "placeOrderText": "Τοποθέτηση παραγγελίας",
+    "noShippingText": "Δεν υπάρχει αποστολή",
+    "applicableTaxesText": "Οι εφαρμοστέοι φόροι θα υπολογίζονται στο ταμείο",
+    "paymentOptionsText": "Επιλογές πληρωμής",
+    "checkoutText": "Ταμείο",
+    "noShippingSelectedText": "Δεν έχει επιλεγεί μέθοδος αποστολής.",
+    "shippingAddressRequired":"Καταχωρίστε μια διεύθυνση αποστολής ",
+    "shippingText": "Αποστολή: __displayName__ ",
+    "noShippingMethodsText": "Δεν υπάρχουν διαθέσιμες μέθοδοι αποστολής",
+    "checkoutErrorMsg": "Βεβαιωθείτε ότι έχετε συμπληρώσει όλα τα υποχρεωτικά πεδία και ότι έχετε διορθώσει τυχόν μη έγκυρες καταχωρίσεις.",
+    "removeLinkText": "κατάργηση",
+    "rePricingText":"Ανακοστολόγηση",
+    "totalExcludingTaxText": "Σύνολο (χωρίς φόρο): ",
+    "includingTaxText": "(με φόρο)"
+  }
+}

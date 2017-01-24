@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "訂單確認", 
+    "orderDoesNotExist": "訂單不存在。", 
+    "thankyouMsg": "感謝您在 __orderDate__ __orderTime__ 的訂購。", 
+    "processingMsg": "此訂單正在處理中。",
+    "pendingMsg": "感謝您，已收到您的訂單要求，正在等待付款。款項核准後我們即會處理訂單。",
+    "orderNumberMsg": "您的訂單編號是 __orderNumber__。", 
+    "emailMsg": "訂單確認電子郵件已傳送至 __emailAddress__ 詳述下方訂單的內容。", 
+    "yourOrderText": "您的訂單", 
+    "itemText": "項目", 
+    "quantityText": "數量", 
+    "itemTotalText": "項目總計", 
+    "shippingAddressAndMethodText": "出貨地址與方式", 
+    "shipToText": "收貨方：", 
+    "shippingMethodText": "出貨方式：", 
+    "paymentDetailsText": "付款詳細資料", 
+    "cardTypeText": "信用卡型態：", 
+    "cardNumberText": "信用卡卡號：", 
+    "billingAddressText": "帳單地址：",
+    "loginSuccessText": "已建立您的帳戶。感謝您的註冊。",
+    "loginFailureText": "錯誤：已處理您的訂單，但建立您的帳戶時發生問題。請再試一次。",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

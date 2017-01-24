@@ -1,0 +1,11 @@
+{
+    "resources": {
+      "openGraphTitle": "__productDisplayName__",
+      "openGraphDescription": "__productDescription__",
+      "twitterCardTitle": "__productDisplayName__",
+      "twitterCardDescription": "__productDescription__",
+      "schemaDotOrgName": "__productDisplayName__",
+      "schemaDotOrgDescription": "__productDescription__"
+    }
+  }
+  

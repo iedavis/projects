@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "productaddtospace",
+  "imports": ["space"],
+  "javascript": "product-add-to-space",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Add Product To Wish List",
+  "pageTypes": ["product"],
+  "source": 100,
+  "version": 2,
+  "widgetFamily": "productAddToSpaceWidget",
+  "widgetType": "productAddToSpaceWidget"
+}

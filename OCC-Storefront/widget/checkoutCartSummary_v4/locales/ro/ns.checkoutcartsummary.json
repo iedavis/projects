@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Sumar coş",
+    "quantityText": "Cantitate:",
+    "colorText": "Culoare: ",
+    "sizeText": "Dimensiune:",
+    "instockText": "În stoc",
+    "outofstockText": "Epuizat din stoc",
+    "estimiatedShippingText": "Expediere estimată: ",
+    "buttonEditCartSummary": "Editare",
+    "editCartText": "Editare coş",
+    "seeAllProducts": "Vizualizare toate produsele",
+    "showAll": "Afişare toate",
+    "cartSummaryItemLimitText": "Se afişează primele __noOfItems__ articole din coş"
+  }
+}

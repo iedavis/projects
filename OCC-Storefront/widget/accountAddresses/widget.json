@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "accountaddresses",
+  "imports": ["shippingCountries"],
+  "javascript": "account-addresses",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Account Addresses",
+  "pageTypes": ["profile"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "accountAddresses",
+  "widgetType": "accountAddresses"
+}

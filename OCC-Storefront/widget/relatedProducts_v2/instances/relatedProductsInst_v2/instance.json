@@ -1,0 +1,11 @@
+{
+  "config": {
+    "displayNameOfRelatedProducts": true,
+    "displayPriceOfRelatedProducts": true,
+    "numberOfRelatedProducts": "10"
+  },
+  "id": "relatedProductsInst_v2",
+  "name": "Related Products Widget",
+  "usingCodeView": false,
+  "usingLessCodeView": false
+}

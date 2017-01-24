@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Vaša je košarica prazna.",
+    "buttonContinueShopping": "Nastavi kupovati",
+    "cartHeader" : "Vaša košarica",
+    "itemHeaderItem": "Proizvod",    
+    "itemHeaderQuantity": "Količina",
+    "itemQuantity": "Količina za __productName__",
+    "itemHeaderItemTotal": "Proizvod ukupno",
+    "totalTableSubTotal": "Podzbroj:",
+    "includingTaxText": "(porez uključen)",
+    "totalTableTotal": "Ukupno:",
+    "buttonUpdateQuantity": "Ažuriraj",
+    "buttonRemoveItem": "Ukloni",
+    "instockText": "Na zalihama",
+    "outofstockText": "Nema na zalihama",
+    "totalTableSummary": "Ukupno za košaricu."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Checkout",
+    "defaultAddressLabel": "Indirizzo predefinito",
+    "billingAddressText" : "Indirizzo di fatturazione",
+    "noAddressesText" : "Nessun indirizzo salvato.",
+    "firstNameText": "Nome",
+    "lastNameText": "Cognome",
+    "shippingAddressText": "Indirizzo di spedizione",
+    "checkoutErrorMsg": "Assicurarsi di aver completato tutti i campi obbligatori e correggere eventuali inserimenti non validi.",
+    "firstNameRequired": "Il nome è obbligatorio.",
+    "lastNameRequired": "Il cognome è obbligatorio.",
+    "unsupportedShippingAddressText": "Spedizione non disponibile per questo indirizzo.",
+    "invalidBillingAddressText": "Impossibile utilizzare l'indirizzo di spedizione come indirizzo di fatturazione. Inserire un indirizzo di fatturazione.",
+    "invalidPreviousAddress": "Non vengono più effettuate spedizioni all'indirizzo di spedizione precedentemente utilizzato."
+  }
+}

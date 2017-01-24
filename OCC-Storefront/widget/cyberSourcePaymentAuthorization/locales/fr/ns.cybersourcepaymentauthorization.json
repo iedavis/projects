@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "102": "(102) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "104": "(104) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "110": "(110) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "150": "(150) Nous avons rencontré un problème technique en essayant de contacter la banque émettrice de votre carte de crédit. Faites une nouvelle tentative ou utilisez une autre carte.",
+    "151": "(151) Nous avons rencontré un problème technique. Réessayez dans un moment.",
+    "152": "(152) Nous avons rencontré un problème technique. Réessayez dans un moment.",
+    "200": "(200) L'adresse de facturation indiquée ne correspond pas à celle enregistrée avec votre carte de crédit. Vérifiez votre adresse et faites une nouvelle tentative.",
+    "201": "(201) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "202": "(202) Vérifiez la date d'expiration de votre carte et réessayez.",
+    "203": "(203) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "204": "(204) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "205": "(205) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "207": "(207) Nous avons rencontré un problème technique en essayant de contacter la banque émettrice de votre carte de crédit. Faites une nouvelle tentative ou utilisez une autre carte.",
+    "208": "(208) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "209": "(209) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "210": "(210) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "211": "(211) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "221": "(221) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "230": "(230) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "231": "(231) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "232": "(232) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "233": "(233) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "234": "(234) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "520": "(520) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "1000": "(1000) Votre carte de crédit a été refusée, veuillez utiliser une autre carte.",
+    "476": "(476) Carte non authentifiée pour l'utilisation, utilisez une autre carte.",
+    "paymentErrorText":"Nous avons rencontré un problème technique. Réessayez dans un moment.",
+    "processingText": "Traitement en cours, patientez. Ne cliquez pas sur le bouton Actualiser ou Précédent car cela pourrait interrompre ou mettre fin à la transaction."
+  }
+}

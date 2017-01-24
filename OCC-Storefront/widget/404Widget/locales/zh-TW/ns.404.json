@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "找不到頁面",
+    "error404" : "錯誤 404：",
+    "pageNotFoundText" : "您輸入的地址可能不正確，或者已更新或刪除頁面。",
+    "lnkHome" : "首頁",
+    "lnkBack" : "返回"            
+  }
+}

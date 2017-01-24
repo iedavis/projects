@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Calcola spedizione e imposta (facoltativo)",
+    "cartShippingErrorMsg": "Assicurarsi di aver completato tutti i campi relativi alla spedizione e correggere eventuali inserimenti non validi.",
+    "countryText": "Paese",
+    "stateText": "Stato",
+    "zipCodeText": "C.A.P./Codice postale",
+    "countryRequired": "Il paese è obbligatorio.",
+    "stateRequired": "Lo stato è obbligatorio.",
+    "zipCodeRequired": "Il C.A.P./Codice postale è obbligatorio.",
+    "zipCodeInvalid": "Inserimento non valido. Inserire un C.A.P./Codice postale valido.",
+    "stateRegionText": "Stato/regione",
+    "noShippingSelectedText": "Nessun metodo di spedizione selezionato.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Nessun metodo di spedizione disponibile per l'indirizzo di destinazione.",
+    "noShippingMethodsForAddressText": "Impossibile recuperare i metodi di spedizione per l'indirizzo di spedizione inserito",
+    "fetchingShippingMethodsText": "Recupero metodi di spedizione per l'indirizzo",
+    "invalidShippingAddress": "Indirizzo di spedizione specificato non valido.",
+    "invalidShippingMethod": "Metodo di spedizione specificato non valido.",
+    "pricingError" : "Impossibile calcolare i costi di spedizione e imposte. Controllare l'indirizzo di spedizione.",
+    "invalidPreviousAddress": "Non vengono più effettuate spedizioni all'indirizzo di spedizione precedentemente utilizzato.",
+    "shippingMethodNoLongerAvailable": "Il metodo di spedizione selezionato in precedenza non è più disponibile. Verificare il metodo di spedizione prima di creare l'ordine."
+  }
+}

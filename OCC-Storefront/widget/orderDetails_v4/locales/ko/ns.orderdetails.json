@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "내 주문",
+    "backToMyOrdersLink" : "<< 내 주문으로 돌아가기",
+    "orderDetailsText": "주문 세부정보",
+    "orderDateText": "주문 일자:",
+    "orderNumberText": "주문 번호:",
+    "orderStatusText": "주문 상태:",
+    "quoteExpiryText": "견적 만료:",
+    "scheduledOrderName": "스케줄 이름:",
+    "shippingAddressAndMethodText": "배송 주소 및 방법", 
+    "shippingAddressText": "배송처:",
+    "noShippingAddressText" : "사용 가능한 배송 주소 없음", 
+    "shippingMethodText": "배송 방법:",
+    "shippingText": "일반 배송:",
+    "salesTaxText": "판매세:",
+    "orderTotalText": "주문 합계:",
+    "includingTaxText": "(세금 포함)",
+    "totalExcludingTaxText": "합계(세금 제외): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "추적 번호:",
+    "trackingReferenceReaderText": "__carrierName__이(가) 참조 __trackingReference__을(를) 추적",
+    "scheduledOrderPriceListGroupText": "가격 목록 '__priceListGroup__'에 따라 스케줄링된 주문이 생성되었습니다."
+  } 
+}

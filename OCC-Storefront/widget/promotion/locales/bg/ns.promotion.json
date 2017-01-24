@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Добавяне на промоция или код за лоялност",
+  "promoCode": "Въведете промоционален код",
+  "promoCodeAriaLabelText": "Въведете промоционален код",
+  "buttonApplyCodeText": "Прилагане на код",
+  "buttonApplyingCodeText": "Прилагане на код",
+  "couponDetailsError": "Открит е проблем в информацията за вашия купон.",
+  "promoCodeRequired": "Кодът на купон не може да е празен",
+  "duplicateCoupon": "Кодът вече е приложен."
+  }
+}

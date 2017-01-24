@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Vključitev ID-ja planiranega naročila?",
+	"includeScheduledHelpText" : "Izberite za vključitev ID-ja planiranega naročila v tabelo zgodovine naročil"
+  }
+}

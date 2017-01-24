@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Potrditev naročila", 
+    "orderDoesNotExist": "Naročilo ne obstaja.", 
+    "thankyouMsg": "Hvala za naročilo dne __orderDate__ ob __orderTime__.", 
+    "processingMsg": "Naročilo je zdaj v obdelavi.",
+    "pendingMsg": "Hvala, vaša zahteva za naročilo je bila prejeta in plačilo je na čakanju. Ko bo plačilo odobreno, bomo obdelali naročilo.",
+    "orderNumberMsg": "Vaša številka naročila je __orderNumber__.", 
+    "emailMsg": "E-pošta s potrditvijo naročila s podrobnostmi spodnjega naročila je bila poslana na __emailAddress__.", 
+    "yourOrderText": "Vaše naročilo", 
+    "itemText": "Artikel", 
+    "quantityText": "Količina", 
+    "itemTotalText": "Artikel skupaj", 
+    "shippingAddressAndMethodText": "Naslov za pošiljanje in metoda pošiljanja", 
+    "shipToText": "Prejemnik:", 
+    "shippingMethodText": "Metoda pošiljanja:", 
+    "paymentDetailsText": "Podrobnosti plačila", 
+    "cardTypeText": "Vrsta kartice:", 
+    "cardNumberText": "Številka kartice:", 
+    "billingAddressText": "Naslov za fakturo:",
+    "loginSuccessText": "Vaš račun je bil ustvarjen. Hvala za registracijo.",
+    "loginFailureText": "Napaka: Vaše naročilo je bilo obdelano, a je prišlo do težave pri ustvarjanju računa. Poskusite znova.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

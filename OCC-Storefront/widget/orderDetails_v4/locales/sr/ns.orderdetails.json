@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Моје наруџбине",
+    "backToMyOrdersLink" : "<< Назад на моје наруџбине",
+    "orderDetailsText": "Детаљи наруџбине",
+    "orderDateText": "Датум наруџбине:",
+    "orderNumberText": "Број наруџбине:",
+    "orderStatusText": "OrderStatus:",
+    "quoteExpiryText": "Истицање понуде:",
+    "scheduledOrderName": "Име плана:",
+    "shippingAddressAndMethodText": "Адреса и начин испоруке", 
+    "shippingAddressText": "Отпремити на:",
+    "noShippingAddressText" : "Није доступна ниједна адреса испоруке", 
+    "shippingMethodText": "Начин испоруке:",
+    "shippingText": "Стандардна испорука:",
+    "salesTaxText": "Порез на промет:",
+    "orderTotalText": "Укупно за наруџбину:",
+    "includingTaxText": "(укључујући порез)",
+    "totalExcludingTaxText": "Укупно (без пореза): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Бројеви праћења:",
+    "trackingReferenceReaderText": "__carrierName__ - референтни број за праћење__trackingReference__",
+    "scheduledOrderPriceListGroupText": "Планирана наруџбина је креирана у складу са ценовником '__priceListGroup__'"
+  } 
+}

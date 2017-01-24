@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Teslim alma",
+    "emailAddressText" : "E-Posta Adresi",
+    "firstNameText" : "Adı",
+    "lastNameText" : "Soyadı",
+    "passwordText" : "Parola",
+    "confirmPasswordText" : "Parolayı Teyit Et",
+    "checkoutAsGuestText" : "Konuk olarak teslim alın",
+    "loginToAccountText" : "Hesabınızda oturuma açın",
+    "rememberMeText" : "Hesap oluşturmak istiyorum.",
+    "marketingMailsText" : "E-posta güncellemelerini almak istiyorum.",
+    "checkoutErrorMsg" : "Lütfen zorunlu alanların tümünü doldurduğunuzdan ve varsa geçersiz girişleri düzelttiğinizden emin olun.",
+    "buttonCancel": "İptal",
+    "buttonLogin": "Oturum Aç",
+    "checkoutOption": "Çıkış seçeneğinizi belirleyin.",
+    "buttonLogout": "Oturumu Kapat",
+    "welcomeMessage": "Tekrar hoş geldiniz!",
+    "registrationMessageText":"Hesap oluşturduğunuzda daha hızlı alışveriş yapabilir, geçerli siparişinizin durumunu izleyebilirsiniz ve önceki siparişlerinizin statüsünü kontrol edebilirsiniz.",
+    "userSessionExpiredErrorMsg" : "Çıkış oturumunuz işlem yapılmadığından sona erdi. Lütfen çıkışı yeniden başlatın."
+  }
+}

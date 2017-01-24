@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "แอททริบิวที่แสดง",
+    "numberOfRelatedProductsHelpText": "ป้อนจำนวนผลิตภัณฑ์ที่เกี่ยวข้องที่จะแสดงใน Carousel",
+    "numberOfRelatedProductsTextLabel": "จำนวนผลิตภัณฑ์ที่เกี่ยวข้อง",
+    "displayNameOfRelatedProductsTextLabel": "ชื่อผลิตภัณฑ์",
+    "displayPriceOfRelatedProductsTextLabel": "ราคา"
+  }
+}

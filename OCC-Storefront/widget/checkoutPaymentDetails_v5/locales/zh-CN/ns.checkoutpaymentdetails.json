@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "付款详细信息",
+  "paymentMethod": "付款方式",
+  "paypalText": "更安全、更便捷的付款方式。", 
+  "paymentDetailsError": "请确保填写了所有必填字段并更正了所有无效输入。",
+  "paymentMethodNotAvilable": "（此付款选项不能用于计划订单。）",
+  
+  "nameOnCardLabel": "卡上的姓名",
+  "nameOnCardPlaceholder": "卡上的姓名",
+  "nameOnCardRequired": "“卡上的姓名”是必填项。",
+  "nameOnCardInvalid": "“卡上的姓名”无效。",
+  
+  "cardTypeLabel": "卡类型",
+  "cardTypePlaceholder": "卡类型",
+  "cardTypeRequired": "“卡类型”是必填项。",
+  "cardTypeInvalid": "卡类型无效。",
+  
+  "cardNumberLabel": "卡号",
+  "cardNumberPlaceholder": "卡号",
+  "cardNumberRequired": "“卡号”是必填项。",
+  "cardNumberMaxLength":"输入无效。请不要超过最大字符数 __maxLength__。",
+  "cardNumberInvalid": "卡号无效，请重试。",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV 是必填项。",
+  "cardCVVInvalid": "CVV 无效。",
+  "cardCVVWhatsThis": "这是什么？",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "信用卡签名条上的最后 3 位数字。",
+  "cardCVVNumberInvalid": "输入无效，请仅输入数字。",
+  "cardCVVNumberMaxLength": "输入无效。请不要超过允许的最大字符数 4。",
+  "cardCVVNumberMinLength": "输入无效。请至少输入 3 个字符。",
+  
+  "endMonthLabel": "到期（月份）",
+  "endMonthPlaceholder": "到期（月份）",
+  "endMonthRequired": "卡到期月份是必填项。",
+  "endMonthInvalid": "到期月份/年份无效，请重试。",
+  
+  "endYearLabel": "到期（年份）",
+  "endYearPlaceholder": "到期（年份）",
+  "endYearRequired": "卡到期年份是必填项。",
+  "endYearInvalid": "到期月份/年份无效，请重试。",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

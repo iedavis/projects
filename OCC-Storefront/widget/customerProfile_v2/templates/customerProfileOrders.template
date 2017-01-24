@@ -1,0 +1,16 @@
+<div id="CC-customerProfile-order-details">
+  <!-- ko with: user -->
+    <div class="h2" data-bind="widgetLocaleText:'myOrdersText'" id="CC-customerProfile-myorders-title">
+    </div>
+    <hr>
+  
+    <div class="cc-customerOrders-container" id="CC-customerOrders-controls">
+      <!-- ko if: countOfSubmittedOrders() == 0 -->
+        <span data-bind="widgetLocaleText:'noOrdersFound'"></span>
+      <!-- /ko -->
+      <!-- ko if: countOfSubmittedOrders() > 0 -->
+        <a href="#" id="CC-customerAccount-view-orders" class="text-underline" data-bind="widgetLocaleText:'viewOrderHistory', click: validatePrivilagePageRequest, ccNavigation: 'prevent', ccLink: 'orderHistory'"></a>
+      <!-- /ko -->
+    </div>
+  <!-- /ko -->
+</div>

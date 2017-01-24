@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Kassa",
+    "emailAddressText" : "E-mailadres",
+    "firstNameText" : "Voornaam",
+    "lastNameText" : "Achternaam",
+    "passwordText" : "Wachtwoord",
+    "confirmPasswordText" : "Wachtwoord bevestigen",
+    "checkoutAsGuestText" : "Afrekenen als gast",
+    "loginToAccountText" : "Inloggen bij uw account",
+    "rememberMeText" : "Ik wil een account maken.",
+    "marketingMailsText" : "Ik wil updates ontvangen via e-mail.",
+    "checkoutErrorMsg" : "Controleer of u alle verplichte velden hebt ingevuld en eventuele ongeldige invoer hebt gecorrigeerd.",
+    "buttonCancel": "Annuleren",
+    "buttonLogin": "Inloggen",
+    "checkoutOption": "Kies uw kassaoptie.",
+    "buttonLogout": "Uitloggen",
+    "welcomeMessage": "Welkom terug!",
+    "registrationMessageText":"Als u een account maakt, kunt u sneller winkelen, op de hoogte blijven van de voortgang van uw huidige order en de status van eerdere orders controleren.",
+    "userSessionExpiredErrorMsg" : "Uw kassasessie is verlopen vanwege inactiviteit. Probeer opnieuw af te rekenen."
+  }
+}

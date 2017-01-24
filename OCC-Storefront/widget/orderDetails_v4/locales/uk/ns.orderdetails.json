@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Мої замовлення",
+    "backToMyOrdersLink" : "<< Повернутися до моїх замовлень",
+    "orderDetailsText": "Відомості про замовлення",
+    "orderDateText": "Дата замовлення:",
+    "orderNumberText": "Номер замовлення:",
+    "orderStatusText": "Стан замовлення:",
+    "quoteExpiryText": "Термін дії пропонованої ціни минає:",
+    "scheduledOrderName": "Назва плану:",
+    "shippingAddressAndMethodText": "Адреса та спосіб поставки", 
+    "shippingAddressText": "Отримувач:",
+    "noShippingAddressText" : "Немає адреси поставки", 
+    "shippingMethodText": "Спосіб поставки:",
+    "shippingText": "Стандартна поставка:",
+    "salesTaxText": "Податок із продажів",
+    "orderTotalText": "Загальна сума замовлення:",
+    "includingTaxText": "(включно з податком)",
+    "totalExcludingTaxText": "Загалом (без урахування податку): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Номери відстеження:",
+    "trackingReferenceReaderText": "Дані для відстеження __carrierName__: __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Планове замовлення, створене відповідно до прейскуранта \"__priceListGroup__\""
+  } 
+}

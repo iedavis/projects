@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Votre panier est vide.",
+    "buttonContinueShopping": "Continuer votre magasinage",
+    "cartHeader" : "Votre panier",
+    "itemHeaderItem": "Article",    
+    "itemHeaderQuantity": "Quantité",
+    "itemQuantity": "Quantité de __productName__",
+    "itemHeaderItemTotal": "Total des articles",
+    "totalTableSubTotal": "Sous-total :",
+    "includingTaxText": "(taxes incluses)",
+    "totalTableTotal": "Total :",
+    "buttonUpdateQuantity": "Mettre à jour",
+    "buttonRemoveItem": "Supprimer",
+    "instockText": "En stock",
+    "outofstockText": "En rupture de stock",
+    "totalTableSummary": "Totaux du panier."
+  }
+}

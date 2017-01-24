@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="4"
+   name=""
+   committed-date="2006-09-27T00:39:39.637797Z"
+   url="http://google-checkout-java14-sample-code.googlecode.com/svn/trunk/src/com/google/checkout/schema/_2/impl/runtime"
+   last-author="colinhc"
+   kind="dir"
+   uuid="8474a406-481d-0410-88fc-6705ad773e9c"
+   repos="http://google-checkout-java14-sample-code.googlecode.com/svn"
+   revision="13"/>
+<entry
+   committed-rev="4"
+   name="ValidationContext.java"
+   text-time="2006-11-23T21:30:23.250000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="59b5bf946054560792a95b21f6cfd0ba"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:12.281250Z"/>
+<entry
+   committed-rev="4"
+   name="ValidatableObject.java"
+   text-time="2006-11-23T21:30:23.250000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1f18308bf3e480a430da667d1e3620ad"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:12.250000Z"/>
+<entry
+   committed-rev="4"
+   name="ValidatingUnmarshaller.java"
+   text-time="2006-11-23T21:30:23.281250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="3f051ae8763f41e4f074d7662a940740"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:13.140625Z"/>
+<entry
+   committed-rev="4"
+   name="Discarder.java"
+   text-time="2006-11-23T21:30:23.265625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="948a2cf2fd160c9e01a5c189656086f9"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:12.296875Z"/>
+<entry
+   committed-rev="4"
+   name="GrammarInfo.java"
+   text-time="2006-11-23T21:30:23.296875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="8bd30976246449e0a69c47c085f17f33"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:13.953125Z"/>
+<entry
+   committed-rev="4"
+   name="ErrorHandlerAdaptor.java"
+   text-time="2006-11-23T21:30:23.281250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="04305ca959b350f24b018d4ed2dfd005"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:13.156250Z"/>
+<entry
+   committed-rev="4"
+   name="UnmarshallingEventHandler.java"
+   text-time="2006-11-23T21:30:23.312500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1d6b04174f5342cebbd57eb285616a31"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:13.953125Z"/>
+<entry
+   committed-rev="4"
+   name="SAXMarshaller.java"
+   text-time="2006-11-23T21:30:23.312500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="b57f4831cceb8476835f8247187aa31a"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:15.046875Z"/>
+<entry
+   committed-rev="4"
+   name="ValidatorImpl.java"
+   text-time="2006-11-23T21:30:23.328125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="cea01794cf96b691f2c65f2d56c601f6"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:15.062500Z"/>
+<entry
+   committed-rev="4"
+   name="SAXUnmarshallerHandler.java"
+   text-time="2006-11-23T21:30:23.328125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="228088a75831cc2bcde2a2fe4d19e372"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:15.046875Z"/>
+<entry
+   committed-rev="4"
+   name="IdentityHashSet.java"
+   text-time="2006-11-23T21:30:23.484375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="4b769a28b3f7b4626930038e490794fc"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:17.218750Z"/>
+<entry
+   committed-rev="4"
+   name="InterningUnmarshallerHandler.java"
+   text-time="2006-11-23T21:30:23.484375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="53243dffbff0785f53dfb23316f5d199"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:17.203125Z"/>
+<entry
+   committed-rev="4"
+   name="UnmarshallingContext.java"
+   text-time="2006-11-23T21:30:23.343750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="2ff103b5e802aaa9dffddf662a93eb05"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:17.187500Z"/>
+<entry
+   committed-rev="4"
+   name="PrefixCallback.java"
+   text-time="2006-11-23T21:30:23.515625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1caddc43d582dbf22a51ab6cb54771a1"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:17.234375Z"/>
+<entry
+   committed-rev="4"
+   name="AbstractUnmarshallingEventHandlerImpl.java"
+   text-time="2006-11-23T21:30:23.500000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="7387a921a175d281a00569ade9feaf9e"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:17.218750Z"/>
+<entry
+   committed-rev="4"
+   name="MSVValidator.java"
+   text-time="2006-11-23T21:30:23.515625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="715da6f0a589a8bcb87804af93a737e0"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:17.375000Z"/>
+<entry
+   committed-rev="4"
+   name="MarshallerImpl.java"
+   text-time="2006-11-23T21:30:23.531250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="80aa1d07b2836fe474298b6dd48377ba"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:18.359375Z"/>
+<entry
+   committed-rev="4"
+   name="Util.java"
+   text-time="2006-11-23T21:30:23.546875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="31c576149a23daf1cfeefba26534fd0d"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:18.359375Z"/>
+<entry
+   committed-rev="4"
+   name="UnmarshallerImpl.java"
+   text-time="2006-11-23T21:30:23.546875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="f4eef2f0e19ef105161657b94098a772"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:18.375000Z"/>
+<entry
+   committed-rev="4"
+   name="UnmarshallingEventHandlerAdaptor.java"
+   text-time="2006-11-23T21:30:23.562500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="22f9ff8eef1aec592008313066f704b1"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:19.906250Z"/>
+<entry
+   committed-rev="4"
+   name="DefaultJAXBContextImpl.java"
+   text-time="2006-11-23T21:30:23.578125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="4a75f0afb44796671c7b172d10a3e695"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:20.359375Z"/>
+<entry
+   committed-rev="4"
+   name="UnmarshallableObject.java"
+   text-time="2006-11-23T21:30:23.578125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="ac263f915bd11a7af4ce852c9d2fa2f4"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:20.375000Z"/>
+<entry
+   committed-rev="4"
+   name="NamespaceContext2.java"
+   text-time="2006-11-23T21:30:23.593750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="e37feb0a0a98c3deb8cbbe5acfe06d9e"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:20.390625Z"/>
+<entry
+   committed-rev="4"
+   name="NamespaceContextImpl.java"
+   text-time="2006-11-23T21:30:23.609375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="42fb6f72da68a9c0b22c0dfae701d37c"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:21.156250Z"/>
+<entry
+   committed-rev="4"
+   name="ContentHandlerAdaptor.java"
+   text-time="2006-11-23T21:30:23.609375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="ebd394cc309a285d868e49e54d8582fb"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:21.171875Z"/>
+<entry
+   committed-rev="4"
+   name="GrammarInfoImpl.java"
+   text-time="2006-11-23T21:30:23.625000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a234c1dfa465c405418625a7c7249f56"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:21.203125Z"/>
+<entry
+   committed-rev="4"
+   name="GrammarInfoFacade.java"
+   text-time="2006-11-23T21:30:23.640625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="e98c1f4b8b0d9c3deb9f5040bebfebe1"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:21.843750Z"/>
+<entry
+   committed-rev="4"
+   name="XMLSerializable.java"
+   text-time="2006-11-23T21:30:23.640625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="76ae883aae2e71e43c015dd3c21a7e64"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:21.859375Z"/>
+<entry
+   committed-rev="4"
+   name="SAXUnmarshallerHandlerImpl.java"
+   text-time="2006-11-23T21:30:23.656250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="fc68f94c74e9f336740901194257439e"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:23.218750Z"/>
+<entry
+   committed-rev="4"
+   name="XMLSerializer.java"
+   text-time="2006-11-23T21:30:23.656250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a2643825ace0134ca4500451a02d506f"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:23.234375Z"/>
+</wc-entries>

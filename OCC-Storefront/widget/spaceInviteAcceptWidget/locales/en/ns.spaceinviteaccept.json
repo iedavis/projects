@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Welcome __userdisplayname__.",
+    "invitationAlreadyAccepted" : "The invitation has already been accepted.",
+    "spaceNotFound" : "The Wish List you are trying to access was not found.",
+    "invitationExpiredError" : "Your invitation has expired! Please contact the owner of the Wish List you want to join and ask him/her to re-invite you.",
+    "memberJoinError" : "An error has occurred with the invitation.",
+    "pleaseWaitProcessingMsg" : "Please wait while we process your invitation"
+  }
+}

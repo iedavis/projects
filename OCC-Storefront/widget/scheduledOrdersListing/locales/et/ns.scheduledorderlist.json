@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Ajastatud tellimused",
+    "backToMyAccount" : "<< Tagasi minu kontole",
+    "scheduledOrderName" : "Nimi",
+    "frequency": "Sagedus",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Olek",
+    "nextShipDate": "Järgmine tellimus:",
+    "lastScheduledRun": "Viimane tellimus",
+    "scheduledOrderDetails": "Tellimuse andmed",
+    "orderDetails": "Üksikasjad",
+    "action": "Toiming",
+    "createdDate":"Loomiskuupäev",
+    "editOrder": "Redigeeri",
+    "deleteOrder": "Kustuta",
+    "deleteSuccessMsg":"Kustutatud",
+    "myAccount" : "Minu konto"
+  }
+}

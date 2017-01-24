@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Kassa",
+    "defaultAddressLabel": "Standaardadres",
+    "billingAddressText" : "Factuuradres",
+    "noAddressesText" : "Er zijn geen adressen opgeslagen.",
+    "firstNameText": "Voornaam",
+    "lastNameText": "Achternaam",
+    "shippingAddressText": "Bestemmingsadres",
+    "checkoutErrorMsg": "Controleer of u alle verplichte velden hebt ingevuld en eventuele ongeldige invoer hebt gecorrigeerd.",
+    "firstNameRequired": "Voornaam is verplicht.",
+    "lastNameRequired": "Achternaam is verplicht.",
+    "unsupportedShippingAddressText": "Verzending is niet beschikbaar naar dit adres.",
+    "invalidBillingAddressText": "Uw bestemmingsadres kan niet worden gebruikt als factuuradres. Voer een factuuradres in.",
+    "invalidPreviousAddress": "We verzenden niet meer naar uw eerder gebruikte bestemmingsadres."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Свернуть...",
+    "seeMoreText" : "Развернуть...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Уточнить по",
+    "clearAllRefinementsText" : "Очистить все уточнения",
+    "guidedNavigationHeader" : "Верхний колонтитул для навигации по указаниям",
+    "doneText" : "Готово",
+    "expandText" : "Развернуть",
+    "collapseText" : "Свернуть",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Навигация по указаниям с наложением загружена"
+  }
+}

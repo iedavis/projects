@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "是否要包含排定訂單 ID？",
+	"includeScheduledHelpText" : "勾選以在「訂單歷史記錄」表格中包含排定訂單 ID"
+  }
+}

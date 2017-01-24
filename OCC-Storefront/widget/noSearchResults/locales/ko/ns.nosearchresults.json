@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "'__searchterm__'을(를) 검색했습니다. 제품을 찾을 수 없습니다.",
+    "titleText": "검색",
+    "searchFailedText": "현재 검색을 수행할 수 없습니다."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Meiliteavituste sätted",
+    "spaceSettingsNotificationIntroText" : "Soovin saada järgmisi teatisi:",
+    "spaceSettingsCommentNotificationTxt" : "Kommentaaride ja toodete teatised",
+    "spaceSettingsNewMemberNotificationTxt" : "Uue liikme teatised",
+    "spaceSettingsSaveTxt" : "Salvesta",
+    "spaceSettingsCancelTxt" : "Loobu",
+    "spaceSettingsSaveErrorTxt" : "Teavitussätete muudatuste salvestamisel ilmnes probleem.",
+    "spaceSettingsSaveSuccessTxt" : "Teavitussätted on värskendatud ja salvestatud.",
+    "spaceSettingsOnText" : "Jah",
+    "spaceSettingsOffText" : "Ei",
+    "spaceSettingsNotificationEnableHelpText" : "Sooviloendi teavituste lubamiseks valige lehel „Minu konto“ säte „Soovin saada meiliteavitusi“."
+  }
+}

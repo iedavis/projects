@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Betalningsdetaljer",
+  "paymentMethod": "Betalningssätt",
+  "paypalText": "Det säkrare och lättare sättet att betala.", 
+  "paymentDetailsError": "Kontrollera att du har fyllt i alla obligatoriska fält och korrigerat eventuella ogiltiga poster.",
+  "paymentMethodNotAvilable": "(Det här betalningsalternativet kan inte användas för schemalagda order.)",
+  
+  "nameOnCardLabel": "Namn på kortet",
+  "nameOnCardPlaceholder": "Namn på kortet",
+  "nameOnCardRequired": "Namnet på kortet måste anges.",
+  "nameOnCardInvalid": "Namnet på kortet är ogiltigt.",
+  
+  "cardTypeLabel": "Korttyp",
+  "cardTypePlaceholder": "Korttyp",
+  "cardTypeRequired": "Korttyp måste anges.",
+  "cardTypeInvalid": "Korttypen är ogiltig.",
+  
+  "cardNumberLabel": "Kortnummer",
+  "cardNumberPlaceholder": "Kortnummer",
+  "cardNumberRequired": "Kortnummer måste anges.",
+  "cardNumberMaxLength":"Ogiltigt värde. Högst __maxLength__ tecken är tillåtna.",
+  "cardNumberInvalid": "Ogiltigt kortnummer. Försök igen.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV måste anges.",
+  "cardCVVInvalid": "CVV är ogiltigt.",
+  "cardCVVWhatsThis": "Vad är det här?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "De 3 sista siffrorna på kortets underskriftsremsa.",
+  "cardCVVNumberInvalid": "Ogiltigt värde. Ange endast siffror.",
+  "cardCVVNumberMaxLength": "Ogiltigt värde. Högst 4 tecken är tillåtna.",
+  "cardCVVNumberMinLength": "Ogiltigt värde. Ange minst 3 tecken.",
+  
+  "endMonthLabel": "Giltigt till (månad)",
+  "endMonthPlaceholder": "Giltigt till (månad)",
+  "endMonthRequired": "Månaden då kortet går ut måste anges.",
+  "endMonthInvalid": "Sista giltighetsmånad/-år är ogiltigt. Försök igen.",
+  
+  "endYearLabel": "Giltigt till (år)",
+  "endYearPlaceholder": "Giltigt till (år)",
+  "endYearRequired": "Året då kortet går ut måste anges.",
+  "endYearInvalid": "Sista giltighetsmånad/-år är ogiltigt. Försök igen.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

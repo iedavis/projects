@@ -1,0 +1,2 @@
+<span data-bind="widgetLocaleText: {value:'addProductSuccessMsg', attr:'innerText', params: {displayname: product().displayName()}}"></span>
+<a data-bind="ccLink: 'cart'"><span data-bind="widgetLocaleText: 'cartUpdateMsg'"></span></a>

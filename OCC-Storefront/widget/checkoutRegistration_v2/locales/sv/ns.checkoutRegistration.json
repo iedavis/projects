@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Kassan",
+    "emailAddressText" : "E-postadress",
+    "firstNameText" : "Förnamn",
+    "lastNameText" : "Efternamn",
+    "passwordText" : "Lösenord",
+    "confirmPasswordText" : "Bekräfta lösenord",
+    "checkoutAsGuestText" : "Checka ut som gäst",
+    "loginToAccountText" : "Logga in på kontot",
+    "rememberMeText" : "Jag vill skapa ett konto.",
+    "marketingMailsText" : "Jag vill få information via e-post.",
+    "checkoutErrorMsg" : "Kontrollera att du har fyllt i alla obligatoriska fält och korrigerat eventuella ogiltiga poster.",
+    "buttonCancel": "Avbryt",
+    "buttonLogin": "Logga in",
+    "checkoutOption": "Välj kassaalternativ.",
+    "buttonLogout": "Logga ut",
+    "welcomeMessage": "Välkommen tillbaka!",
+    "registrationMessageText":"Om du skapar ett konto går betalningen snabbare och du kan följa förloppet för din aktuella order samt kontrollera statusen på tidigare order.",
+    "userSessionExpiredErrorMsg" : "Din kassasession har upphört på grund av inaktivitet. Gå till kassan igen."
+  }
+}

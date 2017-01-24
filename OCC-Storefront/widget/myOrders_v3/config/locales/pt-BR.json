@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Incluir ID do Pedido Programado?",
+	"includeScheduledHelpText" : "Selecione para Incluir o ID do Pedido Programado na tabela Histórico de Pedidos"
+  }
+}

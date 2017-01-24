@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Mit Geschenkkarte bezahlen",
+    "giftCardNumberText": "Geschenkkartennummer",
+    "giftCardPinText": "Geschenkkarten-PIN",
+    "giftCardApplyText": "Geschenkkarte anwenden", 
+    "giftCardApplyingText": "Geschenkkarte wird angewendet", 
+    "displayGiftCardDetailsText" : "Mit Geschenkkarte bezahlen",
+    "duplicateGiftcardErrMsg":"Geschenkkarte bereits angewendet."
+  }
+}

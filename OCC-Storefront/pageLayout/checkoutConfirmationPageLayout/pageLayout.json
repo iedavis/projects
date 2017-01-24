@@ -1,0 +1,177 @@
+{
+  "defaultPage": true,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "basicHeaderWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 9,
+      "type": "body",
+      "widgets": ["checkoutConfirmationInst_v2"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 3,
+      "type": "body",
+      "widgets": ["confirmationSummaryInst_v2"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "confirmation",
+  "isLayoutDisplayable": true,
+  "displayName": "Order Confirmation Layout",
+  "translations": [
+    {
+      "name": "การยืนยัน",
+      "language": "th"
+    },
+    {
+      "name": "Confirmação",
+      "language": "pt_BR"
+    },
+    {
+      "name": "确认",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Підтвердження",
+      "language": "uk"
+    },
+    {
+      "name": "Потвърждение",
+      "language": "bg"
+    },
+    {
+      "name": "Kinnitus",
+      "language": "et"
+    },
+    {
+      "name": "Apstiprinājums",
+      "language": "lv"
+    },
+    {
+      "name": "Patvirtinimas",
+      "language": "lt"
+    },
+    {
+      "name": "Bekreftelse",
+      "language": "no"
+    },
+    {
+      "name": "Confirmare",
+      "language": "ro"
+    },
+    {
+      "name": "Confirmation",
+      "language": "fr_CA"
+    },
+    {
+      "name": "確認",
+      "language": "ja"
+    },
+    {
+      "name": "Potrditev",
+      "language": "sl"
+    },
+    {
+      "name": "Подтверждение",
+      "language": "ru"
+    },
+    {
+      "name": "Potvrda",
+      "language": "hr"
+    },
+    {
+      "name": "Onay",
+      "language": "tr"
+    },
+    {
+      "name": "Potwierdzenie",
+      "language": "pl"
+    },
+    {
+      "name": "確認",
+      "language": "zh_TW"
+    },
+    {
+      "name": "확인",
+      "language": "ko"
+    },
+    {
+      "name": "Potvrzení",
+      "language": "cs"
+    },
+    {
+      "name": "Megerősítés",
+      "language": "hu"
+    },
+    {
+      "name": "Επιβεβαίωση",
+      "language": "el"
+    },
+    {
+      "name": "Bekræftelse",
+      "language": "da"
+    },
+    {
+      "name": "Confirmation",
+      "language": "en"
+    },
+    {
+      "name": "Потврда",
+      "language": "sr"
+    },
+    {
+      "name": "Bestätigung",
+      "language": "de"
+    },
+    {
+      "name": "التأكيد",
+      "language": "ar"
+    },
+    {
+      "name": "Confirmación",
+      "language": "es"
+    },
+    {
+      "name": "Confirmation",
+      "language": "fr"
+    },
+    {
+      "name": "Conferma",
+      "language": "it"
+    },
+    {
+      "name": "Bevestiging",
+      "language": "nl"
+    },
+    {
+      "name": "Bekräftelse",
+      "language": "sv"
+    },
+    {
+      "name": "Confirmação",
+      "language": "pt"
+    },
+    {
+      "name": "Vahvistus",
+      "language": "fi"
+    }
+  ]
+}

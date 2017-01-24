@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Mitt konto",
+    "orderHistoryText" : "Orderhistorik",
+    "backToMyAccount" : "<< Tillbaka till mitt konto",
+    "historyHeaderOrderDate": "Orderdatum",    
+    "historyHeaderOrderNumber": "Ordernummer",
+    "historyHeaderOrderStatus": "Orderstatus",
+    "historyHeaderOrderTotal": "Ordersumma",
+    "historyHeaderOrderDetails": "Orderdetaljer",
+    "listingHeaderScheduledOrderId": "Schema-id",
+    "orderDetails": "Detaljer"
+  }
+}

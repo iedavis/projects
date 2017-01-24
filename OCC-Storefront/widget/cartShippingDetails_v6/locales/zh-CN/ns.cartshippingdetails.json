@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "计算运费和税金（可选）",
+    "cartShippingErrorMsg": "请确保填写了所有配送字段并更正了所有无效输入。",
+    "countryText": "国家/地区",
+    "stateText": "省/市/自治区",
+    "zipCodeText": "邮编/邮政编码",
+    "countryRequired": "“国家/地区”是必填项。",
+    "stateRequired": "“省/市/自治区”是必填项。",
+    "zipCodeRequired": "“邮编/邮政编码”是必填项。",
+    "zipCodeInvalid": "输入无效。请输入有效的邮编/邮政编码。",
+    "stateRegionText": "省/市/自治区",
+    "noShippingSelectedText": "未选择配送方式。",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "目的地地址无可用配送方式。",
+    "noShippingMethodsForAddressText": "无法检索输入的收货地址的配送方式",
+    "fetchingShippingMethodsText": "提取地址的配送方式",
+    "invalidShippingAddress": "指定的收货地址无效。",
+    "invalidShippingMethod": "指定的配送方式无效。",
+    "pricingError" : "无法计算运费和税费。请检查您的收货地址。",
+    "invalidPreviousAddress": "我们不再配送到您以前使用的收货地址。",
+    "shippingMethodNoLongerAvailable": "以前选择的配送方式不再可用。在下订单之前请检查配送方式。"
+  }
+}

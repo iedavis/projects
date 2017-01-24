@@ -1,0 +1,8 @@
+{
+  "config": {"displaySWM": "true"},
+  "id": "customerProfileInst_v2",
+  "name": "Customer Profile Widget",
+  "templatePath": "/templates/display-customerProfileInst_v2.template",
+  "usingCodeView": true,
+  "usingLessCodeView": false
+}

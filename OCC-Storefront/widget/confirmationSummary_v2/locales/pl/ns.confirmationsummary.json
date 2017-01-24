@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "Podsumowanie zamówienia", 
+    "orderDoesNotExist": "Zamówienie nie istnieje.", 
+    "subTotalText": "Suma częściowa:", 
+    "salesTaxText": "Podatek od sprzedaży:", 
+    "orderTotalText": "Zamówienie łącznie:", 
+    "continueShoppingText": "Kontynuuj zakupy",
+    "delimiter": ":",
+    "includingTaxText": "(z uwzględnieniem podatku)",
+    "totalExcludingTaxText": "Łącznie (z wykluczeniem podatku): "
+  }
+}

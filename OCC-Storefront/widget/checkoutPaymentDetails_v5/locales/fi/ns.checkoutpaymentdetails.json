@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Maksutiedot",
+  "paymentMethod": "Maksutapa",
+  "paypalText": "Turvallisempi, helpompi tapa maksaa.", 
+  "paymentDetailsError": "Varmista, että olet täyttänyt kaikki pakolliset kentät ja korjannut virheelliset kohdat.",
+  "paymentMethodNotAvilable": "(Tätä maksutapaa ei voi käyttää suunnitelluille tilauksille.)",
+  
+  "nameOnCardLabel": "Kortissa oleva nimi",
+  "nameOnCardPlaceholder": "Kortissa oleva nimi",
+  "nameOnCardRequired": "Kortissa oleva nimi on pakollinen tieto.",
+  "nameOnCardInvalid": "Kortissa oleva nimi on virheellinen.",
+  
+  "cardTypeLabel": "Korttityyppi",
+  "cardTypePlaceholder": "Korttityyppi",
+  "cardTypeRequired": "Korttityyppi on pakollinen tieto.",
+  "cardTypeInvalid": "Korttityyppi on virheellinen.",
+  
+  "cardNumberLabel": "Kortin numero",
+  "cardNumberPlaceholder": "Kortin numero",
+  "cardNumberRequired": "Kortin numero on pakollinen tieto.",
+  "cardNumberMaxLength":"Virheellinen syöte. Älä ylitä sallittua __maxLength__ merkin enimmäisrajaa.",
+  "cardNumberInvalid": "Virheellinen kortin numero, yritä uudelleen.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV on pakollinen tieto.",
+  "cardCVVInvalid": "CVV on virheellinen.",
+  "cardCVVWhatsThis": "Mikä tämä on?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "Luottokortin allekirjoituksen yhteydessä olevat viimeiset 3 numeroa.",
+  "cardCVVNumberInvalid": "Virheellinen syöte. Syötä vain numeroita.",
+  "cardCVVNumberMaxLength": "Virheellinen syöte. Älä ylitä sallittujen 4 merkin enimmäisrajaa.",
+  "cardCVVNumberMinLength": "Virheellinen syöte. Syötä vähintään 3 merkkiä.",
+  
+  "endMonthLabel": "Voimassaolo päättyy (kuukausi)",
+  "endMonthPlaceholder": "Voimassaolo päättyy (kuukausi)",
+  "endMonthRequired": "Kortin voimassaolon päättymiskuukausi on pakollinen.",
+  "endMonthInvalid": "Virheellinen voimassaolon päättymiskuukausi/-vuosi, yritä uudelleen.",
+  
+  "endYearLabel": "Voimassaolo päättyy (vuosi)",
+  "endYearPlaceholder": "Voimassaolo päättyy (vuosi)",
+  "endYearRequired": "Kortin voimassaolon päättymisvuosi on pakollinen.",
+  "endYearInvalid": "Virheellinen voimassaolon päättymiskuukausi/-vuosi, yritä uudelleen.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

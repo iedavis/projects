@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Meine Bestellungen",
+    "backToMyOrdersLink" : "<< Zurück zu meinen Bestellungen",
+    "orderDetailsText": "Bestelldetails",
+    "orderDateText": "Bestelldatum:",
+    "orderNumberText": "Bestellnummer:",
+    "orderStatusText": "Bestellstatus:",
+    "quoteExpiryText": "Angebotsablaufdatum:",
+    "scheduledOrderName": "Planname:",
+    "shippingAddressAndMethodText": "Versandadresse und -art", 
+    "shippingAddressText": "Versand an:",
+    "noShippingAddressText" : "Keine Versandadresse verfügbar", 
+    "shippingMethodText": "Versandart:",
+    "shippingText": "Standardversand:",
+    "salesTaxText": "Umsatzsteuer:",
+    "orderTotalText": "Gesamtsumme der Bestellung:",
+    "includingTaxText": "(mit Steuer)",
+    "totalExcludingTaxText": "Summe (ohne Steuer):",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Verfolgungsnummern:",
+    "trackingReferenceReaderText": "Verfolgungsreferenz __trackingReference__ für __carrierName__",
+    "scheduledOrderPriceListGroupText": "Geplante Bestellung gemäß Preisliste \"__priceListGroup__\" erstellt"
+  } 
+}

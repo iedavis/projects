@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Užsakymo patvirtinimas", 
+    "orderDoesNotExist": "Užsakymas neegzistuoja", 
+    "thankyouMsg": "Dėkojame už jūsų užsakymą, pateiktą __orderDate__ __orderTime__.", 
+    "processingMsg": "Šis užsakymas dabar apdorojamas.",
+    "pendingMsg": "Dėkojame. Jūsų užsakymo užklausa gauta, o mokėjimo laukiama. Patvirtinus mokėjimą, tęsime užsakymo apdrorojimą.",
+    "orderNumberMsg": "Jūsų užsakymo numeris yra __orderNumber__.", 
+    "emailMsg": "Užsakymo patvirtinimo el. laiškas išsiųstas el. pašto adresu __emailAddress__ su išsamia toliau nurodyto užsakymo informacija.", 
+    "yourOrderText": "Jūsų užsakymas", 
+    "itemText": "Elementas ", 
+    "quantityText": "Kiekis", 
+    "itemTotalText": "Prekių bendroji suma", 
+    "shippingAddressAndMethodText": "Siuntimo adresas ir būdas", 
+    "shipToText": "Išsiųsti:", 
+    "shippingMethodText": "Siuntimo būdas:", 
+    "paymentDetailsText": "Mokėjimo informacija", 
+    "cardTypeText": "Kortelės tipas:", 
+    "cardNumberText": "Kortelės Nr.:", 
+    "billingAddressText": "Atsiskaitymo adresas",
+    "loginSuccessText": "Jūsų paskyra sukurta. Dėkojame, kad užsiregistravote.",
+    "loginFailureText": "Klaida: užsakymas apdorotas, bet kuriant paskyrą iškilo problema. Bandykite dar kartą.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

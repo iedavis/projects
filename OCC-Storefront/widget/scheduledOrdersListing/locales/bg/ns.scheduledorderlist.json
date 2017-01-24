@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Планирани поръчки",
+    "backToMyAccount" : "<< Обратно към моя акаунт",
+    "scheduledOrderName" : "Име",
+    "frequency": "Честота",    
+    "scheduledOrderId": "ИД",
+    "scheduledOrderStatus": "Състояние",
+    "nextShipDate": "Следваща поръчка",
+    "lastScheduledRun": "Последна поръчка",
+    "scheduledOrderDetails": "Информация за поръчка",
+    "orderDetails": "Детайли",
+    "action": "Действие",
+    "createdDate":"Дата на създаване",
+    "editOrder": "Редакция",
+    "deleteOrder": "Изтриване",
+    "deleteSuccessMsg":"Успешно изтрит",
+    "myAccount" : "Моят акаунт"
+  }
+}

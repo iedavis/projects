@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-long-description",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "คำอธิบายแบบยาว"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Descrição longa"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "详细描述"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Довгий опис"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Дълго описание"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Pikk kirjeldus"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Izvērsts apraksts"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Ilgasis aprašas"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Lang beskrivelse"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Descriere lungă"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Description longue"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "詳細摘要"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Dolg opis"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Полное описание"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Dugi opis"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Uzun Açıklama"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Długi opis"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "詳細描述"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "상세 설명"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Dlouhý popis"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Részletes leírás"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Αναλυτική περιγραφή"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Lang beskrivelse"
+    },
+    {
+      "description": "Product long description will be displayed here",
+      "language": "en",
+      "title": "Long Description"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Дуги опис"
+    },
+    {
+      "description": "[PX][Product long description will be displayed here ä]",
+      "language": "de",
+      "title": "Langbeschreibung"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Descripción larga"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Description longue"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Descrizione lunga"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Lange beschrijving"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Lång beskrivning"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Descrição Longa"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Pitkä kuvaus"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

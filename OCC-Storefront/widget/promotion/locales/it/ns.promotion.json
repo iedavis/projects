@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Aggiungi un codice promozione o fedeltà",
+  "promoCode": "Immetti codice promozione",
+  "promoCodeAriaLabelText": "Immetti codice promozione",
+  "buttonApplyCodeText": "Applica codice",
+  "buttonApplyingCodeText": "Applicazione del codice",
+  "couponDetailsError": "È stato rilevato un problema con i dettagli del coupon.",
+  "promoCodeRequired": "Il codice coupon non può essere vuoto",
+  "duplicateCoupon": "Codice già applicato."
+  }
+}

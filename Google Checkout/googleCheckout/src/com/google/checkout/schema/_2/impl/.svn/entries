@@ -1,0 +1,845 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12"
+   name=""
+   committed-date="2006-11-22T02:58:18.459271Z"
+   url="http://google-checkout-java14-sample-code.googlecode.com/svn/trunk/src/com/google/checkout/schema/_2/impl"
+   last-author="colinhc"
+   kind="dir"
+   uuid="8474a406-481d-0410-88fc-6705ad773e9c"
+   repos="http://google-checkout-java14-sample-code.googlecode.com/svn"
+   revision="13"/>
+<entry
+   committed-rev="4"
+   name="HelloElementImpl.java"
+   text-time="2006-11-23T21:30:57.062500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="3ec156cdc6b0d5f92dc637ee61c690eb"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:09.625000Z"/>
+<entry
+   committed-rev="4"
+   name="ResultImpl.java"
+   text-time="2006-11-23T21:30:57.093750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="f6c74d04b4c8c9b522fe39ebae4af322"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:11.234375Z"/>
+<entry
+   committed-rev="4"
+   name="MethodImpl.java"
+   text-time="2006-11-23T21:30:57.109375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="efe41d6104105c910b0c0a6dfa087c89"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:11.265625Z"/>
+<entry
+   name="runtime"
+   kind="dir"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculatedShippingImpl.java"
+   text-time="2006-11-23T21:30:57.140625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="06fd5c7dcdee5c184b7ccd6c758ff2da"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:23.703125Z"/>
+<entry
+   committed-rev="4"
+   name="ArchiveOrderRequestImpl.java"
+   text-time="2006-11-23T21:30:57.156250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a4115b733c30dbb31bb6595ddc1f7560"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:23.703125Z"/>
+<entry
+   committed-rev="4"
+   name="ArchiveOrderElementImpl.java"
+   text-time="2006-11-23T21:30:57.187500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="4846ffc690dd7ef810ab35bd31f032b9"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:24.328125Z"/>
+<entry
+   committed-rev="4"
+   name="CheckoutRedirectImpl.java"
+   text-time="2006-11-23T21:30:57.171875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="ace56e6712510ca35db683ec070a41bc"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:24.296875Z"/>
+<entry
+   committed-rev="4"
+   name="DefaultTaxRuleImpl.java"
+   text-time="2006-11-23T21:30:57.203125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="eef9b48084ed27dbfe82989abd315c15"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:25.093750Z"/>
+<entry
+   committed-rev="4"
+   name="UnarchiveOrderRequestImpl.java"
+   text-time="2006-11-23T21:30:57.203125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="3a621a352850f94fd5be4f9530681769"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:24.734375Z"/>
+<entry
+   committed-rev="4"
+   name="UnarchiveOrderElementImpl.java"
+   text-time="2006-11-23T21:30:57.234375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="458eddd090c7aabd1654767d4ae91847"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:26.468750Z"/>
+<entry
+   committed-rev="4"
+   name="CancelOrderRequestImpl.java"
+   text-time="2006-11-23T21:30:57.234375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1fdad16a8aa06ee085a9367281fba20b"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:25.843750Z"/>
+<entry
+   committed-rev="4"
+   name="ShippingRestrictionsImpl.java"
+   text-time="2006-11-23T21:30:57.218750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="98b2834141f21cddb06f46ff997ac377"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:25.390625Z"/>
+<entry
+   committed-rev="4"
+   name="CancelOrderElementImpl.java"
+   text-time="2006-11-23T21:30:57.250000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="6b11b52f2190f356d81608cbae7678e9"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:26.500000Z"/>
+<entry
+   committed-rev="4"
+   name="PickupShippingAdjustmentImpl.java"
+   text-time="2006-11-23T21:30:57.265625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="422ccc19609c255d713ae12aea051060"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:26.906250Z"/>
+<entry
+   committed-rev="4"
+   name="CheckoutShoppingCartElementImpl.java"
+   text-time="2006-11-23T21:30:57.281250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="4c246ac562394a2d26cb631ccd6fb042"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:27.296875Z"/>
+<entry
+   committed-rev="4"
+   name="CouponResultImpl.java"
+   text-time="2006-11-23T21:30:57.281250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="ced00c1e26570502c3b245ffcf9a3d63"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:28.062500Z"/>
+<entry
+   committed-rev="4"
+   name="USZipAreaImpl.java"
+   text-time="2006-11-23T21:30:57.296875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="040ecdf4fbaf256f4319eb0246dfcf92"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:28.093750Z"/>
+<entry
+   committed-rev="4"
+   name="AlternateTaxTableImpl.java"
+   text-time="2006-11-23T21:30:57.312500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="27ade848e5a4efd7e207d4f28954fb04"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:28.421875Z"/>
+<entry
+   committed-rev="4"
+   name="FlatRateShippingImpl.java"
+   text-time="2006-11-23T21:30:57.312500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="af14e4bdd768ea131fd6d992984e3116"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:29.296875Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculationCallbackElementImpl.java"
+   text-time="2006-11-23T21:30:57.328125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="3e514379abf65b24fb16316b8d47650a"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:29.328125Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculationResultsElementImpl.java"
+   text-time="2006-11-23T21:30:57.343750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="f6d43a3589e2ec8e4e283f78d25785f4"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:29.656250Z"/>
+<entry
+   committed-rev="4"
+   name="SendBuyerMessageRequestImpl.java"
+   text-time="2006-11-23T21:30:57.343750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="dc5bf48c6b8da8615cfac1bbe06c6310"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:29.984375Z"/>
+<entry
+   committed-rev="4"
+   name="RiskInformationImpl.java"
+   text-time="2006-11-23T21:30:57.359375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="432c42201eb938d3ad998dec1c961ead"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:30.687500Z"/>
+<entry
+   committed-rev="4"
+   name="RequestReceivedResponseImpl.java"
+   text-time="2006-11-23T21:30:57.375000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="426aa6610a8525a54d22175ea2ca578b"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:30.718750Z"/>
+<entry
+   committed-rev="4"
+   name="AddTrackingDataRequestImpl.java"
+   text-time="2006-11-23T21:30:57.375000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="e819efd142fb480358bf845790b83f75"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:31.343750Z"/>
+<entry
+   committed-rev="4"
+   name="SendBuyerMessageElementImpl.java"
+   text-time="2006-11-23T21:30:57.390625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="e64dcae4846ab57822120e3ee8e52bb3"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:31.375000Z"/>
+<entry
+   committed-rev="4"
+   name="AddTrackingDataElementImpl.java"
+   text-time="2006-11-23T21:30:57.406250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="87399c80657ebc103a222bfa202c75b0"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:31.812500Z"/>
+<entry
+   committed-rev="4"
+   name="ChargeAmountNotificationImpl.java"
+   text-time="2006-11-23T21:30:57.406250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="0d6f3d30f8620a0d24388edbe0082e5a"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:32.734375Z"/>
+<entry
+   committed-rev="4"
+   name="BuyerMarketingPreferencesElementImpl.java"
+   text-time="2006-11-23T21:30:57.421875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1bc64ff26faaecac8c0338cafe95f69b"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:32.765625Z"/>
+<entry
+   committed-rev="4"
+   name="AddressImpl.java"
+   text-time="2006-11-23T21:30:57.437500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="2ad297cade8a2ad5a269c9c0167d9574"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:33.125000Z"/>
+<entry
+   committed-rev="4"
+   name="AddMerchantOrderNumberRequestImpl.java"
+   text-time="2006-11-23T21:30:57.453125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="89398e5f0077fa335003cae11bef3942"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:33.734375Z"/>
+<entry
+   committed-rev="4"
+   name="RefundAmountNotificationElementImpl.java"
+   text-time="2006-11-23T21:30:57.437500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="7dc02f6e13104dbfcebf8ee787960598"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:33.718750Z"/>
+<entry
+   committed-rev="4"
+   name="AddMerchantOrderNumberElementImpl.java"
+   text-time="2006-11-23T21:30:57.468750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="dee31568e472e2746901884780e657fd"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:34.640625Z"/>
+<entry
+   committed-rev="4"
+   name="CartExpirationImpl.java"
+   text-time="2006-11-23T21:30:57.468750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="690da16725abce7def5667784e0bfa28"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:34.687500Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculationCallbackImpl.java"
+   text-time="2006-11-23T21:30:57.484375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="d0b43048e275367ac09b17e8582f89b8"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:35.015625Z"/>
+<entry
+   committed-rev="4"
+   name="ChargeAmountNotificationElementImpl.java"
+   text-time="2006-11-23T21:30:57.500000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="0cf21a8b97fe64cdaeb0605a85544af9"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:36.000000Z"/>
+<entry
+   committed-rev="4"
+   name="ChargeOrderRequestImpl.java"
+   text-time="2006-11-23T21:30:57.500000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="88ed52c542344681ac580a22441a4575"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:35.984375Z"/>
+<entry
+   committed-rev="4"
+   name="ChargeOrderElementImpl.java"
+   text-time="2006-11-23T21:30:57.515625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="5491c149656d962472ee8db816a28249"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:36.218750Z"/>
+<entry
+   committed-rev="4"
+   name="CheckoutRedirectElementImpl.java"
+   text-time="2006-11-23T21:30:57.531250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="b56a37febc5c29d84db344002e669ca4"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:36.828125Z"/>
+<entry
+   committed-rev="4"
+   name="ShoppingCartImpl.java"
+   text-time="2006-11-23T21:30:57.531250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="b878c07625771fb35b99ab3753f8e0f5"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:36.812500Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculationsImpl.java"
+   text-time="2006-11-23T21:30:57.562500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="542c5c32a4dc31c6cc5981c687af2d73"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:37.812500Z"/>
+<entry
+   committed-rev="4"
+   name="FlatRateShippingAdjustmentImpl.java"
+   text-time="2006-11-23T21:30:57.546875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1e2247495dffdae822831a68cb72c5fd"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:37.546875Z"/>
+<entry
+   committed-rev="4"
+   name="JAXBVersion.java"
+   text-time="2006-11-23T21:30:57.578125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="6ba9fdeac5d830dc4e6e8e9c152d0136"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:38.609375Z"/>
+<entry
+   committed-rev="4"
+   name="DiagnoseResponseImpl.java"
+   text-time="2006-11-23T21:30:57.562500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="74b9123069713a6fb3d2cdf9a3341173"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:38.593750Z"/>
+<entry
+   committed-rev="4"
+   name="RequestReceivedElementImpl.java"
+   text-time="2006-11-23T21:30:57.593750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="6983717ee7ff692fe6e40edf20e5083b"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:38.937500Z"/>
+<entry
+   committed-rev="4"
+   name="OrderAdjustmentImpl.java"
+   text-time="2006-11-23T21:30:57.609375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="50715982da9280ba293fbb09aa719374"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:39.421875Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCheckoutFlowSupportImpl.java"
+   text-time="2006-11-23T21:30:57.625000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a51fe4d3c4be013bfff89ba0e095c580"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:40.265625Z"/>
+<entry
+   committed-rev="4"
+   name="ByeImpl.java"
+   text-time="2006-11-23T21:30:57.625000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="26005de8c51362349242d47d7eeaf437"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:40.281250Z"/>
+<entry
+   committed-rev="4"
+   name="USStateAreaImpl.java"
+   text-time="2006-11-23T21:30:57.640625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a79e1dcc8d35535709e04bbf9046bfd4"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:40.921875Z"/>
+<entry
+   committed-rev="4"
+   name="NotificationAcknowledgmentElementImpl.java"
+   text-time="2006-11-23T21:30:57.671875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="11e8d970216f198d8e745e106620ef4c"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:41.796875Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCodeStringImpl.java"
+   text-time="2006-11-23T21:30:57.656250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="0a634ce4797e22dda45fd776987dcdc8"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:41.750000Z"/>
+<entry
+   committed-rev="4"
+   name="ProcessOrderRequestImpl.java"
+   text-time="2006-11-23T21:30:57.640625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="8dd941b3a587f39480f914175aa8fed0"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:41.000000Z"/>
+<entry
+   committed-rev="4"
+   name="AlternateTaxRuleImpl.java"
+   text-time="2006-11-23T21:30:57.687500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="5f6e32625f94e0a751fac795cac59d0a"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:42.593750Z"/>
+<entry
+   committed-rev="4"
+   name="ProcessOrderElementImpl.java"
+   text-time="2006-11-23T21:30:57.687500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="628e55890013ae6801bff5817192755e"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:42.093750Z"/>
+<entry
+   committed-rev="4"
+   name="MoneyImpl.java"
+   text-time="2006-11-23T21:30:57.718750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="f380cab2aacd7c5c8aa3655854a642d2"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:43.453125Z"/>
+<entry
+   committed-rev="4"
+   name="TaxTablesImpl.java"
+   text-time="2006-11-23T21:30:57.703125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="8b972689fe3cf3b129b11e5112ba82df"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:43.421875Z"/>
+<entry
+   committed-rev="12"
+   name="AnyTypeImpl.java"
+   text-time="2006-11-23T21:30:57.718750Z"
+   committed-date="2006-11-22T02:58:18.459271Z"
+   checksum="33696e1c61bc977d8e13c7f18f4aa505"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:44.140625Z"/>
+<entry
+   committed-rev="4"
+   name="DiagnosisElementImpl.java"
+   text-time="2006-11-23T21:30:57.734375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="14f5bf25b0d811a177a117974b6a2e2b"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:44.187500Z"/>
+<entry
+   committed-rev="4"
+   name="GiftCertificateAdjustmentImpl.java"
+   text-time="2006-11-23T21:30:57.750000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="8756024b62c41ab270ead47c74c7a765"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:44.562500Z"/>
+<entry
+   committed-rev="4"
+   name="DemoFailureImpl.java"
+   text-time="2006-11-23T21:30:57.765625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="70234c89b8716d6b9a0e7770641b73a9"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:45.250000Z"/>
+<entry
+   committed-rev="4"
+   name="TrackingDataImpl.java"
+   text-time="2006-11-23T21:30:57.765625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="b26b014ef9addcf6e306877bf4752947"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:45.234375Z"/>
+<entry
+   committed-rev="4"
+   name="CalculateImpl.java"
+   text-time="2006-11-23T21:30:57.781250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="5017e51c69d3ea8d4026fa3b579df99a"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:45.703125Z"/>
+<entry
+   committed-rev="4"
+   name="DeliverOrderRequestImpl.java"
+   text-time="2006-11-23T21:30:57.796875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="954ab7cf7fe9a725d926bf6d82c1a9f5"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:46.390625Z"/>
+<entry
+   committed-rev="4"
+   name="RiskInformationNotificationElementImpl.java"
+   text-time="2006-11-23T21:30:57.796875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a6d643e09ba9c09809c3d75d7b183dba"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:46.406250Z"/>
+<entry
+   committed-rev="4"
+   name="DeliverOrderElementImpl.java"
+   text-time="2006-11-23T21:30:57.812500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a57c86cb43a1261f9fa817b6f01931c3"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:46.781250Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculationResultsImpl.java"
+   text-time="2006-11-23T21:30:57.828125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="d9267537a1a9938444cc9d44055b32bc"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:47.468750Z"/>
+<entry
+   committed-rev="4"
+   name="HelloImpl.java"
+   text-time="2006-11-23T21:30:57.828125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="3f174564b54327bdfaf9f714b100016c"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:47.484375Z"/>
+<entry
+   committed-rev="4"
+   name="ErrorElementImpl.java"
+   text-time="2006-11-23T21:30:57.843750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="55a3e74a7f00da2ab7ce6c3865ec4b0a"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:48.140625Z"/>
+<entry
+   committed-rev="4"
+   name="OrderStateChangeNotificationElementImpl.java"
+   text-time="2006-11-23T21:30:57.859375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="6261f89f5d739b1a606c1c0204221afb"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:48.156250Z"/>
+<entry
+   committed-rev="4"
+   name="DemoFailureElementImpl.java"
+   text-time="2006-11-23T21:30:57.859375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="7a498d4f23a1ee98cae01340a925931c"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:48.796875Z"/>
+<entry
+   committed-rev="4"
+   name="NotificationAcknowledgmentImpl.java"
+   text-time="2006-11-23T21:30:57.875000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="25eec4501000bcada30bb02ed02a93d9"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:48.828125Z"/>
+<entry
+   committed-rev="4"
+   name="BuyerMarketingPreferencesImpl.java"
+   text-time="2006-11-23T21:30:57.890625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="1e3b590dce2c8eeb75110805c3f20be2"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:49.156250Z"/>
+<entry
+   committed-rev="4"
+   name="RefundAmountNotificationImpl.java"
+   text-time="2006-11-23T21:30:57.890625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="708aa972c643583c7a2ec9516a9dd6cb"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:49.875000Z"/>
+<entry
+   committed-rev="4"
+   name="ChargebackAmountNotificationElementImpl.java"
+   text-time="2006-11-23T21:30:57.906250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="cb0aa6419d893a100ae09e11adecb235"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:49.953125Z"/>
+<entry
+   committed-rev="4"
+   name="MerchantCalculatedShippingAdjustmentImpl.java"
+   text-time="2006-11-23T21:30:57.921875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="625dd5af5dca4963672bf5da94e30ada"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:50.375000Z"/>
+<entry
+   committed-rev="4"
+   name="RiskInformationNotificationImpl.java"
+   text-time="2006-11-23T21:30:57.921875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="4d73bb2137c873462c09fed3b91d4f51"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:50.687500Z"/>
+<entry
+   committed-rev="4"
+   name="CheckoutShoppingCartImpl.java"
+   text-time="2006-11-23T21:30:57.937500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="06090bbd093aa2be4d30b4301e7b556c"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:51.343750Z"/>
+<entry
+   committed-rev="4"
+   name="RefundOrderRequestImpl.java"
+   text-time="2006-11-23T21:30:57.953125Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="da761868d22263c3051b78fb6c9c9434"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:51.359375Z"/>
+<entry
+   committed-rev="4"
+   name="ByeElementImpl.java"
+   text-time="2006-11-23T21:30:57.968750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="8d3ef8d8d528d01603300f87e43da360"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:52.109375Z"/>
+<entry
+   committed-rev="4"
+   name="OrderStateChangeNotificationImpl.java"
+   text-time="2006-11-23T21:30:57.984375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="d8cd820758b3a71e46b929b76d1944e4"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:52.531250Z"/>
+<entry
+   committed-rev="4"
+   name="RefundOrderElementImpl.java"
+   text-time="2006-11-23T21:30:58.000000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="ddfac0e4c4c2b700afba640bf467490e"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:53.265625Z"/>
+<entry
+   committed-rev="4"
+   name="GiftCertificateResultImpl.java"
+   text-time="2006-11-23T21:30:58.000000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="aa65cc7dd657944c121b60a11b9abc49"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:53.281250Z"/>
+<entry
+   committed-rev="4"
+   name="PickupImpl.java"
+   text-time="2006-11-23T21:30:58.015625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="85e56cec1547ce8071c3982ddf00aaa2"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:53.625000Z"/>
+<entry
+   committed-rev="4"
+   name="NewOrderNotificationImpl.java"
+   text-time="2006-11-23T21:30:58.031250Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a91251e98c98487c4438e3804616b84e"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:54.031250Z"/>
+<entry
+   committed-rev="4"
+   name="ItemImpl.java"
+   text-time="2006-11-23T21:30:58.046875Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="a2c7215a7b49ce94c6b497969d9c5949"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:54.359375Z"/>
+<entry
+   committed-rev="4"
+   name="AnonymousAddressImpl.java"
+   text-time="2006-11-23T21:30:58.062500Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="56491684d98dbf5fe4877095623b5b48"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:55.093750Z"/>
+<entry
+   committed-rev="4"
+   name="CouponAdjustmentImpl.java"
+   text-time="2006-11-23T21:30:58.093750Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="815560d64c9cb75239e39899bd44227d"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:55.156250Z"/>
+<entry
+   committed-rev="4"
+   name="USCountryAreaImpl.java"
+   text-time="2006-11-23T21:30:58.109375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="5a2d908d3fefe70580bbd72bc2560d66"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:55.453125Z"/>
+<entry
+   committed-rev="4"
+   name="ChargebackAmountNotificationImpl.java"
+   text-time="2006-11-23T21:30:58.125000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="4370f9cdebe4c79d124707075dc7f07d"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:55.859375Z"/>
+<entry
+   committed-rev="4"
+   name="NewOrderNotificationElementImpl.java"
+   text-time="2006-11-23T21:30:58.125000Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="fec2ef390effbaf9dfead694eb1ba7f0"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:56.421875Z"/>
+<entry
+   committed-rev="4"
+   name="ErrorResponseImpl.java"
+   text-time="2006-11-23T21:30:58.140625Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="d2980db1e86ef1911325ca3638854d78"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:57.031250Z"/>
+<entry
+   committed-rev="4"
+   name="DefaultTaxTableImpl.java"
+   text-time="2006-11-23T21:30:58.234375Z"
+   committed-date="2006-09-27T00:39:39.637797Z"
+   checksum="0c9df1ecfcee37e632e53acba978a64b"
+   last-author="colinhc"
+   kind="file"
+   prop-time="2006-11-23T21:30:57.046875Z"/>
+</wc-entries>

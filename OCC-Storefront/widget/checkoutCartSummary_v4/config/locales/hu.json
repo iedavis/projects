@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Adja meg a kosár összesítésében megjeleníteni kívánt cikkek maximális számát.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Cikkek maximális száma a kosár összesítésében"
+  }
+}

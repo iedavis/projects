@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Укажите максимальное число позиций, отображаемых в сводке корзины.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Максимальное число позиций в сводке корзины"
+  }
+}

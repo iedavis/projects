@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Lisa kampaania- või püsikliendikood",
+  "promoCode": "Sisestage sooduskood",
+  "promoCodeAriaLabelText": "Sisestage sooduskood",
+  "buttonApplyCodeText": "Rakenda kood",
+  "buttonApplyingCodeText": "Koodi rakendamine",
+  "couponDetailsError": "Kupongi andmetes on midagi valesti.",
+  "promoCodeRequired": "Kupongi koodi väli ei tohi olla tühi",
+  "duplicateCoupon": "Koodi on juba kasutatud."
+  }
+}

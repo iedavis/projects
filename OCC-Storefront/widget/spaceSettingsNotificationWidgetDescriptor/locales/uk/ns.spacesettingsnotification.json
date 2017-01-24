@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Параметри сповіщень електронною поштою",
+    "spaceSettingsNotificationIntroText" : "Я хочу отримувати:",
+    "spaceSettingsCommentNotificationTxt" : "Сповіщення про коментарі та продукти",
+    "spaceSettingsNewMemberNotificationTxt" : "Сповіщення про нових учасників",
+    "spaceSettingsSaveTxt" : "Зберегти",
+    "spaceSettingsCancelTxt" : "Скасувати",
+    "spaceSettingsSaveErrorTxt" : "Сталася проблема зі збереженням змін, внесених у параметри сповіщень.",
+    "spaceSettingsSaveSuccessTxt" : "Параметри сповіщень оновлено та збережено.",
+    "spaceSettingsOnText" : "Так",
+    "spaceSettingsOffText" : "Ні",
+    "spaceSettingsNotificationEnableHelpText" : "Виберіть \"Я бажаю отримувати відомості про оновлення електронною поштою\" на сторінці \"Мій обліковий запис\", щоб увімкнути сповіщення щодо списку бажань."
+  }
+}

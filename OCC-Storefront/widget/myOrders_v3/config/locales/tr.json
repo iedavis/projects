@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Çizelgelenen Sipariş No Dahil Edilsin mi ?",
+	"includeScheduledHelpText" : "Çizelgelenen Sipariş No'yu Sipariş Tarihçe Tablosuna Dahil Etmek İçin Seçin"
+  }
+}

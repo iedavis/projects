@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "รถเข็นของคุณว่างเปล่า",
+    "buttonContinueShopping": "ดำเนินการซื้อสินค้าต่อ",
+    "cartHeader" : "รถเข็นของคุณ",
+    "itemHeaderItem": "สินค้า",    
+    "itemHeaderQuantity": "ปริมาณ",
+    "itemQuantity": "ปริมาณของ __productName__ ",
+    "itemHeaderItemTotal": "ยอดรวมสินค้า",
+    "totalTableSubTotal": "ยอดรวมย่อย:",
+    "includingTaxText": "(รวมภาษี)",
+    "totalTableTotal": "ยอดรวม:",
+    "buttonUpdateQuantity": "อัปเดต",
+    "buttonRemoveItem": "ลบ",
+    "instockText": "มีในสต็อค",
+    "outofstockText": "หมดสต็อค",
+    "totalTableSummary": "ยอดรวมรถเข็น"
+  }
+}

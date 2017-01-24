@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Запланированные заказы",
+    "backToMyAccount" : "<",
+    "scheduledOrderName" : "Имя",
+    "frequency": "Частота",    
+    "scheduledOrderId": "Идентификатор",
+    "scheduledOrderStatus": "Статус",
+    "nextShipDate": "Следующий заказ",
+    "lastScheduledRun": "Последний заказ",
+    "scheduledOrderDetails": "Сведения о заказе",
+    "orderDetails": "Сведения",
+    "action": "Действие",
+    "createdDate":"Дата создания",
+    "editOrder": "Изменить",
+    "deleteOrder": "Удалить",
+    "deleteSuccessMsg":"Удалено успешно",
+    "myAccount" : "Мой аккаунт"
+  }
+}

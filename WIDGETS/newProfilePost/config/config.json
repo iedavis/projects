@@ -1,0 +1,12 @@
+{
+    "widgetDescriptorName": "New Profile Post",
+    "properties": [
+        {
+        "id": "postUrl",
+        "type": "stringType",
+        "name": "postUrl",
+        "helpTextResourceId": "profileUrlHelpText",
+        "labelResourceId": "profileUrlLabel"
+        }
+    ]
+}

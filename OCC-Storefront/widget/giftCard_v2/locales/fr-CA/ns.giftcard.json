@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Payer avec une carte-cadeau",
+    "giftCardNumberText": "Numéro de la carte-cadeau",
+    "giftCardPinText": "NIP de la carte-cadeau",
+    "giftCardApplyText": "Appliquer la carte-cadeau", 
+    "giftCardApplyingText": "Application de la carte-cadeau", 
+    "displayGiftCardDetailsText" : "Payer avec une carte-cadeau",
+    "duplicateGiftcardErrMsg":"La carte-cadeau a déjà été appliquée."
+  }
+}

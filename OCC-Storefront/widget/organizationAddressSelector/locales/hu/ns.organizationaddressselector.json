@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Véglegesítés",
+    "defaultAddressLabel": "Alapértelmezett cím",
+    "billingAddressText" : "Számlázási cím",
+    "noAddressesText" : "Nincs mentett cím.",
+    "firstNameText": "Utónév",
+    "lastNameText": "Vezetéknév",
+    "shippingAddressText": "Szállítási cím",
+    "checkoutErrorMsg": "Győződjön meg arról, hogy minden kötelezően kitöltendő mezőt kitöltött és javított minden érvénytelen bejegyzést.",
+    "firstNameRequired": "Az utónév megadása kötelező.",
+    "lastNameRequired": "A vezetéknév megadása kötelező.",
+    "unsupportedShippingAddressText": "A szállítás nem lehetséges erre a címre.",
+    "invalidBillingAddressText": "A szállítási címe nem használható számlázási címként. Adjon meg számlázási címet.",
+    "invalidPreviousAddress": "Az Ön által korábban használt szállítási címre már nem szállítunk."
+  }
+}

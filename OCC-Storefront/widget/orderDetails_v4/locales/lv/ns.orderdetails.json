@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Mani pasūtījumi",
+    "backToMyOrdersLink" : "<<Atpakaļ uz maniem pasūtījumiem",
+    "orderDetailsText": "Pasūtījuma dati",
+    "orderDateText": "Pasūtījuma datums: ",
+    "orderNumberText": "Pasūtījuma numurs:",
+    "orderStatusText": "Pasūtījuma statuss:",
+    "quoteExpiryText": "Cenas piedāvājuma derīguma beigas:",
+    "scheduledOrderName": "Plāna nosaukums:",
+    "shippingAddressAndMethodText": "Nosūtīšanas adrese un veids", 
+    "shippingAddressText": "Sūtīt uz:",
+    "noShippingAddressText" : "Nav pieejama nosūtīšanas adrese", 
+    "shippingMethodText": "Sūtīšanas veids:",
+    "shippingText": "Standarta sūtīšana:",
+    "salesTaxText": "Tirdzniecības nodoklis:",
+    "orderTotalText": "Pasūtījuma kopsumma:",
+    "includingTaxText": "(ietverot nodokli)",
+    "totalExcludingTaxText": "Kopā (neietverot nodokli):",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Izsekošanas numuri:",
+    "trackingReferenceReaderText": "__carrierName__ izsekošanas atsauce __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Ieplānotais pasūtījums izveidots atbilstoši cenu sarakstam '__priceListGroup__'"
+  } 
+}

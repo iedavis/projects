@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Bifaţi pt. a utiliza lista bazată pe stiluri.",
+    "shouldUseStyleBasedTextLabel": "Utilizare listă bazat pe stiluri",
+    "listTypeHelpText": "Selectaţi dacă instanţa widgetului este un tip de listă de produse sau de listă de rezultate ale căutării.",
+    "listTypeTextLabel": "Tip listă",
+    "productLabel" : "Produs",
+    "searchLabel" : "Căutare",
+    "productListingFieldsRequiredHelpText": "Introduceţi o listă de câmpuri de inclus în răspuns, separată prin virgulă. Setarea pt. câmpuri se aplică listelor de produse doar prin intermediul navigării în categorii, nu rezultatelor căutării.",
+    "productListingFieldsRequiredLabel": "Câmpuri",
+    "productsPerPageRequiredHelpText": "Introduceţi numărul de produse de afişat într-o pagină.",
+    "productsPerPageRequiredLabel": "Produse pe pagină",
+    "blockSizeRequiredHelpText": "Introduceţi numărul de produse de încărcat per cerere. Setarea pt. dimensiunea blocului se aplică listelor de produse doar prin intermediul navigării în categorii, nu rezultatelor căutării.",
+    "blockSizeRequiredLabel": "Dimensiune bloc"
+  }
+}

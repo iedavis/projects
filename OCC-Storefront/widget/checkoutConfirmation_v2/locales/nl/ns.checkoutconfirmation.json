@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Orderbevestiging", 
+    "orderDoesNotExist": "Order bestaat niet.", 
+    "thankyouMsg": "Hartelijk dank voor uw order op __orderDate__ om __orderTime__.", 
+    "processingMsg": "Deze order wordt nu verwerkt.",
+    "pendingMsg": "Hartelijk dank, uw orderaanvraag is ontvangen en de betaling is in behandeling. Zodra de betaling is goedgekeurd, zullen we de order verwerken.",
+    "orderNumberMsg": "Uw ordernummer is __orderNumber__.", 
+    "emailMsg": "Er is een e-mail ter bevestiging van de order verzonden naar __emailAddress__ met informatie over onderstaande order.", 
+    "yourOrderText": "Uw order", 
+    "itemText": "Artikel", 
+    "quantityText": "Hoeveelheid", 
+    "itemTotalText": "Totaal artikel", 
+    "shippingAddressAndMethodText": "Bestemmingsadres en verzendmethode", 
+    "shipToText": "Bestemming:", 
+    "shippingMethodText": "Verzendmethode:", 
+    "paymentDetailsText": "Betalingsdetails", 
+    "cardTypeText": "Kaarttype:", 
+    "cardNumberText": "Kaartnummer:", 
+    "billingAddressText": "Factuuradres:",
+    "loginSuccessText": "Uw account is gemaakt. Bedankt voor uw registratie.",
+    "loginFailureText": "Fout: uw order is verwerkt, maar er is een probleem bij het maken van uw account. Probeer het opnieuw.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

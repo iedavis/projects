@@ -1,0 +1,19 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "checkoutconfirmation",
+  "imports": [
+    "confirmation",
+    "shippingCountries"
+  ],
+  "javascript": "checkout-confirmation",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Order Confirmation",
+  "pageTypes": ["confirmation"],
+  "source": 100,
+  "version": 2,
+  "widgetFamily": "checkoutConfirmation",
+  "widgetType": "checkoutConfirmation"
+}

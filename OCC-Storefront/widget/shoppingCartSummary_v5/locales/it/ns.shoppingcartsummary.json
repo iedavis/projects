@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Il carrello è vuoto.",
+    "buttonContinueShopping": "Continua acquisti",
+    "cartHeader" : "Carrello utente",
+    "itemHeaderItem": "Articolo",    
+    "itemHeaderQuantity": "Quantità",
+    "itemQuantity": "Quantità __productName__ ",
+    "itemHeaderItemTotal": "Totale articoli",
+    "totalTableSubTotal": "Totale parziale:",
+    "includingTaxText": "(imposta inclusa)",
+    "totalTableTotal": "Totale:",
+    "buttonUpdateQuantity": "Aggiorna",
+    "buttonRemoveItem": "Rimuovi",
+    "instockText": "Disponibile",
+    "outofstockText": "Esaurito",
+    "totalTableSummary": "Totali carrello."
+  }
+}

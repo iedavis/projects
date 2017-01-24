@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Hozzáadás a kívánságlistához",
+    "spaceSelectionText": "Kívánságlista kiválasztása",
+    "spaceCommentText": "Megjegyzés beírása...",
+    "spaceNameText": "Név",
+    "buttonSpaceAdd": "Hozzáadás",
+    "buttonSpaceCancel": "Mégse",
+    "mySpacesGroupText": "Saját kívánságlisták",
+    "joinedSpacesGroupText": "Kívánságlisták, amelyekhez csatlakozott",
+    "createNewSpaceOptText": "Új kívánságlista...",
+    "addToSpaceSuccessMsg" : "A művelet sikerült! A(z) __socialproduct__ termék hozzá lett adva a következőhöz: __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Ez a cikk már szerepelt a kívánságlistáján. Módosítottuk a hozzáadás dátumát.",
+    "addToSpaceProductViewWishListMsg" : "__wishlistname__ megtekintése",
+    "spaceAddProductError" : "Hiba történt a termék kívánságlistára való feladása közben. Próbálkozzon az oldal frissítésével.",
+    "uniqueNameMsg": "A kívánságlista nevének egyedinek kell lennie.",
+    "emptyNameMsg": "A név mező nem maradhat üresen.",
+    "privacySettingsLabel": "Adatvédelmi beállítások",
+    "privacySettingsDescription": "Az ismerősök meghívása a privát kívánságlistába adatvédelmi beállítását Csoportos értékre módosítja. Privát vagy csoportos kívánságlista e-mailben való elküldésével vagy közösségi hálózaton való megosztásával megosztott listává teszi azt.",
+    "privacySharedLabel": "Bárki láthatja ezt a listát a hivatkozás ismeretében. Csak Ön és a meghívottak láthatják a listát és adhatnak hozzá megjegyzést vagy elemeket.",
+    "privacyGroupLabel": "Csak Ön és a meghívottak láthatják a listát és adhatnak hozzá megjegyzést vagy elemeket.",
+    "privacyPrivateLabel": "Csak Ön láthatja a listát és adhat hozzá elemeket.",
+    "spaceAccessPrivateIconTxt" : "Privát",
+    "spaceAccessSharedIconTxt" : "Megosztott",
+    "spaceAccessGroupIconTxt" : "Csoportos",
+    "spaceCreateMaxSpacesMsg" : "Probléma a termék-kívánságlista létrehozásakor. Túllépte a kívánságlisták bejegyzéseinek számára vonatkozó korlátot. Törölnie kell egy meglévő kívánságlistát, mielőtt létrehoz egy másikat.",
+    "productAddMaxProductsMsg" : "Probléma a termék-kívánságlista hozzáadásakor. Túllépte a kívánságlista bejegyzéseinek számára vonatkozó korlátot. Törölnie kell egy meglévő terméket a kiválasztott kívánságlistából, mielőtt hozzáad egy másikat."
+  }
+}

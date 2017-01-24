@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Pradėkite grupinį apsipirkimą šiandien!",
+    "welcomePageLoginText": "Prisijungti",
+    "welcomePageCreateAccountText": "Sukurti paskyrą",
+    "welcomePageTitle": "Sveiki! Tai – pageidavimų sąrašai.",
+    "welcomePageSubtitle": "Naudokitės pageidavimų sąrašais nemokamai ir linksminkitės kartu!",
+    "welcomePageBulletText1": "Įrašykite, tvarkykite produktus ir gaukite atsiliepimų apie dominančius.",
+    "welcomePageBulletText2": "Bendrinkite pageidavimų sąrašus su šeima ir draugais ir nuspręskite, ką pirkti, kartu.",
+    "welcomePageBulletText3": "Naudodami pageidavimų sąrašus atraskite ir aptarkite dovanas. Daugiau prastos dovanos nenupirksite!",
+    "welcomePageOrText": "arba"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Minder weergeven...",
+    "seeMoreText" : "Meer weergeven...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Verfijnen op",
+    "clearAllRefinementsText" : "Alle verfijningen wissen",
+    "guidedNavigationHeader" : "Koptekst geleide navigatie",
+    "doneText" : "Gereed",
+    "expandText" : "Uitvouwen",
+    "collapseText" : "Samenvouwen",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Geleide navigatie met overlay is geladen."
+  }
+}

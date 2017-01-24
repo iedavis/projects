@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Minu konto",
+    "orderHistoryText" : "Tellimisajalugu",
+    "backToMyAccount" : "<< Tagasi minu kontole",
+    "historyHeaderOrderDate": "Tellimuse kuupäev",    
+    "historyHeaderOrderNumber": "Tellimuse number",
+    "historyHeaderOrderStatus": "Tellimuse olek",
+    "historyHeaderOrderTotal": "Tellimuse kogusumma",
+    "historyHeaderOrderDetails": "Tellimuse andmed",
+    "listingHeaderScheduledOrderId": "Ajakava ID",
+    "orderDetails": "Üksikasjad"
+  }
+}

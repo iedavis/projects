@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "排定訂單",
+    "backToMyAccount" : "<< 返回我的帳戶",
+    "scheduledOrderName" : "名稱",
+    "frequency": "頻率",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "狀態",
+    "nextShipDate": "下一筆訂單",
+    "lastScheduledRun": "上一筆訂單",
+    "scheduledOrderDetails": "訂單詳細資料",
+    "orderDetails": "詳細資料",
+    "action": "動作",
+    "createdDate":"建立日期",
+    "editOrder": "編輯",
+    "deleteOrder": "刪除",
+    "deleteSuccessMsg":"已順利刪除",
+    "myAccount" : "我的帳戶"
+  }
+}

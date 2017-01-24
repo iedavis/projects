@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Uključiti ID planirane narudžbine?",
+	"includeScheduledHelpText" : "Izaberite da biste uključili ID planirane narudžbine u tabelu istorijata narudžbina"
+  }
+}

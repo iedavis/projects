@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Εισαγάγετε τον μέγιστο αριθμό ειδών που θέλετε να εμφανίζονται στη σύνοψη καλαθιού.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Μέγιστος αριθμός στοιχείων στη σύνοψη καλαθιού"
+  }
+}

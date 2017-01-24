@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Pagina nu a fost găsită",
+    "error404" : "Eroare 404: ",
+    "pageNotFoundText" : "Fie aţi introdus adresa incorect, fie pagina a fost actualizată sau ştearsă.",
+    "lnkHome" : "Home",
+    "lnkBack" : "Înapoi"            
+  }
+}

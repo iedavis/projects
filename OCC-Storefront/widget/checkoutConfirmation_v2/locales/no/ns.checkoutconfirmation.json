@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Ordrebekreftelse", 
+    "orderDoesNotExist": "Ordren finnes ikke.", 
+    "thankyouMsg": "Takk for din ordre __orderDate__ kl. __orderTime__.", 
+    "processingMsg": "Denne ordren er under behandling.",
+    "pendingMsg": "Takk! Vi har mottatt ordreforespørselen din, og avventer betaling. Vi behandler ordren så snart betalingen er godkjent.",
+    "orderNumberMsg": "Ordrenummeret er __orderNumber__.", 
+    "emailMsg": "En ordrebekreftelse med detaljer om ordren nedenfor er sendt til e-postadressen __emailAddress__.", 
+    "yourOrderText": "Din ordre", 
+    "itemText": "Artikkel", 
+    "quantityText": "Mengde", 
+    "itemTotalText": "Artikkelsum", 
+    "shippingAddressAndMethodText": "Forsendelsesadresse og -måte", 
+    "shipToText": "Send til:", 
+    "shippingMethodText": "Forsendelsesmåte:", 
+    "paymentDetailsText": "Betalingsdetaljer", 
+    "cardTypeText": "Korttype:", 
+    "cardNumberText": "Kortnummer:", 
+    "billingAddressText": "Faktureringsadresse:",
+    "loginSuccessText": "Kontoen er opprettet. Takk for at du har registrert deg.",
+    "loginFailureText": "Feil: Ordren er behandlet, men det oppstod et problem under opprettelse av kontoen din. Prøv på nytt.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

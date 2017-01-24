@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "購物車摘要",
+    "quantityText": "數量：",
+    "colorText": "顏色：",
+    "sizeText": "大小：",
+    "instockText": "有貨",
+    "outofstockText": "缺貨",
+    "estimiatedShippingText": "預估出貨：",
+    "buttonEditCartSummary": "編輯",
+    "editCartText": "編輯購物車",
+    "seeAllProducts": "查看所有產品",
+    "showAll": "全部顯示",
+    "cartSummaryItemLimitText": "正在顯示前 __noOfItems__ 個購物車項目"
+  }
+}

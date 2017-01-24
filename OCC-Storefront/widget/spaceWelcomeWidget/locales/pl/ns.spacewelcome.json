@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "defaultSpacesMsg": "Już dziś można zacząć wspólne zakupy!",
+    "welcomePageLoginText": "Logowanie",
+    "welcomePageCreateAccountText": "Tworzenie konta",
+    "welcomePageTitle": "Listy życzeń",
+    "welcomePageSubtitle": "Zapraszamy do bezpłatnego korzystania z list życzeń.",
+    "welcomePageBulletText1": "Za ich pomocą użytkownik może zapisywać i organizować produkty, którymi jest zainteresowany, oraz uzyskiwać opinie na ich temat.",
+    "welcomePageBulletText2": "Listy życzeń można udostępniać rodzinie i znajomym, aby wspólnie podejmować decyzje o zakupach.",
+    "welcomePageBulletText3": "Listy życzeń doskonale nadają się do wyszukiwania prezentów i dyskutowania na ich temat. Koniec z nietrafionymi prezentami.",
+    "welcomePageOrText": "lub"
+  }
+}

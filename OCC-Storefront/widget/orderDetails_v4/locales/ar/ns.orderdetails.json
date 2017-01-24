@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "الطلبات الخاصة بي",
+    "backToMyOrdersLink" : "<< عودة إلى الطلبات الخاصة بي",
+    "orderDetailsText": "تفاصيل الطلب",
+    "orderDateText": "تاريخ الطلب:",
+    "orderNumberText": "رقم الطلب:",
+    "orderStatusText": "موقف الطلب:",
+    "quoteExpiryText": "انتهاء صلاحية عرض الأسعار:",
+    "scheduledOrderName": "اسم الجدول:",
+    "shippingAddressAndMethodText": "طريقة وعنوان الشحن", 
+    "shippingAddressText": "شحن إلى:",
+    "noShippingAddressText" : "لا يوجد عنوان شحن متاح", 
+    "shippingMethodText": "طريقة الشحن:",
+    "shippingText": "الشحن القياسي:",
+    "salesTaxText": "ضريبة المبيعات:",
+    "orderTotalText": "إجمالي الطلبات:",
+    "includingTaxText": "(متضمن الضريبة)",
+    "totalExcludingTaxText": "الإجمالي (بدون الضريبة):",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "أرقام التتبع:",
+    "trackingReferenceReaderText": "__carrierName__ تتبع المرجع __trackingReference__",
+    "scheduledOrderPriceListGroupText": "تم تكوين الطلب المجدول وفقًا لقائمة الأسعار '__priceListGroup__'"
+  } 
+}

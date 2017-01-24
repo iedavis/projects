@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Ορίζει αν επιτρέπεται η λήξη χρονικού ορίου για ειδοποιήσεις που δεν αφορούν σφάλματα.",
+    "notificationsTimeoutEnabledTextLabel": "Η λήξη χρονικού ορίου είναι ενεργοποιημένη",
+    "notificationsTimeoutHelpText": "Ορίστε τη λήξη χρονικού ορίου για ειδοποιήσεις που δεν αφορούν σφάλματα (σε δευτ.).",
+    "notificationsTimeoutTextLabel": "Χρονικό όριο (σε δευτ.)",
+    "notificationsFixedHelpText": "Ορίστε αν το widget θα πρέπει να είναι σταθερό στο επάνω μέρος της σελίδας.",
+    "notificationsFixedTextLabel": "Σταθερό"
+  }
+}

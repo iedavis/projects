@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Fizetési adatok",
+  "paymentMethod": "Fizetési mód",
+  "paypalText": "Biztonságosabb, egyszerűbb fizetési mód.", 
+  "paymentDetailsError": "Győződjön meg arról, hogy minden kötelezően kitöltendő mezőt kitöltött és javított minden érvénytelen bejegyzést.",
+  "paymentMethodNotAvilable": "(Ez a fizetési beállítás nem használható ütemezett rendelésekhez.)",
+  
+  "nameOnCardLabel": "Kártyán feltüntetett név",
+  "nameOnCardPlaceholder": "Kártyán feltüntetett név",
+  "nameOnCardRequired": "A kártyán feltüntetett nevet meg kell adnia.",
+  "nameOnCardInvalid": "A kártyán feltüntetett név érvénytelen.",
+  
+  "cardTypeLabel": "Kártya típusa",
+  "cardTypePlaceholder": "Kártya típusa",
+  "cardTypeRequired": "A kártya típusát meg kell adnia.",
+  "cardTypeInvalid": "A megadott kártyatípus érvénytelen.",
+  
+  "cardNumberLabel": "Kártya száma",
+  "cardNumberPlaceholder": "Kártya száma",
+  "cardNumberRequired": "A kártya számát meg kell adnia.",
+  "cardNumberMaxLength":"Érvénytelen bejegyzés. Legfeljebb __maxLength__ karaktert adjon meg.",
+  "cardNumberInvalid": "A kártyaszám érvénytelen. Kérjük, próbálkozzon újra.",
+  
+  "cardCVVLabel": "CVV kód",
+  "cardCVVPlaceholder": "CVV kód",
+  "cardCVVRequired": "A CVV kód megadása kötelező.",
+  "cardCVVInvalid": "A CVV kód érvénytelen.",
+  "cardCVVWhatsThis": "Mi ez?",
+  "cardCVVPopupTitle": "CVV kód",
+  "cardCVVPopupText": "A kártya aláírási csíkján található utolsó 3 számjegy.",
+  "cardCVVNumberInvalid": "Érvénytelen bejegyzés. Csak számokat írjon be.",
+  "cardCVVNumberMaxLength": "Érvénytelen bejegyzés. Legfeljebb 4 karaktert adjon meg.",
+  "cardCVVNumberMinLength": "Érvénytelen bejegyzés. Írjon be legalább 3 karaktert.",
+  
+  "endMonthLabel": "Lejárat (hónap)",
+  "endMonthPlaceholder": "Lejárat (hónap)",
+  "endMonthRequired": "A kártya lejárati hónapját kötelező megadni.",
+  "endMonthInvalid": "Érvénytelen lejárati hónapot/évet adott meg. Próbálkozzon újra.",
+  
+  "endYearLabel": "Lejárat (év)",
+  "endYearPlaceholder": "Lejárat (év)",
+  "endYearRequired": "A kártya lejárati évét kötelező megadni.",
+  "endYearInvalid": "Érvénytelen lejárati hónapot/évet adott meg. Próbálkozzon újra.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

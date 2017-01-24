@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Laadipõhise loendi kasutamiseks märkige see ruut.",
+    "shouldUseStyleBasedTextLabel": "Kasuta laadipõhist loendit",
+    "listTypeHelpText": "Valige, kas vidinaeksemplar on tooteloendi või otsingutulemite loendi tüüp.",
+    "listTypeTextLabel": "Loendi tüüp",
+    "productLabel" : "Toode",
+    "searchLabel" : "Otsi",
+    "productListingFieldsRequiredHelpText": "Sisestage vastusele lisatavad komadega eraldatud väljad. Väljade säte rakendub ainult kategoorianavigatsioonis kuvatavatele toodetele, aga mitte otsingutulemitele.",
+    "productListingFieldsRequiredLabel": "Väljad",
+    "productsPerPageRequiredHelpText": "Sisestage lehel kuvatavate toodete arv.",
+    "productsPerPageRequiredLabel": "Tooteid lehel",
+    "blockSizeRequiredHelpText": "Sisestage ühe päringuga laaditavate toodete arv. Ploki suuruse säte rakendub ainult kategoorianavigatsioonis kuvatavatele toodetele, aga mitte otsingutulemitele.",
+    "blockSizeRequiredLabel": "Ploki suurus"
+  }
+}

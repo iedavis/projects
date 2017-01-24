@@ -1,0 +1,23 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "organizationaddressselector",
+  "imports": [
+    "order",
+    "shippingCountriesPriceListGroup",
+    "shippingCountries",
+    "billingCountries",
+    "defaultShippingCountry",
+    "defaultBillingCountry"
+  ],
+  "javascript": "organization-address-selector",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Managed Account Address Book",
+  "pageTypes": ["checkout"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "organizationAddressSelector",
+  "widgetType": "organizationAddressSelector"
+}

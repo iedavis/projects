@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Minu tellimused",
+    "backToMyOrdersLink" : "<< Tagasi Minu tellimuste lehele",
+    "orderDetailsText": "Tellimuse andmed",
+    "orderDateText": "Tellimuse kuupäev:",
+    "orderNumberText": "Tellimuse number:",
+    "orderStatusText": "Tellimuse olek:",
+    "quoteExpiryText": "Hinnapakkumise aegumine:",
+    "scheduledOrderName": "Ajakava nimi:",
+    "shippingAddressAndMethodText": "Saatmisaadress ja -viis", 
+    "shippingAddressText": "Saatmisaadress:",
+    "noShippingAddressText" : "Saatmisaadress pole saadaval", 
+    "shippingMethodText": "Saatmisviis:",
+    "shippingText": "Tavaline saatmine:",
+    "salesTaxText": "Käibemaks:",
+    "orderTotalText": "Tellimuse kogusumma:",
+    "includingTaxText": "(koos maksudega)",
+    "totalExcludingTaxText": "Kokku (välja arvatud maksud): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Jälgimisnumbrid:",
+    "trackingReferenceReaderText": "Veoteenuse pakkuja __carrierName__ jälgimiskood __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Ajastatud tellimus on loodud vastavalt hinnakirjale '__priceListGroup__'"
+  } 
+}

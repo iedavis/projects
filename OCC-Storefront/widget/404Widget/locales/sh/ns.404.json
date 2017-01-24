@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Stranica nije pronađena",
+    "error404" : "Greška 404: ",
+    "pageNotFoundText" : "Možda ste netačno uneli adresu ili je stranica ažurirana ili obrisana.",
+    "lnkHome" : "Početna",
+    "lnkBack" : "Nazad"            
+  }
+}

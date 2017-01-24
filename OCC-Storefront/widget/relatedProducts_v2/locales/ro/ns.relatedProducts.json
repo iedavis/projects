@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Imaginile precedente",
+    "nextImageText" : "Imaginile următoare",
+    "onSaleText": "Vânzare",
+    "salePriceText": "Preţ de vânzare",
+    "listPriceText": "Preţ de listă",
+    "relatedProductsText": "Produse corelate"
+  }
+}

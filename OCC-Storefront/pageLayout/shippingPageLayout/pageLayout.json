@@ -1,0 +1,179 @@
+{
+  "defaultPage": false,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["shippingWebContentInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "article",
+  "isLayoutDisplayable": true,
+  "pageAddress": "shipping",
+  "displayName": "Shipping Layout",
+  "translations": [
+    {
+      "name": "การจัดส่ง",
+      "language": "th"
+    },
+    {
+      "name": "Entrega",
+      "language": "pt_BR"
+    },
+    {
+      "name": "配送",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Поставка",
+      "language": "uk"
+    },
+    {
+      "name": "Доставка",
+      "language": "bg"
+    },
+    {
+      "name": "Saatmine",
+      "language": "et"
+    },
+    {
+      "name": "Sūtīšana",
+      "language": "lv"
+    },
+    {
+      "name": "Siuntimas",
+      "language": "lt"
+    },
+    {
+      "name": "Frakt",
+      "language": "no"
+    },
+    {
+      "name": "Expediere",
+      "language": "ro"
+    },
+    {
+      "name": "Expédition",
+      "language": "fr_CA"
+    },
+    {
+      "name": "出荷",
+      "language": "ja"
+    },
+    {
+      "name": "Pošiljanje",
+      "language": "sl"
+    },
+    {
+      "name": "Отгрузка",
+      "language": "ru"
+    },
+    {
+      "name": "Otprema",
+      "language": "hr"
+    },
+    {
+      "name": "Sevkiyat",
+      "language": "tr"
+    },
+    {
+      "name": "Wysyłka",
+      "language": "pl"
+    },
+    {
+      "name": "出貨",
+      "language": "zh_TW"
+    },
+    {
+      "name": "배송",
+      "language": "ko"
+    },
+    {
+      "name": "Doprava",
+      "language": "cs"
+    },
+    {
+      "name": "Szállítás",
+      "language": "hu"
+    },
+    {
+      "name": "Αποστολή",
+      "language": "el"
+    },
+    {
+      "name": "Forsendelse",
+      "language": "da"
+    },
+    {
+      "name": "Shipping",
+      "language": "en"
+    },
+    {
+      "name": "Испорука",
+      "language": "sr"
+    },
+    {
+      "name": "Versand",
+      "language": "de"
+    },
+    {
+      "name": "الشحن ",
+      "language": "ar"
+    },
+    {
+      "name": "Envío",
+      "language": "es"
+    },
+    {
+      "name": "Expédition",
+      "language": "fr"
+    },
+    {
+      "name": "Spedizione",
+      "language": "it"
+    },
+    {
+      "name": "Verzending",
+      "language": "nl"
+    },
+    {
+      "name": "Frakt",
+      "language": "sv"
+    },
+    {
+      "name": "Expedição",
+      "language": "pt"
+    },
+    {
+      "name": "Lähetys",
+      "language": "fi"
+    }
+  ],
+  "layoutViewports": "xs,sm,md,lg"
+}

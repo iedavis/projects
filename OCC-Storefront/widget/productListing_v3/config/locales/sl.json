@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "shouldUseStyleBasedHelpText": "Potrdite za uporabo izpisa, ki temelji na slogu.",
+    "shouldUseStyleBasedTextLabel": "Uporaba izpisa, ki temelji na slogu",
+    "listTypeHelpText": "Izberite, ali je instanca pripomočka tip izpisa izdelka ali seznama rezultatov iskanja.",
+    "listTypeTextLabel": "Tip seznama",
+    "productLabel" : "Izdelek",
+    "searchLabel" : "Išči",
+    "productListingFieldsRequiredHelpText": "Vnesite seznam polj za vključitev v odgovor, ločenih z vejicami. Nastavitev polj se uporablja samo za izpise izdelkov prek krmarjenja po kategoriji in ne za rezultate iskanja.",
+    "productListingFieldsRequiredLabel": "Polja",
+    "productsPerPageRequiredHelpText": "Vnesite število izdelkov za prikaz na strani.",
+    "productsPerPageRequiredLabel": "Izdelki na stran",
+    "blockSizeRequiredHelpText": "Vnesite število izdelkov za nalaganje na zahtevo. Nastavitev velikosti bloka se uporablja samo za izpise izdelkov prek krmarjenja po kategoriji in ne za rezultate iskanja.",
+    "blockSizeRequiredLabel": "Velikost bloka"
+  }
+}

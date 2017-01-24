@@ -1,0 +1,19 @@
+{
+  "resources": {
+    "cartEmptyHeader" : "Handlekurven er tom.",
+    "buttonContinueShopping": "Fortsett å handle",
+    "cartHeader" : "Din handlekurv",
+    "itemHeaderItem": "Artikkel",    
+    "itemHeaderQuantity": "Mengde",
+    "itemQuantity": "Mengde for __productName__",
+    "itemHeaderItemTotal": "Artikkelsum",
+    "totalTableSubTotal": "Delsum:",
+    "includingTaxText": "(inklusive avgift)",
+    "totalTableTotal": "Sum:",
+    "buttonUpdateQuantity": "Oppdater",
+    "buttonRemoveItem": "Fjern",
+    "instockText": "På lager",
+    "outofstockText": "Ikke på lager",
+    "totalTableSummary": "Summer for handlekurven."
+  }
+}

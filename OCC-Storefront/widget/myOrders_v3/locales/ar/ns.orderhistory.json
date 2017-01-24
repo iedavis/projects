@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "الحساب الخاص بي",
+    "orderHistoryText" : "تاريخ الطلب",
+    "backToMyAccount" : "<< عودة إلى الحساب الخاص بي",
+    "historyHeaderOrderDate": "تاريخ الطلب",    
+    "historyHeaderOrderNumber": "رقم الطلب",
+    "historyHeaderOrderStatus": "موقف الطلب",
+    "historyHeaderOrderTotal": "إجمالي الطلبات",
+    "historyHeaderOrderDetails": "تفاصيل الطلب",
+    "listingHeaderScheduledOrderId": "معرف الجدول",
+    "orderDetails": "التفاصيل"
+  }
+}

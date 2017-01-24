@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Chcete zahrnout ID plánované objednávky?",
+	"includeScheduledHelpText" : "Položku vyberte, pokud chcete do tabulky historie objednávek zahrnout ID plánované objednávky"
+  }
+}

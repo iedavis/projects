@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "我的訂單",
+    "backToMyOrdersLink" : "<< 返回我的訂單",
+    "orderDetailsText": "訂單詳細資料",
+    "orderDateText": "訂單日期：",
+    "orderNumberText": "訂單編號：",
+    "orderStatusText": "訂單狀態：",
+    "quoteExpiryText": "報價單到期：",
+    "scheduledOrderName": "排程名稱：",
+    "shippingAddressAndMethodText": "出貨地址與方式", 
+    "shippingAddressText": "收貨方：",
+    "noShippingAddressText" : "沒有可用的出貨地址", 
+    "shippingMethodText": "出貨方式：",
+    "shippingText": "標準出貨：",
+    "salesTaxText": "營業稅：",
+    "orderTotalText": "訂單總計：",
+    "includingTaxText": "(含稅)",
+    "totalExcludingTaxText": "總計 (不含稅)：",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "追蹤編號：",
+    "trackingReferenceReaderText": "__carrierName__ 追蹤參考 __trackingReference__",
+    "scheduledOrderPriceListGroupText": "已依據價目表 '__priceListGroup__' 建立排定訂單"
+  } 
+}

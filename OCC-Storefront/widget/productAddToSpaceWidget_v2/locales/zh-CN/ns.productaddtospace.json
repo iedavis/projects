@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "添加到收藏列表",
+    "spaceSelectionText": "选择收藏列表",
+    "spaceCommentText": "输入备注...",
+    "spaceNameText": "名称",
+    "buttonSpaceAdd": "添加",
+    "buttonSpaceCancel": "取消",
+    "mySpacesGroupText": "我的收藏列表",
+    "joinedSpacesGroupText": "加入的收藏列表",
+    "createNewSpaceOptText": "新建收藏列表...",
+    "addToSpaceSuccessMsg" : "成功！__socialproduct__ 已添加到 __socialspacename__。",
+    "addToSpaceProductUpdatedSuccessMsg" : "此商品已在收藏列表中。我们已更新“添加日期”。",
+    "addToSpaceProductViewWishListMsg" : "  查看 __wishlistname__",
+    "spaceAddProductError" : "尝试将产品发布到收藏列表时出错。请尝试刷新您的页面。",
+    "uniqueNameMsg": "收藏列表名称必须唯一。",
+    "emptyNameMsg": "名称不能为空",
+    "privacySettingsLabel": "隐私设置",
+    "privacySettingsDescription": "邀请朋友查看私有收藏列表会将您的隐私设置更改为“组”。通过电子邮件发送私有或组收藏列表或者在社交网络上对其进行共享将使其成为共享列表。",
+    "privacySharedLabel": "任何人均可通过链接查看此列表。只有您和您邀请的人可以查看此列表并向其中添加备注和内容。",
+    "privacyGroupLabel": "只有您和您邀请的人可以查看此列表并向其中添加备注和内容。",
+    "privacyPrivateLabel": "只有您可以查看此列表并向其中添加内容。",
+    "spaceAccessPrivateIconTxt" : "私有",
+    "spaceAccessSharedIconTxt" : "共享",
+    "spaceAccessGroupIconTxt" : "组",
+    "spaceCreateMaxSpacesMsg" : "创建收藏列表时出现问题。已经超过收藏列表数量限制。请先删除一个现有收藏列表，然后再新建一个。",
+    "productAddMaxProductsMsg" : "向收藏列表添加产品时出错。收藏列表中的帖子已超过数量限制。请从目标收藏列表中删除现有产品，然后再添加新产品。"
+  }
+}

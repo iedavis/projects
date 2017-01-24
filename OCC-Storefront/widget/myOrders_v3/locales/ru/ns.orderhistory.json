@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Моя учетная запись",
+    "orderHistoryText" : "История заказов",
+    "backToMyAccount" : "<",
+    "historyHeaderOrderDate": "Дата заказа",    
+    "historyHeaderOrderNumber": "Номер заказа",
+    "historyHeaderOrderStatus": "Статус заказа",
+    "historyHeaderOrderTotal": "Итого по заказу",
+    "historyHeaderOrderDetails": "Сведения о заказе",
+    "listingHeaderScheduledOrderId": "Идентификатор графика",
+    "orderDetails": "Сведения"
+  }
+}

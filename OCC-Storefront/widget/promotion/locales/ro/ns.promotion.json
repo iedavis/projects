@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Adăugaţi o promoţie sau un cod de loialitate",
+  "promoCode": "Introduceţi codul promoţiei",
+  "promoCodeAriaLabelText": "Introduceţi codul promoţiei",
+  "buttonApplyCodeText": "Aplicare cod",
+  "buttonApplyingCodeText": "Se aplică codul",
+  "couponDetailsError": "A fost detectată o problemă cu detaliile cupoanelor dvs.",
+  "promoCodeRequired": "Codul cuponului nu poate fi gol",
+  "duplicateCoupon": "Cod deja aplicat."
+  }
+}

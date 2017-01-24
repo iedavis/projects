@@ -1,0 +1,97 @@
+<div id="CC-organizationAddressSelector">
+  <fieldset id="CC-organizationShippingAddress">
+    <legend data-bind="widgetLocaleText:'shippingAddressText'"></legend>
+      <!-- ko with: order().shippingAddress -->
+        <div class="form-group col-sm-4">
+          <label class="control-label inline" for="CC-organizationAddressSelector-shippingFirstName" data-bind="widgetLocaleText:'firstNameText'"></label>
+          <span class="text-danger visible-xs" id="CC-xs-organizationAddressSelector-shippingFirstName-error" data-bind="validationMessage: firstName" role="alert"></span>
+          <div class="control">
+            <input type="text" class="col-md-12 form-control" name="shippingFirstName" id="CC-organizationAddressSelector-shippingFirstName" aria-required="true" 
+                   data-bind="validatableValue: firstName, widgetLocaleText : {value:'firstNameText', attr:'placeholder'}">
+          </div>
+        </div>
+        <div class="form-group col-sm-4">
+          <label class="control-label inline" for="CC-organizationAddressSelector-shippingLastName" data-bind="widgetLocaleText:'lastNameText'"></label>
+          <span class="text-danger visible-xs" id="CC-xs-organizationAddressSelector-shippingLastName-error" data-bind="validationMessage: lastName" role="alert"></span>
+          <div class="control">
+            <input type="text" class="col-md-12 form-control" name="sLastName" id="CC-organizationAddressSelector-shippingLastName" aria-required="true"
+                   data-bind="validatableValue: lastName, widgetLocaleText : {value:'lastNameText',attr:'placeholder'}">
+          </div>
+        </div>
+        <div class="col-md-4 hidden-xs">
+           <p class="text-danger" id="CC-organizationAddressSelector-shippingFirstName-error" data-bind="validationMessage: firstName" role="alert"></p>
+           <p class="text-danger" id="CC-organizationAddressSelector-shippingLastName-error" data-bind="validationMessage: lastName" role="alert"></p>
+        </div>
+      <!-- /ko -->
+  </fieldset>
+  <div id="CC-shippingAddressSelection" class="addressselection">  
+    <!-- ko foreach: organizationAddressBook -->
+    <label class="radio" data-bind="attr:{ for: 'CC-organizationAddressSelector-shippingAddress-'+repositoryId }">
+      <div>
+	    <input type="radio" name="shippingAddress" data-bind="value: repositoryId,click: $parent.selectShippingAddress,
+		  attr: { id: 'CC-organizationAddressSelector-shippingAddress-'+repositoryId },checked: $parent.selectedShippingAddressId">
+          <span class="organization-address">
+            <span class="address-field" data-bind="text: companyName"></span>
+            <span class="address-field" data-bind="text: address1"></span>
+            <!-- ko if: address2 -->
+              <span class="address-field" data-bind="text: address2"></span>
+            <!-- /ko -->
+            <span class="address-field" data-bind="text: city"></span>, <span class="address-field" data-bind="text: state"></span>, <span class="address-field" data-bind="text: postalCode"></span>
+            <span class="address-field" data-bind="text: country"></span>
+          </span>
+        </input>
+      </div>
+    </label>
+    <!-- /ko -->
+    <!-- ko if: organizationAddressBook().length === 0 -->
+      <span data-bind="widgetLocaleText: 'noAddressesText'"></span>
+    <!-- /ko -->
+  </div>
+
+  <fieldset id="CC-contactBillingAddress">
+    <legend data-bind="widgetLocaleText:'billingAddressText'"></legend>
+      <!-- ko with: order().billingAddress -->
+        <div class="form-group col-sm-4">
+          <label class="control-label inline" for="CC-organizationAddressSelector-billingFirstName" data-bind="widgetLocaleText:'firstNameText'"></label>
+          <span class="text-danger visible-xs" id="CC-xs-organizationAddressSelector-billingFirstName-error" data-bind="validationMessage: firstName" role="alert"></span>
+          <div class="control">
+            <input type="text" class="col-md-12 form-control" name="bFirstName" id="CC-organizationAddressSelector-billingFirstName" aria-required="true" data-bind="validatableValue: firstName, widgetLocaleText : {value:'firstNameText', attr:'placeholder'}" >
+          </div>
+        </div>
+        <div class="form-group col-sm-4">
+          <label class="control-label inline" for="CC-organizationAddressSelector-billingLastName" data-bind="widgetLocaleText:'lastNameText'"></label>
+          <span class="text-danger visible-xs" id="CC-xs-organizationAddressSelector-billingLastname-error" data-bind="validationMessage: lastName" role="alert"></span>
+          <div class="control">
+            <input type="text" class="col-md-12 form-control" name="bLastName" id="CC-organizationAddressSelector-billingLastName" aria-required="true" data-bind="validatableValue: lastName, widgetLocaleText : {value:'lastNameText', attr:'placeholder'}">
+          </div>
+        </div>
+        <div class="col-md-4 hidden-xs">
+          <p class="text-danger " id="CC-organizationAddressSelector-billingFirstname-error" data-bind="validationMessage: firstName" role="alert"></p>
+          <p class="text-danger" id="CC-organizationAddressSelector-billingLastname-error" data-bind="validationMessage: lastName" role="alert"></p>
+        </div>
+      <!-- /ko -->
+  </fieldset>
+  <div  id="CC-billingAddressSelection" class="addressselection">
+    <!-- ko foreach: organizationAddressBook -->
+    <label class="radio" data-bind="attr:{ for: 'CC-organizationAddressSelector-billingAddress-'+repositoryId }">
+	  <div>  
+	    <input type="radio" name="billingAddress" data-bind="value: repositoryId,click: $parent.selectBillingAddress,
+		  attr: { id: 'CC-organizationAddressSelector-billingAddress-'+repositoryId },checked: $parent.selectedBillingAddressId">
+          <span class="organization-address">
+		    <span class="address-field" data-bind="text: companyName"></span>
+            <span class="address-field" data-bind="text: address1"></span>
+            <!-- ko if: address2 -->
+              <span class="address-field" data-bind="text: address2"></span>
+            <!-- /ko -->
+            <span class="address-field" data-bind="text: city"></span>, <span class="address-field" data-bind="text: state"></span>, <span class="address-field" data-bind="text: postalCode"></span>
+            <span class="address-field" data-bind="text: country"></span>
+	      </span>
+        </input>
+	  </div>
+    </label>
+    <!-- /ko -->
+    <!-- ko if: organizationAddressBook().length === 0 -->
+      <span data-bind="widgetLocaleText: 'noAddressesText'"></span>
+    <!-- /ko -->
+  </div>
+</div>

@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Vognopsummering",
+    "quantityText": "Mængde: ",
+    "colorText": "Farve:",
+    "sizeText": "Størrelse: ",
+    "instockText": "På lager",
+    "outofstockText": "Ikke på lager",
+    "estimiatedShippingText": "Anslået forsendelse: ",
+    "buttonEditCartSummary": "Rediger",
+    "editCartText": "Rediger vogn",
+    "seeAllProducts": "Se alle produkter",
+    "showAll": "Vis alle",
+    "cartSummaryItemLimitText": "Viser første __noOfItems__ varer i vogn"
+  }
+}

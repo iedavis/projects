@@ -1,0 +1,6 @@
+{
+  "resources": {
+    "checkoutCartSummaryItemsToDisplayHelpText": "Введіть максимальну кількість елементів, які потрібно відображати в зведенні кошика.",
+    "checkoutCartSummaryItemsToDisplayLabel": "Максимальна кількість елементів у зведенні кошика"
+  }
+}

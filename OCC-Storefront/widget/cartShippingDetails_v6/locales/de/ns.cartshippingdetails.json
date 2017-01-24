@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Versand und Steuern berechnen (optional)",
+    "cartShippingErrorMsg": "Stellen Sie sicher, dass Sie alle Versandfelder ausgefüllt und alle ungültigen Einträge korrigiert haben.",
+    "countryText": "Land",
+    "stateText": "Bundesland",
+    "zipCodeText": "Postleitzahl",
+    "countryRequired": "Land ist erforderlich.",
+    "stateRequired": "Bundesland ist erforderlich. ",
+    "zipCodeRequired": "Postleitzahl ist erforderlich.",
+    "zipCodeInvalid": "Ungültige Eingabe. Geben Sie eine gültige Postleitzahl ein.",
+    "stateRegionText": "Bundesland/Region",
+    "noShippingSelectedText": "Keine Versandart ausgewählt.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Für Ihre Zieladresse sind keine Versandarten verfügbar.",
+    "noShippingMethodsForAddressText": "Für die eingegebene Versandadresse konnten keine Versandarten abgerufen werden",
+    "fetchingShippingMethodsText": "Versandarten für Adresse werden abgerufen",
+    "invalidShippingAddress": "Ungültige Versandadresse angegeben.",
+    "invalidShippingMethod": "Ungültige Versandart angegeben.",
+    "pricingError" : "Versandkosten und Steuern können nicht berechnet werden. Prüfen Sie Ihre Versandadresse.",
+    "invalidPreviousAddress": "An Ihre zuvor verwendete Versandadresse erfolgt kein Versand mehr.",
+    "shippingMethodNoLongerAvailable": "Die zuvor ausgewählte Versandart ist nicht mehr verfügbar. Prüfen Sie die Versandart, bevor Sie Ihre Bestellung abschicken."
+  }
+}

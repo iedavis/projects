@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "102": "(102) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "104": "(104) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "110": "(110) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "150": "(150) Si è verificato un problema tecnico durante la connessione alla banca che ha emesso la carta di credito. Riprovare o utilizzare un'altra carta.",
+    "151": "(151) Si è verificato un problema tecnico. Attendere e riprovare.",
+    "152": "(152) Si è verificato un problema tecnico. Attendere e riprovare.",
+    "200": "(200) L'indirizzo di fatturazione specificato non corrisponde all'indirizzo registrato per la carta di credito. Controllare l'indirizzo e riprovare.",
+    "201": "(201) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "202": "(202) Controllare la data di scadenza della carta e riprovare.",
+    "203": "(203) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "204": "(204) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "205": "(205) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "207": "(207) Si è verificato un problema tecnico durante la connessione alla banca che ha emesso la carta di credito. Riprovare o utilizzare un'altra carta.",
+    "208": "(208) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "209": "(209) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "210": "(210) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "211": "(211) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "221": "(221) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "230": "(230) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "231": "(231) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "232": "(232) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "233": "(233) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "234": "(234) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "520": "(520) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "1000": "(1000) La carta di credito è stata rifiutata. Utilizzare un'altra carta.",
+    "476": "(476) Carta non autenticata per l'uso. Utilizzare un'altra carta.",
+    "paymentErrorText":"Si è verificato un problema tecnico. Attendere e riprovare.",
+    "processingText": "Elaborazione in corso. Attendere. Non fare clic sul pulsante Aggiorna o Indietro. In caso contrario, la transazione potrebbe essere interrotta o terminata."
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Mokėti naudojant dovanų kortelę",
+    "giftCardNumberText": "Dovanų kortelės numeris",
+    "giftCardPinText": "Dovanų kortelės PIN",
+    "giftCardApplyText": "Taikyti dovanų kortelę", 
+    "giftCardApplyingText": "Taikoma dovanų kortelė", 
+    "displayGiftCardDetailsText" : "Mokėti naudojant dovanų kortelę",
+    "duplicateGiftcardErrMsg":"Dovanų kortelė jau pritaikyta."
+  }
+}

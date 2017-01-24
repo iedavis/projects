@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Postavke obavijesti porukom e-pošte",
+    "spaceSettingsNotificationIntroText" : "Želim primati:",
+    "spaceSettingsCommentNotificationTxt" : "Komentari i obavijesti o proizvodima",
+    "spaceSettingsNewMemberNotificationTxt" : "Obavijesti o novim članovima",
+    "spaceSettingsSaveTxt" : "Spremi",
+    "spaceSettingsCancelTxt" : "Odustani",
+    "spaceSettingsSaveErrorTxt" : "Prilikom spremanja vaših promjena postavki obavijesti došlo je do problema.",
+    "spaceSettingsSaveSuccessTxt" : "Vaše su postavke obavijesti ažurirane i spremljene.",
+    "spaceSettingsOnText" : "Da",
+    "spaceSettingsOffText" : "Ne",
+    "spaceSettingsNotificationEnableHelpText" : "Odaberite \"Obavijesti želim primati e-poštom\" na stranici \"Moj račun\" kako biste omogućili obavijesti o popisu želja."
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "resources": {
+	"heroWidget": "Hero",
+	"previousBannerText": "Önceki Büyük Başlık",
+	"nextBannerText": "Sonraki Büyük Başlık"
+  }
+}

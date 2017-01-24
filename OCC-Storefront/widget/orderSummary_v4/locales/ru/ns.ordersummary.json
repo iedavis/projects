@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Сводка заказа",
+    "subtotalText": "Промежуточный итог: ",
+    "discountText": "Скидки*: ",
+    "shippingOptionsText": "Параметры доставки",
+    "changeText": "Изменить",
+    "salesTaxText": "Налог с продаж: ",
+    "orderTotalText": "Итого по заказу: ",
+    "placeOrderText": "Размещение заказа",
+    "noShippingText": "Без доставки",
+    "applicableTaxesText": "Расчет применимых налогов производится при оформлении покупки.",
+    "paymentOptionsText": "Параметры платежа",
+    "checkoutText": "Оформление покупки",
+    "noShippingSelectedText": "Не выбран метод доставки.",
+    "shippingAddressRequired":"Введите адрес получателя товара ",
+    "shippingText": "Доставка: __displayName__ ",
+    "noShippingMethodsText": "Нет доступных методов доставки",
+    "checkoutErrorMsg": "Убедитесь, что все обязательные поля заполнены и введенные недопустимые значения исправлены.",
+    "removeLinkText": "Удалить ",
+    "rePricingText":"Повторное определение цены",
+    "totalExcludingTaxText": "Итог (искл. налог): ",
+    "includingTaxText": "(включая налог)"
+  }
+}

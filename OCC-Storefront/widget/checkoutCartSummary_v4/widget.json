@@ -1,0 +1,19 @@
+{
+  "config": {
+    "giftItemImageURL": "/img/GWP_GiftWithPurchase.jpg",
+    "noOfItemsToDisplay": "5"
+  },
+  "global": false,
+  "globalEnabled": true,
+  "i18nresources": "checkoutcartsummary",
+  "imports": [],
+  "javascript": "checkout-cart-summary",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Cart Summary",
+  "pageTypes": ["checkout"],
+  "source": 100,
+  "version": 4,
+  "widgetFamily": "checkoutCartSummary",
+  "widgetType": "checkoutCartSummary"
+}

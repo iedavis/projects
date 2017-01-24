@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Setaţi permisiunea de expirare pt. înştiinţările non-eroare.",
+    "notificationsTimeoutEnabledTextLabel": "Expirare activată",
+    "notificationsTimeoutHelpText": "Setaţi expirarea înştiinţărilor non-eroare (în secunde).",
+    "notificationsTimeoutTextLabel": "Expirare (în secunde)",
+    "notificationsFixedHelpText": "Indicaţi dacă widgetul de înştiinţare trebuie fixat în partea de sus a paginii.",
+    "notificationsFixedTextLabel": "Fix"
+  }
+}

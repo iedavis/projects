@@ -1,0 +1,17 @@
+{
+  "resources": {
+    "checkoutCustomerDetailsText": "Norēķināšanās",
+    "defaultAddressLabel": "Noklusējuma adrese",
+    "billingAddressText" : "Norēķinu adrese",
+    "noAddressesText" : "Nav saglabātu adrešu.",
+    "firstNameText": "Vārds",
+    "lastNameText": "Uzvārds",
+    "shippingAddressText": "Nosūtīšanas adrese",
+    "checkoutErrorMsg": "Lūdzu, pārliecinieties, vai aizpildījāt visus obligātos laukus un izlabojāt visus nederīgos ierakstus.",
+    "firstNameRequired": "Ir jānorāda vārds.",
+    "lastNameRequired": "Ir jānorāda uzvārds.",
+    "unsupportedShippingAddressText": "Nosūtīšana uz šo adresi nav pieejama.",
+    "invalidBillingAddressText": "Jūsu sūtīšanas adresi nevar izmantot kā norēķinu adresi. Lūdzu, ievadiet norēķinu adresi.",
+    "invalidPreviousAddress": "Mēs vairs nenosūtām uz jūsu iepriekš izmantoto nosūtīšanas adresi."
+  }
+}

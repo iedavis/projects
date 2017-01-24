@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Povzetek vozička",
+    "quantityText": "Količina: ",
+    "colorText": "Barva: ",
+    "sizeText": "Velikost: ",
+    "instockText": "Na zalogi",
+    "outofstockText": "Ni na zalogi",
+    "estimiatedShippingText": "Ocena pošiljanja: ",
+    "buttonEditCartSummary": "Urejanje",
+    "editCartText": "Urejanje vozička",
+    "seeAllProducts": "Ogled vseh izdelkov",
+    "showAll": "Prikaži vse",
+    "cartSummaryItemLimitText": "Prikaz začetnih toliko artiklov v vozičku: __noOfItems__"
+  }
+}

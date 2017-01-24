@@ -1,0 +1,21 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "scheduledorder",
+  "imports": [
+    "shippingCountries",
+    "shippingCountriesPriceListGroup",
+    "defaultShippingCountry",
+    "shippingmethods"
+  ],
+  "javascript": "scheduled-order",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Scheduled Order",
+  "pageTypes": ["scheduledOrder"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "scheduledOrder",
+  "widgetType": "scheduledOrder"
+}

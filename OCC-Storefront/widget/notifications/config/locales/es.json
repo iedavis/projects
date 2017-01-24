@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Determine si se permite el timeout en notificaciones que no son de error.",
+    "notificationsTimeoutEnabledTextLabel": "Timeout activado",
+    "notificationsTimeoutHelpText": "Defina el timeout de notificaciones que no son de error (en segundos).",
+    "notificationsTimeoutTextLabel": "Timeout (en segundos)",
+    "notificationsFixedHelpText": "Defina si el widget de notificaciones debe fijarse en la parte superior de la página.",
+    "notificationsFixedTextLabel": "Fijo"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "การยืนยันใบสั่ง", 
+    "orderDoesNotExist": "ไม่มีใบสั่ง", 
+    "thankyouMsg": "ขอบคุณสำหรับใบสั่งของคุณเมื่อ __orderDate__ เวลา __orderTime__", 
+    "processingMsg": "ระบบกำลังประมวลผลใบสั่งนี้อยู่ในขณะนี้",
+    "pendingMsg": "ขอบคุณ เราได้รับคำขอใบสั่งของคุณแล้วและกำลังรอดำเนินการชำระเงิน เราจะประมวลผลใบสั่งทันทีที่การชำระเงินได้รับการอนุมัติ",
+    "orderNumberMsg": "เลขที่ใบสั่งของคุณคือ __orderNumber__", 
+    "emailMsg": "ระบบได้ส่งอีเมล์ยืนยันใบสั่งไปยัง __emailAddress__ แล้ว โดยมีรายละเอียดใบสั่งตามด้านล่าง", 
+    "yourOrderText": "ใบสั่งของคุณ", 
+    "itemText": "สินค้า", 
+    "quantityText": "ปริมาณ", 
+    "itemTotalText": "ยอดรวมสินค้า", 
+    "shippingAddressAndMethodText": "ที่อยู่และวิธีจัดส่งสินค้า", 
+    "shipToText": "ส่งสินค้าไปที่:", 
+    "shippingMethodText": "วิธีจัดส่งสินค้า:", 
+    "paymentDetailsText": "รายละเอียดการชำระเงิน", 
+    "cardTypeText": "ประเภทบัตร:", 
+    "cardNumberText": "เลขที่บัตร:", 
+    "billingAddressText": "ที่อยู่ที่เรียกเก็บ:",
+    "loginSuccessText": "จัดทำบัญชีของคุณแล้ว ขอบคุณสำหรับการลงทะเบียน",
+    "loginFailureText": "ข้อผิดพลาด: ระบบได้ประมวลผลใบสั่งของคุณแล้วแต่เกิดปัญหาในการจัดทำบัญชีของคุณ โปรดลองอีกครั้ง",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

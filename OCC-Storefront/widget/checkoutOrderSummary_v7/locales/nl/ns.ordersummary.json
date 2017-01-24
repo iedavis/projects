@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Orderoverzicht",
+    "subtotalText": "Subtotaal: ",
+    "shippingOptionsText": "Verzendopties",
+    "salesTaxText": "Omzetbelasting: ",
+    "orderTotalText": "Ordertotaal: ",
+    "placeOrderText": "Order plaatsen",
+    "scheduleOrderText": "Schemaorder",
+    "noShippingText": "Geen verzending",
+    "shippingText": "Verzending: __displayName__",    
+    "applicableTaxesText": "Toepasselijke belastingen worden berekend bij het afrekenen.",
+    "paymentOptionsText": "Betalingsopties",
+    "checkoutText": "Kassa",
+    "noShippingSelectedText": "Geen verzendmethode geselecteerd",
+    "shippingAddressRequired": "Voer een bestemmingsadres in.",
+    "noShippingMethodsText": "Er zijn geen verzendmethoden beschikbaar voor uw bestemmingsadres.",
+    "noShippingMethodsForAddressText": "Er zijn geen verzendmethoden beschikbaar voor het geselecteerde adres.",
+    "checkoutErrorMsg": "Controleer of u alle verplichte velden hebt ingevuld en eventuele ongeldige invoer hebt gecorrigeerd.",
+    "rePricingText":"Prijs opnieuw berekenen",
+    "removeLinkText":"verwijderen",
+    "paymentMessage": "Het volgende scherm dat u ziet, is mogelijk de betalingskaartverificatie via uw kaartuitgever.",
+    "includingTaxText": "(inclusief belasting)",
+    "totalExcludingTaxText": "Totaal (exclusief belasting): ",
+    "paymentMethodNotAvilable": "(Deze betalingsoptie kan niet worden gebruikt voor geplande orders.)",
+    "selectShippingMethodText": "Verzendmethode selecteren"
+  }
+}

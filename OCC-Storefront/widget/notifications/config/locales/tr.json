@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "notificationsTimeoutEnabledHelpText": "Hatalı harici bildirimlerde zaman aşımına izin verilip verilmediğini ayarlayın.",
+    "notificationsTimeoutEnabledTextLabel": "Zaman Aşımı Etkin",
+    "notificationsTimeoutHelpText": "Hata harici bildirimler için zaman aşımını ayarlar (saniye cinsinden).",
+    "notificationsTimeoutTextLabel": "Zaman Aşımı (saniye cinsinden)",
+    "notificationsFixedHelpText": "Bildirim küçük uygulamasının sayfanın en üstünde sabitlenip sabitlenmeyeceğini ayarlar.",
+    "notificationsFixedTextLabel": "Sabit"
+  }
+}

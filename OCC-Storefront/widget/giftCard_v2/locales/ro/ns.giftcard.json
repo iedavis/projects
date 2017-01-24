@@ -1,0 +1,11 @@
+{
+  "resources": {
+    "giftCardLabelText": "Plată cu card cadou",
+    "giftCardNumberText": "Nr. card cadou",
+    "giftCardPinText": "PIN card cadou",
+    "giftCardApplyText": "Aplicare card cadou", 
+    "giftCardApplyingText": "Se aplică cardul cadou", 
+    "displayGiftCardDetailsText" : "Plată cu card cadou",
+    "duplicateGiftcardErrMsg":"Cardul cadou a fost aplicat deja."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Payment Details",
+  "paymentMethod": "Payment Method",
+  "paypalText": "The safer, easier way to pay.", 
+  "paymentDetailsError": "Please ensure you have completed all mandatory fields and corrected any invalid entries.",
+  "paymentMethodNotAvilable": "(This payment option cannot be used for scheduled orders.)",
+  
+  "nameOnCardLabel": "Name on Card",
+  "nameOnCardPlaceholder": "Name on Card",
+  "nameOnCardRequired": "Name on Card is mandatory.",
+  "nameOnCardInvalid": "Name on Card is invalid.",
+  
+  "cardTypeLabel": "Card Type",
+  "cardTypePlaceholder": "Card Type",
+  "cardTypeRequired": "Card Type is mandatory.",
+  "cardTypeInvalid": "Card Type is invalid.",
+  
+  "cardNumberLabel": "Card Number",
+  "cardNumberPlaceholder": "Card Number",
+  "cardNumberRequired": "Card Number is mandatory.",
+  "cardNumberMaxLength":"Invalid entry. Please do not exceed the maximum of __maxLength__ characters.",
+  "cardNumberInvalid": "Invalid card number, please try again.",
+  
+  "cardCVVLabel": "CVV",
+  "cardCVVPlaceholder": "CVV",
+  "cardCVVRequired": "CVV is mandatory.",
+  "cardCVVInvalid": "CVV is invalid.",
+  "cardCVVWhatsThis": "What's this?",
+  "cardCVVPopupTitle": "CVV",
+  "cardCVVPopupText": "The last 3 digits found on your card's signature strip.",
+  "cardCVVNumberInvalid": "Invalid entry, Please enter only numbers.",
+  "cardCVVNumberMaxLength": "Invalid entry. Please do not exceed the maximum of 4 permitted characters.",
+  "cardCVVNumberMinLength": "Invalid entry. Please enter a minimum of 3 characters.",
+  
+  "endMonthLabel": "Expires (Month)",
+  "endMonthPlaceholder": "Expires (Month)",
+  "endMonthRequired": "Card expires month is mandatory.",
+  "endMonthInvalid": "Invalid expires month/year, please try again.",
+  
+  "endYearLabel": "Expires (Year)",
+  "endYearPlaceholder": "Expires (Year)",
+  "endYearRequired": "Card expires year is mandatory.",
+  "endYearInvalid": "Invalid expires month/year, please try again.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

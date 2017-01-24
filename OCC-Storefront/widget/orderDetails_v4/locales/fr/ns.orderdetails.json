@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Mes commandes",
+    "backToMyOrdersLink" : "<< Retour à Mes commandes",
+    "orderDetailsText": "Détails de commande",
+    "orderDateText": "Date de commande :",
+    "orderNumberText": "Numéro de commande :",
+    "orderStatusText": "Statut de commande :",
+    "quoteExpiryText": "Expiration du devis :",
+    "scheduledOrderName": "Nom de la planification :",
+    "shippingAddressAndMethodText": "Adresse de livraison et mode d'expédition", 
+    "shippingAddressText": "Expédier à :",
+    "noShippingAddressText" : "Aucune adresse de livraison disponible", 
+    "shippingMethodText": "Mode d'expédition :",
+    "shippingText": "Expédition standard :",
+    "salesTaxText": "Taxe sur les ventes :",
+    "orderTotalText": "Total de la commande :",
+    "includingTaxText": "(taxe incluse)",
+    "totalExcludingTaxText": "Total (taxe exclue) : ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "Numéros de suivi :",
+    "trackingReferenceReaderText": "__carrierName__ référence de suivi __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Commande planifiée créée conformément au tarif __priceListGroup__"
+  } 
+}

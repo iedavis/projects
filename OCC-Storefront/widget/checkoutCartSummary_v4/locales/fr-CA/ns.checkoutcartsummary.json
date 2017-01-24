@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Sommaire du panier",
+    "quantityText": "Quantité : ",
+    "colorText": "Couleur : ",
+    "sizeText": "Taille : ",
+    "instockText": "En stock",
+    "outofstockText": "En rupture de stock",
+    "estimiatedShippingText": "Délai d'expédition estimé : ",
+    "buttonEditCartSummary": "Modifier",
+    "editCartText": "Modifier le panier",
+    "seeAllProducts": "Voir tous les produits",
+    "showAll": "Tout afficher",
+    "cartSummaryItemLimitText": "Affichage des articles __noOfItems__ cart initiaux"
+  }
+}

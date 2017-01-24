@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Ieškojote pagal „__searchterm__“. Nerasta jokių produktų.\n",
+    "titleText": "Ieškoti",
+    "searchFailedText": "Paieškos šiuo metu atlikti negalima."
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "resources": {
+  "promotionLabelText": "Přidat kód promo akce nebo věrnostní kód",
+  "promoCode": "Zadejte kód promo akce",
+  "promoCodeAriaLabelText": "Zadejte kód promo akce",
+  "buttonApplyCodeText": "Použít kód",
+  "buttonApplyingCodeText": "Použití kódu",
+  "couponDetailsError": "V údajích týkajících se kupónu byl zjištěn problém.",
+  "promoCodeRequired": "Kód kupónu musí být zadán.",
+  "duplicateCoupon": "Kód byl již použit."
+  }
+}

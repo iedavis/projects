@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "檢視較少...",
+    "seeMoreText" : "檢視更多...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "縮小範圍依據",
+    "clearAllRefinementsText" : "清除所有精簡",
+    "guidedNavigationHeader" : "導引式瀏覽表頭",
+    "doneText" : "完成",
+    "expandText" : "展開",
+    "collapseText" : "收合",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "已載入重疊式導覽瀏覽"
+  }
+}

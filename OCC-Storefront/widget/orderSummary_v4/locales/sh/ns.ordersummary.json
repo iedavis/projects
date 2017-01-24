@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "Rezime narudžbine",
+    "subtotalText": "Međuzbir: ",
+    "discountText": "Popusti*: ",
+    "shippingOptionsText": "Opcije isporuke",
+    "changeText": "promeni",
+    "salesTaxText": "Porez na promet: ",
+    "orderTotalText": "Ukupno za narudžbinu: ",
+    "placeOrderText": "Slanje narudžbine",
+    "noShippingText": "Nisu navedeni detalji o isporuci",
+    "applicableTaxesText": "Primenjivi porezi će se obračunati prilikom završetka kupovine.",
+    "paymentOptionsText": "Opcije plaćanja",
+    "checkoutText": "Završetak kupovine",
+    "noShippingSelectedText": "Nije izabran nijedan način isporuke.",
+    "shippingAddressRequired":"Unesite adresu isporuke ",
+    "shippingText": "Isporuka: __displayName__ ",
+    "noShippingMethodsText": "Nije dostupan nijedan način isporuke",
+    "checkoutErrorMsg": "Uverite se da ste popunili sva obavezna polja i da ste ispravili sve nevažeće unose.",
+    "removeLinkText": "ukloni",
+    "rePricingText":"Nove cene",
+    "totalExcludingTaxText": "Ukupno (bez poreza): ",
+    "includingTaxText": "(uključujući porez)"
+  }
+}

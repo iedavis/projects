@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "上一個影像",
+    "nextImageText" : "下一個影像",
+    "onSaleText": "銷售",
+    "salePriceText": "售價",
+    "listPriceText": "定價",
+    "relatedProductsText": "相關產品"
+  }
+}

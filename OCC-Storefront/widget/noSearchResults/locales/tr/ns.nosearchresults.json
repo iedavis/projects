@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "'__searchterm__' için arama yaptınız. Hiçbir ürün bulunamadı.",
+    "titleText": "Ara",
+    "searchFailedText": "Aramanız şu anda gerçekleştirilemiyor."
+  }
+}

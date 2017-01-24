@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "속성 표시",
+    "numberOfRelatedProductsHelpText": "슬라이드에 표시할 관련 제품 수를 입력하십시오.",
+    "numberOfRelatedProductsTextLabel": "관련 제품 수",
+    "displayNameOfRelatedProductsTextLabel": "제품 이름",
+    "displayPriceOfRelatedProductsTextLabel": "가격"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "reCaptcha",
+  "javascript": "reCaptcha",
+  "global": true,
+  "globalEnabled": true,
+  "editableTemplate": false,
+  "config": {
+  }
+}

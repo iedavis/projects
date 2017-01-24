@@ -1,0 +1,15 @@
+{
+  "resources": {
+    "spaceSettingsNotificationHeadingText" : "Einstellungen für E-Mail-Benachrichtigungen",
+    "spaceSettingsNotificationIntroText" : "Ich möchte Folgendes erhalten:",
+    "spaceSettingsCommentNotificationTxt" : "Benachrichtigungen für Kommentare und Produkte",
+    "spaceSettingsNewMemberNotificationTxt" : "Benachrichtigungen bei neuen Mitgliedern",
+    "spaceSettingsSaveTxt" : "Speichern",
+    "spaceSettingsCancelTxt" : "Abbrechen",
+    "spaceSettingsSaveErrorTxt" : "Beim Speichern der Änderungen an Ihren Benachrichtigungseinstellungen ist ein Problem aufgetreten.",
+    "spaceSettingsSaveSuccessTxt" : "Ihre Benachrichtigungseinstellungen wurden aktualisiert und gespeichert.",
+    "spaceSettingsOnText" : "Ja",
+    "spaceSettingsOffText" : "Nein",
+    "spaceSettingsNotificationEnableHelpText" : "Wählen Sie \"Ich möchte Aktualisierungen per E-Mail erhalten.\" auf der Seite \"Mein Account\" aus, um Wunschzettelbenachrichtigungen zu aktivieren."
+  }
+}

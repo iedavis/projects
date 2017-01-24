@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Sayfa Bulunamadı",
+    "error404" : "Hata 404: ",
+    "pageNotFoundText" : "Adresi yanlış girmiş olabilirsiniz ya da sayfa güncellendi veya silindi.",
+    "lnkHome" : "Giriş Sayfası",
+    "lnkBack" : "Geri"            
+  }
+}

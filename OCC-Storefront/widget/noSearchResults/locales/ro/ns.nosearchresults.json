@@ -1,0 +1,7 @@
+{
+  "resources": {
+    "noProductsFound": "Aţi căutat '__searchterm__'. Nu s-a găsit niciun produs.",
+    "titleText": "Căutare",
+    "searchFailedText": "Căutarea nu poate fi efectuată în prezent."
+  }
+}

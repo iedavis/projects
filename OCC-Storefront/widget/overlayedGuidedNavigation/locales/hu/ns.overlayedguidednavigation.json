@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "Kevesebb megjelenítése...",
+    "seeMoreText" : "Továbbiak megjelenítése...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "Szűrés a következés szerint:",
+    "clearAllRefinementsText" : "Minden szűrő törlése",
+    "guidedNavigationHeader" : "Irányított navigációs fejléc",
+    "doneText" : "Kész",
+    "expandText" : "Kibontás",
+    "collapseText" : "Összecsukás",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "Az átfedéses irányított navigáció betöltve."
+  }
+}

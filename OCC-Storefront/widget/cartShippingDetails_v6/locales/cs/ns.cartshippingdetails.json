@@ -1,0 +1,24 @@
+{
+  "resources": {
+    "calculateShippingText": "Vypočítat dopravné a daň (nepovinné)",
+    "cartShippingErrorMsg": "Zkontrolujte, zda jste vyplnili všechna pole týkající se dopravy a opravili všechny neplatné hodnoty.",
+    "countryText": "Země",
+    "stateText": "Stát",
+    "zipCodeText": "PSČ",
+    "countryRequired": "Země je povinný údaj.",
+    "stateRequired": "Stát je povinný údaj.",
+    "zipCodeRequired": "PSČ je povinný údaj.",
+    "zipCodeInvalid": "Neplatné zadání. Zadejte platné PSČ.",
+    "stateRegionText": "Stát/oblast",
+    "noShippingSelectedText": "Nebyl vybrán způsob dopravy.",
+    "shippingAddressRequired": "",
+    "noShippingMethodsText": "Pro vaši cílovou adresu nejsou dostupné žádné způsoby dopravy.",
+    "noShippingMethodsForAddressText": "Pro zadanou dodací adresu se nepodařilo načíst způsoby dopravy",
+    "fetchingShippingMethodsText": "Načítání způsobů dopravy pro adresu",
+    "invalidShippingAddress": "Byla zadána neplatná dodací adresa.",
+    "invalidShippingMethod": "Zadán neplatný způsob dopravy.",
+    "pricingError" : "Nelze vypočítat náklady na dopravu a daně. Zkontrolujte dodací adresu.",
+    "invalidPreviousAddress": "Na dodací adresu, kterou jste dříve použili, již nedodáváme.",
+    "shippingMethodNoLongerAvailable": "Dříve vybraný způsob dopravy již není k dispozici. Zkontrolujte způsob dopravy před zadáním objednávky."
+  }
+}

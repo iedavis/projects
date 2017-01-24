@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="cybersource" default="all" basedir=".">
+
+  <!-- Set properties needed by included XML files -->
+  <property name="global.dir" value="${basedir}/.."/>
+
+  <!-- Import global defaults and settings and common tasks -->
+  <import file="${global.dir}/buildtools/common.xml"/>
+
+  <!-- Define the all task.  We do this here because we need to call tasks imported 
+       in both the common.xml and deploy.xml files.  This may seem a bit odd but it
+       feels better to segregate common tasks from j2ee deployment tasks and add 
+       this extra bit of layering than have one massive common task file which has
+       buttloads of targets, making it difficult to read.  You get my point separating
+       the tasks in multiple imports makes this complex environment easier to get 
+       around.  -->
+  <target name="all"
+          depends="clean,build,install,deploy"
+          description="Cleans, builds, and installs the project." />
+
+</project>
+<!-- @version $Id: //hosting-blueprint/B2CBlueprint/final/2.0/cybersource/build.xml#1 $$Change: 395714 $-->

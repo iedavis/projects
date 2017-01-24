@@ -1,0 +1,48 @@
+{
+  "resources": {
+  "paymentDetails": "Zahlungsdetails",
+  "paymentMethod": "Zahlungsart",
+  "paypalText": "Die sicherere und einfachere Zahlungsmöglichkeit.", 
+  "paymentDetailsError": "Stellen Sie sicher, dass Sie alle erforderlichen Felder ausgefüllt und alle ungültigen Einträge korrigiert haben.",
+  "paymentMethodNotAvilable": "(Diese Zahlungsoption kann nicht für geplante Bestellungen verwendet werden.)",
+  
+  "nameOnCardLabel": "Karteninhaber",
+  "nameOnCardPlaceholder": "Karteninhaber",
+  "nameOnCardRequired": "Karteninhaber ist erforderlich.",
+  "nameOnCardInvalid": "Karteninhaber ist ungültig.",
+  
+  "cardTypeLabel": "Kartentyp",
+  "cardTypePlaceholder": "Kartentyp",
+  "cardTypeRequired": "Kartentyp ist erforderlich.",
+  "cardTypeInvalid": "Kartentyp ist ungültig.",
+  
+  "cardNumberLabel": "Kartennummer",
+  "cardNumberPlaceholder": "Kartennummer",
+  "cardNumberRequired": "Kartennummer ist erforderlich.",
+  "cardNumberMaxLength":"Ungültige Eingabe. Geben Sie maximal __maxLength__ Zeichen ein.",
+  "cardNumberInvalid": "Ungültige Kartennummer. Versuchen Sie es erneut.",
+  
+  "cardCVVLabel": "Kartenprüfnummer",
+  "cardCVVPlaceholder": "Kartenprüfnummer",
+  "cardCVVRequired": "Kartenprüfnummer ist erforderlich.",
+  "cardCVVInvalid": "Kartenprüfnummer ist ungültig.",
+  "cardCVVWhatsThis": "Was ist das?",
+  "cardCVVPopupTitle": "Kartenprüfnummer",
+  "cardCVVPopupText": "Die letzten drei Ziffern auf dem Unterschriftsstreifen Ihrer Karte.",
+  "cardCVVNumberInvalid": "Ungültige Eingabe. Geben Sie nur Zahlen ein.",
+  "cardCVVNumberMaxLength": "Ungültige Eingabe. Überschreiten Sie nicht das zulässige Maximum von vier Zeichen.",
+  "cardCVVNumberMinLength": "Ungültige Eingabe. Geben Sie mindestens drei Zeichen ein.",
+  
+  "endMonthLabel": "Gültig bis (Monat)",
+  "endMonthPlaceholder": "Gültig bis (Monat)",
+  "endMonthRequired": "Der Ablaufmonat für die Karte ist erforderlich.",
+  "endMonthInvalid": "Ablaufmonat/-jahr ist ungültig. Versuchen Sie es erneut.",
+  
+  "endYearLabel": "Gültig bis (Jahr)",
+  "endYearPlaceholder": "Gültig bis (Jahr)",
+  "endYearRequired": "Das Ablaufjahr für die Karte ist erforderlich.",
+  "endYearInvalid": "Ablaufmonat/-jahr ist ungültig. Versuchen Sie es erneut.",
+  
+  "monthDropDownFormatter": "__number__ - __month__"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "resources": {
+    "addToSpaceText": "Dodaj na popis želja",
+    "spaceSelectionText": "Odaberite popis želja",
+    "spaceCommentText": "Unos komentara...",
+    "spaceNameText": "Naziv",
+    "buttonSpaceAdd": "Dodaj",
+    "buttonSpaceCancel": "Odustani",
+    "mySpacesGroupText": "Moji popisi želja",
+    "joinedSpacesGroupText": "Pridruženi popisi želja",
+    "createNewSpaceOptText": "Novi popis želja...",
+    "addToSpaceSuccessMsg" : "Uspješno!  __socialproduct__ dodan je u __socialspacename__.",
+    "addToSpaceProductUpdatedSuccessMsg" : "Stavka se već nalazi na popisu želja. Ažurirali smo datum dodavanja.",
+    "addToSpaceProductViewWishListMsg" : "  Pregledaj __wishlistname__",
+    "spaceAddProductError" : "Došlo je do pogreške tijekom pokušaja objavljivanja proizvoda u popisu želja. Pokušajte osvježiti stranicu.",
+    "uniqueNameMsg": "Naziv popisa želja mora biti jedinstven.",
+    "emptyNameMsg": "Naziv ne smije biti prazan",
+    "privacySettingsLabel": "Postavke privatnosti",
+    "privacySettingsDescription": "Ako prijatelje pozovete u privatni popis želja, to će privatnost postaviti na Grupno. Slanje privatnog ili grupnog popisa želja putem e-pošte ili njegovo dijeljenje putem društvene mreže pretvorit će ga kao dijeljeni popis želja.",
+    "privacySharedLabel": "Sve osobe koje su dobile vezu mogu pregledati popis. Samo vi i osobe koje pozovete mogu pregledati i komentirati popis te dodati stavke.",
+    "privacyGroupLabel": "Samo vi i osobe koje pozovete mogu pregledati i komentirati popis te dodati stavke.",
+    "privacyPrivateLabel": "Samo vi možete pregledati popis i dodati stavke.",
+    "spaceAccessPrivateIconTxt" : "Privatno",
+    "spaceAccessSharedIconTxt" : "Dijeljeno",
+    "spaceAccessGroupIconTxt" : "Grupno",
+    "spaceCreateMaxSpacesMsg" : "Prilikom stvaranja popisa želja došlo je do problema. Prekoračili ste ograničenje broja popisa želja. Izbrišite postojeći popis želja prije no što stvorite novi.",
+    "productAddMaxProductsMsg" : "Prilikom dodavanja proizvoda na popis želja došlo je do problema. Prekoračili ste ograničenje za broj postova na popisu želja. Izbrišite postojeći proizvod s odredišnog popisa želja prije no što dodate novi."
+  }
+}

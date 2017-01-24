@@ -1,0 +1,19 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "checkoutpaymentdetails",
+  "imports": [
+    "order",
+    "payment"
+  ],
+  "javascript": "checkout-payment-details",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Payment Details",
+  "pageTypes": ["checkout"],
+  "source": 100,
+  "version": 5,
+  "widgetFamily": "checkoutPaymentDetails",
+  "widgetType": "checkoutPaymentDetails"
+}

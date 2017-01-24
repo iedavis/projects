@@ -1,0 +1,13 @@
+{
+  "resources": {
+    "orderSummaryText": "สรุปใบสั่ง", 
+    "orderDoesNotExist": "ไม่มีใบสั่ง", 
+    "subTotalText": "ยอดรวมย่อย:", 
+    "salesTaxText": "ภาษีขาย:", 
+    "orderTotalText": "ยอดรวมในใบสั่ง:", 
+    "continueShoppingText": "ดำเนินการซื้อสินค้าต่อ",
+    "delimiter": ":",
+    "includingTaxText": "(รวมภาษี)",
+    "totalExcludingTaxText": "ยอดรวม (ไม่รวมภาษี): "
+  }
+}

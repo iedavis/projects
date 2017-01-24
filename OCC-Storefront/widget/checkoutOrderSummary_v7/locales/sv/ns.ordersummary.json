@@ -1,0 +1,28 @@
+{
+  "resources": {
+    "orderSummaryText": "Orderöversikt",
+    "subtotalText": "Delsumma: ",
+    "shippingOptionsText": "Leveransalternativ",
+    "salesTaxText": "Moms: ",
+    "orderTotalText": "Ordersumma: ",
+    "placeOrderText": "Beställ",
+    "scheduleOrderText": "Schemalägg order",
+    "noShippingText": "Ingen frakt",
+    "shippingText": "Frakt: __displayName__",    
+    "applicableTaxesText": "Tillämplig moms beräknas vid kassan.",
+    "paymentOptionsText": "Betalningsalternativ",
+    "checkoutText": "Kassan",
+    "noShippingSelectedText": "Inget leveranssätt har valts.",
+    "shippingAddressRequired": "Ange en leveransadress",
+    "noShippingMethodsText": "Det finns inga tillgängliga leveranssätt för destinationsadressen.",
+    "noShippingMethodsForAddressText": "Det finns inga tillgängliga leveranssätt för den valda dressen",
+    "checkoutErrorMsg": "Kontrollera att du har fyllt i alla obligatoriska fält och korrigerat eventuella ogiltiga poster.",
+    "rePricingText":"Prisändring",
+    "removeLinkText":"ta bort",
+    "paymentMessage": "Nästa fönster som visas är eventuellt betalkortsverifieringen via kortutfärdaren.",
+    "includingTaxText": "(inklusive moms)",
+    "totalExcludingTaxText": "Summa (exklusive moms): ",
+    "paymentMethodNotAvilable": "(Det här betalningsalternativet kan inte användas för schemalagda order.)",
+    "selectShippingMethodText": "Välj leveranssätt"
+  }
+}

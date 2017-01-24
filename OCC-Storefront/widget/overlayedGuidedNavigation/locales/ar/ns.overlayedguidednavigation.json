@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "seeLessText" : "عرض الأقل...",
+    "seeMoreText" : "عرض المزيد...",
+    "plus" : "+",
+    "minus" : "-",
+    "refineByText" : "تنقيح حسب",
+    "clearAllRefinementsText" : "مسح كل عمليات التنقيح",
+    "guidedNavigationHeader" : "عنوان التنقل الموجه",
+    "doneText" : "تم",
+    "expandText" : "توسيع",
+    "collapseText" : "طي",
+    "refinementValueText" : "__dataLabel__ (__dataCount__)",
+    "overlayedGuidedNavigationLoadedText" : "تم تحميل التنقل الموجه الذي تم إحلاله"
+  }
+}

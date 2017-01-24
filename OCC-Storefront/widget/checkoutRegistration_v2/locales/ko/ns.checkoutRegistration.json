@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "체크아웃",
+    "emailAddressText" : "전자메일 주소",
+    "firstNameText" : "이름",
+    "lastNameText" : "성",
+    "passwordText" : "비밀번호",
+    "confirmPasswordText" : "비밀번호 확인",
+    "checkoutAsGuestText" : "게스트로 체크아웃",
+    "loginToAccountText" : "계정에 로그인",
+    "rememberMeText" : "계정을 생성합니다.",
+    "marketingMailsText" : "전자메일 업데이트를 가져옵니다.",
+    "checkoutErrorMsg" : "모든 필수 필드에 내용을 입력하고 부적합한 항목을 수정했는지 확인하십시오.",
+    "buttonCancel": "취소",
+    "buttonLogin": "로그인",
+    "checkoutOption": "체크아웃 옵션을 선택하십시오.",
+    "buttonLogout": "로그아웃",
+    "welcomeMessage": "다시 방문해 주셔서 감사합니다.",
+    "registrationMessageText":"계정을 생성하면 더욱 빠르게 쇼핑하고 실시간으로 현재 주문의 진행 상태 및 이전 주문의 상태를 확인할 수 있습니다.",
+    "userSessionExpiredErrorMsg" : "비활동성으로 인해 체크아웃 세션이 만료되었습니다. 체크아웃을 재시작하십시오."
+  }
+}

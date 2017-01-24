@@ -1,0 +1,179 @@
+{
+  "defaultPage": false,
+  "regions": [
+    {
+      "width": 12,
+      "type": "header",
+      "widgets": [
+        "notificationsInst",
+        "headerWidgetInst"
+      ],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["megaMenuInst_v3"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "body",
+      "widgets": ["privacyPageWebContentInst"],
+      "structure": "flat",
+      "height": 300
+    },
+    {
+      "width": 12,
+      "type": "footer",
+      "widgets": ["footerInst"],
+      "structure": "flat",
+      "height": 300
+    }
+  ],
+  "pageType": "article",
+  "isLayoutDisplayable": true,
+  "pageAddress": "privacy",
+  "displayName": "Privacy Layout",
+  "translations": [
+    {
+      "name": "สิทธิส่วนตัว",
+      "language": "th"
+    },
+    {
+      "name": "Privacidade",
+      "language": "pt_BR"
+    },
+    {
+      "name": "隐私",
+      "language": "zh_CN"
+    },
+    {
+      "name": "Конфіденцій.",
+      "language": "uk"
+    },
+    {
+      "name": "Поверит.",
+      "language": "bg"
+    },
+    {
+      "name": "Privaatsus",
+      "language": "et"
+    },
+    {
+      "name": "Privātums",
+      "language": "lv"
+    },
+    {
+      "name": "Privatumas",
+      "language": "lt"
+    },
+    {
+      "name": "Personvern",
+      "language": "no"
+    },
+    {
+      "name": "Confidenţ.",
+      "language": "ro"
+    },
+    {
+      "name": "Confident.",
+      "language": "fr_CA"
+    },
+    {
+      "name": "プライバシ",
+      "language": "ja"
+    },
+    {
+      "name": "Zasebnost",
+      "language": "sl"
+    },
+    {
+      "name": "Конфиденц.",
+      "language": "ru"
+    },
+    {
+      "name": "Privatnost",
+      "language": "hr"
+    },
+    {
+      "name": "Özel",
+      "language": "tr"
+    },
+    {
+      "name": "Prywatność",
+      "language": "pl"
+    },
+    {
+      "name": "隱私權",
+      "language": "zh_TW"
+    },
+    {
+      "name": "개인 정보 보호",
+      "language": "ko"
+    },
+    {
+      "name": "Soukromí",
+      "language": "cs"
+    },
+    {
+      "name": "Adatvédelem",
+      "language": "hu"
+    },
+    {
+      "name": "Απόρρητο",
+      "language": "el"
+    },
+    {
+      "name": "Beskyttelse",
+      "language": "da"
+    },
+    {
+      "name": "Privacy",
+      "language": "en"
+    },
+    {
+      "name": "Приватност",
+      "language": "sr"
+    },
+    {
+      "name": "Datenschutz",
+      "language": "de"
+    },
+    {
+      "name": "الخصوصية",
+      "language": "ar"
+    },
+    {
+      "name": "Privacidad",
+      "language": "es"
+    },
+    {
+      "name": "Vie privée",
+      "language": "fr"
+    },
+    {
+      "name": "Privacy",
+      "language": "it"
+    },
+    {
+      "name": "Privacy",
+      "language": "nl"
+    },
+    {
+      "name": "Sekretess",
+      "language": "sv"
+    },
+    {
+      "name": "Privacidade",
+      "language": "pt"
+    },
+    {
+      "name": "Tietosuoja",
+      "language": "fi"
+    }
+  ],
+  "layoutViewports": "xs,sm,md,lg"
+}

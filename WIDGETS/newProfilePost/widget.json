@@ -1,0 +1,11 @@
+{
+  "name": "New Profile Post",
+  "javascript": "profilePost",
+  "global": true,
+  "globalEnabled": true,
+  "jsEditable": true,
+  "editableTemplate": false,
+  "config": {
+  	"postUrl": ""
+  }
+}

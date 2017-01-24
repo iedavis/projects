@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "previousImageText" : "Предишни изображения",
+    "nextImageText" : "Следващи изображения",
+    "onSaleText": "Разпродажба",
+    "salePriceText": "Продажна цена",
+    "listPriceText": "Каталожна цена",
+    "relatedProductsText": "Свързани продукти"
+  }
+}

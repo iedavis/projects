@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["giftCard"],
+  "tag": "gift-card-fields",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ฟิลด์บัตรของขวัญ"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Número Cartão-presente"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "礼品卡字段"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Поля подарунк. картки"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Пол. за вауч.за подарък"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Kinkekaardi väljad"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Dāvanu kartes lauki"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Dovanų kortelės laukai"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Gavekortfelt"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Câmpuri pt. card cadou"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Champs de carte-cadeau"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "ギフト・カード・フィールド"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Polja darilne kartice"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Поля подарочной карты"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Polja darovne kartice"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Hediye Kartı Alanları"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Pola karty podar."
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "禮品卡欄位"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "기프트 카드 필드"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Pole dárkové karty"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Ajándékkártya mezői"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Πεδία δωροκάρτας"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Gavekortfelter"
+    },
+    {
+      "description": "Gift Card Fields",
+      "language": "en",
+      "title": "Gift Card Fields"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Поља за поклон картице"
+    },
+    {
+      "description": "",
+      "language": "de",
+      "title": "Geschenkkartenfelder"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Campos tarjeta regalo"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Champs de carte-cadeau"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Campi carta regalo"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Cadeaubonvelden"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Presentkortsfält"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Campos Cartão Oferta"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Lahjakorttikentät"
+    }
+  ],
+  "type": "fragment",
+  "version": 2
+}

@@ -1,0 +1,16 @@
+{
+  "config": {},
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "spacesettingsheader",
+  "imports": [],
+  "javascript": "space-settings-header",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Wish List Settings Header",
+  "pageTypes": ["swmSettings"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "spaceSettingsHeaderWidget",
+  "widgetType": "spaceSettingsHeaderWidget"
+}

@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "Cont propriu",
+    "orderHistoryText" : "Istoric comenzi",
+    "backToMyAccount" : "<< Înapoi la contul propriu",
+    "historyHeaderOrderDate": "Data comenzii",    
+    "historyHeaderOrderNumber": "Nr. comandă",
+    "historyHeaderOrderStatus": "Stare comandă",
+    "historyHeaderOrderTotal": "Total comandă",
+    "historyHeaderOrderDetails": "Detalii comandă",
+    "listingHeaderScheduledOrderId": "ID programare",
+    "orderDetails": "Detalii"
+  }
+}

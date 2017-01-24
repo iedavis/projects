@@ -1,0 +1,25 @@
+{
+  "resources": {
+    "orderSummaryText": "订单摘要",
+    "subtotalText": "小计：",
+    "discountText": "折扣*：",
+    "shippingOptionsText": "配送选项",
+    "changeText": "更改",
+    "salesTaxText": "销售税：",
+    "orderTotalText": "订单合计：",
+    "placeOrderText": "下订单",
+    "noShippingText": "无配送",
+    "applicableTaxesText": "将在结账时计算适用的税。",
+    "paymentOptionsText": "付款选项",
+    "checkoutText": "结账",
+    "noShippingSelectedText": "未选择配送方式。",
+    "shippingAddressRequired":"请输入收货地址",
+    "shippingText": "配送：__displayName__",
+    "noShippingMethodsText": "无可用配送方式",
+    "checkoutErrorMsg": "请确保填写了所有必填字段并更正了所有无效输入。",
+    "removeLinkText": "删除",
+    "rePricingText":"重新定价",
+    "totalExcludingTaxText": "合计（不含税）：",
+    "includingTaxText": "（含税）"
+  }
+}

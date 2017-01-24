@@ -1,0 +1,33 @@
+{
+  "resources": {
+    "101": "(101) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "102": "(102) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "104": "(104) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "110": "(110) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "150": "(150) Prilikom uspostavljanja kontakta s bankom koja je izdala vašu kreditnu karticu došlo je do tehničkog problema. Pokušajte ponovo ili upotrijebite drugu karticu.",
+    "151": "(151) Došlo je do tehničkog problema. Pokušajte ponovo kasnije.",
+    "152": "(152) Došlo je do tehničkog problema. Pokušajte ponovo kasnije.",
+    "200": "(200) Navedena adresa za naplatu ne odgovara adresi koja je evidentirana za vašu kreditnu karticu. Provjerite adresu i pokušajte ponovo.",
+    "201": "(201) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "202": "(202) Provjerite datum isteka kartice i pokušajte ponovo.",
+    "203": "(203) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "204": "(204) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "205": "(205) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "207": "(207) Prilikom uspostavljanja kontakta s bankom koja je izdala vašu kreditnu karticu došlo je do tehničkog problema. Pokušajte ponovo ili upotrijebite drugu karticu.",
+    "208": "(208) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "209": "(209) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "210": "(210) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "211": "(211) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "221": "(221) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "230": "(230) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "231": "(231) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "232": "(232) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "233": "(233) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "234": "(234) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "520": "(520) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "1000": "(1000) Kreditna je kartica odbijena, upotrijebite drugu karticu.",
+    "476": "(576) Kreditna kartica nije odobrena za upotrebu, upotrijebite drugu karticu.",
+    "paymentErrorText":"Došlo je do tehničkog problema. Pokušajte ponovo kasnije.",
+    "processingText": "Obrada je u tijeku, pričekajte. Nemojte pritiskati gumbe za osvježavanje i povratak jer to može prekinuti ili zaustaviti transakciju."
+  }
+}

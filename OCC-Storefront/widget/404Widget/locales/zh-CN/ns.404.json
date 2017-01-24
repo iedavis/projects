@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "找不到页面",
+    "error404" : "错误 404：",
+    "pageNotFoundText" : "您输入的电子邮件地址可能不正确，或者页面已更新或删除。",
+    "lnkHome" : "主页",
+    "lnkBack" : "返回"            
+  }
+}

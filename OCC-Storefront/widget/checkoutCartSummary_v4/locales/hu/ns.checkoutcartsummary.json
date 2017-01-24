@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Kosár összesítése",
+    "quantityText": "Mennyiség:",
+    "colorText": "Szín:",
+    "sizeText": "Méret:",
+    "instockText": "Készleten",
+    "outofstockText": "Nincs készleten",
+    "estimiatedShippingText": "Szállítás becsült dátuma: ",
+    "buttonEditCartSummary": "Szerkesztés",
+    "editCartText": "Kosár szerkesztése",
+    "seeAllProducts": "Az összes termék megtekintése",
+    "showAll": "Az összes megjelenítése",
+    "cartSummaryItemLimitText": "Az első __noOfItems__ kosárban lévő cikk megjelenítése"
+  }
+}

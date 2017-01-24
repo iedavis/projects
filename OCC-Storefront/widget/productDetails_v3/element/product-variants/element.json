@@ -1,0 +1,177 @@
+{
+  "availableToAllWidgets": false,
+  "configOptions": [],
+  "global": false,
+  "inline": false,
+  "supportedWidgetType": ["productDetails"],
+  "tag": "product-variants",
+  "translations": [
+    {
+      "description": "",
+      "language": "th",
+      "title": "ตัวเลือกตัวแปรผัน"
+    },
+    {
+      "description": "",
+      "language": "pt_BR",
+      "title": "Opções de variante"
+    },
+    {
+      "description": "",
+      "language": "zh_CN",
+      "title": "款式选项"
+    },
+    {
+      "description": "",
+      "language": "uk",
+      "title": "Параметри варіанта"
+    },
+    {
+      "description": "",
+      "language": "bg",
+      "title": "Опции на вариант"
+    },
+    {
+      "description": "",
+      "language": "et",
+      "title": "Versioonivalikud"
+    },
+    {
+      "description": "",
+      "language": "lv",
+      "title": "Variantu opcijas"
+    },
+    {
+      "description": "",
+      "language": "lt",
+      "title": "Varianto parinktys"
+    },
+    {
+      "description": "",
+      "language": "no",
+      "title": "Variantvalg"
+    },
+    {
+      "description": "",
+      "language": "ro",
+      "title": "Opţiuni variantă"
+    },
+    {
+      "description": "",
+      "language": "fr_CA",
+      "title": "Options de variante"
+    },
+    {
+      "description": "",
+      "language": "ja",
+      "title": "バリアント・オプション"
+    },
+    {
+      "description": "",
+      "language": "sl",
+      "title": "Možnosti variant"
+    },
+    {
+      "description": "",
+      "language": "ru",
+      "title": "Параметры вариантов"
+    },
+    {
+      "description": "",
+      "language": "hr",
+      "title": "Opcije varijante"
+    },
+    {
+      "description": "",
+      "language": "tr",
+      "title": "Varyant Seçenekleri"
+    },
+    {
+      "description": "",
+      "language": "pl",
+      "title": "Opcje wariantu"
+    },
+    {
+      "description": "",
+      "language": "zh_TW",
+      "title": "變異選項"
+    },
+    {
+      "description": "",
+      "language": "ko",
+      "title": "변형 옵션"
+    },
+    {
+      "description": "",
+      "language": "cs",
+      "title": "Volby varianty"
+    },
+    {
+      "description": "",
+      "language": "hu",
+      "title": "Változat beállításai"
+    },
+    {
+      "description": "",
+      "language": "el",
+      "title": "Επιλογές παραλλαγής"
+    },
+    {
+      "description": "",
+      "language": "da",
+      "title": "Variantindstillinger"
+    },
+    {
+      "description": "Product variants will be presented here",
+      "language": "en",
+      "title": "Variant Options"
+    },
+    {
+      "description": "",
+      "language": "sr",
+      "title": "Опције варијанти"
+    },
+    {
+      "description": "[PX][Product variants will be presented here ä]",
+      "language": "de",
+      "title": "Variantenoptionen"
+    },
+    {
+      "description": "",
+      "language": "es",
+      "title": "Opciones de variante"
+    },
+    {
+      "description": "",
+      "language": "fr",
+      "title": "Options de variante"
+    },
+    {
+      "description": "",
+      "language": "it",
+      "title": "Opzioni variante"
+    },
+    {
+      "description": "",
+      "language": "nl",
+      "title": "Variantopties"
+    },
+    {
+      "description": "",
+      "language": "sv",
+      "title": "Variantalternativ"
+    },
+    {
+      "description": "",
+      "language": "pt",
+      "title": "Opções de Variante"
+    },
+    {
+      "description": "",
+      "language": "fi",
+      "title": "Muunnoksen vaihtoehdot"
+    }
+  ],
+  "type": "fragment",
+  "version": 3
+}

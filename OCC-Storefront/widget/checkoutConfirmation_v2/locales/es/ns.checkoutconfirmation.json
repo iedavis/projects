@@ -1,0 +1,27 @@
+{
+  "resources": {
+    "orderConfirmationText": "Confirmación de orden", 
+    "orderDoesNotExist": "La orden no existe.", 
+    "thankyouMsg": "Gracias por su orden del __orderDate__ a las __orderTime__.", 
+    "processingMsg": "Se está procesando la orden ahora.",
+    "pendingMsg": "Gracias, la orden se ha recibido y el pago está pendiente. Una vez aprobado el pago, se procesará la orden.",
+    "orderNumberMsg": "El número de orden es __orderNumber__.", 
+    "emailMsg": "Se ha enviado un correo electrónico de confirmación de la orden a __emailAddress__ con los siguientes detalles de la orden.", 
+    "yourOrderText": "Su orden", 
+    "itemText": "Artículo", 
+    "quantityText": "Cantidad", 
+    "itemTotalText": "Total de artículos", 
+    "shippingAddressAndMethodText": "Método y dirección de envío", 
+    "shipToText": "Destino de envío:", 
+    "shippingMethodText": "Método de envío:", 
+    "paymentDetailsText": "Detalles de pago", 
+    "cardTypeText": "Tipo de tarjeta:", 
+    "cardNumberText": "Número de tarjeta:", 
+    "billingAddressText": "Dirección de facturación:",
+    "loginSuccessText": "Se ha creado la cuenta. Gracias por registrarse.",
+    "loginFailureText": "Error: se ha procesado su orden pero se ha producido un error al crear la cuenta. Vuelva a intentarlo.",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__"
+  }
+}

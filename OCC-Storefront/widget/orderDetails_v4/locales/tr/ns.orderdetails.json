@@ -1,0 +1,31 @@
+{
+  "resources": {
+    "myOrders" : "Siparişlerim",
+    "backToMyOrdersLink" : "<< Siparişlerime Dön",
+    "orderDetailsText": "Sipariş Detayları",
+    "orderDateText": "Sipariş Tarihi:",
+    "orderNumberText": "Sipariş Numarası:",
+    "orderStatusText": "Sipariş Statüsü:",
+    "quoteExpiryText": "Fiyat Teklifi Geçerlilik Bitişi:",
+    "scheduledOrderName": "Çizelge Adı:",
+    "shippingAddressAndMethodText": "Sevkiyat Adresi ve Yöntemi", 
+    "shippingAddressText": "Sevk Varış Yeri:",
+    "noShippingAddressText" : "Kullanılabilir Sevk Adresi Yok", 
+    "shippingMethodText": "Sevk Yöntemi:",
+    "shippingText": "Standart Sevkiyat:",
+    "salesTaxText": "Satış Vergisi:",
+    "orderTotalText": "Sipariş Toplamı:",
+    "includingTaxText": "(vergi dahil)",
+    "totalExcludingTaxText": "Toplam (vergi hariç): ",
+    "fullName": "__firstName__ __lastName__",
+    "cityStatePostalCode": "__city__, __state__. __postalCode__",
+    "cityPostalCode": "__city__. __postalCode__",
+    "address1": "__address1__,",
+    "address2": "__address2__,",
+    "orderCouponDisplayText": "* __description__ - __code__",
+    "shippingMethodValueText": "__shippingMethod__:",
+    "trackingNumbersText": "İzleme Numaraları:",
+    "trackingReferenceReaderText": "__carrierName__ izleme Referansı __trackingReference__",
+    "scheduledOrderPriceListGroupText": "Çizelgelenen sipariş fiyat listesi uyarınca oluşturuldu '__priceListGroup__'"
+  } 
+}

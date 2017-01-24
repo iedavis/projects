@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Vai iekļaut ieplānotā pasūtījuma ID?",
+	"includeScheduledHelpText" : "Atlasiet, lai iekļautu ieplānotā pasūtījuma ID pasūtījumu vēstures tabulā"
+  }
+}

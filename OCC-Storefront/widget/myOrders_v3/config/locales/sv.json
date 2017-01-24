@@ -1,0 +1,6 @@
+{
+  "resources": {
+	"includeScheduledTextLabel" : "Inkludera id för schemalagd order?",
+	"includeScheduledHelpText" : "Välj detta om du vill inkludera id:t för schemalagd order i tabellen över orderhistorik"
+  }
+}

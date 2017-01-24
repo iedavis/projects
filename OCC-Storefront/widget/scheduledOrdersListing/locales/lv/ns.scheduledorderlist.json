@@ -1,0 +1,20 @@
+{
+  "resources": {
+    "scheduledOrderListText": "Ieplānotie pasūtījumi",
+    "backToMyAccount" : "<< Atpakaļ uz manu kontu",
+    "scheduledOrderName" : "Nosaukums",
+    "frequency": "Biežums",    
+    "scheduledOrderId": "ID",
+    "scheduledOrderStatus": "Statuss",
+    "nextShipDate": "Nākamais pasūtījums",
+    "lastScheduledRun": "Pēdējais pasūtījums",
+    "scheduledOrderDetails": "Pasūtījuma dati",
+    "orderDetails": "Informācija",
+    "action": "Darbība",
+    "createdDate":"Izveidošanas datums",
+    "editOrder": "Rediģēt",
+    "deleteOrder": "Dzēst",
+    "deleteSuccessMsg":"Sekmīgi izdzēsts",
+    "myAccount" : "Mans konts"
+  }
+}

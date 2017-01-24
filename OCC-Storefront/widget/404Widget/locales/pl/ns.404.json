@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "title" : "Nie znaleziono strony",
+    "error404" : "Błąd 404: ",
+    "pageNotFoundText" : "Wprowadzony adres może być niepoprawny lub strona została zaktualizowana lub skasowana.",
+    "lnkHome" : "Strona startowa",
+    "lnkBack" : "Wstecz"            
+  }
+}

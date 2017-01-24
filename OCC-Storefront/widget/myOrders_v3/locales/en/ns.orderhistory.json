@@ -1,0 +1,14 @@
+{
+  "resources": {
+    "myAccount" : "My Account",
+    "orderHistoryText" : "Order History",
+    "backToMyAccount" : "<< Back to My Account",
+    "historyHeaderOrderDate": "Order Date",    
+    "historyHeaderOrderNumber": "Order Number",
+    "historyHeaderOrderStatus": "Order Status",
+    "historyHeaderOrderTotal": "Order Total",
+    "historyHeaderOrderDetails": "Order Details",
+    "listingHeaderScheduledOrderId": "Schedule ID",
+    "orderDetails": "Details"
+  }
+}

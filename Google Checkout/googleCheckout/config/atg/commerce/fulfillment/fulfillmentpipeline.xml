@@ -1,0 +1,42 @@
+<pipelinemanager>
+	<!-- The OrderFulfiller completes order after is it over -->
+	<pipelinechain name="completeOrder" 
+		headlink="sendChargeOrderForGoogleOrder" xml-combine="replace" >
+		<pipelinelink name="sendChargeOrderForGoogleOrder" 
+			transaction="TX_MANDATORY">
+			<processor 
+				jndi="/atg/commerce/fulfillment/processor/SendGoogleOrderChargeMessageProcessor"/>
+			<transition link="settleOrder" returnvalue="1"/>
+		</pipelinelink>
+		<pipelinelink name="settleOrder" transaction="TX_MANDATORY">
+			<processor jndi="/atg/commerce/fulfillment/processor/SettleOrder"/>
+			<transition link="finishOrder" returnvalue="1"/>
+		</pipelinelink>
+		<pipelinelink name="finishOrder" transaction="TX_MANDATORY">
+			<processor jndi="/atg/commerce/fulfillment/processor/FinishOrder"/>
+		</pipelinelink>
+	</pipelinechain>
+	
+	
+	<!-- The OrderFulfiller processes a result of a paymentGroupUpdate modification -->
+	<pipelinechain name="handlePaymentGroupUpdateModification" 
+		headlink="updatePaymentGroupsFromGoogle" xml-combine="replace">
+		<pipelinelink name="updatePaymentGroupsFromGoogle" 
+			transaction="TX_MANDATORY">
+			<processor 
+				jndi="/atg/commerce/fulfillment/processor/UpdatePaymentGroupsFromGoogle"/>
+			<transition link="finishOrder2" returnvalue="1"/>
+		</pipelinelink>
+		<!--
+		<pipelinelink name="markGoogleOrderDelivered" 
+			transaction="TX_MANDATORY">
+			<processor 
+				jndi="/atg/commerce/fulfillment/processor/ChangeGoogleOrderStateToDelivered"/>
+			<transition link="finishOrder2" returnvalue="1"/>
+		</pipelinelink>
+		-->
+		<pipelinelink name="finishOrder2" transaction="TX_MANDATORY">
+			<processor jndi="/atg/commerce/fulfillment/processor/FinishOrder"/>
+		</pipelinelink>
+	</pipelinechain>
+</pipelinemanager>

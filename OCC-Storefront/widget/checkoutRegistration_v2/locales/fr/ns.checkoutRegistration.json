@@ -1,0 +1,22 @@
+{
+  "resources": {
+    "checkoutRegistrationText" : "Valider la commande",
+    "emailAddressText" : "Adresse électronique",
+    "firstNameText" : "Prénom",
+    "lastNameText" : "Nom",
+    "passwordText" : "Mot de passe",
+    "confirmPasswordText" : "Confirmer le mot de passe",
+    "checkoutAsGuestText" : "Valider la commande en tant qu'invité",
+    "loginToAccountText" : "Connexion à votre compte",
+    "rememberMeText" : "Je souhaite créer un compte.",
+    "marketingMailsText" : "Je souhaite être informé par courriel.",
+    "checkoutErrorMsg" : "Assurez-vous que vous avez renseigné tous les champs obligatoires et corrigé les entrées non valides.",
+    "buttonCancel": "Annuler",
+    "buttonLogin": "Connexion",
+    "checkoutOption": "Choisissez votre option de validation de commande.",
+    "buttonLogout": "Déconnexion",
+    "welcomeMessage": "Bienvenue !",
+    "registrationMessageText":"En créant un compte, vous pouvez procéder à vos achats plus rapidement, vous informer de l'avancement de votre commande en cours et vérifier le statut de commandes précédentes.",
+    "userSessionExpiredErrorMsg" : "Votre session de validation a expiré du fait d'une inactivité. Relancez la validation."
+  }
+}

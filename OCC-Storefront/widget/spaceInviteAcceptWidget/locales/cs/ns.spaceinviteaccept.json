@@ -1,0 +1,10 @@
+{
+  "resources": {
+    "invitationAccepted" : "Vítáme vás, __userdisplayname__.",
+    "invitationAlreadyAccepted" : "Pozvání již bylo přijato.",
+    "spaceNotFound" : "Seznam přání, který chcete použít, nebyl nalezen.",
+    "invitationExpiredError" : "Platnost vašeho pozvání vypršela. Chcete-li se k němu připojit, kontaktujte vlastníka seznamu přání a požádejte jej, aby vás pozval znovu.",
+    "memberJoinError" : "Došlo k chybě pozvání.",
+    "pleaseWaitProcessingMsg" : "Počkejte, až zpracujeme vaše pozvání."
+  }
+}

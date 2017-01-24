@@ -1,0 +1,17 @@
+{
+  "config": {},
+  "defaultLayout": "paymentGatewayOptionsDefaultLayout",
+  "global": false,
+  "globalEnabled": false,
+  "i18nresources": "paymentGatewayOptions",
+  "imports": ["order"],
+  "javascript": "payment-gateway-options",
+  "jsEditable": false,
+  "minWidth": 1,
+  "name": "Payment Gateway Options",
+  "pageTypes": ["checkout"],
+  "source": 100,
+  "version": 1,
+  "widgetFamily": "paymentGatewayOptions",
+  "widgetType": "paymentGatewayOptions"
+}

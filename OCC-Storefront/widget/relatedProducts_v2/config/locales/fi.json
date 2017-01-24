@@ -1,0 +1,9 @@
+{
+  "resources": {
+    "relatedProductsDisplayTitle": "Näytön määritteet",
+    "numberOfRelatedProductsHelpText": "Syötä karusellissa näytettävien liittyvien tuotteiden määrä",
+    "numberOfRelatedProductsTextLabel": "Liittyvien tuotteiden määrä",
+    "displayNameOfRelatedProductsTextLabel": "Tuotteen nimi",
+    "displayPriceOfRelatedProductsTextLabel": "Hinta"
+  }
+}

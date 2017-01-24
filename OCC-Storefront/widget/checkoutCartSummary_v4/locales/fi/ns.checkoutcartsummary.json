@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "cartSummaryText": "Ostoskorin yhteenveto",
+    "quantityText": "Määrä: ",
+    "colorText": "Väri: ",
+    "sizeText": "Koko: ",
+    "instockText": "Varastossa",
+    "outofstockText": "Loppunut varastosta",
+    "estimiatedShippingText": "Arvioitu lähetys: ",
+    "buttonEditCartSummary": "Muokkaa",
+    "editCartText": "Muokkaa ostoskoria",
+    "seeAllProducts": "Katso kaikki tuotteet",
+    "showAll": "Näytä kaikki",
+    "cartSummaryItemLimitText": "Näytetään ensimmäiset __noOfItems__ ostoskorin nimikettä"
+  }
+}
